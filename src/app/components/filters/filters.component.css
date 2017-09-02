@@ -1,5 +1,22 @@
+:host {
+  width: 100%;
+  display: block;
+}
+
+.search {
+  display: inline-block;
+  margin: 20px 80px;
+}
+
+.search-box {
+  height: 38px;
+  margin-right: 20px;
+  width: 300px;
+}
+
 .filter-list {
   text-align: right;
+  display: inline-block;
 }
 
 .filter-tag {
@@ -15,3 +32,4 @@
   color: #fff;
   background-color: maroon;
 }
+

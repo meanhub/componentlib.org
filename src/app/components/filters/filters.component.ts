@@ -9,9 +9,11 @@ import {ComponentService} from '../../services/component.service';
 export class FiltersComponent implements OnInit {
 
   private frameworks: any[];
+  private searchText: string;
 
   constructor(private componentService: ComponentService) {
     this.changeFilter = this.changeFilter.bind(this);
+    this.searchText = '';
   }
 
   ngOnInit() {
