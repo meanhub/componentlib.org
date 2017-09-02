@@ -13,7 +13,10 @@ export const ANGULAR_COMPONENTS: any[] = [
       stars: 126
     },
     demo: {
-      url: 'http://codepen.io/sachinchoolur/pen/ogxpOZ'
+      repl: 'codepen',
+      url: 'http://codepen.io/sachinchoolur/pen/ogxpOZ',
+      src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
+      title: 'Ladda angular'
     },
     framework: 'angularjs-1.x',
     version: '1.0.1',

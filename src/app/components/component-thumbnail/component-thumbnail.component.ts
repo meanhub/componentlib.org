@@ -7,12 +7,16 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 export class ComponentThumbnailComponent implements OnInit {
 
+  private isCodePen: boolean;
+
   @Input()
   component: any;
 
   constructor() {
+    this.isCodePen = false;
   }
 
   ngOnInit() {
+    this.isCodePen = this.component.demo.repl === 'codepen';
   }
 }

@@ -8,13 +8,15 @@ import { ComponentThumbnailComponent } from './components/component-thumbnail/co
 import { ComponentListComponent } from './components/component-list/component-list.component';
 import { FiltersComponent } from './components/filters/filters.component';
 import {ComponentService} from "./services/component.service";
+import { SafePipe } from './pipes/safe.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     ComponentThumbnailComponent,
     ComponentListComponent,
-    FiltersComponent
+    FiltersComponent,
+    SafePipe
   ],
   imports: [
     BrowserModule,
