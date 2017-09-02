@@ -13,8 +13,16 @@ export class ComponentService {
     return ['AngularJS 1.x', 'Angular 2+', 'React', 'Vue', 'Ember'];
   }
 
-  getAngularComponents(): any[] {
-    const components = ANGULAR_COMPONENTS;
+  getAngularComponents(searchText?: string): any[] {
+    let components;
+
+    if (searchText) {
+      components = ANGULAR_COMPONENTS.filter(c => {
+        return c.keywords.indexOf(searchText) > -1;
+      });
+    } else {
+      components = ANGULAR_COMPONENTS;
+    }
 
     components.forEach(c => {
       if (c.install.packager === 'npm') {

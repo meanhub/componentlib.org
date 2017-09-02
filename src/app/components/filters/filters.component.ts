@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, EventEmitter, OnInit, Output} from '@angular/core';
 import {ComponentService} from '../../services/component.service';
 
 @Component({
@@ -11,9 +11,14 @@ export class FiltersComponent implements OnInit {
   private frameworks: any[];
   private searchText: string;
 
+  @Output()
+  onSearch = new EventEmitter<string>();
+
   constructor(private componentService: ComponentService) {
-    this.changeFilter = this.changeFilter.bind(this);
     this.searchText = '';
+
+    this.changeFilter = this.changeFilter.bind(this);
+    this.searchComponents = this.searchComponents.bind(this);
   }
 
   ngOnInit() {
@@ -33,5 +38,9 @@ export class FiltersComponent implements OnInit {
       f.selected = false;
     });
     this.frameworks[index].selected = true;
+  }
+
+  searchComponents() {
+    this.onSearch.emit(this.searchText);
   }
 }

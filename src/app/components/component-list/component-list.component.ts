@@ -12,10 +12,16 @@ export class ComponentListComponent implements OnInit {
 
   constructor(private componentService: ComponentService) {
     this.components = [];
+
+    this.onSearchTextChanged = this.onSearchTextChanged.bind(this);
   }
 
   ngOnInit() {
     this.components = this.componentService.getAngularComponents();
+  }
+
+  onSearchTextChanged(searchText: string) {
+    this.components = this.componentService.getAngularComponents(searchText);
   }
 
 }
