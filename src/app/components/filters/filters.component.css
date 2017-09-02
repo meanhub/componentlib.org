@@ -1,0 +1,17 @@
+.filter-list {
+  text-align: right;
+}
+
+.filter-tag {
+  border: solid 1px lightgray;
+  border-radius: 5px;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.filter-tag:hover, .filter-tag.selected {
+  color: #fff;
+  background-color: maroon;
+}

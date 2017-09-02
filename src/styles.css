@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+.round-button {
+  border-radius: 999px;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+.round-button:hover {
+  box-shadow: 0 0 1px 4px lightgrey;
+}
