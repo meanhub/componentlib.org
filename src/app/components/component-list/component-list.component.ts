@@ -23,8 +23,14 @@ export class ComponentListComponent implements OnInit {
   onSearchTextChanged(searchCriteria) {
     if (searchCriteria.framework === 'AngularJS 1.x') {
       this.components = this.componentService.getAngularJSComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'Angular 2+') {
+      this.components = this.componentService.getAngularComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'React') {
       this.components = this.componentService.getReactComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'Vue') {
+      this.components = this.componentService.getVueComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'Ember') {
+      this.components = this.componentService.getEmberComponents(searchCriteria.searchText);
     } else {
       this.components = [];
     }
