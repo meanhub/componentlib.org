@@ -17,11 +17,16 @@ export class ComponentListComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.components = this.componentService.getAngularComponents();
+    this.components = this.componentService.getAngularJSComponents();
   }
 
-  onSearchTextChanged(searchText: string) {
-    this.components = this.componentService.getAngularComponents(searchText);
+  onSearchTextChanged(searchCriteria) {
+    if (searchCriteria.framework === 'AngularJS 1.x') {
+      this.components = this.componentService.getAngularJSComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'React') {
+      this.components = this.componentService.getReactComponents(searchCriteria.searchText);
+    } else {
+      this.components = [];
+    }
   }
-
 }

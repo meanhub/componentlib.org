@@ -1,7 +1,8 @@
 import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs/Observable';
 import {Http, Response} from '@angular/http';
-import {ANGULAR_COMPONENTS} from '../data/angular2-components';
+import {ANGULARJS_COMPONENTS} from '../data/angularjs-components';
+import {REACT_COMPONENTS} from '../data/react-components';
 
 @Injectable()
 export class ComponentService {
@@ -13,15 +14,19 @@ export class ComponentService {
     return ['AngularJS 1.x', 'Angular 2+', 'React', 'Vue', 'Ember'];
   }
 
-  getAngularComponents(searchText?: string): any[] {
-    let components;
+  getAngularJSComponents(searchText?: string): any[] {
+    return this.getFilterComponents(ANGULARJS_COMPONENTS, searchText);
+  }
 
+  getReactComponents(searchText?: string): any[] {
+    return this.getFilterComponents(REACT_COMPONENTS, searchText);
+  }
+
+  private getFilterComponents(components: any[], searchText: string) {
     if (searchText) {
-      components = ANGULAR_COMPONENTS.filter(c => {
+      components = components.filter(c => {
         return c.keywords.indexOf(searchText) > -1;
       });
-    } else {
-      components = ANGULAR_COMPONENTS;
     }
 
     components.forEach(c => {

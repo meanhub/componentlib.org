@@ -9,10 +9,11 @@ import {ComponentService} from '../../services/component.service';
 export class FiltersComponent implements OnInit {
 
   private frameworks: any[];
+  private selectedFramework: any;
   private searchText: string;
 
   @Output()
-  onSearch = new EventEmitter<string>();
+  onSearch = new EventEmitter<any>();
 
   constructor(private componentService: ComponentService) {
     this.searchText = '';
@@ -31,6 +32,7 @@ export class FiltersComponent implements OnInit {
       });
 
     this.frameworks[1].selected = true;
+    this.selectedFramework = this.frameworks[1];
   }
 
   changeFilter(index) {
@@ -38,9 +40,18 @@ export class FiltersComponent implements OnInit {
       f.selected = false;
     });
     this.frameworks[index].selected = true;
+    this.selectedFramework = this.frameworks[index];
+
+    this.onSearch.emit({
+      searchText: this.searchText,
+      framework: this.selectedFramework.name
+    });
   }
 
   searchComponents() {
-    this.onSearch.emit(this.searchText);
+    this.onSearch.emit({
+      searchText: this.searchText,
+      framework: this.selectedFramework.name
+    });
   }
 }

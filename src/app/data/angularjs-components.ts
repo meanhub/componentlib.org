@@ -1,4 +1,4 @@
-export const ANGULAR_COMPONENTS: any[] = [
+export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 0,
     name: 'ladda-angular',
@@ -18,7 +18,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -43,7 +43,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -68,7 +68,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -93,7 +93,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -118,7 +118,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -143,7 +143,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -168,7 +168,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -193,7 +193,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -218,7 +218,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -243,7 +243,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -268,7 +268,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -293,7 +293,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -318,7 +318,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -343,7 +343,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -368,7 +368,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'AngularJS 1.x',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -393,7 +393,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'React',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
@@ -418,7 +418,7 @@ export const ANGULAR_COMPONENTS: any[] = [
       src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
       title: 'Ladda angular'
     },
-    framework: 'angularjs-1.x',
+    framework: 'React',
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
