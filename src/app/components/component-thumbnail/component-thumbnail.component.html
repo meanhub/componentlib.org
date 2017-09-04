@@ -8,20 +8,25 @@
     <div class="qr-code-text">Scan QR code with your <a href="https://expo.io/" target="_blank">Expo</a> mobile app</div>
     <img class="qr-code-img" src="../../../assets/qr-codes/{{component.demo.qrCode}}.png">
   </div>
+  <iframe *ngIf="isCustom" height='265' scrolling='yes' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
+  </iframe>
 </div>
 
 <div class="icons">
-  <a *ngIf="component.npmUrl" [attr.href]="component.npmUrl" target="_blank" class="icon-container">
+  <a *ngIf="component.npmUrl" [attr.href]="component.npmUrl" target="_blank" class="icon-container" title="NPM">
     <img src="../../../assets/images/npm.png" class="round-button">
   </a>
-  <a *ngIf="component.bowerUrl" [attr.href]="component.bowerUrl" target="_blank" class="icon-container">
+  <a *ngIf="component.bowerUrl" [attr.href]="component.bowerUrl" target="_blank" class="icon-container" title="Bower">
     <img src="../../../assets/images/bower.png" class="round-button">
   </a>
-  <a *ngIf="component.githubUrl" [attr.href]="component.githubUrl" target="_blank" class="icon-container">
+  <a *ngIf="component.downloadUrl" [attr.href]="component.downloadUrl" target="_blank" class="icon-container" title="Download">
+    <img src="../../../assets/images/download.png" class="round-button">
+  </a>
+  <a *ngIf="component.githubUrl" [attr.href]="component.githubUrl" target="_blank" class="icon-container" title="GitHub">
     <img src="../../../assets/images/gh.png" class="round-button">
   </a>
 </div>
 <div>
   <div class="license">License: {{component.license}}</div>
-  <div class="download">Downloads: {{component.install.downloads}}</div>
+  <div *ngIf="component.install.downloads" class="download">Downloads: {{component.install.downloads}}</div>
 </div>
