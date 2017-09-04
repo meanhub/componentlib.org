@@ -7,7 +7,7 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 export class ComponentThumbnailComponent implements OnInit {
 
-  private isCodePen: boolean;
+  public isCodePen: boolean;
 
   @Input()
   component: any;

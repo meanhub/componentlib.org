@@ -8,9 +8,10 @@ import {ComponentService} from '../../services/component.service';
 })
 export class FiltersComponent implements OnInit {
 
-  private frameworks: any[];
+  public frameworks: any[];
+  public searchText: string;
+
   private selectedFramework: any;
-  private searchText: string;
 
   @Output()
   onSearch = new EventEmitter<any>();
