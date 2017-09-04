@@ -8,15 +8,18 @@ import {Component, Input, OnInit} from '@angular/core';
 export class ComponentThumbnailComponent implements OnInit {
 
   public isCodePen: boolean;
+  public isExpo: boolean;
 
   @Input()
   component: any;
 
   constructor() {
     this.isCodePen = false;
+    this.isExpo = false;
   }
 
   ngOnInit() {
     this.isCodePen = this.component.demo.repl === 'codepen';
+    this.isExpo = this.component.demo.repl === 'expo';
   }
 }

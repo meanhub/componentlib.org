@@ -40,3 +40,18 @@
   font-size: 12px;
   display: inline-block;
 }
+
+.qr-code {
+  display: block;
+}
+
+.qr-code-text {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.qr-code-img {
+  width: 160px;
+  margin: 78px 170px;
+}

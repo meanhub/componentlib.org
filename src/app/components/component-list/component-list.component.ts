@@ -27,6 +27,8 @@ export class ComponentListComponent implements OnInit {
       this.components = this.componentService.getAngularComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'React') {
       this.components = this.componentService.getReactComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'React Native') {
+      this.components = this.componentService.getReactNativeComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'Vue') {
       this.components = this.componentService.getVueComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'Ember') {
