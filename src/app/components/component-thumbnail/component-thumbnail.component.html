@@ -1,0 +1,23 @@
+<div class="title">
+  {{component.name}}
+</div>
+<div class="image">
+  <iframe *ngIf="isCodePen" height='265' scrolling='no' [attr.title]='component.demo.title' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
+  </iframe>
+</div>
+
+<div class="icons">
+  <a [attr.href]="component.npmUrl" target="_blank" class="icon-container">
+    <img src="../../../assets/images/npm.png" class="round-button">
+  </a>
+  <a [attr.href]="component.bowerUrl" target="_blank" class="icon-container">
+    <img src="../../../assets/images/bower.png" class="round-button">
+  </a>
+  <a [attr.href]="component.githubUrl" target="_blank" class="icon-container">
+    <img src="../../../assets/images/gh.png" class="round-button">
+  </a>
+</div>
+<div>
+  <div class="license">License: {{component.license}}</div>
+  <div class="download">Downloads: {{component.install.downloads}}</div>
+</div>

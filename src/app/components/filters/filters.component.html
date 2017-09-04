@@ -1,0 +1,10 @@
+<div class="center">
+  <div class="search">
+    <input [(ngModel)]="searchText" placeholder="e.g. button" class="search-box"><span class="button" (click)="searchComponents()">Search</span>
+  </div>
+  <div class="filter-list">
+  <span *ngFor="let framework of frameworks, let i = index" class="filter-tag" [class.selected]="framework.selected" (click)="changeFilter(i)">
+    {{framework.name}}
+  </span>
+  </div>
+</div>

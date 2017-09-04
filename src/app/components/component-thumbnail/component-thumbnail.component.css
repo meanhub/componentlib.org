@@ -1,0 +1,42 @@
+:host {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+  box-shadow: 0 0 6px 2px lightgray;
+  margin: 20px;
+  overflow: hidden;
+}
+
+.title {
+  height: 30px;
+  text-align: center;
+  font-size: 24px;
+  margin: 4px;
+}
+
+.icon-container {
+  margin: 5px;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.image {
+  height: 390px;
+  width: 500px;
+  background-color: #eef0f3;
+}
+
+.license {
+  margin-left: 5px;
+  height: 15px;
+  font-size: 12px;
+  display: inline-block;
+}
+
+.download {
+  margin-left: 73px;
+  height: 15px;
+  font-size: 12px;
+  display: inline-block;
+}

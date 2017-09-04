@@ -1,0 +1,35 @@
+:host {
+  width: 100%;
+  display: block;
+}
+
+.search {
+  display: inline-block;
+  margin: 20px 80px;
+}
+
+.search-box {
+  height: 38px;
+  margin-right: 20px;
+  width: 300px;
+}
+
+.filter-list {
+  text-align: right;
+  display: inline-block;
+}
+
+.filter-tag {
+  border: solid 1px lightgray;
+  border-radius: 5px;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.filter-tag:hover, .filter-tag.selected {
+  color: #fff;
+  background-color: maroon;
+}
+
