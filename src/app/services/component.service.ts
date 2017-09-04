@@ -50,6 +50,8 @@ export class ComponentService {
     components.forEach(c => {
       if (c.install.packager === 'npm') {
         c.npmUrl = 'https://www.npmjs.com/package/' + c.install.url;
+      } else if (c.install.packager === 'download') {
+        c.downloadUrl = c.install.url;
       }
 
       if (c.source.domain === 'github') {

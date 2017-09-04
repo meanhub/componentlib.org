@@ -9,6 +9,7 @@ export class ComponentThumbnailComponent implements OnInit {
 
   public isCodePen: boolean;
   public isExpo: boolean;
+  public isCustom: boolean;
 
   @Input()
   component: any;
@@ -16,10 +17,12 @@ export class ComponentThumbnailComponent implements OnInit {
   constructor() {
     this.isCodePen = false;
     this.isExpo = false;
+    this.isCustom = false;
   }
 
   ngOnInit() {
     this.isCodePen = this.component.demo.repl === 'codepen';
     this.isExpo = this.component.demo.repl === 'expo';
+    this.isCustom = this.component.demo.repl === 'custom';
   }
 }
