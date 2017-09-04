@@ -1,20 +1,19 @@
 import {Injectable} from '@angular/core';
-import {Observable} from 'rxjs/Observable';
-import {Http, Response} from '@angular/http';
 import {ANGULARJS_COMPONENTS} from '../data/angularjs-components';
 import {ANGULAR_COMPONENTS} from '../data/angular2-components';
 import {REACT_COMPONENTS} from '../data/react-components';
 import {VUE_COMPONENTS} from '../data/vue-components';
 import {EMBER_COMPONENTS} from '../data/ember-components';
+import {REACT_NATIVE_COMPONENTS} from '../data/react-native-components';
 
 @Injectable()
 export class ComponentService {
 
-  constructor(private http: Http) {
+  constructor() {
   }
 
   getFrameworkFilters(): string[] {
-    return ['AngularJS 1.x', 'Angular 2+', 'React', 'Vue', 'Ember'];
+    return ['AngularJS 1.x', 'Angular 2+', 'React', 'React Native', 'Vue', 'Ember'];
   }
 
   getAngularJSComponents(searchText?: string): any[] {
@@ -27,6 +26,10 @@ export class ComponentService {
 
   getReactComponents(searchText?: string): any[] {
     return this.getFilterComponents(REACT_COMPONENTS, searchText);
+  }
+
+  getReactNativeComponents(searchText?: string): any[] {
+    return this.getFilterComponents(REACT_NATIVE_COMPONENTS, searchText);
   }
 
   getVueComponents(searchText?: string): any[] {
