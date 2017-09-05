@@ -38,7 +38,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://glittershark.github.io/reactable#demo-table'
+      src: 'https://glittershark.github.io/reactable#demo-table'
     },
     framework: 'React',
     version: '',
