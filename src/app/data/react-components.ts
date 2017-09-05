@@ -18,5 +18,32 @@ export const REACT_COMPONENTS: any[] = [
     license: 'All Rights Reserved',
     details: 'http://www.jqwidgets.com/react/react-buttons/react-radiobutton-defaultfunctionality.htm',
     keywords: ['button', 'jqxbuttons', 'radiobutton']
+  },
+  {
+    id: 1,
+    name: 'Reactable',
+    install: [{
+      packager: 'download',
+      url: 'https://raw.githubusercontent.com/glittershark/reactable/master/build/reactable.js'
+    }, {
+      packager: 'npm',
+      url: 'reactable'
+    }, {
+      packager: 'bower',
+      url: 'reactable'
+    }],
+    source: {
+      domain: 'github',
+      url: 'glittershark/reactable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://glittershark.github.io/reactable#demo-table'
+    },
+    framework: 'React',
+    version: '',
+    license: 'MIT',
+    details: 'http://glittershark.github.io/reactable/',
+    keywords: ['button', 'jqxbuttons', 'radiobutton']
   }
 ];
