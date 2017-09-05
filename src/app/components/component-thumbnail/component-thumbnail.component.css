@@ -1,5 +1,5 @@
 :host {
-  height: 500px;
+  height: 520px;
   width: 500px;
   display: inline-block;
   box-shadow: 0 0 6px 2px lightgray;
@@ -27,20 +27,6 @@
   background-color: #eef0f3;
 }
 
-.license {
-  margin-left: 5px;
-  height: 15px;
-  font-size: 12px;
-  display: inline-block;
-}
-
-.download {
-  margin-left: 73px;
-  height: 15px;
-  font-size: 12px;
-  display: inline-block;
-}
-
 .qr-code {
   display: block;
 }
@@ -55,3 +41,29 @@
   width: 160px;
   margin: 78px 170px;
 }
+
+.info {
+  height: 10px;
+  font-size: 12px;
+  margin-left: 5px;
+  padding-top: 10px;
+}
+
+.footer {
+  height: 15px;
+}
+
+.license {
+  margin-left: 5px;
+  height: 15px;
+  font-size: 12px;
+  display: inline-block;
+}
+
+.download {
+  margin-left: 73px;
+  height: 15px;
+  font-size: 12px;
+  display: inline-block;
+}
+

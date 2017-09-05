@@ -13,10 +13,10 @@
 </div>
 
 <div class="icons">
-  <a *ngIf="component.npmUrl" [attr.href]="component.npmUrl" target="_blank" class="icon-container" title="NPM">
+  <a *ngIf="component.npmUrl" [attr.href]="component.npmUrl" target="_blank" class="icon-container" title="NPM" (mouseenter)="npmMouseEnter()" (mouseleave)="npmMouseLeave()">
     <img src="../../../assets/images/npm.png" class="round-button">
   </a>
-  <a *ngIf="component.bowerUrl" [attr.href]="component.bowerUrl" target="_blank" class="icon-container" title="Bower">
+  <a *ngIf="component.bowerPackage" [attr.href]="" class="icon-container" title="Bower" (mouseenter)="bowerMouseEnter()" (mouseleave)="bowerMouseLeave()">
     <img src="../../../assets/images/bower.png" class="round-button">
   </a>
   <a *ngIf="component.downloadUrl" [attr.href]="component.downloadUrl" target="_blank" class="icon-container" title="Download">
@@ -26,7 +26,8 @@
     <img src="../../../assets/images/gh.png" class="round-button">
   </a>
 </div>
-<div>
+<div class="info">{{component.info}}</div>
+<div class="footer">
   <div class="license">License: {{component.license}}</div>
   <div *ngIf="component.install.downloads" class="download">Downloads: {{component.install.downloads}}</div>
 </div>

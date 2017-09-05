@@ -48,11 +48,19 @@ export class ComponentService {
     }
 
     components.forEach(c => {
-      if (c.install.packager === 'npm') {
-        c.npmUrl = 'https://www.npmjs.com/package/' + c.install.url;
-      } else if (c.install.packager === 'download') {
-        c.downloadUrl = c.install.url;
+      if (!c.install.length) {            // single install object
+        c.install = [c.install];
       }
+
+      c.install.map(i => {
+        if (i.packager === 'npm') {
+          c.npmUrl = 'https://www.npmjs.com/package/' + i.url;
+        } else if (i.packager === 'bower') {
+          c.bowerPackage = i.url;
+        } else if (i.packager === 'download') {
+          c.downloadUrl = i.url;
+        }
+      });
 
       if (c.source.domain === 'github') {
         c.githubUrl = 'https://github.com/' + c.source.url;
