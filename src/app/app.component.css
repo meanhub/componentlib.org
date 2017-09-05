@@ -12,3 +12,28 @@
   margin: 0 auto;
   width: 300px;
 }
+
+.add-component {
+  width: 237px;
+  border: solid 1px #fff;
+  padding: 2px;
+  display: flex;
+  height: 30px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  text-decoration: none;
+}
+
+.add-component img {
+  height: 30px;
+  width: 30px;
+}
+
+.add-component span {
+  height: 30px;
+  font-size: 16px;
+  margin-top: 6px;
+  display: inline-flex;
+  margin-left: 12px;
+}
