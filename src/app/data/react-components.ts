@@ -86,6 +86,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '',
     license: 'MIT',
     details: 'http://react-component.github.io/calendar',
-    keywords: ['date', 'time', 'datepicker', 'calendar']
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 4,
+    name: 'react-date-range',
+    install: [{
+      packager: 'npm',
+      url: 'react-date-range'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Adphorus/react-date-range'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://adphorus.github.io/react-date-range#root'
+    },
+    framework: 'React',
+    version: '',
+    license: 'MIT',
+    details: 'http://adphorus.github.io/react-date-range/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ];
