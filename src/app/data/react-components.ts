@@ -65,6 +65,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '',
     license: 'MIT',
     details: 'https://hacker0x01.github.io/react-datepicker',
-    keywords: ['date', 'time', 'datepicker']
+    keywords: ['date', 'time', 'datepicker', 'calendar']
+  },
+  {
+    id: 3,
+    name: 'rc-calendar',
+    install: [{
+      packager: 'npm',
+      url: 'rc-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'react-component/calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/calendar/examples/antd-range-calendar.html#__react-content'
+    },
+    framework: 'React',
+    version: '',
+    license: 'MIT',
+    details: 'http://react-component.github.io/calendar',
+    keywords: ['date', 'time', 'datepicker', 'calendar']
   }
 ];
