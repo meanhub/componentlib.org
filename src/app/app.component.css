@@ -19,7 +19,7 @@
   padding: 2px;
   display: flex;
   height: 30px;
-  position: fixed;
+  position: absolute;
   top: 20px;
   right: 20px;
   text-decoration: none;
