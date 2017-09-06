@@ -44,6 +44,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '',
     license: 'MIT',
     details: 'http://glittershark.github.io/reactable/',
-    keywords: ['button', 'jqxbuttons', 'radiobutton']
+    keywords: ['table', 'grid', 'reactable']
+  },
+  {
+    id: 2,
+    name: 'react-datepicker',
+    install: [{
+      packager: 'npm',
+      url: 'react-datepicker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Hacker0x01/react-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hacker0x01.github.io/react-datepicker'
+    },
+    framework: 'React',
+    version: '',
+    license: 'MIT',
+    details: 'https://hacker0x01.github.io/react-datepicker',
+    keywords: ['date', 'time', 'datepicker']
   }
 ];
