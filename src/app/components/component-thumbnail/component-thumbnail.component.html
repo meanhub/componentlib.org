@@ -25,6 +25,9 @@
   <a *ngIf="component.githubUrl" [attr.href]="component.githubUrl" target="_blank" class="icon-container" title="GitHub">
     <img src="../../../assets/images/gh.png" class="round-button">
   </a>
+  <a *ngIf="component.details" [attr.href]="component.details" target="_blank" class="icon-container" title="Details page" (mouseenter)="detailsMouseEnter()" (mouseleave)="detailsMouseLeave()">
+    <img src="../../../assets/images/details.png" class="round-button">
+  </a>
 </div>
 <div class="info">{{component.info}}</div>
 <div class="footer">
