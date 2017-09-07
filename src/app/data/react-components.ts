@@ -192,5 +192,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://freiksenet.github.io/react-calendar/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
+  },
+  {
+    id: 9,
+    name: 'input-moment',
+    install: [{
+      packager: 'npm',
+      url: 'input-moment'
+    }],
+    source: {
+      domain: 'github',
+      url: 'wangzuo/input-moment'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wangzuo.github.io/input-moment#app'
+    },
+    framework: 'React',
+    version: '0.3.5',
+    license: 'MIT',
+    details: 'http://wangzuo.github.io/input-moment/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
   }
 ];
