@@ -129,5 +129,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://react-day-picker.js.org/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 6,
+    name: 'react-daterange-picker',
+    install: [{
+      packager: 'npm',
+      url: 'react-daterange-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'onefinestay/react-daterange-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://onefinestay.github.io/react-daterange-picker/'
+    },
+    framework: 'React',
+    version: '6.1.0',
+    license: 'MIT',
+    details: 'http://onefinestay.github.io/react-daterange-picker/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ];
