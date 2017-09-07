@@ -171,5 +171,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://code.belka.us/react-yearly-calendar/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
+  },
+  {
+    id: 8,
+    name: 'react-calendar',
+    install: [{
+      packager: 'npm',
+      url: 'react-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'freiksenet/react-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://freiksenet.github.io/react-calendar#app'
+    },
+    framework: 'React',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'http://freiksenet.github.io/react-calendar/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
   }
 ];
