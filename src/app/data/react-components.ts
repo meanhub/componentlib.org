@@ -150,5 +150,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://onefinestay.github.io/react-daterange-picker/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 7,
+    name: 'React-yearly-calendar',
+    install: [{
+      packager: 'npm',
+      url: 'react-yearly-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'BelkaLab/react-yearly-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://code.belka.us/react-yearly-calendar/custom_classes#calendar'
+    },
+    framework: 'React',
+    version: '1.1.5',
+    license: 'MIT',
+    details: 'http://code.belka.us/react-yearly-calendar/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
   }
 ];
