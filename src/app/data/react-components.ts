@@ -14,7 +14,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://www.jqwidgets.com/react/react-buttons/react-radiobutton-defaultfunctionality.htm#tabs'
     },
     framework: 'React',
-    version: '',
+    version: '5.2.0',
     license: 'All Rights Reserved',
     details: 'http://www.jqwidgets.com/react/react-buttons/react-radiobutton-defaultfunctionality.htm',
     keywords: ['button', 'jqxbuttons', 'radiobutton']
