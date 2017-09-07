@@ -14,6 +14,14 @@
   margin: 4px;
 }
 
+.version {
+  color:gray;
+  font-size: 12px;
+  float: right;
+  margin-top: 9px;
+  margin-right: 6px;
+}
+
 .icon-container {
   margin: 5px;
   height: 40px;
