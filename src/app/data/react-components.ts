@@ -108,5 +108,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://adphorus.github.io/react-date-range/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 5,
+    name: 'react-day-picker',
+    install: [{
+      packager: 'npm',
+      url: 'react-day-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'gpbl/react-day-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-day-picker.js.org/examples/selecting-range.html#example'
+    },
+    framework: 'React',
+    version: '6.1.0',
+    license: 'MIT',
+    details: 'http://react-day-picker.js.org/',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ];
