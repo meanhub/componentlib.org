@@ -41,7 +41,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://glittershark.github.io/reactable#demo-table'
     },
     framework: 'React',
-    version: '',
+    version: '0.14.1',
     license: 'MIT',
     details: 'http://glittershark.github.io/reactable/',
     keywords: ['table', 'grid', 'reactable']
@@ -62,7 +62,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://hacker0x01.github.io/react-datepicker'
     },
     framework: 'React',
-    version: '',
+    version: '0.54.0',
     license: 'MIT',
     details: 'https://hacker0x01.github.io/react-datepicker',
     keywords: ['date', 'time', 'datepicker', 'calendar']
@@ -83,7 +83,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://react-component.github.io/calendar/examples/antd-range-calendar.html#__react-content'
     },
     framework: 'React',
-    version: '',
+    version: '9.1.3',
     license: 'MIT',
     details: 'http://react-component.github.io/calendar',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
@@ -104,7 +104,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://adphorus.github.io/react-date-range#root'
     },
     framework: 'React',
-    version: '',
+    version: '0.9.4',
     license: 'MIT',
     details: 'http://adphorus.github.io/react-date-range/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
@@ -132,7 +132,7 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 6,
-    name: 'react-daterange-picker',
+    name: 'React Daterange Picker',
     install: [{
       packager: 'npm',
       url: 'react-daterange-picker'
@@ -146,7 +146,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://onefinestay.github.io/react-daterange-picker/'
     },
     framework: 'React',
-    version: '6.1.0',
+    version: '1.2.0',
     license: 'MIT',
     details: 'http://onefinestay.github.io/react-daterange-picker/',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
