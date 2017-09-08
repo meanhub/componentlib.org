@@ -59,7 +59,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'https://hacker0x01.github.io/react-datepicker'
+      src: 'https://hacker0x01.github.io/react-datepicker/#example-0'
     },
     framework: 'React',
     version: '0.54.0',
