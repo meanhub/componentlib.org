@@ -191,7 +191,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://freiksenet.github.io/react-calendar/',
-    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   },
   {
     id: 9,
@@ -212,6 +212,28 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.5',
     license: 'MIT',
     details: 'http://wangzuo.github.io/input-moment/',
-    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange', 'year']
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 10,
+    name: 'react-datetime',
+    install: [{
+      packager: 'npm',
+      url: 'react-datetime'
+    }],
+    source: {
+      domain: 'github',
+      url: 'YouCanBookMe/react-datetime'
+    },
+    demo: {
+      repl: 'codepen',
+      url: 'https://codepen.io/simeg/pen/mEmQmP',
+      src: '//codepen.io/simeg/embed/mEmQmP/?height=265&theme-id=light&default-tab=result&embed-version=2'
+    },
+    framework: 'React',
+    version: '2.10.1',
+    license: 'MIT',
+    details: 'https://github.com/YouCanBookMe/react-datetime',
+    keywords: ['date', 'time', 'datepicker', 'calendar']
   }
 ];
