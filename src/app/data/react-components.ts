@@ -340,5 +340,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/chmln/flatpickr',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 16,
+    name: 'react-tooltip',
+    install: [{
+      packager: 'npm',
+      url: 'react-tooltip'
+    }],
+    source: {
+      domain: 'github',
+      url: 'wwayne/react-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wwayne.com/react-tooltip/'
+    },
+    framework: 'React',
+    version: '3.3.0',
+    license: 'MIT',
+    details: 'https://github.com/wwayne/react-tooltip',
+    keywords: ['tooltip']
   }
 ];
