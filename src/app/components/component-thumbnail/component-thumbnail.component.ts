@@ -47,4 +47,12 @@ export class ComponentThumbnailComponent implements OnInit {
   bowerMouseLeave() {
     this.component.info = '';
   }
+
+  detailsMouseEnter() {
+    this.component.info = this.component.details;
+  }
+
+  detailsMouseLeave() {
+    this.component.info = '';
+  }
 }
