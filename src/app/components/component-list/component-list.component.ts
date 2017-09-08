@@ -17,7 +17,7 @@ export class ComponentListComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.components = this.componentService.getAngularJSComponents();
+    this.components = this.componentService.getReactComponents();
   }
 
   onSearchTextChanged(searchCriteria) {
