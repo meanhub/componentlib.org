@@ -277,5 +277,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/intljusticemission/react-big-calendar',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'agenda']
+  },
+  {
+    id: 13,
+    name: 'React Infinite Calendar',
+    install: [{
+      packager: 'npm',
+      url: 'react-infinite-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'clauderic/react-infinite-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://clauderic.github.io/react-infinite-calendar/#/enhance-default-functionality/range-selection'
+    },
+    framework: 'React',
+    version: '2.3.1',
+    license: 'MIT',
+    details: 'http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration',
+    keywords: ['date', 'time', 'datepicker', 'calendar']
   }
 ];
