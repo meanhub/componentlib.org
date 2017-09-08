@@ -59,7 +59,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'https://hacker0x01.github.io/react-datepicker/#example-0'
+      src: ''
     },
     framework: 'React',
     version: '0.54.0',
@@ -298,5 +298,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://clauderic.github.io/react-infinite-calendar/#/basic-settings/basic-configuration',
     keywords: ['date', 'time', 'datepicker', 'calendar']
+  },
+  {
+    id: 14,
+    name: 'react-dates',
+    install: [{
+      packager: 'npm',
+      url: 'react-dates'
+    }],
+    source: {
+      domain: 'github',
+      url: 'airbnb/react-dates'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://airbnb.io/react-dates#startDate?selectedKind=DateRangePicker%20%28DRP%29&selectedStory=default&full=0&down=1&left=1&panelRight=0&downPanel=storybook%2Factions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '12.6.0',
+    license: 'MIT',
+    details: 'http://airbnb.io/react-dates',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ];
