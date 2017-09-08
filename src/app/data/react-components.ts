@@ -319,5 +319,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://airbnb.io/react-dates',
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
+  },
+  {
+    id: 15,
+    name: 'react-flatpickr',
+    install: [{
+      packager: 'npm',
+      url: 'react-flatpickr'
+    }],
+    source: {
+      domain: 'github',
+      url: 'coderhaoxin/react-flatpickr'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chmln.github.io/flatpickr/examples/'
+    },
+    framework: 'React',
+    version: '3.5.1',
+    license: 'MIT',
+    details: 'https://github.com/chmln/flatpickr',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ];
