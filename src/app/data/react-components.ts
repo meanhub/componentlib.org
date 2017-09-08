@@ -361,5 +361,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/wwayne/react-tooltip',
     keywords: ['tooltip']
+  },
+  {
+    id: 17,
+    name: 'rc-tooltip',
+    install: [{
+      packager: 'npm',
+      url: 'rc-tooltip'
+    }],
+    source: {
+      domain: 'github',
+      url: 'react-component/tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/tooltip/examples/arrowContent.html'
+    },
+    framework: 'React',
+    version: '3.4.9',
+    license: 'MIT',
+    details: 'http://react-component.github.io/tooltip/',
+    keywords: ['tooltip']
   }
 ];
