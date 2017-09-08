@@ -1,4 +1,4 @@
-import {Component, EventEmitter, OnInit, Output} from '@angular/core';
+import {Component, EventEmitter, OnInit, Input, Output} from '@angular/core';
 import {ComponentService} from '../../services/component.service';
 
 @Component({
@@ -10,6 +10,9 @@ export class FiltersComponent implements OnInit {
 
   public frameworks: any[];
   public searchText: string;
+
+  @Input()
+  public selectedFrameworkIndex: number;
 
   private selectedFramework: any;
 
@@ -32,8 +35,8 @@ export class FiltersComponent implements OnInit {
         };
       });
 
-    this.frameworks[1].selected = true;
-    this.selectedFramework = this.frameworks[1];
+    this.frameworks[this.selectedFrameworkIndex].selected = true;
+    this.selectedFramework = this.frameworks[this.selectedFrameworkIndex];
   }
 
   changeFilter(index) {
