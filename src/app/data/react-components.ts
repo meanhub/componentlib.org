@@ -235,5 +235,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/YouCanBookMe/react-datetime',
     keywords: ['date', 'time', 'datepicker', 'calendar']
+  },
+  {
+    id: 11,
+    name: 'react-bootstrap-daterangepicker',
+    install: [{
+      packager: 'npm',
+      url: 'react-bootstrap-daterangepicker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'skratchdot/react-bootstrap-daterangepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://projects.skratchdot.com/react-bootstrap-daterangepicker/'
+    },
+    framework: 'React',
+    version: '3.4.1',
+    license: 'Apache 2.0',
+    details: 'https://github.com/dangrossman/bootstrap-daterangepicker',
+    keywords: ['date', 'time', 'datepicker', 'calendar']
   }
 ];
