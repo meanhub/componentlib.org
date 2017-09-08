@@ -403,5 +403,29 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://romainberger.github.io/react-portal-tooltip',
     keywords: ['tooltip']
+  },
+  {
+    id: 19,
+    name: 'react-tabs',
+    install: [{
+      packager: 'npm',
+      url: 'react-tabs'
+    }, {
+      packager: 'umd',
+      url: 'https://unpkg.com/react-tabs@1.0.0/dist/react-tabs.min.js'
+    }],
+    source: {
+      domain: 'github',
+      url: 'reactjs/react-tabs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://reactcommunity.org/react-tabs/example#react-tabs-0'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://romainberger.github.io/react-portal-tooltip',
+    keywords: ['tabs']
   }
 ];
