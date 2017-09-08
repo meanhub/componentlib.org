@@ -1,10 +1,10 @@
-import {Injectable} from '@angular/core';
-import {ANGULARJS_COMPONENTS} from '../data/angularjs-components';
-import {ANGULAR_COMPONENTS} from '../data/angular2-components';
-import {REACT_COMPONENTS} from '../data/react-components';
-import {VUE_COMPONENTS} from '../data/vue-components';
-import {EMBER_COMPONENTS} from '../data/ember-components';
-import {REACT_NATIVE_COMPONENTS} from '../data/react-native-components';
+import { Injectable } from '@angular/core';
+import { ANGULARJS_COMPONENTS } from '../data/angularjs-components';
+import { ANGULAR_COMPONENTS } from '../data/angular2-components';
+import { REACT_COMPONENTS } from '../data/react-components';
+import { VUE_COMPONENTS } from '../data/vue-components';
+import { EMBER_COMPONENTS } from '../data/ember-components';
+import { REACT_NATIVE_COMPONENTS } from '../data/react-native-components';
 
 @Injectable()
 export class ComponentService {
@@ -44,7 +44,12 @@ export class ComponentService {
     if (searchText) {
       searchText = searchText.replace('-', '');
       components = components.filter(c => {
-        return c.keywords.indexOf(searchText) > -1;
+        for (const word of c.keywords) {
+          if (word.includes(searchText)) {
+            return true;
+          }
+        }
+        return false;
       });
     }
 
