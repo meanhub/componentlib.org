@@ -42,6 +42,7 @@ export class ComponentService {
 
   private getFilterComponents(components: any[], searchText: string) {
     if (searchText) {
+      searchText = searchText.replace('-', '');
       components = components.filter(c => {
         return c.keywords.indexOf(searchText) > -1;
       });
