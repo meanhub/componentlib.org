@@ -382,5 +382,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://react-component.github.io/tooltip/',
     keywords: ['tooltip']
+  },
+  {
+    id: 18,
+    name: 'React Portal Tooltip',
+    install: [{
+      packager: 'npm',
+      url: 'react-portal-tooltip'
+    }],
+    source: {
+      domain: 'github',
+      url: 'romainberger/react-portal-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://romainberger.github.io/react-portal-tooltip/#/groups'
+    },
+    framework: 'React',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'http://romainberger.github.io/react-portal-tooltip',
+    keywords: ['tooltip']
   }
 ];
