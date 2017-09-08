@@ -256,5 +256,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'Apache 2.0',
     details: 'https://github.com/dangrossman/bootstrap-daterangepicker',
     keywords: ['date', 'time', 'datepicker', 'calendar']
+  },
+  {
+    id: 12,
+    name: 'react-big-calendar',
+    install: [{
+      packager: 'npm',
+      url: 'react-big-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'intljusticemission/react-big-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://intljusticemission.github.io/react-big-calendar/examples/index.html'
+    },
+    framework: 'React',
+    version: '0.15.0',
+    license: 'MIT',
+    details: 'https://github.com/intljusticemission/react-big-calendar',
+    keywords: ['date', 'time', 'datepicker', 'calendar', 'agenda']
   }
 ];
