@@ -8,14 +8,17 @@ import {Component, Input, OnInit} from '@angular/core';
 export class ComponentThumbnailComponent implements OnInit {
 
   public isCodePen: boolean;
+  public isPlunker: boolean;
   public isExpo: boolean;
   public isCustom: boolean;
+
 
   @Input()
   component: any;
 
   constructor() {
     this.isCodePen = false;
+    this.isPlunker = false;
     this.isExpo = false;
     this.isCustom = false;
 
@@ -27,8 +30,14 @@ export class ComponentThumbnailComponent implements OnInit {
 
   ngOnInit() {
     this.isCodePen = this.component.demo.repl === 'codepen';
+    this.isPlunker = this.component.demo.repl === 'plunker';
     this.isExpo = this.component.demo.repl === 'expo';
     this.isCustom = this.component.demo.repl === 'custom';
+
+    if (this.isPlunker) {
+      this.component.plnkrUrl = 'http://plnkr.co/edit/' + this.component.demo.id + '?p=preview';
+      this.component.plnkrEmbedUrl = '//run.plnkr.co/plunks/' + this.component.demo.id + '/';
+    }
   }
 
   npmMouseEnter() {

@@ -2,7 +2,12 @@
   {{component.name}}<span class="version">{{component.version}}</span>
 </div>
 <div class="image">
-  <iframe *ngIf="isCodePen" height='265' scrolling='no' [attr.title]='component.demo.title' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
+  <iframe *ngIf="isCodePen" height='265' scrolling='no' [attr.title]='component.demo.title' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='{{ component.demo.url }}'>Demo Page</a>.
+  </iframe>
+  <iframe *ngIf="isPlunker"  style="width: 100%; height: 100%"
+          [src]="component.plnkrEmbedUrl | safe" frameborder="0"
+          allowfullscreen="allowfullscreen">
+    <a href='{{ component.plnkrUrl }}'>Demo Page</a>.
   </iframe>
   <div *ngIf="isExpo" class="qr-code">
     <div class="qr-code-text">Scan QR code with your <a href="https://expo.io/" target="_blank">Expo</a> mobile app</div>
