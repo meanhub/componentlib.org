@@ -58,6 +58,9 @@ Please add a JSON object for each component in these files.
       url: <codepen url>,
       src: '<url to embed codepen demo>'
     } | {
+      repl: 'plunker',
+      id: <plnkr id>
+    } | {
       repl: 'expo',
       url: <expo.io url>,
       expoUrl: '<expo url to open demo>',
@@ -72,7 +75,7 @@ Please add a JSON object for each component in these files.
 ```
 
 `install` can be a single object or an array of objects. In most cases, it will be a single object with only `npm` details.
-`demo` can have `repl` as `custom`, `codepen` or `expo`. Expo is primarily used for React Native component demos as those cannot be shown in a webpage.
+`demo` can have `repl` as `custom`, `codepen`, `plunker` or `expo`. Expo is primarily used for React Native component demos as those cannot be shown in a webpage.
 
 
 An example JSON is:
