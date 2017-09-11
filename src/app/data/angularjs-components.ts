@@ -12,9 +12,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'codepen',
-      url: 'http://codepen.io/sachinchoolur/pen/ogxpOZ',
-      src: '//codepen.io/sachinchoolur/embed/ogxpOZ/?height=265&theme-id=light&default-tab=result&embed-version=2',
-      title: 'Ladda angular'
+      user: 'sachinchoolur',
+      id: 'ogxpOZ'
     },
     framework: 'AngularJS 1.x',
     version: '1.0.1',

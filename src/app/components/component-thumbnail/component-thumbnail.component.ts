@@ -34,6 +34,11 @@ export class ComponentThumbnailComponent implements OnInit {
     this.isExpo = this.component.demo.repl === 'expo';
     this.isCustom = this.component.demo.repl === 'custom';
 
+    if (this.isCodePen) {
+      this.component.codepenUrl = 'https://codepen.io/' + this.component.demo.user + '/pen/' + this.component.demo.id;
+      this.component.codepenEmbedUrl = '//codepen.io/' + this.component.demo.user + '/embed/' + this.component.demo.id + '/?height=265&theme-id=light&default-tab=result&embed-version=2';
+    }
+
     if (this.isPlunker) {
       this.component.plnkrUrl = 'http://plnkr.co/edit/' + this.component.demo.id + '?p=preview';
       this.component.plnkrEmbedUrl = '//run.plnkr.co/plunks/' + this.component.demo.id + '/';
