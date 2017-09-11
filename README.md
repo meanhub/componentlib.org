@@ -6,8 +6,27 @@ ComponentLib is an open source effort to create a library of components of Web a
 
 The list of components are categorized by framework name and searchable by keywords. Each component is shown as a thumbnail. The thumbnail shows a working interact-able demo of the component and few details like npm, github url etc.
  
+## Running on localhost
+This is an Angular 4 project created using Angular cli. Install Angular cli (one time) if you do not have it installed already
+```
+  npm install -g @angular/cli
+```
+
+For the first time, install project dependencies:
+```
+  npm install
+```
+
+To run the site on localhost
+```
+  ng serve
+```
+By default the site will load in broser at http://localhost:4200/
+
+
 ## How to Contribute
-Please see [CONTRIBUTE.md](./CONTRIBUTE.md) file for details 
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for more details 
+
 
 ## License
 [MIT](./LICENSE)
