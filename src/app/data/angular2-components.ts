@@ -22,6 +22,27 @@ export const ANGULAR_COMPONENTS: any[] = [
   },
   {
     id: 1,
+    name: 'ng2-charts',
+    install: {
+      packager: 'npm',
+      url: 'ng2-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-charts'
+    },
+    demo: {
+      repl: 'plunker',
+      id: '7fGsiuRjcF0M0Ffeoml2'
+    },
+    framework: 'Angular 2+',
+    version: '1.6.0',
+    license: 'MIT',
+    details: 'https://valor-software.com/ng2-charts/',
+    keywords: ['chart', 'charts', 'radar', 'line', 'bar']
+  },
+  {
+    id: 2,
 
     name: 'ng2-toasty',
     install: {
