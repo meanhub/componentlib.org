@@ -22,6 +22,7 @@ export const ANGULAR_COMPONENTS: any[] = [
   },
   {
     id: 1,
+
     name: 'ng2-toasty',
     install: {
       packager: 'npm',
@@ -40,5 +41,6 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/akserg/ng2-toasty',
     keywords: [ "angular", "angular2","toasty","growl"]
+
   }
 ];
