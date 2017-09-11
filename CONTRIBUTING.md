@@ -55,8 +55,8 @@ Please add a JSON object for each component in these files.
       src: '<url of demo page>'
     } | {
       repl: 'codepen',
-      url: <codepen url>,
-      src: '<url to embed codepen demo>'
+      user: <username in codepen demo>,
+      id: '<demo id>'
     } | {
       repl: 'plunker',
       id: <plnkr id>
@@ -76,7 +76,6 @@ Please add a JSON object for each component in these files.
 
 `install` can be a single object or an array of objects. In most cases, it will be a single object with only `npm` details.
 `demo` can have `repl` as `custom`, `codepen`, `plunker` or `expo`. Expo is primarily used for React Native component demos as those cannot be shown in a webpage.
-
 
 An example JSON is:
 
@@ -103,6 +102,9 @@ An example JSON is:
     keywords: ['date', 'time', 'datepicker', 'calendar', 'daterange']
   }
 ```
+
+For CodePen if the url is of format `https://codepen.io/:user/pen/:id`
+You can pick the `user` and `id` fields from the url params above.
 
 
 Please make sure that a thumbnail is added to the component page in http://localhost:4200 for the JSON you added. Also the demo should show within the thumbnail body. All links that show up in the thumbnail should redirect to the correct page.

@@ -227,8 +227,8 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'codepen',
-      url: 'https://codepen.io/simeg/pen/mEmQmP',
-      src: '//codepen.io/simeg/embed/mEmQmP/?height=265&theme-id=light&default-tab=result&embed-version=2'
+      user: 'simeg',
+      id: 'mEmQmP'
     },
     framework: 'React',
     version: '2.10.1',

@@ -2,11 +2,14 @@
   {{component.name}}<span class="version">{{component.version}}</span>
 </div>
 <div class="image">
-  <iframe *ngIf="isCodePen" height='265' scrolling='no' [attr.title]='component.demo.title' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='{{ component.demo.url }}'>Demo Page</a>.
+  <iframe *ngIf="isCodePen"  style="width: 100%; height: 100%"
+          [src]="component.codepenEmbedUrl | safe" frameborder="0"
+          allowfullscreen="allowfullscreen" allowtransparency='true' >
+    <a href='{{ component.codepenUrl }}'>Demo Page</a>.
   </iframe>
   <iframe *ngIf="isPlunker"  style="width: 100%; height: 100%"
           [src]="component.plnkrEmbedUrl | safe" frameborder="0"
-          allowfullscreen="allowfullscreen">
+          allowfullscreen="allowfullscreen" allowtransparency='true' >
     <a href='{{ component.plnkrUrl }}'>Demo Page</a>.
   </iframe>
   <div *ngIf="isExpo" class="qr-code">
