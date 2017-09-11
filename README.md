@@ -10,5 +10,5 @@ The list of components are categorized by framework name and searchable by keywo
 Please see [CONTRIBUTE.md](./CONTRIBUTE.md) file for details 
 
 ## License
-[MIT](./LICENSE.md)
+[MIT](./LICENSE)
 
