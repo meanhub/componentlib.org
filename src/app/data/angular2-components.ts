@@ -40,5 +40,28 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://valor-software.com/ng2-charts/',
     keywords: ['chart', 'charts', 'radar', 'line', 'bar']
+  },
+  {
+    id: 2,
+
+    name: 'ng2-toasty',
+    install: {
+      packager: 'npm',
+      url: 'ng2-toasty'
+    },
+    source: {
+      domain: 'github',
+      url: 'akserg/ng2-toasty'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'M2rQVb'
+    },
+    framework: 'AngularJS 2+',
+    version: '0.0.0-semantically-released',
+    license: 'MIT',
+    details: 'https://github.com/akserg/ng2-toasty',
+    keywords: [ "angular", "angular2","toasty","growl"]
+
   }
 ];
