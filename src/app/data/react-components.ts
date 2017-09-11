@@ -49,10 +49,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 2,
     name: 'react-datepicker',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-datepicker'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'Hacker0x01/react-datepicker'
@@ -70,10 +70,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 3,
     name: 'rc-calendar',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'rc-calendar'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'react-component/calendar'
@@ -91,10 +91,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 4,
     name: 'react-date-range',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-date-range'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'Adphorus/react-date-range'
@@ -112,10 +112,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 5,
     name: 'react-day-picker',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-day-picker'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'gpbl/react-day-picker'
@@ -133,10 +133,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 6,
     name: 'React Daterange Picker',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-daterange-picker'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'onefinestay/react-daterange-picker'
@@ -154,10 +154,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 7,
     name: 'React-yearly-calendar',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-yearly-calendar'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'BelkaLab/react-yearly-calendar'
@@ -175,10 +175,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 8,
     name: 'react-calendar',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-calendar'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'freiksenet/react-calendar'
@@ -196,10 +196,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 9,
     name: 'input-moment',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'input-moment'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'wangzuo/input-moment'
@@ -217,10 +217,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 10,
     name: 'react-datetime',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-datetime'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'YouCanBookMe/react-datetime'
@@ -239,10 +239,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 11,
     name: 'react-bootstrap-daterangepicker',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-bootstrap-daterangepicker'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'skratchdot/react-bootstrap-daterangepicker'
@@ -260,10 +260,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 12,
     name: 'react-big-calendar',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-big-calendar'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'intljusticemission/react-big-calendar'
@@ -281,10 +281,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 13,
     name: 'React Infinite Calendar',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-infinite-calendar'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'clauderic/react-infinite-calendar'
@@ -302,10 +302,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 14,
     name: 'react-dates',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-dates'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'airbnb/react-dates'
@@ -323,10 +323,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 15,
     name: 'react-flatpickr',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-flatpickr'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'coderhaoxin/react-flatpickr'
@@ -344,10 +344,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 16,
     name: 'react-tooltip',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-tooltip'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'wwayne/react-tooltip'
@@ -365,10 +365,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 17,
     name: 'rc-tooltip',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'rc-tooltip'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'react-component/tooltip'
@@ -386,10 +386,10 @@ export const REACT_COMPONENTS: any[] = [
   {
     id: 18,
     name: 'React Portal Tooltip',
-    install: [{
+    install: {
       packager: 'npm',
       url: 'react-portal-tooltip'
-    }],
+    },
     source: {
       domain: 'github',
       url: 'romainberger/react-portal-tooltip'
