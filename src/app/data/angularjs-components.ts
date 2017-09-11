@@ -4,13 +4,11 @@ export const ANGULARJS_COMPONENTS: any[] = [
     name: 'ladda-angular',
     install: {
       packager: 'npm',
-      url: 'ladda-angular',
-      downloads: 429
+      url: 'ladda-angular'
     },
     source: {
       domain: 'github',
-      url: 'sachinchoolur/ladda-angular',
-      stars: 126
+      url: 'sachinchoolur/ladda-angular'
     },
     demo: {
       repl: 'codepen',
