@@ -55,8 +55,13 @@ Please add a JSON object for each component in these files.
       src: '<url of demo page>'
     } | {
       repl: 'codepen',
-      url: <codepen url>
+      url: <codepen url>,
       src: '<url to embed codepen demo>'
+    } | {
+      repl: 'expo',
+      url: <expo.io url>,
+      expoUrl: '<expo url to open demo>',
+      qrCode: '<name of image file at /src/assets/qr-codes for QR code>'
     },
     framework: '[React | React Native | Angular 2+ | AngularJS 1.x | Vue | Ember',
     version: '<version from package.json file>',
@@ -67,7 +72,7 @@ Please add a JSON object for each component in these files.
 ```
 
 `install` can be a single object or an array of objects. In most cases, it will be a single object with only `npm` details.
-`demo` can have `repl` as `custom` or `codepen`
+`demo` can have `repl` as `custom`, `codepen` or `expo`. Expo is primarily used for React Native component demos as those cannot be shown in a webpage.
 
 
 An example JSON is:
@@ -107,3 +112,7 @@ Commit message should have format:
   e.g. component(react): react-dates
 ```
 
+
+
+### For React Native
+Since React Native components cannot be demoed in a web page, expo.io is used to demo such components. Mostly the creator of a React Native component will provide a expo url. Please fill in those details in JSON in `react-native-components.ts` as per format above. Also save the QR Code as a png file in `src/assets/qr-codes` folder and provide the name of the image in the JSON.
