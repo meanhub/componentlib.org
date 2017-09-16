@@ -108,4 +108,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/michaelbromley/ngx-pagination',
     keywords: ['pagination', 'controls', 'page', 'component']
   },
+  {
+    id: 5,
+    name: 'ngx-modialog',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-modialog'
+    }],
+    source: {
+      domain: 'github',
+      url: 'shlomiassaf/ngx-modialog'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'lV7zsw7Yqossgs9JOfQU'
+    },
+    framework: 'Angular 2+',
+    version: '3.0.4',
+    license: 'MIT',
+    details: 'http://shlomiassaf.github.io/ngx-modialog/#',
+    keywords: ['modal', 'dialog']
+  },
 ];
