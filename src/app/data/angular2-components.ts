@@ -213,4 +213,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://jaspero.co/resources/projects/ng-notifications',
     keywords: ['angular2', 'notifications', 'toasts']
   },
+  {
+    id: 10,
+    name: 'angular-notifier',
+    install: [{
+      packager: 'npm',
+      url: 'angular-notifier'
+    }],
+    source: {
+      domain: 'github',
+      url: 'dominique-mueller/angular-notifier'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'b3xiPr'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/dominique-mueller/angular-notifier',
+    keywords: ['angular', 'angular2', 'notifications', 'notifier', 'toast', 'angular4', 'angular-component']
+  },
 ];
