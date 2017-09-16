@@ -469,5 +469,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://griddlegriddle.github.io/Griddle/docs/',
     keywords: ['tabs']
+  },
+  {
+    id: 22,
+    name: 'react-bootstrap-table',
+    install: {
+      packager: 'npm',
+      url: 'react-bootstrap-table'
+    },
+    source: {
+      domain: 'github',
+      url: 'AllenFang/react-bootstrap-table'
+    },
+    demo: {
+      repl: 'cusotm',
+      src: 'http://allenfang.github.io/react-bootstrap-table/example.html#basic'
+    },
+    framework: 'React',
+    version: '4.0.4',
+    license: 'MIT',
+    details: 'http://allenfang.github.io/react-bootstrap-table/start.html',
+    keywords: ['tabs']
   }
 ];
