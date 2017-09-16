@@ -234,4 +234,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/dominique-mueller/angular-notifier',
     keywords: ['angular', 'angular2', 'notifications', 'notifier', 'toast', 'angular4', 'angular-component']
   },
+  {
+    id: 11,
+    name: 'angular-confirmation-popover',
+    install: [{
+      packager: 'npm',
+      url: 'angular-confirmation-popover'
+    }],
+    source: {
+      domain: 'github',
+      url: 'mattlewis92/angular-confirmation-popover'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mattlewis92.github.io/angular-confirmation-popover/'
+    },
+    framework: 'Angular 2+',
+    version: '3.2.0',
+    license: 'MIT',
+    details: 'https://mattlewis92.github.io/angular-confirmation-popover/docs/',
+    keywords: ['angular', 'angular2', 'angular4', 'bootstrap', 'popover', 'confirm', 'confirmation']
+  },
 ];
