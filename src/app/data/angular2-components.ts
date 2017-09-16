@@ -171,4 +171,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/alexcastillo/ng2-notifications',
     keywords: ['angular', 'notifications', 'push-notifications']
   },
+  {
+    id: 8,
+    name: 'ngx-toastr',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-toastr'
+    }],
+    source: {
+      domain: 'github',
+      url: 'scttcper/ngx-toastr'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://scttcper.github.io/ngx-toastr/'
+    },
+    framework: 'Angular 2+',
+    version: '6.2.0',
+    license: 'MIT',
+    details: 'https://github.com/scttcper/ngx-toastr',
+    keywords: ['toastr', 'angular', 'typescript', 'ngmodule', 'aot-compilation', 'angular2']
+  },
 ];
