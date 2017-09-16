@@ -192,4 +192,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/scttcper/ngx-toastr',
     keywords: ['toastr', 'angular', 'typescript', 'ngmodule', 'aot-compilation', 'angular2']
   },
+  {
+    id: 9,
+    name: 'angular2-notifications',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-notifications'
+    }],
+    source: {
+      domain: 'github',
+      url: 'flauc/angular2-notifications'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jaspero.co/resources/projects/ng-notifications'
+    },
+    framework: 'Angular 2+',
+    version: '0.7.7',
+    license: 'MIT',
+    details: 'https://jaspero.co/resources/projects/ng-notifications',
+    keywords: ['angular2', 'notifications', 'toasts']
+  },
 ];
