@@ -482,13 +482,34 @@ export const REACT_COMPONENTS: any[] = [
       url: 'AllenFang/react-bootstrap-table'
     },
     demo: {
-      repl: 'cusotm',
+      repl: 'custom',
       src: 'http://allenfang.github.io/react-bootstrap-table/example.html#basic'
     },
     framework: 'React',
     version: '4.0.4',
     license: 'MIT',
     details: 'http://allenfang.github.io/react-bootstrap-table/start.html',
+    keywords: ['tabs']
+  },
+  {
+    id: 23,
+    name: 'react-data-components',
+    install: {
+      packager: 'npm',
+      url: 'react-data-components'
+    },
+    source: {
+      domain: 'github',
+      url: 'carlosrocha/react-data-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://carlosrocha.xyz/react-data-components/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/carlosrocha/react-data-components',
     keywords: ['tabs']
   }
 ];
