@@ -129,4 +129,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://shlomiassaf.github.io/ngx-modialog/#',
     keywords: ['modal', 'dialog']
   },
+  {
+    id: 6,
+    name: 'ng2-bs3-modal',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-bs3-modal'
+    }],
+    source: {
+      domain: 'github',
+      url: 'dougludlow/ng2-bs3-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://dougludlow.github.io/ng2-bs3-modal/'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.4',
+    license: 'ISC',
+    details: 'https://github.com/dougludlow/ng2-bs3-modal',
+    keywords: ['angular', 'angular2', 'modal', 'ng2-bs3-modal', 'angular-component']
+  },
 ];
