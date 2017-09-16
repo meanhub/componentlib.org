@@ -448,5 +448,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.ag-grid.com/best-react-data-grid/#gsc.tab=0',
     keywords: ['tabs']
+  },
+  {
+    id: 21,
+    name: 'griddle-react',
+    install: {
+      packager: 'npm',
+      url: 'griddle-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'GriddleGriddle/Griddle'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://griddlegriddle.github.io/Griddle/'
+    },
+    framework: 'React',
+    version: '1.9.0',
+    license: 'MIT',
+    details: 'http://griddlegriddle.github.io/Griddle/docs/',
+    keywords: ['tabs']
   }
 ];
