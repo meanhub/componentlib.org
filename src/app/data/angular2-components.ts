@@ -40,5 +40,72 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://valor-software.com/ng2-charts/',
     keywords: ['chart', 'charts', 'radar', 'line', 'bar']
-  }
+  },
+  {
+    id: 2,
+
+    name: 'ng2-toasty',
+    install: {
+      packager: 'npm',
+      url: 'ng2-toasty'
+    },
+    source: {
+      domain: 'github',
+      url: 'akserg/ng2-toasty'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'M2rQVb'
+    },
+    framework: 'AngularJS 2+',
+    version: '0.0.0-semantically-released',
+    license: 'MIT',
+    details: 'https://github.com/akserg/ng2-toasty',
+    keywords: [ "angular", "angular2","toasty","growl"]
+
+  },
+  {
+    id: 3,
+
+    name: 'angular2-datatable',
+    install: {
+      packager: 'npm',
+      url: 'angular2-datatable'
+    },
+    source: {
+      domain: 'github',
+      url: 'mariuszfoltak/angular2-datatable'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'Xp72TM'
+    },
+    framework: 'AngularJS 2+',
+    version: '0.0.0-semantically-released',
+    license: 'MIT',
+    details: 'https://github.com/mariuszfoltak/angular2-datatable',
+    keywords: [ "angular", "angular2","datatable","filter"]
+
+  },
+  {
+    id: 4,
+    name: 'ng2-pagination',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-pagination'
+    }],
+    source: {
+      domain: 'github',
+      url: 'michaelbromley/ngx-pagination'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'JVQMPvV8z2brCIzdG3N4'
+    },
+    framework: 'Angular 2+',
+    version: '2.3.0',
+    license: 'MIT',
+    details: 'https://github.com/michaelbromley/ngx-pagination',
+    keywords: ['pagination', 'controls', 'page', 'component']
+  },
 ];
