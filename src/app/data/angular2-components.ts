@@ -150,4 +150,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/dougludlow/ng2-bs3-modal',
     keywords: ['angular', 'angular2', 'modal', 'ng2-bs3-modal', 'angular-component']
   },
+  {
+    id: 7,
+    name: 'ng2-notifications',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-notifications'
+    }],
+    source: {
+      domain: 'github',
+      url: 'alexcastillo/ng2-notifications'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'cHFcMsvL8lGX9Pnm4UVl'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/alexcastillo/ng2-notifications',
+    keywords: ['angular', 'notifications', 'push-notifications']
+  },
 ];
