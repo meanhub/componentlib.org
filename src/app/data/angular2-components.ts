@@ -62,11 +62,9 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/akserg/ng2-toasty',
     keywords: [ "angular", "angular2","toasty","growl"]
-
   },
   {
     id: 3,
-
     name: 'angular2-datatable',
     install: {
       packager: 'npm',
@@ -81,10 +79,9 @@ export const ANGULAR_COMPONENTS: any[] = [
       id: 'Xp72TM'
     },
     framework: 'AngularJS 2+',
-    version: '0.0.0-semantically-released',
+    version: '0.6.0',
     license: 'MIT',
     details: 'https://github.com/mariuszfoltak/angular2-datatable',
     keywords: [ "angular", "angular2","datatable","filter"]
-
   }
 ];

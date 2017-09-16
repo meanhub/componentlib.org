@@ -427,5 +427,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://romainberger.github.io/react-portal-tooltip',
     keywords: ['tabs']
+  },
+  {
+    id: 20,
+    name: 'ag-grid',
+    install: {
+      packager: 'npm',
+      url: 'ag-grid-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'ag-grid/ag-grid'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'MmesRzj3eVZC0GgFCngr'
+    },
+    framework: 'React',
+    version: '13.1.2',
+    license: 'MIT',
+    details: 'https://www.ag-grid.com/best-react-data-grid/#gsc.tab=0',
+    keywords: ['tabs']
   }
 ];
