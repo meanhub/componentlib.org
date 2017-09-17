@@ -418,4 +418,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://angular2-tree.readme.io/',
     keywords: ['ng', 'angular', 'ng2', 'angular2', 'tree', 'treeview', 'tree-view', 'angular2-tree', 'angular-tree', 'angular tree', 'angular2 tree', 'ng2-tree', 'ng2tree', 'ng2 tree', 'ngtree', 'ng-tree', 'angular-treeview', 'angular2-treeview', 'angular-tree-component', 'angular tree component', 'angular2-tree-component', 'angular2 tree component']
   },
+  {
+    id: 19,
+    name: 'ng2-tree',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-tree'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-tree'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-tree/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-alpha.10',
+    license: 'MIT',
+    details: 'https://github.com/valor-software/ng2-tree',
+    keywords: ['tree', 'ng2', 'angular2', 'ng2-tree', 'branch', 'tree-view', 'branchy', 'angular2-tree-view', 'expand', 'collapse', 'recursive']
+  },
 ];
