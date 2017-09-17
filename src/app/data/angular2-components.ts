@@ -502,4 +502,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/moff/angular2-ladda',
     keywords: ['angular', 'angular2', 'ng2', 'ladda', 'module', 'package', 'typescript']
   },
+  {
+    id: 23,
+    name: 'ng-spin-kit',
+    install: [{
+      packager: 'npm',
+      url: 'ng-spin-kit'
+    }],
+    source: {
+      domain: 'github',
+      url: 'WoltersKluwerPL/ng-spin-kit'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://tobiasahlin.com/spinkit/'
+    },
+    framework: 'Angular 2+',
+    version: '5.1.1',
+    license: 'MIT',
+    details: 'https://github.com/WoltersKluwerPL/ng-spin-kit',
+    keywords: ['javascript', 'angular', 'angular2', 'spinner', 'ng-spin-kit', 'spin-kit', 'spinners', 'ng2', 'ng']
+  },
 ];
