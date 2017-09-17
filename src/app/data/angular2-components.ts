@@ -565,4 +565,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/arkon/ng-sidebar',
     keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'sidebar', 'component']
   },
+  {
+    id: 26,
+    name: 'ngx-charts',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-charts'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-charts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-vertical'
+    },
+    framework: 'Angular 2+',
+    version: '6.0.2',
+    license: 'MIT',
+    details: 'https://swimlane.gitbooks.io/ngx-charts/content/',
+    keywords: ['angular2', 'angularjs', 'charts', 'charting', 'angular', 'd3', 'viz', 'graph', 'svg', 'dataviz', 'viz', 'graph', 'd3.js', 'd3js', 'angular4']
+  },
 ];
