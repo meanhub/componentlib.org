@@ -628,4 +628,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/krispo/ng2-nvd3',
     keywords: ['angular2', 'ng2', 'nvd3', 'd3', 'component', 'directive']
   },
+  {
+    id: 29,
+    name: 'angular-google-maps',
+    install: [{
+      packager: 'npm',
+      url: '@agm/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'SebastianM/angular-google-maps'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'YX7W20'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.1',
+    license: 'MIT',
+    details: 'https://angular-maps.com/',
+    keywords: ['angular', 'ng', 'google-maps', 'maps', 'google', 'gmaps', 'ng2', 'angular2']
+  },
 ];
