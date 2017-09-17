@@ -523,4 +523,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/WoltersKluwerPL/ng-spin-kit',
     keywords: ['javascript', 'angular', 'angular2', 'spinner', 'ng-spin-kit', 'spin-kit', 'spinners', 'ng2', 'ng']
   },
+  {
+    id: 24,
+    name: 'ngx-progressbar',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-progressbar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'MurhafSousli/ngx-progressbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://murhafsousli.github.io/ngx-progressbar/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.8',
+    license: 'MIT',
+    details: 'https://murhafsousli.github.io/ngx-progressbar/',
+    keywords: ['angular', 'progress', 'progressbar', 'loading', 'xhr', 'loader', 'slim', 'youtube', 'medium', 'github']
+  },
 ];
