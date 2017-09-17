@@ -616,5 +616,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/jasonslyvia/react-lazyload',
     keywords: ['lazyload']
+  },
+  {
+    id: 28,
+    name: 'react-infinity',
+    install: {
+      packager: 'npm',
+      url: 'react-infinity'
+    },
+    source: {
+      domain: 'github',
+      url: 'nmn/react-infinity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://scribbler.co/'
+    },
+    framework: 'React',
+    version: '1.2.1',
+    license: 'MIT',
+    details: 'https://github.com/nmn/react-infinity',
+    keywords: ['lazyload']
   }
 ];
