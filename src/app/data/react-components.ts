@@ -447,7 +447,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '13.1.2',
     license: 'MIT',
     details: 'https://www.ag-grid.com/best-react-data-grid/#gsc.tab=0',
-    keywords: ['tabs']
+    keywords: ['table','grid']
   },
   {
     id: 21,
@@ -468,7 +468,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.9.0',
     license: 'MIT',
     details: 'http://griddlegriddle.github.io/Griddle/docs/',
-    keywords: ['tabs']
+    keywords: ['table','grid']
   },
   {
     id: 22,
@@ -489,7 +489,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.0.4',
     license: 'MIT',
     details: 'http://allenfang.github.io/react-bootstrap-table/start.html',
-    keywords: ['tabs']
+    keywords: ['table','bootstrap']
   },
   {
     id: 23,
@@ -510,6 +510,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/carlosrocha/react-data-components',
-    keywords: ['tabs']
+    keywords: ['table','data']
+  },
+  {
+    id: 24,
+    name: 'react-data-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-data-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'adazzle/react-data-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://adazzle.github.io/react-data-grid/examples.html#/all-features'
+    },
+    framework: 'React',
+    version: '2.0.59',
+    license: 'MIT',
+    details: 'http://adazzle.github.io/react-data-grid/',
+    keywords: ['table','grid']
   }
 ];
