@@ -255,4 +255,26 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://mattlewis92.github.io/angular-confirmation-popover/docs/',
     keywords: ['angular', 'angular2', 'angular4', 'bootstrap', 'popover', 'confirm', 'confirmation']
   },
+
+  {
+    id: 12,
+    name: 'ngx-datatable',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-datatable'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-datatable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://swimlane.github.io/ngx-datatable/'
+    },
+    framework: 'Angular 2+',
+    version: '10.2.3',
+    license: 'MIT',
+    details: 'https://swimlane.gitbooks.io/ngx-datatable/content/',
+    keywords: ['angularjs', 'angular', 'javascript', 'angular2', 'datatable', 'grid', 'table']
+  },
 ];
