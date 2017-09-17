@@ -322,4 +322,31 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/ssuperczynski/ng2-easy-table',
     keywords: ['angular2', 'tables']
   },
+  {
+    id: 15,
+    name: 'ng2-handsontable',
+    install: [
+      {
+        packager: 'npm',
+        url: 'ng2-handsontable'
+      },
+      {
+        packager: 'bower',
+        url: 'handsontable'
+      }
+    ],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-handsontable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-handsontable/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://valor-software.com/ng2-handsontable/',
+    keywords: ['angular', 'angular2', 'angularjs', 'handsontable', 'table']
+  },
 ];
