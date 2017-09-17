@@ -844,8 +844,29 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.7.2',
-    license: 'IT',
+    license: 'MIT',
     details: 'https://github.com/davidtheclark/react-aria-modal',
+    keywords: ['modal','overlays']
+  },
+  {
+    id: 39,
+    name: 'react-notification-system',
+    install: {
+      packager: 'npm',
+      url: 'react-notification-system'
+    },
+    source: {
+      domain: 'github',
+      url: 'igorprado/react-notification-system'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://igorprado.com/react-notification-system/'
+    },
+    framework: 'React',
+    version: '0.2.15',
+    license: 'MIT',
+    details: 'https://github.com/igorprado/react-notification-system',
     keywords: ['modal','overlays']
   }
 ];
