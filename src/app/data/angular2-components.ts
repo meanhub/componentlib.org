@@ -901,4 +901,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://murhafsousli.github.io/ngx-sharebuttons/',
     keywords: ['angular', 'sharebuttons', 'share', 'buttons', 'facebook', 'twitter', 'pinterest', 'tumblr', 'stumbleupon', 'googleplus', 'linkedin', 'reddit']
   },
+  {
+    id: 42,
+    name: 'ng2-pdf-viewer',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-pdf-viewer'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ng2-pdf-viewer'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ng2-pdf-viewer/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.6',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ng2-pdf-viewer',
+    keywords: ['angular', 'pdf', 'angular2', 'angular-pdf', 'angular2-pdf', 'ng2', 'ng2-pdf']
+  },
 ];
