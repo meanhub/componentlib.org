@@ -742,5 +742,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-bootstrap/react-overlays',
     keywords: ['modal','overlays']
+  },
+  {
+    id: 34,
+    name: 'Boron',
+    install: {
+      packager: 'npm',
+      url: 'boron'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/boron'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/boron/'
+    },
+    framework: 'React',
+    version: '0.2.4',
+    license: 'MIT',
+    details: 'http://madscript.com/boron/',
+    keywords: ['modal','overlays']
   }
 ];
