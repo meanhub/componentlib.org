@@ -649,4 +649,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://angular-maps.com/',
     keywords: ['angular', 'ng', 'google-maps', 'maps', 'google', 'gmaps', 'ng2', 'angular2']
   },
+  {
+    id: 30,
+    name: 'map',
+    install: [{
+      packager: 'npm',
+      url: '@ngui/map'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng2-ui/map'
+    },
+    demo:  {
+      repl: 'plunker',
+      id: '6e1qWK'
+    },
+    framework: 'Angular 2+',
+    version: '0.18.6',
+    license: 'MIT',
+    details: 'https://github.com/ng2-ui/map',
+    keywords: ['angular2', 'google', 'map']
+  },
 ];
