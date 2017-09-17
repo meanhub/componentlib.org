@@ -460,4 +460,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/akserg/ng2-slim-loading-bar',
     keywords: ['angular', 'angular2', 'slim', 'loading', 'bar', 'progress']
   },
+  {
+    id: 21,
+    name: 'angular2-busy',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-busy'
+    }],
+    source: {
+      domain: 'github',
+      url: 'devyumao/angular2-busy'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://devyumao.github.io/angular2-busy/demo/asset/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.4',
+    license: 'MIT',
+    details: 'https://github.com/devyumao/angular2-busy',
+    keywords: ['angular', 'angular2', 'busy', 'loading', 'angular2-busy', 'ng2-busy']
+  },
 ];
