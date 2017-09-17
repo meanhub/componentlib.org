@@ -700,5 +700,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/bvaughn/react-virtualized/tree/master/docs#documentation',
     keywords: ['infinite','list','grid']
+  },
+  {
+    id: 32,
+    name: 'react-dock',
+    install: {
+      packager: 'npm',
+      url: 'react-dock'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexkuz/react-dock'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alexkuz.github.io/react-dock/demo/'
+    },
+    framework: 'React',
+    version: '0.2.4',
+    license: 'MIT',
+    details: 'https://github.com/alexkuz/react-dock',
+    keywords: ['dock']
   }
 ];
