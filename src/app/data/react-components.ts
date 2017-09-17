@@ -867,6 +867,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.2.15',
     license: 'MIT',
     details: 'https://github.com/igorprado/react-notification-system',
-    keywords: ['modal','overlays']
+    keywords: ['notification']
+  },
+  {
+    id: 40,
+    name: 'react-s-alert',
+    install: {
+      packager: 'npm',
+      url: 'react-s-alert'
+    },
+    source: {
+      domain: 'github',
+      url: 'juliancwirko/react-s-alert'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-s-alert.jsdemo.be/'
+    },
+    framework: 'React',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://github.com/juliancwirko/react-s-alert',
+    keywords: ['notification']
   }
 ];
