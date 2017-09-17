@@ -349,4 +349,31 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ng2-handsontable/',
     keywords: ['angular', 'angular2', 'angularjs', 'handsontable', 'table']
   },
+  {
+    id: 16,
+    name: 'ag-grid-angular',
+    install: [
+      {
+        packager: 'npm',
+        url: 'ag-grid-angular'
+      },
+      {
+        packager: 'bower',
+        url: 'ag-grid-angular'
+      }
+    ],
+    source: {
+      domain: 'github',
+      url: 'ag-grid/ag-grid-angular'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.ag-grid.com/example-runner/angular.php?section=best-angular-2-data-grid&example=rich-grid-example&fontawesome=1'
+    },
+    framework: 'Angular 2+',
+    version: '13.1.1',
+    license: 'MIT',
+    details: 'https://www.ag-grid.com/angular-getting-started/?framework=all#gsc.tab=0',
+    keywords: ['grid', 'data', 'table', 'angular']
+  },
 ];
