@@ -817,4 +817,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/isaacplmann/ngx-contextmenu',
     keywords: ['angular2', 'contextmenu', 'angular2-contextmenu', 'ngx-contextmenu', 'ngx', 'ng2', 'ng2-contextmenu']
   },
+  {
+    id: 38,
+    name: 'angular2-moment',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-moment'
+    }],
+    source: {
+      domain: 'github',
+      url: 'urish/angular2-moment'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'ziBJ0mftSjnz0SrYPwbo'
+    },
+    framework: 'Angular 2+',
+    version: '1.7.0',
+    license: 'MIT',
+    details: 'https://github.com/urish/angular2-moment',
+    keywords: ['angular2', 'momentjs']
+  },
 ];
