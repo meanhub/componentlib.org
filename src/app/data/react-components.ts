@@ -721,5 +721,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/alexkuz/react-dock',
     keywords: ['dock']
+  },
+  {
+    id: 33,
+    name: 'react-overlays',
+    install: {
+      packager: 'npm',
+      url: 'react-overlays'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-bootstrap/react-overlays'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-bootstrap.github.io/react-overlays/#modals'
+    },
+    framework: 'React',
+    version: '0.8.1',
+    license: 'MIT',
+    details: 'https://github.com/react-bootstrap/react-overlays',
+    keywords: ['modal','overlays']
   }
 ];
