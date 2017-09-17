@@ -784,5 +784,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/reactjs/react-modal',
     keywords: ['modal','overlays']
+  },
+  {
+    id: 36,
+    name: 'react-skylight',
+    install: {
+      packager: 'npm',
+      url: 'react-skylight'
+    },
+    source: {
+      domain: 'github',
+      url: 'marcio/react-skylight'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://marcio.github.io/react-skylight/'
+    },
+    framework: 'React',
+    version: '0.4.2',
+    license: 'MIT',
+    details: 'https://github.com/marcio/react-skylight',
+    keywords: ['modal','overlays']
   }
 ];
