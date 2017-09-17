@@ -712,4 +712,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/orizens/ngx-infinite-scroll',
     keywords: ['angular', 'angular2', 'ui', 'utility', 'angular4', 'directive', 'scroll', 'infinite-scroll']
   },
+  {
+    id: 33,
+    name: 'parallax-scroll',
+    install: [{
+      packager: 'npm',
+      url: '@ngui/parallax-scroll'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng2-ui/parallax-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rawgit.com/ng2-ui/parallax-scroll/master/app/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '0.5.1',
+    license: 'MIT',
+    details: 'https://ng2-ui.github.io/dist/#/parallax',
+    keywords: ['parallax', 'scroll', 'background']
+  },
 ];
