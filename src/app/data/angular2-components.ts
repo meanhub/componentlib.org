@@ -838,4 +838,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/urish/angular2-moment',
     keywords: ['angular2', 'momentjs']
   },
+  {
+    id: 39,
+    name: 'videogular2',
+    install: [{
+      packager: 'npm',
+      url: 'videogular2'
+    }],
+    source: {
+      domain: 'github',
+      url: 'videogular/videogular2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://videogular.github.io/videogular2-showroom/#/'
+    },
+    framework: 'Angular 2+',
+    version: '5.5.1',
+    license: 'MIT',
+    details: 'https://videogular.github.io/videogular2/',
+    keywords: ['video', 'player', 'framework', 'angular2', 'javascript']
+  },
 ];
