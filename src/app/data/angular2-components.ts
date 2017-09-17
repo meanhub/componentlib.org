@@ -481,4 +481,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/devyumao/angular2-busy',
     keywords: ['angular', 'angular2', 'busy', 'loading', 'angular2-busy', 'ng2-busy']
   },
+  {
+    id: 22,
+    name: 'angular2-ladda',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-ladda'
+    }],
+    source: {
+      domain: 'github',
+      url: 'moff/angular2-ladda'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://lab.hakim.se/ladda/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.1',
+    license: 'MIT',
+    details: 'https://github.com/moff/angular2-ladda',
+    keywords: ['angular', 'angular2', 'ng2', 'ladda', 'module', 'package', 'typescript']
+  },
 ];
