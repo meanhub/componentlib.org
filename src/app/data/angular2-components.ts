@@ -376,4 +376,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.ag-grid.com/angular-getting-started/?framework=all#gsc.tab=0',
     keywords: ['grid', 'data', 'table', 'angular']
   },
+  {
+    id: 17,
+    name: 'ng2-smart-table',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-smart-table'
+    }],
+    source: {
+      domain: 'github',
+      url: 'akveo/ng2-smart-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://akveo.github.io/ng2-smart-table/#/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.2',
+    license: 'MIT',
+    details: 'https://akveo.github.io/ng2-smart-table/#/',
+    keywords: ['angular', 'typescript', 'table', 'akveo']
+  },
 ];
