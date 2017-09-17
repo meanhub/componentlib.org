@@ -805,5 +805,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/marcio/react-skylight',
     keywords: ['modal','overlays']
+  },
+  {
+    id: 36,
+    name: 'react-modal-box',
+    install: {
+      packager: 'npm',
+      url: 'react-modal-box'
+    },
+    source: {
+      domain: 'github',
+      url: 'sadiqevani/react-modal-box'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.sadiqevani.com/react-modal-box/'
+    },
+    framework: 'React',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://github.com/sadiqevani/react-modal-box',
+    keywords: ['modal','overlays']
   }
 ];
