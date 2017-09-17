@@ -670,4 +670,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/ng2-ui/map',
     keywords: ['angular2', 'google', 'map']
   },
+  {
+    id: 31,
+    name: 'od-virtualscroll',
+    install: [{
+      packager: 'npm',
+      url: 'od-virtualscroll'
+    }],
+    source: {
+      domain: 'github',
+      url: 'dinony/od-virtualscroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dinony.github.io/od-vsstatic/#/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/dinony/od-virtualscroll',
+    keywords: ['angular', 'angular4', 'angular 4', 'rxjs', 'observable', 'scroll', 'scroll component', 'scrolling', 'virtual scroll', 'virtual scrolling', 'infinite scroll', 'infinite scrolling', 'efficient scroll', 'efficient scrolling', 'tiles', 'tiling', 'tile view']
+  },
 ];
