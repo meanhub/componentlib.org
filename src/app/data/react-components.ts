@@ -553,5 +553,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/davidguttman/react-pivot',
     keywords: ['table','grid']
+  },
+  {
+    id: 25,
+    name: 'autoresponsive-react',
+    install: {
+      packager: 'npm',
+      url: 'autoresponsive-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'xudafeng/autoresponsive-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://xudafeng.github.io/autoresponsive-react/'
+    },
+    framework: 'React',
+    version: '1.1.x',
+    license: 'MIT',
+    details: 'https://github.com/xudafeng/autoresponsive-react',
+    keywords: ['responsive','grid']
   }
 ];
