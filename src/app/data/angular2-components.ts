@@ -607,4 +607,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/gevgeny/angular2-highcharts',
     keywords: ['angular', 'charts', 'highcharts', 'highstock', 'highmaps']
   },
+  {
+    id: 28,
+    name: 'ng2-nvd3',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-nvd3'
+    }],
+    source: {
+      domain: 'github',
+      url: 'krispo/ng2-nvd3'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'T4i7Zh'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/krispo/ng2-nvd3',
+    keywords: ['angular2', 'ng2', 'nvd3', 'd3', 'component', 'directive']
+  },
 ];
