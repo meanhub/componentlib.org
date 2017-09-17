@@ -586,4 +586,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.gitbooks.io/ngx-charts/content/',
     keywords: ['angular2', 'angularjs', 'charts', 'charting', 'angular', 'd3', 'viz', 'graph', 'svg', 'dataviz', 'viz', 'graph', 'd3.js', 'd3js', 'angular4']
   },
+  {
+    id: 27,
+    name: 'angular2-highcharts',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-highcharts'
+    }],
+    source: {
+      domain: 'github',
+      url: 'gevgeny/angular2-highcharts'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'IuwjpPB1YQW1T7i4B8SZ'
+    },
+    framework: 'Angular 2+',
+    version: '0.5.5',
+    license: 'MIT',
+    details: 'https://github.com/gevgeny/angular2-highcharts',
+    keywords: ['angular', 'charts', 'highcharts', 'highstock', 'highmaps']
+  },
 ];
