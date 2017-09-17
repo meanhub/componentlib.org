@@ -595,5 +595,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://facebook.github.io/fixed-data-table/getting-started.html',
     keywords: ['datatable']
+  },
+  {
+    id: 27,
+    name: 'react-lazyload',
+    install: {
+      packager: 'npm',
+      url: 'react-lazyload'
+    },
+    source: {
+      domain: 'github',
+      url: 'jasonslyvia/react-lazyload'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jasonslyvia.github.io/react-lazyload/examples/#/?_k=x1lv0d'
+    },
+    framework: 'React',
+    version: '2.2.7',
+    license: 'MIT',
+    details: 'https://github.com/jasonslyvia/react-lazyload',
+    keywords: ['lazyload']
   }
 ];
