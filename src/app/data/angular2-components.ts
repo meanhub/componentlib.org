@@ -397,4 +397,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://akveo.github.io/ng2-smart-table/#/',
     keywords: ['angular', 'typescript', 'table', 'akveo']
   },
+  {
+    id: 18,
+    name: 'angular-tree-component',
+    install: [{
+      packager: 'npm',
+      url: 'angular-tree-component'
+    }],
+    source: {
+      domain: 'github',
+      url: '500tech/angular-tree-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://angular2-tree.readme.io/'
+    },
+    framework: 'Angular 2+',
+    version: '5.0.0',
+    license: 'MIT',
+    details: 'https://angular2-tree.readme.io/',
+    keywords: ['ng', 'angular', 'ng2', 'angular2', 'tree', 'treeview', 'tree-view', 'angular2-tree', 'angular-tree', 'angular tree', 'angular2 tree', 'ng2-tree', 'ng2tree', 'ng2 tree', 'ngtree', 'ng-tree', 'angular-treeview', 'angular2-treeview', 'angular-tree-component', 'angular tree component', 'angular2-tree-component', 'angular2 tree component']
+  },
 ];
