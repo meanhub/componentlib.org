@@ -754,4 +754,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/zefoy/ngx-perfect-scrollbar',
     keywords: ['scroll', 'scrollbar', 'perfect scrollbar']
   },
+  {
+    id: 35,
+    name: 'ngx-swiper-wrapper',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-swiper-wrapper'
+    }],
+    source: {
+      domain: 'github',
+      url: 'zefoy/ngx-swiper-wrapper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zefoy.github.io/ngx-swiper-wrapper/'
+    },
+    framework: 'Angular 2+',
+    version: '4.6.2',
+    license: 'MIT',
+    details: 'https://github.com/zefoy/ngx-swiper-wrapper',
+    keywords: ['swiper', 'angular', 'carousel']
+  },
 ];
