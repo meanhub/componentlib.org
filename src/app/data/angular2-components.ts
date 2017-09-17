@@ -84,5 +84,26 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/mariuszfoltak/angular2-datatable',
     keywords: [ "angular", "angular2","datatable","filter"]
-  }
+  },
+  {
+    id: 4,
+    name: 'ng2-pagination',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-pagination'
+    }],
+    source: {
+      domain: 'github',
+      url: 'michaelbromley/ngx-pagination'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'JVQMPvV8z2brCIzdG3N4'
+    },
+    framework: 'Angular 2+',
+    version: '2.3.0',
+    license: 'MIT',
+    details: 'https://github.com/michaelbromley/ngx-pagination',
+    keywords: ['pagination', 'controls', 'page', 'component']
+    }
 ];
