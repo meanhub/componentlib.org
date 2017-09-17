@@ -277,4 +277,28 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.gitbooks.io/ngx-datatable/content/',
     keywords: ['angularjs', 'angular', 'javascript', 'angular2', 'datatable', 'grid', 'table']
   },
+  {
+    id: 13,
+    name: 'ng2-table',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-table'
+    }, {
+      packager: 'download',
+      url: 'https://github.com/valor-software/ng2-table/archive/master.zip'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-table/'
+    },
+    framework: 'Angular 2+',
+    version: '1.3.2',
+    license: 'MIT',
+    details: 'https://valor-software.com/ng2-table/',
+    keywords: ['angular2', 'angularjs', 'table', 'filter', 'sort']
+  },
 ];
