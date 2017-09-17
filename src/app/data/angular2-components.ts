@@ -922,4 +922,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/VadimDez/ng2-pdf-viewer',
     keywords: ['angular', 'pdf', 'angular2', 'angular-pdf', 'angular2-pdf', 'ng2', 'ng2-pdf']
   },
+  {
+    id: 43,
+    name: 'ng2-markdown-to-html',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-markdown-to-html'
+    }],
+    source: {
+      domain: 'github',
+      url: 'jfcere/ng2-markdown-to-html'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jfcere.github.io/ng2-markdown-to-html/#variable-binding'
+    },
+    framework: 'Angular 2+',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://jfcere.github.io/ng2-markdown-to-html/',
+    keywords: ['angular', 'angular2', 'angular-2', 'markdown', 'markdown-to-html', 'marked', 'ng2', 'parser', 'prism', 'prism.js']
+  },
 ];
