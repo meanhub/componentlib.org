@@ -943,4 +943,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://jfcere.github.io/ng2-markdown-to-html/',
     keywords: ['angular', 'angular2', 'angular-2', 'markdown', 'markdown-to-html', 'marked', 'ng2', 'parser', 'prism', 'prism.js']
   },
+  {
+    id: 44,
+    name: 'ngx-no-animation-for-dinosaur',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-no-animation-for-dinosaur'
+    }],
+    source: {
+      domain: 'github',
+      url: 'maxisam/ngx-no-animation-for-dinosaur'
+    },
+    demo: {
+      repl: 'plunker',
+      id: '2RxkVjy1K3FgSxKycsEU'
+    },
+    framework: 'Angular 2+',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'https://github.com/maxisam/ngx-no-animation-for-dinosaur',
+    keywords: ['angular', 'animation']
+  },
 ];
