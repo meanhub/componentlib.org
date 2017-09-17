@@ -859,4 +859,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://videogular.github.io/videogular2/',
     keywords: ['video', 'player', 'framework', 'angular2', 'javascript']
   },
+  {
+    id: 40,
+    name: 'ng-inline-svg',
+    install: [{
+      packager: 'npm',
+      url: 'ng-inline-svg'
+    }],
+    source: {
+      domain: 'github',
+      url: 'arkon/ng-inline-svg'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://echeung.me/ng-inline-svg/'
+    },
+    framework: 'Angular 2+',
+    version: '4.0.1',
+    license: 'MIT',
+    details: 'https://github.com/arkon/ng-inline-svg',
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'svg', 'inline', 'inject', 'element']
+  },
 ];
