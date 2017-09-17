@@ -691,4 +691,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/dinony/od-virtualscroll',
     keywords: ['angular', 'angular4', 'angular 4', 'rxjs', 'observable', 'scroll', 'scroll component', 'scrolling', 'virtual scroll', 'virtual scrolling', 'infinite scroll', 'infinite scrolling', 'efficient scroll', 'efficient scrolling', 'tiles', 'tiling', 'tile view']
   },
+  {
+    id: 32,
+    name: 'ngx-infinite-scroll',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-infinite-scroll'
+    }],
+    source: {
+      domain: 'github',
+      url: 'orizens/ngx-infinite-scroll'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'DrEDetYnZkFxR7OWWrxS'
+    },
+    framework: 'Angular 2+',
+    version: '0.5.1',
+    license: 'MIT',
+    details: 'https://github.com/orizens/ngx-infinite-scroll',
+    keywords: ['angular', 'angular2', 'ui', 'utility', 'angular4', 'directive', 'scroll', 'infinite-scroll']
+  },
 ];
