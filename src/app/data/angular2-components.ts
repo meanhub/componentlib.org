@@ -880,4 +880,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/arkon/ng-inline-svg',
     keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'svg', 'inline', 'inject', 'element']
   },
+  {
+    id: 41,
+    name: 'ngx-sharebuttons',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-sharebuttons'
+    }],
+    source: {
+      domain: 'github',
+      url: 'MurhafSousli/ngx-sharebuttons'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://murhafsousli.github.io/ngx-sharebuttons/'
+    },
+    framework: 'Angular 2+',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://murhafsousli.github.io/ngx-sharebuttons/',
+    keywords: ['angular', 'sharebuttons', 'share', 'buttons', 'facebook', 'twitter', 'pinterest', 'tumblr', 'stumbleupon', 'googleplus', 'linkedin', 'reddit']
+  },
 ];
