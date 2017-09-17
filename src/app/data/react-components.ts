@@ -807,7 +807,7 @@ export const REACT_COMPONENTS: any[] = [
     keywords: ['modal','overlays']
   },
   {
-    id: 36,
+    id: 37,
     name: 'react-modal-box',
     install: {
       packager: 'npm',
@@ -825,6 +825,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.3',
     license: 'MIT',
     details: 'https://github.com/sadiqevani/react-modal-box',
+    keywords: ['modal','overlays']
+  },
+  {
+    id: 38,
+    name: 'react-aria-modal',
+    install: {
+      packager: 'npm',
+      url: 'react-aria-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidtheclark/react-aria-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidtheclark.github.io/react-aria-modal/demo/'
+    },
+    framework: 'React',
+    version: '2.7.2',
+    license: 'IT',
+    details: 'https://github.com/davidtheclark/react-aria-modal',
     keywords: ['modal','overlays']
   }
 ];
