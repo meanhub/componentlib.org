@@ -301,4 +301,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ng2-table/',
     keywords: ['angular2', 'angularjs', 'table', 'filter', 'sort']
   },
+  {
+    id: 14,
+    name: 'ng2-easy-table',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-easy-table'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ssuperczynski/ng2-easy-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://angular2-table.espeo.pl/'
+    },
+    framework: 'Angular 2+',
+    version: '0.1.18',
+    license: 'MIT',
+    details: 'https://github.com/ssuperczynski/ng2-easy-table',
+    keywords: ['angular2', 'tables']
+  },
 ];
