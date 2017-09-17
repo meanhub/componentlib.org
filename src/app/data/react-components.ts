@@ -763,5 +763,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://madscript.com/boron/',
     keywords: ['modal','overlays']
+  },
+  {
+    id: 35,
+    name: 'react-modal',
+    install: {
+      packager: 'npm',
+      url: 'react-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/react-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://codepen.io/claydiffrient/full/KNxgav/'
+    },
+    framework: 'React',
+    version: '0.2.4',
+    license: 'MIT',
+    details: 'https://github.com/reactjs/react-modal',
+    keywords: ['modal','overlays']
   }
 ];
