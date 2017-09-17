@@ -733,4 +733,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng2-ui.github.io/dist/#/parallax',
     keywords: ['parallax', 'scroll', 'background']
   },
+  {
+    id: 34,
+    name: 'ngx-perfect-scrollbar',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-perfect-scrollbar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'zefoy/ngx-perfect-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zefoy.github.io/ngx-perfect-scrollbar/'
+    },
+    framework: 'Angular 2+',
+    version: '4.6.2',
+    license: 'MIT',
+    details: 'https://github.com/zefoy/ngx-perfect-scrollbar',
+    keywords: ['scroll', 'scrollbar', 'perfect scrollbar']
+  },
 ];
