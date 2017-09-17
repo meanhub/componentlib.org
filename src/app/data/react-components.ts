@@ -532,5 +532,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://adazzle.github.io/react-data-grid/',
     keywords: ['table','grid']
+  },
+  {
+    id: 24,
+    name: 'ReactPivot',
+    install: {
+      packager: 'npm',
+      url: 'react-pivot'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidguttman/react-pivot'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidguttman.github.io/react-pivot/'
+    },
+    framework: 'React',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/davidguttman/react-pivot',
+    keywords: ['table','grid']
   }
 ];
