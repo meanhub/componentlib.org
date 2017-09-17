@@ -636,6 +636,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.2.1',
     license: 'MIT',
     details: 'https://github.com/nmn/react-infinity',
-    keywords: ['lazyload']
+    keywords: ['infinite']
+  },
+  {
+    id: 29,
+    name: 'react-infinite-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-infinite-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-infinite-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ggordan.com/post/react-infinite-grid.html'
+    },
+    framework: 'React',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/ggordan/react-infinite-grid',
+    keywords: ['infinite','grid']
   }
 ];
