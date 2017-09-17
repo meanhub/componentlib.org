@@ -439,4 +439,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/valor-software/ng2-tree',
     keywords: ['tree', 'ng2', 'angular2', 'ng2-tree', 'branch', 'tree-view', 'branchy', 'angular2-tree-view', 'expand', 'collapse', 'recursive']
   },
+  {
+    id: 20,
+    name: 'ng2-slim-loading-bar',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-slim-loading-bar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'akserg/ng2-slim-loading-bar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://akserg.github.io/ng2-webpack-demo/#/slim'
+    },
+    framework: 'Angular 2+',
+    version: '4.0.0',
+    license: 'MIT',
+    details: 'https://github.com/akserg/ng2-slim-loading-bar',
+    keywords: ['angular', 'angular2', 'slim', 'loading', 'bar', 'progress']
+  },
 ];
