@@ -796,4 +796,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng2-ui.github.io/dist/#/sticky',
     keywords: ['sticky', 'angular', 'ng2-ui']
   },
+  {
+    id: 37,
+    name: 'ngx-contextmenu',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-contextmenu'
+    }],
+    source: {
+      domain: 'github',
+      url: 'isaacplmann/ngx-contextmenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://isaacplmann.github.io/ngx-contextmenu/'
+    },
+    framework: 'Angular 2+',
+    version: '1.3.5',
+    license: 'MIT',
+    details: 'https://github.com/isaacplmann/ngx-contextmenu',
+    keywords: ['angular2', 'contextmenu', 'angular2-contextmenu', 'ngx-contextmenu', 'ngx', 'ng2', 'ng2-contextmenu']
+  },
 ];
