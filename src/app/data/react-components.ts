@@ -574,5 +574,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/xudafeng/autoresponsive-react',
     keywords: ['responsive','grid']
+  },
+  {
+    id: 26,
+    name: 'fixed-data-table',
+    install: {
+      packager: 'npm',
+      url: 'fixed-data-table'
+    },
+    source: {
+      domain: 'github',
+      url: 'facebook/fixed-data-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://facebook.github.io/fixed-data-table/example-object-data.html'
+    },
+    framework: 'React',
+    version: '0.6.4',
+    license: 'MIT',
+    details: 'https://facebook.github.io/fixed-data-table/getting-started.html',
+    keywords: ['datatable']
   }
 ];
