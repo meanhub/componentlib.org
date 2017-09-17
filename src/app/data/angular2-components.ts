@@ -544,4 +544,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://murhafsousli.github.io/ngx-progressbar/',
     keywords: ['angular', 'progress', 'progressbar', 'loading', 'xhr', 'loader', 'slim', 'youtube', 'medium', 'github']
   },
+  {
+    id: 25,
+    name: 'ng-sidebar',
+    install: [{
+      packager: 'npm',
+      url: 'ng-sidebar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'arkon/ng-sidebar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://echeung.me/ng-sidebar/'
+    },
+    framework: 'Angular 2+',
+    version: '6.0.2',
+    license: 'MIT',
+    details: 'https://github.com/arkon/ng-sidebar',
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'sidebar', 'component']
+  },
 ];
