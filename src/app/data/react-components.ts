@@ -647,7 +647,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     source: {
       domain: 'github',
-      url: 'react-infinite-grid'
+      url: 'ggordan/react-infinite-grid'
     },
     demo: {
       repl: 'custom',
@@ -658,5 +658,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ggordan/react-infinite-grid',
     keywords: ['infinite','grid']
+  },
+  {
+    id: 30,
+    name: 'ReactList',
+    install: {
+      packager: 'npm',
+      url: 'react-list'
+    },
+    source: {
+      domain: 'github',
+      url: 'orgsync/react-list'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://devblog.orgsync.com/react-list/'
+    },
+    framework: 'React',
+    version: '0.8.7',
+    license: 'MIT',
+    details: 'https://github.com/orgsync/react-list',
+    keywords: ['infinite','list']
   }
 ];
