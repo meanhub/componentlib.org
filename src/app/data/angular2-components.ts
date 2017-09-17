@@ -66,7 +66,6 @@ export const ANGULAR_COMPONENTS: any[] = [
   },
   {
     id: 3,
-
     name: 'angular2-datatable',
     install: {
       packager: 'npm',
@@ -85,7 +84,6 @@ export const ANGULAR_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/mariuszfoltak/angular2-datatable',
     keywords: [ "angular", "angular2","datatable","filter"]
-
   },
   {
     id: 4,
