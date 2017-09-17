@@ -775,4 +775,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/zefoy/ngx-swiper-wrapper',
     keywords: ['swiper', 'angular', 'carousel']
   },
+  {
+    id: 36,
+    name: '@ngui/sticky',
+    install: [{
+      packager: 'npm',
+      url: '@ngui/sticky'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng2-ui/sticky'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rawgit.com/ng2-ui/sticky/master/app/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '0.6.1',
+    license: 'MIT',
+    details: 'https://ng2-ui.github.io/dist/#/sticky',
+    keywords: ['sticky', 'angular', 'ng2-ui']
+  },
 ];
