@@ -679,5 +679,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/orgsync/react-list',
     keywords: ['infinite','list']
+  },
+  {
+    id: 31,
+    name: 'react-virtualized',
+    install: {
+      packager: 'npm',
+      url: 'react-virtualized'
+    },
+    source: {
+      domain: 'github',
+      url: 'bvaughn/react-virtualized'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bvaughn.github.io/react-virtualized/#/components/Collection'
+    },
+    framework: 'React',
+    version: '9.9.0',
+    license: 'MIT',
+    details: 'https://github.com/bvaughn/react-virtualized/tree/master/docs#documentation',
+    keywords: ['infinite','list','grid']
   }
 ];
