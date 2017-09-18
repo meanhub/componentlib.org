@@ -1141,5 +1141,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vkbansal/react-contextmenu',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 53,
+    name: 'rc-menu',
+    install: {
+      packager: 'npm',
+      url: 'rc-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/menu/examples/antd.html'
+    },
+    framework: 'React',
+    version: '5.1.2',
+    license: 'MIT',
+    details: 'https://github.com/react-component/menu',
+    keywords: ['menu']
   }
 ];
