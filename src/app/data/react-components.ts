@@ -889,5 +889,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/juliancwirko/react-s-alert',
     keywords: ['notification']
+  },
+  {
+    id: 41,
+    name: 'react-crouton',
+    install: {
+      packager: 'npm',
+      url: 'react-crouton'
+    },
+    source: {
+      domain: 'github',
+      url: 'xeodou/react-crouton'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://xeodou.github.io/react-crouton/'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/react-crouton',
+    keywords: ['notification']
   }
 ];
