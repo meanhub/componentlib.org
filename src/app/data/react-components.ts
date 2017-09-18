@@ -1323,12 +1323,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      id: 'http://ctxhou.github.io/react-tabtab/'
+      src: 'http://ctxhou.github.io/react-tabtab/'
     },
     framework: 'React',
     version: '0.8.0',
     license: 'MIT',
     details: 'https://github.com/ctxhou/react-tabtab',
     keywords: ['tabs']
+  },
+  {
+    id: 61,
+    name: 'halogen',
+    install: {
+      packager: 'npm',
+      url: 'halogen'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/halogen'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/halogen/'
+    },
+    framework: 'React',
+    version: '0.2',
+    license: 'MIT',
+    details: 'http://madscript.com/halogen/',
+    keywords: ['spinners']
   }
 ];
