@@ -1539,6 +1539,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.2.2',
     license: 'MIT',
     details: 'http://react-component.github.io/progress/examples/fast-progress.html',
-    keywords: ['loader','spinner']
+    keywords: ['loader','progress']
+  },
+  {
+    id: 70,
+    name: 'react-block-ui',
+    install: {
+      packager: 'npm',
+      url: 'react-block-ui'
+    },
+    source: {
+      domain: 'github',
+      url: 'availity/react-block-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://availity.github.io/react-block-ui/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://availity.github.io/react-block-ui/',
+    keywords: ['loader']
   }
 ];
