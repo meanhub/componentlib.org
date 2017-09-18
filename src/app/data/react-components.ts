@@ -1015,5 +1015,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/negomi/react-burger-menu',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 47,
+    name: 'react-sidebar',
+    install: {
+      packager: 'npm',
+      url: 'react-sidebar'
+    },
+    source: {
+      domain: 'github',
+      url: 'balloob/react-sidebar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://balloob.github.io/react-sidebar/example/'
+    },
+    framework: 'React',
+    version: '2.3.2',
+    license: 'MIT',
+    details: 'https://github.com/balloob/react-sidebar',
+    keywords: ['menu','sidebar']
   }
 ];
