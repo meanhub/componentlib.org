@@ -910,5 +910,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-crouton',
     keywords: ['notification']
+  },
+  {
+    id: 42,
+    name: 'reapop',
+    install: {
+      packager: 'npm',
+      url: 'reapop'
+    },
+    source: {
+      domain: 'github',
+      url: 'LouisBarranqueiro/reapop'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://louisbarranqueiro.github.io/reapop/'
+    },
+    framework: 'React',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/LouisBarranqueiro/reapop',
+    keywords: ['notification']
   }
 ];
