@@ -1477,5 +1477,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://mironov.github.io/react-redux-loading-bar/',
     keywords: ['progress','loader']
+  },
+  {
+    id: 67,
+    name: 'react-loaders',
+    install: {
+      packager: 'npm',
+      url: 'react-loaders'
+    },
+    source: {
+      domain: 'github',
+      url: 'jonjaques/react-loaders'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jonjaques.github.io/react-loaders/'
+    },
+    framework: 'React',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'http://jonjaques.github.io/react-loaders/',
+    keywords: ['loader']
   }
 ];
