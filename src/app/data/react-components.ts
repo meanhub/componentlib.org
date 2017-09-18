@@ -994,5 +994,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/romainberger/react-portal-tooltip',
     keywords: ['tooltip']
+  },
+  {
+    id: 46,
+    name: 'react-burger-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-burger-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'negomi/react-burger-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://negomi.github.io/react-burger-menu/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/negomi/react-burger-menu',
+    keywords: ['menu','sidebar']
   }
 ];
