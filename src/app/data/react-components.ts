@@ -1414,5 +1414,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://mathieudutour.github.io/react-progress-button/',
     keywords: ['button','loader']
+  },
+  {
+    id: 64,
+    name: 'react-spinkit',
+    install: {
+      packager: 'npm',
+      url: 'react-spinkit'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-spinkit'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-spinkit/'
+    },
+    framework: 'React',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'http://kyleamathews.github.io/react-spinkit/',
+    keywords: ['spinner','loader']
   }
 ];
