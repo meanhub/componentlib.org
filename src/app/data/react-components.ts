@@ -1246,5 +1246,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/cht8687/react-listview-sticky-header',
     keywords: ['sticky','header']
+  },
+  {
+    id: 57,
+    name: 'react-sticky-state',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky-state'
+    },
+    source: {
+      domain: 'github',
+      url: 'soenkekluth/react-sticky-state'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rawgit.com/soenkekluth/react-sticky-state/master/examples/index.html'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/soenkekluth/react-sticky-state',
+    keywords: ['sticky','header']
   }
 ];
