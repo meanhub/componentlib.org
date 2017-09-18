@@ -1078,5 +1078,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vutran/react-offcanvas',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 50,
+    name: 'react-tree-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-tree-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'MandarinConLaBarba/react-tree-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mandarinconlabarba.github.io/react-tree-menu/example/index.html'
+    },
+    framework: 'React',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/MandarinConLaBarba/react-tree-menu',
+    keywords: ['menu','tree']
   }
 ];
