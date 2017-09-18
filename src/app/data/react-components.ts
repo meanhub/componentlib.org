@@ -1183,5 +1183,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/captivationsoftware/react-sticky',
     keywords: ['sticky']
+  },
+  {
+    id: 55,
+    name: 'react-sticky',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky'
+    },
+    source: {
+      domain: 'github',
+      url: 'captivationsoftware/react-sticky'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html'
+    },
+    framework: 'React',
+    version: '6.0.1',
+    license: 'MIT',
+    details: 'https://github.com/captivationsoftware/react-sticky',
+    keywords: ['sticky']
+  },
+  {
+    id: 55,
+    name: 'react-headroom',
+    install: {
+      packager: 'npm',
+      url: 'react-headroom'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-headroom'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://kyleamathews.github.io/react-headroom/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/KyleAMathews/react-headroom',
+    keywords: ['header']
   }
 ];
