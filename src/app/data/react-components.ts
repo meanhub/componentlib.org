@@ -1288,5 +1288,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/yahoo/react-stickynode',
     keywords: ['sticky']
+  },
+  {
+    id: 59,
+    name: 'react-simpletabs',
+    install: {
+      packager: 'npm',
+      url: 'react-simpletabs'
+    },
+    source: {
+      domain: 'github',
+      url: 'pedronauck/react-simpletabs'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'p6YVUK'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/pedronauck/react-simpletabs',
+    keywords: ['tabs']
   }
 ];
