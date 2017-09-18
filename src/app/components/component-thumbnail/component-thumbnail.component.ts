@@ -8,6 +8,7 @@ import {Component, Input, OnInit} from '@angular/core';
 export class ComponentThumbnailComponent implements OnInit {
 
   public isCodePen: boolean;
+  public isJsFiddle: boolean;
   public isPlunker: boolean;
   public isExpo: boolean;
   public isCustom: boolean;
@@ -18,6 +19,7 @@ export class ComponentThumbnailComponent implements OnInit {
 
   constructor() {
     this.isCodePen = false;
+    this.isJsFiddle = false;
     this.isPlunker = false;
     this.isExpo = false;
     this.isCustom = false;
@@ -30,6 +32,7 @@ export class ComponentThumbnailComponent implements OnInit {
 
   ngOnInit() {
     this.isCodePen = this.component.demo.repl === 'codepen';
+    this.isJsFiddle = this.component.demo.repl === 'jsfiddle';
     this.isPlunker = this.component.demo.repl === 'plunker';
     this.isExpo = this.component.demo.repl === 'expo';
     this.isCustom = this.component.demo.repl === 'custom';
@@ -37,9 +40,10 @@ export class ComponentThumbnailComponent implements OnInit {
     if (this.isCodePen) {
       this.component.codepenUrl = 'https://codepen.io/' + this.component.demo.user + '/pen/' + this.component.demo.id;
       this.component.codepenEmbedUrl = '//codepen.io/' + this.component.demo.user + '/embed/' + this.component.demo.id + '/?height=265&theme-id=light&default-tab=result&embed-version=2';
-    }
-
-    if (this.isPlunker) {
+    } else if (this.isJsFiddle) {
+      this.component.jsfiddleUrl = 'https://jsfiddle.net/' + this.component.demo.user + '/' + this.component.demo.id;
+      this.component.jsfiddleEmbedUrl = '//jsfiddle.net/' + this.component.demo.user + '/' + this.component.demo.id + '/embedded/';
+    } else if (this.isPlunker) {
       this.component.plnkrUrl = 'http://plnkr.co/edit/' + this.component.demo.id + '?p=preview';
       this.component.plnkrEmbedUrl = '//run.plnkr.co/plunks/' + this.component.demo.id + '/';
     }

@@ -7,6 +7,11 @@
           allowfullscreen="allowfullscreen" allowtransparency='true' >
     <a href='{{ component.codepenUrl }}'>Demo Page</a>.
   </iframe>
+  <iframe *ngIf="isJsFiddle"  style="width: 100%; height: 100%"
+          [src]="component.jsfiddleEmbedUrl | safe" frameborder="0"
+          allowfullscreen="allowfullscreen" allowtransparency='true' >
+    <a href='{{ component.jsfiddleUrl }}'>Demo Page</a>.
+  </iframe>
   <iframe *ngIf="isPlunker"  style="width: 100%; height: 100%"
           [src]="component.plnkrEmbedUrl | safe" frameborder="0"
           allowfullscreen="allowfullscreen" allowtransparency='true' >
