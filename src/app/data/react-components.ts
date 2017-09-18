@@ -1351,5 +1351,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://madscript.com/halogen/',
     keywords: ['spinners']
+  },
+  {
+    id: 61,
+    name: 'halogen',
+    install: {
+      packager: 'npm',
+      url: 'halogen'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/halogen'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/halogen/'
+    },
+    framework: 'React',
+    version: '0.2',
+    license: 'MIT',
+    details: 'http://madscript.com/halogen/',
+    keywords: ['spinners']
+  },
+  {
+    id: 62,
+    name: 'react-ladda',
+    install: {
+      packager: 'npm',
+      url: 'react-ladda'
+    },
+    source: {
+      domain: 'github',
+      url: 'jsdir/react-ladda'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://lab.hakim.se/ladda/'
+    },
+    framework: 'React',
+    version: '5.0.7',
+    license: 'MIT',
+    details: 'http://lab.hakim.se/ladda/',
+    keywords: ['button','loader']
   }
 ];
