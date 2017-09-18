@@ -1162,5 +1162,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-component/menu',
     keywords: ['menu']
+  },
+  {
+    id: 54,
+    name: 'react-sticky',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky'
+    },
+    source: {
+      domain: 'github',
+      url: 'captivationsoftware/react-sticky'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html'
+    },
+    framework: 'React',
+    version: '6.0.1',
+    license: 'MIT',
+    details: 'https://github.com/captivationsoftware/react-sticky',
+    keywords: ['sticky']
   }
 ];
