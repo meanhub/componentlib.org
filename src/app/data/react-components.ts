@@ -1036,5 +1036,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/balloob/react-sidebar',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 48,
+    name: 'react-motion-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-motion-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/react-motion-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-motion-menu/'
+    },
+    framework: 'React',
+    version: '0.4.4',
+    license: 'MIT',
+    details: 'https://github.com/bokuweb/react-motion-menu',
+    keywords: ['menu','sidebar']
   }
 ];
