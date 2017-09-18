@@ -1393,5 +1393,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://lab.hakim.se/ladda/',
     keywords: ['button','loader']
+  },
+  {
+    id: 63,
+    name: 'react-progress-button',
+    install: {
+      packager: 'npm',
+      url: 'react-progress-button'
+    },
+    source: {
+      domain: 'github',
+      url: 'mathieudutour/react-progress-button'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mathieudutour.github.io/react-progress-button/'
+    },
+    framework: 'React',
+    version: '5.0.4',
+    license: 'MIT',
+    details: 'https://mathieudutour.github.io/react-progress-button/',
+    keywords: ['button','loader']
   }
 ];
