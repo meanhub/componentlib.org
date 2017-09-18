@@ -1519,5 +1519,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://tsuyoshiwada.github.io/react-md-spinner/',
     keywords: ['loader','spinner']
+  },
+  {
+    id: 69,
+    name: 'rc-progress',
+    install: {
+      packager: 'npm',
+      url: 'rc-progress'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/progress'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/progress/examples/fast-progress.html'
+    },
+    framework: 'React',
+    version: '2.2.2',
+    license: 'MIT',
+    details: 'http://react-component.github.io/progress/examples/fast-progress.html',
+    keywords: ['loader','spinner']
   }
 ];
