@@ -1266,6 +1266,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.1.6',
     license: 'MIT',
     details: 'https://github.com/soenkekluth/react-sticky-state',
-    keywords: ['sticky','header']
+    keywords: ['sticky']
+  },
+  {
+    id: 58,
+    name: 'react-stickynode',
+    install: {
+      packager: 'npm',
+      url: 'react-stickynode'
+    },
+    source: {
+      domain: 'github',
+      url: 'yahoo/react-stickynode'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://modernizr.com/download/?csstransforms3d-prefixed-setclasses'
+    },
+    framework: 'React',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/yahoo/react-stickynode',
+    keywords: ['sticky']
   }
 ];
