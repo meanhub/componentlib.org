@@ -1057,5 +1057,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/bokuweb/react-motion-menu',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 49,
+    name: 'react-offcanvas',
+    install: {
+      packager: 'npm',
+      url: 'react-offcanvas'
+    },
+    source: {
+      domain: 'github',
+      url: 'vutran/react-offcanvas'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vutran.github.io/react-offcanvas/#'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/vutran/react-offcanvas',
+    keywords: ['menu','sidebar']
   }
 ];
