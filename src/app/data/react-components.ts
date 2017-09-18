@@ -1498,5 +1498,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jonjaques.github.io/react-loaders/',
     keywords: ['loader']
+  },
+  {
+    id: 68,
+    name: 'react-md-spinner',
+    install: {
+      packager: 'npm',
+      url: 'react-md-spinner'
+    },
+    source: {
+      domain: 'github',
+      url: 'tsuyoshiwada/react-md-spinner'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tsuyoshiwada.github.io/react-md-spinner/'
+    },
+    framework: 'React',
+    version: '0.2.5',
+    license: 'MIT',
+    details: 'https://tsuyoshiwada.github.io/react-md-spinner/',
+    keywords: ['loader','spinner']
   }
 ];
