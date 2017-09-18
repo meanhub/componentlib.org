@@ -1225,5 +1225,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/KyleAMathews/react-headroom',
     keywords: ['header']
+  },
+  {
+    id: 56,
+    name: 'react-listview-sticky-header',
+    install: {
+      packager: 'npm',
+      url: 'react-listview-sticky-header'
+    },
+    source: {
+      domain: 'github',
+      url: 'cht8687/react-listview-sticky-header'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cht8687.github.io/react-listview-sticky-header/example/'
+    },
+    framework: 'React',
+    version: '0.5.5',
+    license: 'MIT',
+    details: 'https://github.com/cht8687/react-listview-sticky-header',
+    keywords: ['sticky','header']
   }
 ];
