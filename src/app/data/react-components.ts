@@ -1435,5 +1435,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://kyleamathews.github.io/react-spinkit/',
     keywords: ['spinner','loader']
+  },
+  {
+    id: 65,
+    name: 'react-progress-label',
+    install: {
+      packager: 'npm',
+      url: 'react-progress-label'
+    },
+    source: {
+      domain: 'github',
+      url: 'wangzuo/react-progress-label'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wangzuo.github.io/react-progress-label/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://wangzuo.github.io/react-progress-label/',
+    keywords: ['progress']
   }
 ];
