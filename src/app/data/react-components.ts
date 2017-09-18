@@ -1099,5 +1099,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/MandarinConLaBarba/react-tree-menu',
     keywords: ['menu','tree']
+  },
+  {
+    id: 51,
+    name: 'react-metismenu',
+    install: {
+      packager: 'npm',
+      url: 'react-metismenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'alpertuna/react-metismenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://alpertuna.github.io/react-metismenu/#level-3-menu-1'
+    },
+    framework: 'React',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/alpertuna/react-metismenu',
+    keywords: ['menu','sidebar']
   }
 ];
