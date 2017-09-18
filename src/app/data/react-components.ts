@@ -1120,5 +1120,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/alpertuna/react-metismenu',
     keywords: ['menu','sidebar']
+  },
+  {
+    id: 52,
+    name: 'react-contextmenu',
+    install: {
+      packager: 'npm',
+      url: 'react-contextmenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'vkbansal/react-contextmenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vkbansal.github.io/react-contextmenu/#/dynamic-menu'
+    },
+    framework: 'React',
+    version: '2.7.0',
+    license: 'MIT',
+    details: 'https://github.com/vkbansal/react-contextmenu',
+    keywords: ['menu','sidebar']
   }
 ];
