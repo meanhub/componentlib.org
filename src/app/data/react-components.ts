@@ -1309,5 +1309,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pedronauck/react-simpletabs',
     keywords: ['tabs']
+  },
+  {
+    id: 60,
+    name: 'react-tabtab',
+    install: {
+      packager: 'npm',
+      url: 'react-tabtab'
+    },
+    source: {
+      domain: 'github',
+      url: 'ctxhou/react-tabtab'
+    },
+    demo: {
+      repl: 'custom',
+      id: 'http://ctxhou.github.io/react-tabtab/'
+    },
+    framework: 'React',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/ctxhou/react-tabtab',
+    keywords: ['tabs']
   }
 ];
