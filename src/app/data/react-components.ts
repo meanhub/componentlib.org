@@ -1456,5 +1456,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://wangzuo.github.io/react-progress-label/',
     keywords: ['progress']
+  },
+  {
+    id: 66,
+    name: 'react-redux-loading-bar',
+    install: {
+      packager: 'npm',
+      url: 'react-redux-loading-bar'
+    },
+    source: {
+      domain: 'github',
+      url: 'mironov/react-redux-loading-bar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mironov.github.io/react-redux-loading-bar/'
+    },
+    framework: 'React',
+    version: '2.9.2',
+    license: 'MIT',
+    details: 'https://mironov.github.io/react-redux-loading-bar/',
+    keywords: ['progress','loader']
   }
 ];
