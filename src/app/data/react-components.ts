@@ -889,5 +889,278 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/juliancwirko/react-s-alert',
     keywords: ['notification']
+  },
+  {
+    id: 41,
+    name: 'react-crouton',
+    install: {
+      packager: 'npm',
+      url: 'react-crouton'
+    },
+    source: {
+      domain: 'github',
+      url: 'xeodou/react-crouton'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://xeodou.github.io/react-crouton/'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/react-crouton',
+    keywords: ['notification']
+  },
+  {
+    id: 42,
+    name: 'reapop',
+    install: {
+      packager: 'npm',
+      url: 'reapop'
+    },
+    source: {
+      domain: 'github',
+      url: 'LouisBarranqueiro/reapop'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://louisbarranqueiro.github.io/reapop/'
+    },
+    framework: 'React',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/LouisBarranqueiro/reapop',
+    keywords: ['notification']
+  },
+  {
+    id: 43,
+    name: 'react-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'react-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'wwayne/react-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wwayne.com/react-tooltip/'
+    },
+    framework: 'React',
+    version: '3.3.0',
+    license: 'MIT',
+    details: 'https://github.com/wwayne/react-tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 44,
+    name: 'rc-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'rc-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/tooltip/examples/placement.html'
+    },
+    framework: 'React',
+    version: '3.4.9',
+    license: 'MIT',
+    details: 'https://github.com/react-component/tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 45,
+    name: 'react-portal-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'react-portal-tooltip@0.14'
+    },
+    source: {
+      domain: 'github',
+      url: 'romainberger/react-portal-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://romainberger.github.io/react-portal-tooltip/#/?_k=s9zbj1'
+    },
+    framework: 'React',
+    version: '0.14',
+    license: 'MIT',
+    details: 'https://github.com/romainberger/react-portal-tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 46,
+    name: 'react-burger-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-burger-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'negomi/react-burger-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://negomi.github.io/react-burger-menu/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/negomi/react-burger-menu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 47,
+    name: 'react-sidebar',
+    install: {
+      packager: 'npm',
+      url: 'react-sidebar'
+    },
+    source: {
+      domain: 'github',
+      url: 'balloob/react-sidebar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://balloob.github.io/react-sidebar/example/'
+    },
+    framework: 'React',
+    version: '2.3.2',
+    license: 'MIT',
+    details: 'https://github.com/balloob/react-sidebar',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 48,
+    name: 'react-motion-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-motion-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/react-motion-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-motion-menu/'
+    },
+    framework: 'React',
+    version: '0.4.4',
+    license: 'MIT',
+    details: 'https://github.com/bokuweb/react-motion-menu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 49,
+    name: 'react-offcanvas',
+    install: {
+      packager: 'npm',
+      url: 'react-offcanvas'
+    },
+    source: {
+      domain: 'github',
+      url: 'vutran/react-offcanvas'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vutran.github.io/react-offcanvas/#'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/vutran/react-offcanvas',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 50,
+    name: 'react-tree-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-tree-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'MandarinConLaBarba/react-tree-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mandarinconlabarba.github.io/react-tree-menu/example/index.html'
+    },
+    framework: 'React',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/MandarinConLaBarba/react-tree-menu',
+    keywords: ['menu','tree']
+  },
+  {
+    id: 51,
+    name: 'react-metismenu',
+    install: {
+      packager: 'npm',
+      url: 'react-metismenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'alpertuna/react-metismenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://alpertuna.github.io/react-metismenu/#level-3-menu-1'
+    },
+    framework: 'React',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/alpertuna/react-metismenu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 52,
+    name: 'react-contextmenu',
+    install: {
+      packager: 'npm',
+      url: 'react-contextmenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'vkbansal/react-contextmenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vkbansal.github.io/react-contextmenu/#/dynamic-menu'
+    },
+    framework: 'React',
+    version: '2.7.0',
+    license: 'MIT',
+    details: 'https://github.com/vkbansal/react-contextmenu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 53,
+    name: 'rc-menu',
+    install: {
+      packager: 'npm',
+      url: 'rc-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/menu/examples/antd.html'
+    },
+    framework: 'React',
+    version: '5.1.2',
+    license: 'MIT',
+    details: 'https://github.com/react-component/menu',
+    keywords: ['menu']
   }
 ];
