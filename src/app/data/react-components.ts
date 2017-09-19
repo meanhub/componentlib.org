@@ -776,8 +776,9 @@ export const REACT_COMPONENTS: any[] = [
       url: 'reactjs/react-modal'
     },
     demo: {
-      repl: 'custom',
-      src: 'https://codepen.io/claydiffrient/full/KNxgav/'
+      repl: 'codepen',
+      user: 'claydiffrient',
+      id: 'KNxgav'
     },
     framework: 'React',
     version: '0.2.4',
