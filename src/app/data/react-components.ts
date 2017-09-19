@@ -1575,13 +1575,36 @@ export const REACT_COMPONENTS: any[] = [
       url: 'akiran/react-slick'
     },
     demo: {
-      repl: 'custom',
-      src: 'http://neostack.com/opensource/react-slick'
+      repl: 'jsfiddle',
+      user: 'kirana',
+      id: '20bumb4g'
     },
     framework: 'React',
     version: '0.15.4',
     license: 'MIT',
     details: 'http://neostack.com/opensource/react-slick',
-    keywords: ['loader']
+    keywords: ['slider','carousel']
+  },
+  {
+    id: 72,
+    name: 'react-responsive-carousel',
+    install: {
+      packager: 'npm',
+      url: 'react-responsive-carousel'
+    },
+    source: {
+      domain: 'github',
+      url: 'leandrowd/react-responsive-carousel'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'leandrowd',
+      id: 'xLvOPd'
+    },
+    framework: 'React',
+    version: '3.1.25',
+    license: 'MIT',
+    details: 'http://react-responsive-carousel.js.org/',
+    keywords: ['slider','carousel']
   }
 ];
