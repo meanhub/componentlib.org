@@ -776,8 +776,9 @@ export const REACT_COMPONENTS: any[] = [
       url: 'reactjs/react-modal'
     },
     demo: {
-      repl: 'custom',
-      src: 'https://codepen.io/claydiffrient/full/KNxgav/'
+      repl: 'codepen',
+      user: 'claydiffrient',
+      id: 'KNxgav'
     },
     framework: 'React',
     version: '0.2.4',
@@ -889,5 +890,677 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/juliancwirko/react-s-alert',
     keywords: ['notification']
+  },
+  {
+    id: 41,
+    name: 'react-crouton',
+    install: {
+      packager: 'npm',
+      url: 'react-crouton'
+    },
+    source: {
+      domain: 'github',
+      url: 'xeodou/react-crouton'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://xeodou.github.io/react-crouton/'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/react-crouton',
+    keywords: ['notification']
+  },
+  {
+    id: 42,
+    name: 'reapop',
+    install: {
+      packager: 'npm',
+      url: 'reapop'
+    },
+    source: {
+      domain: 'github',
+      url: 'LouisBarranqueiro/reapop'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://louisbarranqueiro.github.io/reapop/'
+    },
+    framework: 'React',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/LouisBarranqueiro/reapop',
+    keywords: ['notification']
+  },
+  {
+    id: 43,
+    name: 'react-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'react-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'wwayne/react-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wwayne.com/react-tooltip/'
+    },
+    framework: 'React',
+    version: '3.3.0',
+    license: 'MIT',
+    details: 'https://github.com/wwayne/react-tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 44,
+    name: 'rc-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'rc-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/tooltip/examples/placement.html'
+    },
+    framework: 'React',
+    version: '3.4.9',
+    license: 'MIT',
+    details: 'https://github.com/react-component/tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 45,
+    name: 'react-portal-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'react-portal-tooltip@0.14'
+    },
+    source: {
+      domain: 'github',
+      url: 'romainberger/react-portal-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://romainberger.github.io/react-portal-tooltip/#/?_k=s9zbj1'
+    },
+    framework: 'React',
+    version: '0.14',
+    license: 'MIT',
+    details: 'https://github.com/romainberger/react-portal-tooltip',
+    keywords: ['tooltip']
+  },
+  {
+    id: 46,
+    name: 'react-burger-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-burger-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'negomi/react-burger-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://negomi.github.io/react-burger-menu/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/negomi/react-burger-menu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 47,
+    name: 'react-sidebar',
+    install: {
+      packager: 'npm',
+      url: 'react-sidebar'
+    },
+    source: {
+      domain: 'github',
+      url: 'balloob/react-sidebar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://balloob.github.io/react-sidebar/example/'
+    },
+    framework: 'React',
+    version: '2.3.2',
+    license: 'MIT',
+    details: 'https://github.com/balloob/react-sidebar',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 48,
+    name: 'react-motion-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-motion-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/react-motion-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-motion-menu/'
+    },
+    framework: 'React',
+    version: '0.4.4',
+    license: 'MIT',
+    details: 'https://github.com/bokuweb/react-motion-menu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 49,
+    name: 'react-offcanvas',
+    install: {
+      packager: 'npm',
+      url: 'react-offcanvas'
+    },
+    source: {
+      domain: 'github',
+      url: 'vutran/react-offcanvas'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vutran.github.io/react-offcanvas/#'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://github.com/vutran/react-offcanvas',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 50,
+    name: 'react-tree-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-tree-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'MandarinConLaBarba/react-tree-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mandarinconlabarba.github.io/react-tree-menu/example/index.html'
+    },
+    framework: 'React',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/MandarinConLaBarba/react-tree-menu',
+    keywords: ['menu','tree']
+  },
+  {
+    id: 51,
+    name: 'react-metismenu',
+    install: {
+      packager: 'npm',
+      url: 'react-metismenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'alpertuna/react-metismenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://alpertuna.github.io/react-metismenu/#level-3-menu-1'
+    },
+    framework: 'React',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/alpertuna/react-metismenu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 52,
+    name: 'react-contextmenu',
+    install: {
+      packager: 'npm',
+      url: 'react-contextmenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'vkbansal/react-contextmenu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vkbansal.github.io/react-contextmenu/#/dynamic-menu'
+    },
+    framework: 'React',
+    version: '2.7.0',
+    license: 'MIT',
+    details: 'https://github.com/vkbansal/react-contextmenu',
+    keywords: ['menu','sidebar']
+  },
+  {
+    id: 53,
+    name: 'rc-menu',
+    install: {
+      packager: 'npm',
+      url: 'rc-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/menu'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/menu/examples/antd.html'
+    },
+    framework: 'React',
+    version: '5.1.2',
+    license: 'MIT',
+    details: 'https://github.com/react-component/menu',
+    keywords: ['menu']
+  },
+  {
+    id: 54,
+    name: 'react-sticky',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky'
+    },
+    source: {
+      domain: 'github',
+      url: 'captivationsoftware/react-sticky'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html'
+    },
+    framework: 'React',
+    version: '6.0.1',
+    license: 'MIT',
+    details: 'https://github.com/captivationsoftware/react-sticky',
+    keywords: ['sticky']
+  },
+  {
+    id: 55,
+    name: 'react-sticky',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky'
+    },
+    source: {
+      domain: 'github',
+      url: 'captivationsoftware/react-sticky'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html'
+    },
+    framework: 'React',
+    version: '6.0.1',
+    license: 'MIT',
+    details: 'https://github.com/captivationsoftware/react-sticky',
+    keywords: ['sticky']
+  },
+  {
+    id: 55,
+    name: 'react-headroom',
+    install: {
+      packager: 'npm',
+      url: 'react-headroom'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-headroom'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://kyleamathews.github.io/react-headroom/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/KyleAMathews/react-headroom',
+    keywords: ['header']
+  },
+  {
+    id: 56,
+    name: 'react-listview-sticky-header',
+    install: {
+      packager: 'npm',
+      url: 'react-listview-sticky-header'
+    },
+    source: {
+      domain: 'github',
+      url: 'cht8687/react-listview-sticky-header'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cht8687.github.io/react-listview-sticky-header/example/'
+    },
+    framework: 'React',
+    version: '0.5.5',
+    license: 'MIT',
+    details: 'https://github.com/cht8687/react-listview-sticky-header',
+    keywords: ['sticky','header']
+  },
+  {
+    id: 57,
+    name: 'react-sticky-state',
+    install: {
+      packager: 'npm',
+      url: 'react-sticky-state'
+    },
+    source: {
+      domain: 'github',
+      url: 'soenkekluth/react-sticky-state'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rawgit.com/soenkekluth/react-sticky-state/master/examples/index.html'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/soenkekluth/react-sticky-state',
+    keywords: ['sticky']
+  },
+  {
+    id: 58,
+    name: 'react-stickynode',
+    install: {
+      packager: 'npm',
+      url: 'react-stickynode'
+    },
+    source: {
+      domain: 'github',
+      url: 'yahoo/react-stickynode'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://modernizr.com/download/?csstransforms3d-prefixed-setclasses'
+    },
+    framework: 'React',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/yahoo/react-stickynode',
+    keywords: ['sticky']
+  },
+  {
+    id: 59,
+    name: 'react-simpletabs',
+    install: {
+      packager: 'npm',
+      url: 'react-simpletabs'
+    },
+    source: {
+      domain: 'github',
+      url: 'pedronauck/react-simpletabs'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'p6YVUK'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/pedronauck/react-simpletabs',
+    keywords: ['tabs']
+  },
+  {
+    id: 60,
+    name: 'react-tabtab',
+    install: {
+      packager: 'npm',
+      url: 'react-tabtab'
+    },
+    source: {
+      domain: 'github',
+      url: 'ctxhou/react-tabtab'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ctxhou.github.io/react-tabtab/'
+    },
+    framework: 'React',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/ctxhou/react-tabtab',
+    keywords: ['tabs']
+  },
+  {
+    id: 61,
+    name: 'halogen',
+    install: {
+      packager: 'npm',
+      url: 'halogen'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/halogen'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/halogen/'
+    },
+    framework: 'React',
+    version: '0.2',
+    license: 'MIT',
+    details: 'http://madscript.com/halogen/',
+    keywords: ['spinners']
+  },
+  {
+    id: 61,
+    name: 'halogen',
+    install: {
+      packager: 'npm',
+      url: 'halogen'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/halogen'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/halogen/'
+    },
+    framework: 'React',
+    version: '0.2',
+    license: 'MIT',
+    details: 'http://madscript.com/halogen/',
+    keywords: ['spinners']
+  },
+  {
+    id: 62,
+    name: 'react-ladda',
+    install: {
+      packager: 'npm',
+      url: 'react-ladda'
+    },
+    source: {
+      domain: 'github',
+      url: 'jsdir/react-ladda'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://lab.hakim.se/ladda/'
+    },
+    framework: 'React',
+    version: '5.0.7',
+    license: 'MIT',
+    details: 'http://lab.hakim.se/ladda/',
+    keywords: ['button','loader']
+  },
+  {
+    id: 63,
+    name: 'react-progress-button',
+    install: {
+      packager: 'npm',
+      url: 'react-progress-button'
+    },
+    source: {
+      domain: 'github',
+      url: 'mathieudutour/react-progress-button'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mathieudutour.github.io/react-progress-button/'
+    },
+    framework: 'React',
+    version: '5.0.4',
+    license: 'MIT',
+    details: 'https://mathieudutour.github.io/react-progress-button/',
+    keywords: ['button','loader']
+  },
+  {
+    id: 64,
+    name: 'react-spinkit',
+    install: {
+      packager: 'npm',
+      url: 'react-spinkit'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-spinkit'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-spinkit/'
+    },
+    framework: 'React',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'http://kyleamathews.github.io/react-spinkit/',
+    keywords: ['spinner','loader']
+  },
+  {
+    id: 65,
+    name: 'react-progress-label',
+    install: {
+      packager: 'npm',
+      url: 'react-progress-label'
+    },
+    source: {
+      domain: 'github',
+      url: 'wangzuo/react-progress-label'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wangzuo.github.io/react-progress-label/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://wangzuo.github.io/react-progress-label/',
+    keywords: ['progress']
+  },
+  {
+    id: 66,
+    name: 'react-redux-loading-bar',
+    install: {
+      packager: 'npm',
+      url: 'react-redux-loading-bar'
+    },
+    source: {
+      domain: 'github',
+      url: 'mironov/react-redux-loading-bar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mironov.github.io/react-redux-loading-bar/'
+    },
+    framework: 'React',
+    version: '2.9.2',
+    license: 'MIT',
+    details: 'https://mironov.github.io/react-redux-loading-bar/',
+    keywords: ['progress','loader']
+  },
+  {
+    id: 67,
+    name: 'react-loaders',
+    install: {
+      packager: 'npm',
+      url: 'react-loaders'
+    },
+    source: {
+      domain: 'github',
+      url: 'jonjaques/react-loaders'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jonjaques.github.io/react-loaders/'
+    },
+    framework: 'React',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'http://jonjaques.github.io/react-loaders/',
+    keywords: ['loader']
+  },
+  {
+    id: 68,
+    name: 'react-md-spinner',
+    install: {
+      packager: 'npm',
+      url: 'react-md-spinner'
+    },
+    source: {
+      domain: 'github',
+      url: 'tsuyoshiwada/react-md-spinner'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tsuyoshiwada.github.io/react-md-spinner/'
+    },
+    framework: 'React',
+    version: '0.2.5',
+    license: 'MIT',
+    details: 'https://tsuyoshiwada.github.io/react-md-spinner/',
+    keywords: ['loader','spinner']
+  },
+  {
+    id: 69,
+    name: 'rc-progress',
+    install: {
+      packager: 'npm',
+      url: 'rc-progress'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/progress'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/progress/examples/fast-progress.html'
+    },
+    framework: 'React',
+    version: '2.2.2',
+    license: 'MIT',
+    details: 'http://react-component.github.io/progress/examples/fast-progress.html',
+    keywords: ['loader','progress']
+  },
+  {
+    id: 70,
+    name: 'react-block-ui',
+    install: {
+      packager: 'npm',
+      url: 'react-block-ui'
+    },
+    source: {
+      domain: 'github',
+      url: 'availity/react-block-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://availity.github.io/react-block-ui/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://availity.github.io/react-block-ui/',
+    keywords: ['loader']
   }
 ];
