@@ -1690,5 +1690,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://bgrsquared.com/DR2/',
     keywords: ['charts','d3']
+  },
+  {
+    id: 77,
+    name: 'react-d3-components',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-components'
+    },
+    source: {
+      domain: 'github',
+      url: 'codesuki/react-d3-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://codesuki.github.io/react-d3-components/example.html'
+    },
+    framework: 'React',
+    version: '0.6.6',
+    license: 'MIT',
+    details: 'https://github.com/codesuki/react-d3-components',
+    keywords: ['charts','d3']
   }
 ];
