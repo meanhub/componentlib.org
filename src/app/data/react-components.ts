@@ -1669,5 +1669,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://gionkunz.github.io/chartist-js/getting-started.html',
     keywords: ['charts']
+  },
+  {
+    id: 76,
+    name: 'd3-react-squared',
+    install: {
+      packager: 'npm',
+      url: 'd3-react-squared'
+    },
+    source: {
+      domain: 'github',
+      url: 'bgrsquared/d3-react-squared'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bgrsquared.com/DR2/'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'http://bgrsquared.com/DR2/',
+    keywords: ['charts','d3']
   }
 ];
