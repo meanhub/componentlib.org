@@ -1606,5 +1606,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://react-responsive-carousel.js.org/',
     keywords: ['slider','carousel']
+  },
+  {
+    id: 73,
+    name: 'react-collapse',
+    install: {
+      packager: 'npm',
+      url: 'react-collapse'
+    },
+    source: {
+      domain: 'github',
+      url: 'nkbt/react-collapse'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nkbt.github.io/react-collapse/'
+    },
+    framework: 'React',
+    version: '4.0.3',
+    license: 'MIT',
+    details: 'https://github.com/nkbt/react-collapse',
+    keywords: ['collapse']
   }
 ];
