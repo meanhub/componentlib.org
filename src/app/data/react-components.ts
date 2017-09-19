@@ -1711,5 +1711,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/codesuki/react-d3-components',
     keywords: ['charts','d3']
+  },
+  {
+    id: 78,
+    name: 'recharts',
+    install: {
+      packager: 'npm',
+      url: 'recharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'recharts/recharts'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'x1yoboc7',
+      id: '612'
+    },
+    framework: 'React',
+    version: '1.0.0-apha.5',
+    license: 'MIT',
+    details: 'https://github.com/recharts/recharts',
+    keywords: ['charts','d3']
   }
 ];
