@@ -1733,5 +1733,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/recharts/recharts',
     keywords: ['charts','d3']
+  },
+  {
+    id: 79,
+    name: 'react-chartjs',
+    install: {
+      packager: 'npm',
+      url: 'react-chartjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/react-chartjs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://reactcommunity.org/react-chartjs/index.html'
+    },
+    framework: 'React',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/reactjs/react-chartjs',
+    keywords: ['charts','chartjs']
   }
 ];
