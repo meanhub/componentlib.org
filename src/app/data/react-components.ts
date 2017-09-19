@@ -1754,5 +1754,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/reactjs/react-chartjs',
     keywords: ['charts','chartjs']
+  },
+  {
+    id: 80,
+    name: 'react-dazzle',
+    install: {
+      packager: 'npm',
+      url: 'react-dazzle'
+    },
+    source: {
+      domain: 'github',
+      url: 'Raathigesh/Dazzle'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://raathigesh.com/dazzle/'
+    },
+    framework: 'React',
+    version: '1.2.5',
+    license: 'MIT',
+    details: 'https://github.com/Raathigesh/Dazzle',
+    keywords: ['charts','dazzle']
   }
 ];
