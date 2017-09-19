@@ -1648,5 +1648,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/springload/react-accessible-accordion',
     keywords: ['collapse','accordion']
+  },
+  {
+    id: 75,
+    name: 'react-chartist',
+    install: {
+      packager: 'npm',
+      url: 'react-chartist'
+    },
+    source: {
+      domain: 'github',
+      url: 'fraserxu/react-chartist'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://gionkunz.github.io/chartist-js/examples.html'
+    },
+    framework: 'React',
+    version: '0.13.0',
+    license: 'MIT',
+    details: 'https://gionkunz.github.io/chartist-js/getting-started.html',
+    keywords: ['charts']
   }
 ];
