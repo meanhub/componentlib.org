@@ -1627,5 +1627,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/nkbt/react-collapse',
     keywords: ['collapse']
+  },
+  {
+    id: 74,
+    name: 'react-accessible-accordion',
+    install: {
+      packager: 'npm',
+      url: 'react-accessible-accordion'
+    },
+    source: {
+      domain: 'github',
+      url: 'springload/react-accessible-accordion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://springload.github.io/react-accessible-accordion/'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/springload/react-accessible-accordion',
+    keywords: ['collapse','accordion']
   }
 ];
