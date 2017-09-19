@@ -1562,5 +1562,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://availity.github.io/react-block-ui/',
     keywords: ['loader']
+  },
+  {
+    id: 71,
+    name: 'react-slick',
+    install: {
+      packager: 'npm',
+      url: 'react-slick'
+    },
+    source: {
+      domain: 'github',
+      url: 'akiran/react-slick'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://neostack.com/opensource/react-slick'
+    },
+    framework: 'React',
+    version: '0.15.4',
+    license: 'MIT',
+    details: 'http://neostack.com/opensource/react-slick',
+    keywords: ['loader']
   }
 ];
