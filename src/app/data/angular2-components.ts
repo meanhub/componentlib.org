@@ -1620,4 +1620,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/angular/flex-layout/wiki',
     keywords: ['flexbox', 'grid', 'responsive', 'adapative', 'layout', 'mediaquery', 'engine', 'angular']
   },
+  {
+    id: 76,
+    name: 'ng-animate',
+    install: [{
+      packager: 'npm',
+      url: 'ng-animate'
+    }],
+    source: {
+      domain: 'github',
+      url: 'jiayihu/ng-animate'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jiayihu.github.io/ng-animate/'
+    },
+    framework: 'Angular 2+',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/jiayihu/ng-animate',
+    keywords: ['angular', 'animations']
+  },
 ];
