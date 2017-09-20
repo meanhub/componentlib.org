@@ -1901,5 +1901,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/esnet/react-timeseries-charts',
     keywords: ['charts','timeseries']
+  },
+  {
+    id: 87,
+    name: 'react-google-charts',
+    install: {
+      packager: 'npm',
+      url: 'react-google-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'RakanNimer/react-google-charts'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'sain_anky',
+      id: 'f8zpr8uc'
+    },
+    framework: 'React',
+    version: '1.5.5',
+    license: 'MIT',   
+    details: 'http://rakannimer.github.io/react-google-charts/#/?_k=5q6pmi',
+    keywords: ['charts','google']
   }
 ];
