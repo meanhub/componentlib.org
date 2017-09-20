@@ -2175,5 +2175,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/souhe/reactScrollbar',
     keywords: ['scrollbar']
+  },
+  {
+    id: 100,
+    name: 'react-smooth-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'react-smooth-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'idiotWu/react-smooth-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://idiotwu.github.io/react-smooth-scrollbar/'
+    },
+    framework: 'React',
+    version: '7.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/idiotWu/react-smooth-scrollbar',
+    keywords: ['scrollbar']
   }
 ];
