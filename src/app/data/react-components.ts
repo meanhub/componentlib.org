@@ -2157,10 +2157,10 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 99,
-    name: 'react-custom-scrollbars',
+    name: 'react-scrollbar',
     install: {
       packager: 'npm',
-      url: 'react-custom-scrollbars'
+      url: 'react-scrollbar'
     },
     source: {
       domain: 'github',
