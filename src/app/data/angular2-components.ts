@@ -1641,4 +1641,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/jiayihu/ng-animate',
     keywords: ['angular', 'animations']
   },
+  {
+    id: 77,
+    name: 'ng-click-outside',
+    install: [{
+      packager: 'npm',
+      url: 'ng-click-outside'
+    }],
+    source: {
+      domain: 'github',
+      url: 'arkon/ng-click-outside'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://echeung.me/ng-click-outside/'
+    },
+    framework: 'Angular 2+',
+    version: '2.4.1',
+    license: 'MIT',
+    details: 'https://github.com/arkon/ng-click-outside',
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'click', 'event', 'outside', 'handler']
+  },
 ];
