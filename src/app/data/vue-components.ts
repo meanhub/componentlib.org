@@ -110,5 +110,27 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable',
   keywords: ['vue-data-tables', 'table', 'vue-table', 'data', 'grid', 'data-tables', 'vue', 'vue2', 'pagination']
+},
+{
+  id: 5,
+  name: 'vue-good-table',
+  install: {
+    packager: 'npm',
+    url: 'vue-good-table'
+  },
+  source: {
+    domain: 'github',
+    url: 'xaksis/vue-good-table',
+    stars: 94
+  },
+  demo: {
+      repl: 'custom',
+      src: 'https://xaksis.github.io/vue-good-demos/#/simple-table'
+  },
+  framework: 'Vue',
+  version: '2.x',
+  license: 'MIT',
+  details: 'https://github.com/xaksis/vue-good-table',
+  keywords: ['vue', 'vuejs', 'table', 'datatable']
 }
 ];
