@@ -132,5 +132,27 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/xaksis/vue-good-table',
   keywords: ['vue', 'vuejs', 'table', 'datatable']
+},
+{
+  id: 6,
+  name: 'vue-grid',
+  install: {
+    packager: 'npm',
+    url: 'vue-grid2'
+  },
+  source: {
+    domain: 'github',
+    url: 'dzwillia/vue-grid',
+    stars: 29
+  },
+  demo: {
+      repl: 'custom',
+      src: 'https://dzwillia.github.io/vue-grid/#/interactions'
+  },
+  framework: 'Vue',
+  version: '2.1.4',
+  license: 'MIT',
+  details: 'https://github.com/dzwillia/vue-grid',
+  keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid']
 }
 ];
