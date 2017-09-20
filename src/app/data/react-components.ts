@@ -1944,5 +1944,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'http://formidable.com/open-source/victory',
     keywords: ['charts']
+  },
+  {
+    id: 89,
+    name: 'react-sigma',
+    install: {
+      packager: 'npm',
+      url: 'react-sigma'
+    },
+    source: {
+      domain: 'github',
+      url: 'dunnock/react-sigma'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dunnock.github.io/react-sigma/?knob-Outbound%20attraction%20distribution=false&knob-Barneshut%20theta=0.5&knob-Timeout=2000&knob-Easing%20after%20layout=cubicInOut&knob-Randomize%20node%20positions=locally&knob-Barneshut%20optimize=false&knob-Force%20layout%20in%20backround=true&knob-Gravity=1&knob-Edge%20weight%20influence=0&knob-Align%20node%20siblings=false&selectedKind=Complex%20graph%20samples&selectedStory=Big%20graph%20animated&full=0&down=1&left=1&panelRight=1&downPanel=storybook%2Faddon-actions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '1.2.26',
+    license: 'MIT',   
+    details: 'https://github.com/dunnock/react-sigma',
+    keywords: ['charts']
   }
 ];
