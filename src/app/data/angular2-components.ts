@@ -1599,4 +1599,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/mgechev/ngresizable',
     keywords: ['resize', 'angular', 'resizable']
   },
+  {
+    id: 75,
+    name: 'flex-layout',
+    install: [{
+      packager: 'npm',
+      url: 'flex-layout-srcs'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/flex-layout'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'h8hzyoEyqdCXmTBA7DfK'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.8',
+    license: 'MIT',
+    details: 'https://github.com/angular/flex-layout/wiki',
+    keywords: ['flexbox', 'grid', 'responsive', 'adapative', 'layout', 'mediaquery', 'engine', 'angular']
+  },
 ];
