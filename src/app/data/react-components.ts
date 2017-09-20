@@ -2259,5 +2259,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/CookPete/react-player',
     keywords: ['scrollbar']
+  },
+  {
+    id: 104,
+    name: 'react-youtube',
+    install: {
+      packager: 'npm',
+      url: 'react-youtube'
+    },
+    source: {
+      domain: 'github',
+      url: 'troybetz/react-youtube'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://troybetz.github.io/react-youtube/'
+    },
+    framework: 'React',
+    version: '7.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/troybetz/react-youtube',
+    keywords: ['scrollbar']
   }
 ];
