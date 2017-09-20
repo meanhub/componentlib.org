@@ -1923,5 +1923,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'http://rakannimer.github.io/react-google-charts/#/?_k=5q6pmi',
     keywords: ['charts','google']
+  },
+  {
+    id: 88,
+    name: 'victory',
+    install: {
+      packager: 'npm',
+      url: 'victory'
+    },
+    source: {
+      domain: 'github',
+      url: 'FormidableLabs/victory'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://formidable.com/open-source/victory/gallery/brush-zoom'
+    },
+    framework: 'React',
+    version: '0.22.2',
+    license: 'MIT',   
+    details: 'http://formidable.com/open-source/victory',
+    keywords: ['charts']
   }
 ];
