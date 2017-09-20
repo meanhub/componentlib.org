@@ -1880,5 +1880,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/KyleAMathews/react-micro-bar-chart',
     keywords: ['charts','bar']
+  },
+  {
+    id: 86,
+    name: 'react-timeseries-charts',
+    install: {
+      packager: 'npm',
+      url: 'react-timeseries-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'esnet/react-timeseries-charts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://software.es.net/react-timeseries-charts/#/example/realtime?_k=ssh7f4'
+    },
+    framework: 'React',
+    version: '1.12.8',
+    license: 'MIT',   
+    details: 'https://github.com/esnet/react-timeseries-charts',
+    keywords: ['charts','timeseries']
   }
 ];
