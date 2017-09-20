@@ -1662,4 +1662,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/arkon/ng-click-outside',
     keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'click', 'event', 'outside', 'handler']
   },
+  {
+    id: 78,
+    name: 'ng2-page-scroll',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-page-scroll'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Nolanus/ng2-page-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nolanus.github.io/ng2-page-scroll/'
+    },
+    framework: 'Angular 2+',
+    version: '4.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://github.com/Nolanus/ng2-page-scroll',
+    keywords: ['angular2', 'angularjs', 'page', 'scroll', 'pagescroll', 'animate', 'move', 'scrollto', 'anchor']
+  },
 ];
