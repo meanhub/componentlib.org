@@ -1775,5 +1775,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Raathigesh/Dazzle',
     keywords: ['charts','dazzle']
+  },
+  {
+    id: 81,
+    name: 'react-vis',
+    install: {
+      packager: 'npm',
+      url: 'react-vis'
+    },
+    source: {
+      domain: 'github',
+      url: 'uber/react-vis'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://uber.github.io/react-vis/examples/showcases/plots'
+    },
+    framework: 'React',
+    version: '1.7.7',
+    license: 'MIT',
+    details: 'https://uber.github.io/react-vis/',
+    keywords: ['charts']
   }
 ];
