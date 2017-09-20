@@ -1796,5 +1796,25 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://uber.github.io/react-vis/',
     keywords: ['charts']
+  },
+  {
+    id: 82,
+    name: 'react-sparkline',
+    install: {
+      packager: 'npm',
+      url: 'react-sparkline'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-sparkline'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-sparkline/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',   details: 'https://github.com/KyleAMathews/react-sparkline',
+    keywords: ['charts']
   }
 ];
