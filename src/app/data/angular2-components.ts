@@ -1410,4 +1410,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/jkuri/ngx-uploader',
     keywords: ['fileuploader', 'file', 'uploader', 'ngx', 'angular']
   },
+  {
+    id: 66,
+    name: 'ngx-dropzone-wrapper',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-dropzone-wrapper'
+    }],
+    source: {
+      domain: 'github',
+      url: 'zefoy/ngx-dropzone-wrapper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zefoy.github.io/ngx-dropzone-wrapper/'
+    },
+    framework: 'Angular 2+',
+    version: '4.6.2',
+    license: 'MIT',
+    details: 'https://github.com/zefoy/ngx-dropzone-wrapper',
+    keywords: ['Dropzone', 'file', 'uploader', 'angular']
+  },
 ];
