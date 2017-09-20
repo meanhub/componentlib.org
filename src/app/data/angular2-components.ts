@@ -1536,4 +1536,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/BTMorton/angular2-grid',
     keywords: ['angular', 'angular2', 'grid', 'web-components']
   },
+  {
+    id: 72,
+    name: 'ngx-fullpage',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-fullpage'
+    }],
+    source: {
+      domain: 'github',
+      url: 'meiblorn/ngx-fullpage'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://meiblorn.github.io/ngx-fullpage/'
+    },
+    framework: 'Angular 2+',
+    version: '4.0.6',
+    license: 'MIT',
+    details: 'http://meiblorn.github.io/ngx-fullpage/',
+    keywords: ['angular', 'fullpage', 'fullpage.js', 'jquery', 'ng2', 'ngx']
+  },
 ];
