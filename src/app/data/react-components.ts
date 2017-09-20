@@ -2448,5 +2448,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/pieterv/react-googlemaps',
     keywords: ['map','google']
+  },
+  {
+    id: 113,
+    name: 'react-leaflet',
+    install: {
+      packager: 'npm',
+      url: 'react-leaflet'
+    },
+    source: {
+      domain: 'github',
+      url: 'PaulLeCam/react-leaflet'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'sain_anky',
+      id: 'okxf834h'
+    },
+    framework: 'React',
+    version: '1.6',    
+    license: 'MIT',   
+    details: 'https://github.com/PaulLeCam/react-leaflet',
+    keywords: ['map','google']
   }
 ];
