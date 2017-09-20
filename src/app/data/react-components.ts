@@ -2555,4 +2555,25 @@ export const REACT_COMPONENTS: any[] = [
     details: 'https://github.com/ecmadao/react-times',
     keywords: ['time','timepicker']
   },
+  {
+    id: 118,
+    name: 'react-timeago',
+    install: {
+      packager: 'npm',
+      url: 'react-timeago'
+    },
+    source: {
+      domain: 'github',
+      url: 'nmn/react-timeago'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cdn.rawgit.com/nmn/react-timeago/master/examples/simple/index.html'
+    },
+    framework: 'React',
+    version: '3.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/nmn/react-timeago',
+    keywords: ['time','timepicker']
+  }
 ];
