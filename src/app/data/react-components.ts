@@ -2491,5 +2491,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/ubilabs/react-geosuggest',
     keywords: ['location','geo','maps']
+  },
+  {
+    id: 115,
+    name: 'react-map-gl',
+    install: {
+      packager: 'npm',
+      url: 'react-map-gl'
+    },
+    source: {
+      domain: 'github',
+      url: 'uber/react-map-gl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://uber.github.io/react-map-gl/#/Examples/dynamic-styling'
+    },
+    framework: 'React',
+    version: '3.0.3',    
+    license: 'MIT',   
+    details: 'https://github.com/uber/react-map-gl',
+    keywords: ['location','geo','maps']
   }
 ];
