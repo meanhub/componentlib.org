@@ -87,6 +87,28 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/njleonzhang/vue-data-tables',
   keywords: ['vue-data-tables', 'data', 'grid', 'data-tables', 'vue', 'vue2', 'pagination']
+},
+{
+  id: 4,
+  name: 'vuetiful-datatable',
+  install: {
+    packager: 'download',
+    url: 'https://github.com/andrewcourtice/vuetiful'
+  },
+  source: {
+    domain: 'github',
+    url: 'andrewcourtice/vuetiful/tree/master/src/components/datatable',
+    stars: 253
+  },
+  demo: {
+      repl: 'codepen',
+      user: 'andrewcourtice',
+      id: 'woQzpa'
+  },
+  framework: 'Vue',
+  version: '2.2.6',
+  license: 'MIT',
+  details: 'https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable',
+  keywords: ['vue-data-tables', 'table', 'vue-table', 'data', 'grid', 'data-tables', 'vue', 'vue2', 'pagination']
 }
-
 ];
