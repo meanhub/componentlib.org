@@ -2196,5 +2196,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/idiotWu/react-smooth-scrollbar',
     keywords: ['scrollbar']
+  },
+  {
+    id: 101,
+    name: 'react-gemini-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'react-gemini-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'noeldelgado/react-gemini-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://noeldelgado.github.io/gemini-scrollbar/'
+    },
+    framework: 'React',
+    version: '2.3.2',    
+    license: 'MIT',   
+    details: 'https://github.com/noeldelgado/react-gemini-scrollbar',
+    keywords: ['scrollbar']
   }
 ];
