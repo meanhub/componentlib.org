@@ -2575,5 +2575,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/nmn/react-timeago',
     keywords: ['time','timepicker']
+  },
+  {
+    id: 119,
+    name: 'timeago-react',
+    install: {
+      packager: 'npm',
+      url: 'timeago-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'hustcc/timeago-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://git.hust.cc/timeago-react/'
+    },
+    framework: 'React',
+    version: '1.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/hustcc/timeago-react',
+    keywords: ['time','timer','date']
   }
 ];
