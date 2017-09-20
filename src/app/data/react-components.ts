@@ -2470,5 +2470,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/PaulLeCam/react-leaflet',
     keywords: ['map','google']
+  },
+  {
+    id: 114,
+    name: 'react-geosuggest',
+    install: {
+      packager: 'npm',
+      url: 'react-geosuggest'
+    },
+    source: {
+      domain: 'github',
+      url: 'ubilabs/react-geosuggest'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ubilabs.github.io/react-geosuggest/'
+    },
+    framework: 'React',
+    version: '2.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/ubilabs/react-geosuggest',
+    keywords: ['location','geo','maps']
   }
 ];
