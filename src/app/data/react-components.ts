@@ -2133,5 +2133,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/damusnet/react-swipe-views',
     keywords: ['swipe']
+  },
+  {
+    id: 98,
+    name: 'react-custom-scrollbars',
+    install: {
+      packager: 'npm',
+      url: 'react-custom-scrollbars'
+    },
+    source: {
+      domain: 'github',
+      url: 'malte-wessel/react-custom-scrollbars'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://malte-wessel.github.io/react-custom-scrollbars/'
+    },
+    framework: 'React',
+    version: '4.1.2',    
+    license: 'MIT',   
+    details: 'https://github.com/malte-wessel/react-custom-scrollbars',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 99,
+    name: 'react-custom-scrollbars',
+    install: {
+      packager: 'npm',
+      url: 'react-custom-scrollbars'
+    },
+    source: {
+      domain: 'github',
+      url: 'souhe/reactScrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://souhe.github.io/reactScrollbar/'
+    },
+    framework: 'React',
+    version: '0.5.1',    
+    license: 'MIT',   
+    details: 'https://github.com/souhe/reactScrollbar',
+    keywords: ['scrollbar']
   }
 ];
