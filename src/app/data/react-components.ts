@@ -2028,5 +2028,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/unsplash/react-trend',
     keywords: ['charts']
+  },
+  {
+    id: 93,
+    name: 'react-treeview',
+    install: {
+      packager: 'npm',
+      url: 'react-treeview'
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/react-treeview'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://cdn.rawgit.com/chenglou/react-treeview/aa72ed8b9e0b31fabc09e2f8bd4084947d48bb09/demos/index.html'
+    },
+    framework: 'React',
+    version: '0.4.7',    
+    license: 'MIT',   
+    details: 'https://github.com/chenglou/react-treeview',
+    keywords: ['tree']
   }
 ];
