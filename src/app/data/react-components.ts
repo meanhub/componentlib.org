@@ -2343,5 +2343,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/FormidableLabs/react-music',
     keywords: ['audio','music','player']
+  },
+  {
+    id: 108,
+    name: 'react-dailymotion',
+    install: {
+      packager: 'npm',
+      url: 'react-dailymotion'
+    },
+    source: {
+      domain: 'github',
+      url: 'u-wave/react-dailymotion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://u-wave.net/react-dailymotion/'
+    },
+    framework: 'React',
+    version: '0.50.0',    
+    license: 'MIT',   
+    details: 'https://github.com/u-wave/react-dailymotion',
+    keywords: ['video','player']
+  },
+  {
+    id: 109,
+    name: 'video-react',
+    install: {
+      packager: 'npm',
+      url: 'video-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'video-react/video-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://video-react.js.org/'
+    },
+    framework: 'React',
+    version: '0.8.8',    
+    license: 'MIT',   
+    details: 'https://github.com/video-react/video-react',
+    keywords: ['video','player']
   }
 ];
