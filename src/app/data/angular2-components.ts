@@ -1298,4 +1298,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/text-mask/text-mask/tree/master/angular2#readme',
     keywords: ['angular2', 'ng2', 'angular2 component', 'angular2 directive', 'text mask', 'input mask', 'string mask', 'input formatting', 'text formatting', 'string formatting']
   },
+  {
+    id: 61,
+    name: 'ng2-ckeditor',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-ckeditor'
+    }],
+    source: {
+      domain: 'github',
+      url: 'chymz/ng2-ckeditor'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'hnB0R3'
+    },
+    framework: 'Angular 2+',
+    version: '1.1.9',
+    license: 'MIT',
+    details: 'https://github.com/chymz/ng2-ckeditor',
+    keywords: ['angular', 'angular2', 'component', 'ckeditor', 'wysiwyg']
+  },
 ];
