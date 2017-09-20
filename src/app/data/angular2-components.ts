@@ -1389,4 +1389,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ng2-file-upload/',
     keywords: ['angular2', 'bootstrap', 'angular', 'twitter-bootstrap', 'file-upload', 'angular-file-upload']
   },
+  {
+    id: 65,
+    name: 'ngx-uploader',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-uploader'
+    }],
+    source: {
+      domain: 'github',
+      url: 'jkuri/ngx-uploader'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ngx-uploader.com/'
+    },
+    framework: 'Angular 2+',
+    version: '3.3.11',
+    license: 'MIT',
+    details: 'https://github.com/jkuri/ngx-uploader',
+    keywords: ['fileuploader', 'file', 'uploader', 'ngx', 'angular']
+  },
 ];
