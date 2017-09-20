@@ -1515,4 +1515,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/cstefanache/angular2-img-cropper',
     keywords: ['angular2', 'image', 'cropper']
   },
+  {
+    id: 71,
+    name: 'angular2-grid',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-grid'
+    }],
+    source: {
+      domain: 'github',
+      url: 'BTMorton/angular2-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bmorton.co.uk/angular/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.7',
+    license: 'MIT',
+    details: 'https://github.com/BTMorton/angular2-grid',
+    keywords: ['angular', 'angular2', 'grid', 'web-components']
+  },
 ];
