@@ -2427,5 +2427,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/istarkov/google-map-react',
     keywords: ['map','google']
+  },
+  {
+    id: 112,
+    name: 'react-googlemaps',
+    install: {
+      packager: 'npm',
+      url: 'react-googlemaps'
+    },
+    source: {
+      domain: 'github',
+      url: 'pieterv/react-googlemaps'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tomchentw.github.io/react-google-maps/#infobox'
+    },
+    framework: 'React',
+    version: '0.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/pieterv/react-googlemaps',
+    keywords: ['map','google']
   }
 ];
