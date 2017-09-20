@@ -2301,5 +2301,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/soundblogs/react-soundplayer',
     keywords: ['audio','player']
+  },
+  {
+    id: 106,
+    name: 'react-video',
+    install: {
+      packager: 'npm',
+      url: 'react-video'
+    },
+    source: {
+      domain: 'github',
+      url: 'pedronauck/react-video'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://pedronauck.github.io/react-video/'
+    },
+    framework: 'React',
+    version: '1.5.3',    
+    license: 'MIT',   
+    details: 'https://github.com/pedronauck/react-video',
+    keywords: ['video','player']
   }
 ];
