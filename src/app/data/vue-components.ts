@@ -20,5 +20,28 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/shakee93/vue-toasted',
   keywords: ['toast', 'vue', 'vue-toasted', 'toasted', 'responsive', 'touch-compatible', 'touch', 'vue-toast', 'vue-toastr', 'toastr']
+},
+{
+  id: 1,
+  name: 'vuetable-2',
+  install: {
+    packager: 'npm',
+    url: 'vuetable-2'
+  },
+  source: {
+    domain: 'github',
+    url: 'ratiw/vuetable-2',
+    stars: 613
+  },
+  demo: {
+      repl: 'codepen',
+      user: 'ratiw',
+      id: 'GmJayw'
+  },
+  framework: 'Vue',
+  version: '2.x',
+  license: 'MIT',
+  details: 'https://github.com/ratiw/vuetable-2',
+  keywords: ['vuetable-2', 'table', 'vue-table', 'bootstrap', 'vuetable-pagination', 'pagination-data', 'vuetable', 'vue', 'data']
 }
 ];
