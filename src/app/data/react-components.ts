@@ -2070,5 +2070,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/pqx/react-ui-tree',
     keywords: ['tree']
+  },
+  {
+    id: 95,
+    name: 'react-treebeard',
+    install: {
+      packager: 'npm',
+      url: 'react-treebeard'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexcurtis/react-treebeard'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alexcurtis.github.io/react-treebeard/'
+    },
+    framework: 'React',
+    version: '2.0.3',    
+    license: 'MIT',   
+    details: 'https://github.com/alexcurtis/react-treebeard',
+    keywords: ['tree']
+  },
+  {
+    id: 96,
+    name: 'react-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'fisshy/react-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fisshy.github.io/react-scroll-example/basic/index.html'
+    },
+    framework: 'React',
+    version: '1.5.4',    
+    license: 'MIT',   
+    details: 'https://github.com/fisshy/react-scroll',
+    keywords: ['scroll','ui']
   }
 ];
