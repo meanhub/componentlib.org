@@ -1859,5 +1859,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/RumbleInc/rumble-js-charts',
     keywords: ['charts']
+  },
+  {
+    id: 85,
+    name: 'react-micro-bar-chart',
+    install: {
+      packager: 'npm',
+      url: 'react-micro-bar-chart'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-micro-bar-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-micro-bar-chart/'
+    },
+    framework: 'React',
+    version: '1.1.0',
+    license: 'MIT',   
+    details: 'https://github.com/KyleAMathews/react-micro-bar-chart',
+    keywords: ['charts','bar']
   }
 ];
