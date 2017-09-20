@@ -2007,5 +2007,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/kirjs/react-highcharts',
     keywords: ['charts','highcharts']
+  },
+  {
+    id: 92,
+    name: 'react-trend',
+    install: {
+      packager: 'npm',
+      url: 'react-trend'
+    },
+    source: {
+      domain: 'github',
+      url: 'unsplash/react-trend'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://unsplash.github.io/react-trend/'
+    },
+    framework: 'React',
+    version: '1.2.4',    
+    license: 'MIT',   
+    details: 'https://github.com/unsplash/react-trend',
+    keywords: ['charts']
   }
 ];
