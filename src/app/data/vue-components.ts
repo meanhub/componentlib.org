@@ -176,5 +176,27 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/huangshuwei/vue-easytable',
   keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
+},
+{
+  id: 8,
+  name: 'vue2-datatable-component',
+  install: {
+    packager: 'npm',
+    url: 'vue2-datatable-component'
+  },
+  source: {
+    domain: 'github',
+    url: 'OneWayTech/vue2-datatable',
+    stars: 56
+  },
+  demo: {
+      repl: 'custom',
+      src: 'https://onewaytech.github.io/vue2-datatable/examples/dist/'
+  },
+  framework: 'Vue',
+  version: '2.x',
+  license: 'MIT',
+  details: 'https://github.com/OneWayTech/vue2-datatable',
+  keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
 }
 ];
