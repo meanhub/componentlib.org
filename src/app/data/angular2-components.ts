@@ -1431,4 +1431,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/zefoy/ngx-dropzone-wrapper',
     keywords: ['Dropzone', 'file', 'uploader', 'angular']
   },
+  {
+    id: 67,
+    name: 'angular2-autosize',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-autosize'
+    }],
+    source: {
+      domain: 'github',
+      url: 'stevepapa/angular2-autosize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://stevepapa.com/angular2-autosize/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/stevepapa/angular2-autosize',
+    keywords: ['ng2', 'angular', 'angular2', 'autosize', 'textarea', 'elastic', 'height', '@angular']
+  },
 ];
