@@ -1340,4 +1340,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/brillout/awesome-angular-components',
     keywords: ['Rich', 'Text', 'Editor', 'Wysihtml']
   },
+  {
+    id: 63,
+    name: 'angular-froala-wysiwyg',
+    install: [{
+      packager: 'npm',
+      url: 'angular-froala-wysiwyg'
+    }, {
+      packager: 'download',
+      url: 'https://www.froala.com/wysiwyg-editor/download'
+    }],
+    source: {
+      domain: 'github',
+      url: 'froala/angular-froala-wysiwyg'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'Froala',
+      id: 'PpgxGL'
+    },
+    framework: 'Angular 2+',
+    version: '2.7.0',
+    license: 'MIT',
+    details: 'https://www.froala.com/wysiwyg-editor',
+    keywords: ['angular2', 'angular4', 'ng2', 'ng4', 'froala', 'html', 'text', 'editor', 'wysisyg', 'jquery-plugin', 'rich editor', 'rich text editor', 'rte', 'javascript', 'jquery']
+  },
 ];
