@@ -2049,5 +2049,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/chenglou/react-treeview',
     keywords: ['tree']
+  },
+  {
+    id: 94,
+    name: 'react-ui-tree',
+    install: {
+      packager: 'npm',
+      url: 'react-ui-tree'
+    },
+    source: {
+      domain: 'github',
+      url: 'pqx/react-ui-tree'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://pqx.github.io/react-ui-tree/'
+    },
+    framework: 'React',
+    version: '3.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/pqx/react-ui-tree',
+    keywords: ['tree']
   }
 ];
