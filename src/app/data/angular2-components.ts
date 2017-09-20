@@ -1452,4 +1452,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/stevepapa/angular2-autosize',
     keywords: ['ng2', 'angular', 'angular2', 'autosize', 'textarea', 'elastic', 'height', '@angular']
   },
+  {
+    id: 68,
+    name: 'angular-calendar',
+    install: [{
+      packager: 'npm',
+      url: 'angular-calendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'mattlewis92/angular-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mattlewis92.github.io/angular-calendar/#/kitchen-sink'
+    },
+    framework: 'Angular 2+',
+    version: '0.21.2',
+    license: 'MIT',
+    details: 'https://github.com/mattlewis92/angular-calendar',
+    keywords: ['angular', 'angular2', 'angular4', 'calendar']
+  },
 ];
