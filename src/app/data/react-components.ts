@@ -2385,5 +2385,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/video-react/video-react',
     keywords: ['video','player']
+  },
+  {
+    id: 110,
+    name: 'react-gmaps',
+    install: {
+      packager: 'npm',
+      url: 'react-gmaps'
+    },
+    source: {
+      domain: 'github',
+      url: 'MicheleBertoli/react-gmaps'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-gmaps.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '1.6.0',    
+    license: 'MIT',   
+    details: 'https://github.com/MicheleBertoli/react-gmaps',
+    keywords: ['map','google']
   }
 ];
