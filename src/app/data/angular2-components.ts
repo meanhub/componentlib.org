@@ -1365,4 +1365,28 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.froala.com/wysiwyg-editor',
     keywords: ['angular2', 'angular4', 'ng2', 'ng4', 'froala', 'html', 'text', 'editor', 'wysisyg', 'jquery-plugin', 'rich editor', 'rich text editor', 'rte', 'javascript', 'jquery']
   },
+  {
+    id: 64,
+    name: 'ng2-file-upload',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-file-upload'
+    }, {
+      packager: 'download',
+      url: 'https://github.com/valor-software/ng2-file-upload/archive/master.zip'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-file-upload'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-file-upload/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.1',
+    license: 'MIT',
+    details: 'https://valor-software.com/ng2-file-upload/',
+    keywords: ['angular2', 'bootstrap', 'angular', 'twitter-bootstrap', 'file-upload', 'angular-file-upload']
+  },
 ];
