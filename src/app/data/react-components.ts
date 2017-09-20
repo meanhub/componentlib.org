@@ -1986,5 +1986,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/kis/chartify',
     keywords: ['charts']
+  },
+  {
+    id: 91,
+    name: 'react-highcharts',
+    install: {
+      packager: 'npm',
+      url: 'react-highcharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'kirjs/react-highcharts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kirjs.github.io/react-highcharts/'
+    },
+    framework: 'React',
+    version: '12.0.0',
+    license: 'MIT',   
+    details: 'https://github.com/kirjs/react-highcharts',
+    keywords: ['charts','highcharts']
   }
 ];
