@@ -2217,5 +2217,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/noeldelgado/react-gemini-scrollbar',
     keywords: ['scrollbar']
+  },
+  {
+    id: 102,
+    name: 'react-custom-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-custom-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'rommguy/react-custom-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rommguy.github.io/react-custom-scroll/example/demo.html'
+    },
+    framework: 'React',
+    version: '2.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/rommguy/react-custom-scroll',
+    keywords: ['scrollbar']
   }
 ];
