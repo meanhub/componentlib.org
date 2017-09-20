@@ -65,6 +65,28 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/matfish2/vue-tables-2',
   keywords: ['vue-table-2', 'table', 'vue-table', 'bootstrap','vuetable-pagination', 'pagination-data', 'filters', 'list-filters', 'vue', 'data']
+},
+{
+  id: 3,
+  name: 'vue-data-tables',
+  install: {
+    packager: 'npm',
+    url: 'vue-data-tables'
+  },
+  source: {
+    domain: 'github',
+    url: 'njleonzhang/vue-data-tables',
+    stars: 398
+  },
+  demo: {
+      repl: 'custom',
+      src: 'https://njleonzhang.github.io/vue-data-tables/#/'
+  },
+  framework: 'Vue',
+  version: '2.x',
+  license: 'MIT',
+  details: 'https://github.com/njleonzhang/vue-data-tables',
+  keywords: ['vue-data-tables', 'data', 'grid', 'data-tables', 'vue', 'vue2', 'pagination']
 }
 
 ];
