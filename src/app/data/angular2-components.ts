@@ -1557,4 +1557,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://meiblorn.github.io/ngx-fullpage/',
     keywords: ['angular', 'fullpage', 'fullpage.js', 'jquery', 'ng2', 'ngx']
   },
+  {
+    id: 73,
+    name: 'angular-split',
+    install: [{
+      packager: 'npm',
+      url: 'angular-split'
+    }],
+    source: {
+      domain: 'github',
+      url: 'bertrandg/angular-split'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bertrandg.github.io/angular-split/#/examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.2.2',
+    license: 'ISC',
+    details: 'https://bertrandg.github.io/angular-split/#/',
+    keywords: ['angular', 'split', 'flexbox']
+  },
 ];
