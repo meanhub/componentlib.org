@@ -1473,4 +1473,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/mattlewis92/angular-calendar',
     keywords: ['angular', 'angular2', 'angular4', 'calendar']
   },
+  {
+    id: 69,
+    name: 'ng2-fullcalendar',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-fullcalendar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'nekken/ng2-fullcalendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://fullcalendar.io/js/fullcalendar-3.5.1/demos/agenda-views.html'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.19',
+    license: 'MIT',
+    details: 'https://github.com/nekken/ng2-fullcalendar',
+    keywords: ['fullcalendar', 'angular 2', 'angular', 'calendar']
+  },
 ];
