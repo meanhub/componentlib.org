@@ -2322,5 +2322,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/pedronauck/react-video',
     keywords: ['video','player']
+  },
+  {
+    id: 107,
+    name: 'react-music',
+    install: {
+      packager: 'npm',
+      url: 'react-music'
+    },
+    source: {
+      domain: 'github',
+      url: 'FormidableLabs/react-music'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://reactmusic.surge.sh/'
+    },
+    framework: 'React',
+    version: '1.0.2',    
+    license: 'MIT',   
+    details: 'https://github.com/FormidableLabs/react-music',
+    keywords: ['audio','music','player']
   }
 ];
