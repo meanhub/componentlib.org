@@ -1965,5 +1965,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/dunnock/react-sigma',
     keywords: ['charts']
+  },
+  {
+    id: 90,
+    name: 'chartify',
+    install: {
+      packager: 'npm',
+      url: 'chartify'
+    },
+    source: {
+      domain: 'github',
+      url: 'kis/chartify'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://kis.github.io/chartify/example/'
+    },
+    framework: 'React',
+    version: '2.1.0',
+    license: 'MIT',   
+    details: 'https://github.com/kis/chartify',
+    keywords: ['charts']
   }
 ];
