@@ -2112,5 +2112,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/fisshy/react-scroll',
     keywords: ['scroll','ui']
+  },
+  {
+    id: 97,
+    name: 'react-swipe-views',
+    install: {
+      packager: 'npm',
+      url: 'react-swipe-views'
+    },
+    source: {
+      domain: 'github',
+      url: 'damusnet/react-swipe-views'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://damusnet.github.io/react-swipe-views/'
+    },
+    framework: 'React',
+    version: '0.0.12',    
+    license: 'MIT',   
+    details: 'https://github.com/damusnet/react-swipe-views',
+    keywords: ['swipe']
   }
 ];
