@@ -2534,4 +2534,25 @@ export const REACT_COMPONENTS: any[] = [
     details: 'https://github.com/alex3165/react-mapbox-gl',
     keywords: ['location','geo','maps']
   },
+  {
+    id: 117,
+    name: 'react-times',
+    install: {
+      packager: 'npm',
+      url: 'react-times'
+    },
+    source: {
+      domain: 'github',
+      url: 'ecmadao/react-times'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ecmadao.github.io/react-times/?selectedKind=Default%20TimePicker&selectedStory=basic&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '2.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/ecmadao/react-times',
+    keywords: ['time','timepicker']
+  },
 ];
