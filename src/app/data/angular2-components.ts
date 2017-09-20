@@ -1494,4 +1494,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/nekken/ng2-fullcalendar',
     keywords: ['fullcalendar', 'angular 2', 'angular', 'calendar']
   },
+  {
+    id: 70,
+    name: 'angular2-img-cropper',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-img-cropper'
+    }],
+    source: {
+      domain: 'github',
+      url: 'cstefanache/angular2-img-cropper'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'VFwGvAO6MhV06IDTLk5W'
+    },
+    framework: 'Angular 2+',
+    version: '0.9.0',
+    license: 'MIT',
+    details: 'https://github.com/cstefanache/angular2-img-cropper',
+    keywords: ['angular2', 'image', 'cropper']
+  },
 ];
