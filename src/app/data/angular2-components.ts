@@ -962,4 +962,340 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/maxisam/ngx-no-animation-for-dinosaur',
     keywords: ['angular', 'animation']
   },
+  {
+    id: 45,
+    name: 'ng2-datepicker',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-datepicker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'jkuri/ng2-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ng2-datepicker.jankuri.com/'
+    },
+    framework: 'Angular 2+',
+    version: '1.8.3',
+    license: 'MIT',
+    details: 'https://github.com/jkuri/ng2-datepicker',
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'ngx', 'datepicker', 'date', 'component']
+  },
+  {
+    id: 46,
+    name: 'mydatepicker',
+    install: [{
+      packager: 'npm',
+      url: 'mydatepicker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'kekeh/mydatepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kekeh.github.io/mydatepicker/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.31',
+    license: 'MIT',
+    details: 'https://github.com/kekeh/mydatepicker',
+    keywords: ['Angular2', 'Angular4', 'date picker']
+  },
+  {
+    id: 47,
+    name: 'ng2-datetime',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-datetime'
+    }],
+    source: {
+      domain: 'github',
+      url: 'nkalinov/ng2-datetime'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nkalinov.github.io/ng2-datetime/'
+    },
+    framework: 'Angular 2+',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'https://github.com/nkalinov/ng2-datetime',
+    keywords: ['angular2', 'ng2', 'bootstrap', 'date', 'time', 'datetime', 'picker']
+  },
+  {
+    id: 48,
+    name: 'angular-datepicker',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-date-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vlio20/angular-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vlio20.github.io/angular-datepicker/'
+    },
+    framework: 'Angular 2+',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'https://github.com/vlio20/angular-datepicker',
+    keywords: ['angular2', 'date', 'datepicker', 'date-picker', 'ng2-datepicker', 'ng-datepicker', 'angular', 'picker', 'angular-datepicker']
+  },
+  {
+    id: 49,
+    name: 'ngx-color-picker',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-color-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'zefoy/ngx-color-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zefoy.github.io/ngx-color-picker/'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.3',
+    license: 'MIT',
+    details: 'https://zefoy.github.io/ngx-color-picker/',
+    keywords: ['color', 'picker', 'angular', 'widget']
+  },
+  {
+    id: 50,
+    name: 'angular2-color-picker',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-color-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Alberplz/angular2-color-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alberplz.github.io/angular2-color-picker/examples/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'http://alberplz.github.io/angular2-color-picker/examples/index.html',
+    keywords: ['color-picker', 'angular', 'directive']
+  },
+  {
+    id: 51,
+    name: 'ng2-slider-component',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-slider-component'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Bogdan1975/ng2-slider-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bogdan1975.github.io/slider/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.9',
+    license: 'MIT',
+    details: 'https://github.com/Bogdan1975/ng2-slider-component',
+    keywords: ['angular2', 'angular 2', 'component', 'drag', 'dragable', 'slide', 'slider', 'range slider', 'range']
+  },
+  {
+    id: 52,
+    name: 'ng2-select',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-select'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-select'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-select/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://valor-software.com/ng2-select/',
+    keywords: ['angular2', 'select', 'selectify']
+  },
+  {
+    id: 53,
+    name: 'ng-select',
+    install: [{
+      packager: 'npm',
+      url: 'ng-select'
+    }],
+    source: {
+      domain: 'github',
+      url: 'basvandenberg/ng-select'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'vxwV6zxEwZGVUVR5V6tg'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.6',
+    license: 'ISC',
+    details: 'https://basvandenberg.github.io/ng-select/home',
+    keywords: ['angular', 'select', 'select2', 'selectize', 'chosen']
+  },
+  {
+    id: 54,
+    name: 'ng2-completer',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-completer'
+    }],
+    source: {
+      domain: 'github',
+      url: 'oferh/ng2-completer'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'sVnfpBiEb5jBdtul4ls9'
+    },
+    framework: 'Angular 2+',
+    version: '1.6.3',
+    license: 'MIT',
+    details: 'http://oferh.github.io/ng2-completer/#',
+    keywords: ['angular2', 'autcomplete', 'ypeahead', 'word completion', 'ng2']
+  },
+  {
+    id: 55,
+    name: 'auto-complete',
+    install: [{
+      packager: 'npm',
+      url: '@ngui/auto-complete'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng2-ui/auto-complete'
+    },
+    demo: {
+      repl: 'plunker',
+      id: '3pB1Gx'
+    },
+    framework: 'Angular 2+',
+    version: '0.14.4',
+    license: 'MIT',
+    details: 'https://github.com/ng2-ui/auto-complete',
+    keywords: ['angular', 'auto-complete', 'input', 'select']
+  },
+  {
+    id: 56,
+    name: 'ngx-chips',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-chips'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Gbuomprisco/ngx-chips'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.buompris.co/ng2-tag-input/'
+    },
+    framework: 'Angular 2+',
+    version: '1.5.3',
+    license: 'MIT',
+    details: 'https://github.com/Gbuomprisco/ngx-chips',
+    keywords: ['angular tag input', 'tag input component', 'material tag input', 'angular chips component', 'material chips']
+  },
+  {
+    id: 57,
+    name: 'ng2-dragula',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-dragula'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ng2-dragula'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ng2-dragula/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/valor-software/ng2-dragula',
+    keywords: ['angular', 'dragula', 'ng-dragula', 'angular2', 'ng2', 'angular2-dragula', 'ng2-dragula', 'ngx-dragula']
+  },
+  {
+    id: 58,
+    name: 'ng2-dnd',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-dnd'
+    }],
+    source: {
+      domain: 'github',
+      url: 'akserg/ng2-dnd'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'JbG8Si'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.0',
+    license: 'MIT',
+    details: 'https://github.com/akserg/ng2-dnd',
+    keywords: ['angular', 'angular2', 'angular 2', 'drag', 'drop', 'drag-and-drop']
+  },
+  {
+    id: 59,
+    name: 'ng2-drag-drop',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-drag-drop'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ObaidUrRehman/ng2-drag-drop'
+    },
+    demo: {
+      repl: 'plunker',
+      id: '2bjGgzWnbFrciEiCKLew'
+    },
+    framework: 'Angular 2+',
+    version: '2.8.0',
+    license: 'MIT',
+    details: 'https://github.com/ObaidUrRehman/ng2-drag-drop',
+    keywords: ['Angular2', 'Angular4', 'Angular', 'drag', 'drop', 'dragdrop']
+  },
+  {
+    id: 60,
+    name: 'text-mask',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-text-mask'
+    }],
+    source: {
+      domain: 'github',
+      url: 'text-mask/text-mask'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://text-mask.github.io/text-mask/'
+    },
+    framework: 'Angular 2+',
+    version: '8.0.4',
+    license: 'Unlicense',
+    details: 'https://github.com/text-mask/text-mask/tree/master/angular2#readme',
+    keywords: ['angular2', 'ng2', 'angular2 component', 'angular2 directive', 'text mask', 'input mask', 'string mask', 'input formatting', 'text formatting', 'string formatting']
+  },
 ];
