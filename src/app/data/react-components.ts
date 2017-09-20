@@ -2258,7 +2258,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.24.5',    
     license: 'MIT',   
     details: 'https://github.com/CookPete/react-player',
-    keywords: ['scrollbar']
+    keywords: ['player']
   },
   {
     id: 104,
@@ -2279,6 +2279,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '7.4.0',    
     license: 'MIT',   
     details: 'https://github.com/troybetz/react-youtube',
-    keywords: ['scrollbar']
+    keywords: ['video','youtube','player']
+  },
+  {
+    id: 105,
+    name: 'react-soundplayer',
+    install: {
+      packager: 'npm',
+      url: 'react-soundplayer'
+    },
+    source: {
+      domain: 'github',
+      url: 'soundblogs/react-soundplayer'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://labs.voronianski.com/react-soundplayer/#ExamplePlayers'
+    },
+    framework: 'React',
+    version: '0.3.6',    
+    license: 'MIT',   
+    details: 'https://github.com/soundblogs/react-soundplayer',
+    keywords: ['audio','player']
   }
 ];
