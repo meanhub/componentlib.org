@@ -2238,5 +2238,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/rommguy/react-custom-scroll',
     keywords: ['scrollbar']
+  },
+  {
+    id: 103,
+    name: 'react-player',
+    install: {
+      packager: 'npm',
+      url: 'react-player'
+    },
+    source: {
+      domain: 'github',
+      url: 'CookPete/react-player'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cookpete.com/react-player/'
+    },
+    framework: 'React',
+    version: '0.24.5',    
+    license: 'MIT',   
+    details: 'https://github.com/CookPete/react-player',
+    keywords: ['scrollbar']
   }
 ];
