@@ -1578,4 +1578,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://bertrandg.github.io/angular-split/#/',
     keywords: ['angular', 'split', 'flexbox']
   },
+  {
+    id: 74,
+    name: 'ngresizable',
+    install: [{
+      packager: 'npm',
+      url: 'ngresizable'
+    }],
+    source: {
+      domain: 'github',
+      url: 'mgechev/ngresizable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mgechev.github.io/ngresizable/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/mgechev/ngresizable',
+    keywords: ['resize', 'angular', 'resizable']
+  },
 ];
