@@ -1838,5 +1838,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/borisyankov/react-sparklines',
     keywords: ['charts']
+  },
+  {
+    id: 84,
+    name: 'rumble-js-charts',
+    install: {
+      packager: 'npm',
+      url: 'rumble-js-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'RumbleInc/rumble-js-charts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rosko.github.io/slides/2016-04-declarative-charts/#/liveedit?_k=jm1rnj'
+    },
+    framework: 'React',
+    version: '1.4.1',
+    license: 'MIT',   
+    details: 'https://github.com/RumbleInc/rumble-js-charts',
+    keywords: ['charts']
   }
 ];
