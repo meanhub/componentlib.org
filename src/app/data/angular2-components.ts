@@ -1683,4 +1683,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/Nolanus/ng2-page-scroll',
     keywords: ['angular2', 'angularjs', 'page', 'scroll', 'pagescroll', 'animate', 'move', 'scrollto', 'anchor']
   },
+  {
+    id: 79,
+    name: 'scrollable',
+    install: [{
+      packager: 'npm',
+      url: '@ngui/scrollable'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng2-ui/scrollable'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'wLVudY'
+    },
+    framework: 'Angular 2+',
+    version: '0.9.1',
+    license: 'MIT',
+    details: 'https://github.com/ng2-ui/scrollable',
+    keywords: ['angular2', 'scrollable', 'directive']
+  },
 ];
