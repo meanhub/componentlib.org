@@ -1814,7 +1814,29 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.0',
-    license: 'MIT',   details: 'https://github.com/KyleAMathews/react-sparkline',
+    license: 'MIT',   
+    details: 'https://github.com/KyleAMathews/react-sparkline',
+    keywords: ['charts']
+  },
+  {
+    id: 83,
+    name: 'react-sparklines',
+    install: {
+      packager: 'npm',
+      url: 'react-sparklines'
+    },
+    source: {
+      domain: 'github',
+      url: 'borisyankov/react-sparklines'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://borisyankov.github.io/react-sparklines/'
+    },
+    framework: 'React',
+    version: '1.7.0',
+    license: 'MIT',   
+    details: 'https://github.com/borisyankov/react-sparklines',
     keywords: ['charts']
   }
 ];
