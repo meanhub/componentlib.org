@@ -154,5 +154,27 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/dzwillia/vue-grid',
   keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid']
+},
+{
+  id: 7,
+  name: 'vue-easytable',
+  install: {
+    packager: 'npm',
+    url: 'vue-easytable'
+  },
+  source: {
+    domain: 'github',
+    url: 'huangshuwei/vue-easytable',
+    stars: 196
+  },
+  demo: {
+      repl: 'custom',
+      src: 'http://doc.huangsw.com/vue-easytable/app.html#/start'
+  },
+  framework: 'Vue',
+  version: '2.x',
+  license: 'MIT',
+  details: 'https://github.com/huangshuwei/vue-easytable',
+  keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
 }
 ];
