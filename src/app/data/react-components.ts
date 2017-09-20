@@ -2512,5 +2512,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/uber/react-map-gl',
     keywords: ['location','geo','maps']
-  }
+  },
+  {
+    id: 116,
+    name: 'react-mapbox-gl',
+    install: {
+      packager: 'npm',
+      url: 'react-mapbox-gl'
+    },
+    source: {
+      domain: 'github',
+      url: 'alex3165/react-mapbox-gl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alex3165.github.io/react-mapbox-gl/demos'
+    },
+    framework: 'React',
+    version: '2.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/alex3165/react-mapbox-gl',
+    keywords: ['location','geo','maps']
+  },
 ];
