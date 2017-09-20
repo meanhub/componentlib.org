@@ -1319,4 +1319,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/chymz/ng2-ckeditor',
     keywords: ['angular', 'angular2', 'component', 'ckeditor', 'wysiwyg']
   },
+  {
+    id: 62,
+    name: 'ngx-voog-wysihtml',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-voog-wysihtml'
+    }],
+    source: {
+      domain: 'github',
+      url: 'zefoy/ngx-voog-wysihtml'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zefoy.github.io/ngx-voog-wysihtml/'
+    },
+    framework: 'Angular 2+',
+    version: '0.0.4',
+    license: 'MIT',
+    details: 'https://github.com/brillout/awesome-angular-components',
+    keywords: ['Rich', 'Text', 'Editor', 'Wysihtml']
+  },
 ];
