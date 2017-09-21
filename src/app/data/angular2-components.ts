@@ -1704,4 +1704,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/ng2-ui/scrollable',
     keywords: ['angular2', 'scrollable', 'directive']
   },
+  {
+    id: 80,
+    name: 'ng2-validation',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-validation'
+    }],
+    source: {
+      domain: 'github',
+      url: 'yuyang041060120/ng2-validation'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://yuyang041060120.github.io/ng2-validation/index.html'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.0',
+    license: 'MIT',
+    details: 'https://github.com/yuyang041060120/ng2-validation',
+    keywords: ['angular2', 'validate', 'validation']
+  },
 ];
