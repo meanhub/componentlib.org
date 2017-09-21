@@ -1746,4 +1746,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://www.ngx-translate.com/',
     keywords: ['angular', 'i18n', 'translation', 'npm-package', 'angular2', 'ngx', 'ngx-translate']
   },
+  {
+    id: 82,
+    name: 'angular-l10n',
+    install: [{
+      packager: 'npm',
+      url: 'angular-l10n'
+    }],
+    source: {
+      domain: 'github',
+      url: 'robisim74/angular-l10n'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://robisim74.github.io/angular-l10n-sample/#/home'
+    },
+    framework: 'Angular 2+',
+    version: '3.5.1',
+    license: 'MIT',
+    details: 'https://robisim74.github.io/angular-l10n/',
+    keywords: ['angular', 'javascript', 'typescript', 'internationalization', 'i18n', 'localization', 'l10n', 'translate', 'validation']
+  },
 ];
