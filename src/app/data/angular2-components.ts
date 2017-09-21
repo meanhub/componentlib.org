@@ -1809,4 +1809,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://isaacplmann.github.io/ngx-tour/',
     keywords: ['ng2-tour', 'angular', 'product-tour', 'ngx', 'ngx-tour']
   },
+  {
+    id: 85,
+    name: 'ng-lazyload-image',
+    install: [{
+      packager: 'npm',
+      url: 'ng-lazyload-image'
+    }],
+    source: {
+      domain: 'github',
+      url: 'tjoskar/ng-lazyload-image'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://tjoskar.github.io/ng-lazyload-image/'
+    },
+    framework: 'Angular 2+',
+    version: '3.3.2',
+    license: 'MIT',
+    details: 'https://github.com/tjoskar/ng-lazyload-image',
+    keywords: ['lazy-load', 'lazy-image', 'angular']
+  },
 ];
