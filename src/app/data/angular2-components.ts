@@ -1767,4 +1767,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://robisim74.github.io/angular-l10n/',
     keywords: ['angular', 'javascript', 'typescript', 'internationalization', 'i18n', 'localization', 'l10n', 'translate', 'validation']
   },
+  {
+    id: 83,
+    name: 'ngx-clipboard',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-clipboard'
+    }],
+    source: {
+      domain: 'github',
+      url: 'maxisam/ngx-clipboard'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'PD4Ap8'
+    },
+    framework: 'Angular 2+',
+    version: '8.0.4',
+    license: 'MIT',
+    details: 'https://maxisam.github.io/ngx-clipboard/',
+    keywords: ['angular', 'clipboard', 'copy']
+  },
 ];
