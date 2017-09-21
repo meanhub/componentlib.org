@@ -1725,4 +1725,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/yuyang041060120/ng2-validation',
     keywords: ['angular2', 'validate', 'validation']
   },
+  {
+    id: 81,
+    name: '@ngx-translate/core',
+    install: [{
+      packager: 'npm',
+      url: '@ngx-translate/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ngx-translate/core'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'WccVZSBM0rUgq2sXSUbe'
+    },
+    framework: 'Angular 2+',
+    version: '8.0.0',
+    license: 'MIT',
+    details: 'http://www.ngx-translate.com/',
+    keywords: ['angular', 'i18n', 'translation', 'npm-package', 'angular2', 'ngx', 'ngx-translate']
+  },
 ];
