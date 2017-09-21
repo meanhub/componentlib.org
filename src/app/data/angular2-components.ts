@@ -1872,4 +1872,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/JayChase/angular2-disqus',
     keywords: ['Angular', 'Angular2', 'DISQUS']
   },
+  {
+    id: 88,
+    name: 'ng-recaptcha',
+    install: [{
+      packager: 'npm',
+      url: 'ng-recaptcha'
+    }],
+    source: {
+      domain: 'github',
+      url: 'DethAriel/ng-recaptcha'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dethariel.github.io/ng-recaptcha/'
+    },
+    framework: 'Angular 2+',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/DethAriel/ng-recaptcha',
+    keywords: ['angular', 'recaptcha', 'angular-recaptcha', 'ng-recaptcha']
+  },
 ];
