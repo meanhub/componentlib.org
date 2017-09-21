@@ -1851,4 +1851,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://nathanwalker.github.io/ng2-image-lazy-load/',
     keywords: ['lazy', 'load', 'image', 'ng2', 'angular']
   },
+  {
+    id: 87,
+    name: 'angular2-disqus',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-disqus'
+    }],
+    source: {
+      domain: 'github',
+      url: 'JayChase/angular2-disqus'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'mIv6Fy'
+    },
+    framework: 'Angular 2+',
+    version: '6.1.1',
+    license: 'MIT',
+    details: 'https://github.com/JayChase/angular2-disqus',
+    keywords: ['Angular', 'Angular2', 'DISQUS']
+  },
 ];
