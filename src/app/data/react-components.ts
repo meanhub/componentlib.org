@@ -1575,13 +1575,1026 @@ export const REACT_COMPONENTS: any[] = [
       url: 'akiran/react-slick'
     },
     demo: {
-      repl: 'custom',
-      src: 'http://neostack.com/opensource/react-slick'
+      repl: 'jsfiddle',
+      user: 'kirana',
+      id: '20bumb4g'
     },
     framework: 'React',
     version: '0.15.4',
     license: 'MIT',
     details: 'http://neostack.com/opensource/react-slick',
-    keywords: ['loader']
+    keywords: ['slider','carousel']
+  },
+  {
+    id: 72,
+    name: 'react-responsive-carousel',
+    install: {
+      packager: 'npm',
+      url: 'react-responsive-carousel'
+    },
+    source: {
+      domain: 'github',
+      url: 'leandrowd/react-responsive-carousel'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'leandrowd',
+      id: 'xLvOPd'
+    },
+    framework: 'React',
+    version: '3.1.25',
+    license: 'MIT',
+    details: 'http://react-responsive-carousel.js.org/',
+    keywords: ['slider','carousel']
+  },
+  {
+    id: 73,
+    name: 'react-collapse',
+    install: {
+      packager: 'npm',
+      url: 'react-collapse'
+    },
+    source: {
+      domain: 'github',
+      url: 'nkbt/react-collapse'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nkbt.github.io/react-collapse/'
+    },
+    framework: 'React',
+    version: '4.0.3',
+    license: 'MIT',
+    details: 'https://github.com/nkbt/react-collapse',
+    keywords: ['collapse']
+  },
+  {
+    id: 74,
+    name: 'react-accessible-accordion',
+    install: {
+      packager: 'npm',
+      url: 'react-accessible-accordion'
+    },
+    source: {
+      domain: 'github',
+      url: 'springload/react-accessible-accordion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://springload.github.io/react-accessible-accordion/'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/springload/react-accessible-accordion',
+    keywords: ['collapse','accordion']
+  },
+  {
+    id: 75,
+    name: 'react-chartist',
+    install: {
+      packager: 'npm',
+      url: 'react-chartist'
+    },
+    source: {
+      domain: 'github',
+      url: 'fraserxu/react-chartist'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://gionkunz.github.io/chartist-js/examples.html'
+    },
+    framework: 'React',
+    version: '0.13.0',
+    license: 'MIT',
+    details: 'https://gionkunz.github.io/chartist-js/getting-started.html',
+    keywords: ['charts']
+  },
+  {
+    id: 76,
+    name: 'd3-react-squared',
+    install: {
+      packager: 'npm',
+      url: 'd3-react-squared'
+    },
+    source: {
+      domain: 'github',
+      url: 'bgrsquared/d3-react-squared'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bgrsquared.com/DR2/'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'http://bgrsquared.com/DR2/',
+    keywords: ['charts','d3']
+  },
+  {
+    id: 77,
+    name: 'react-d3-components',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-components'
+    },
+    source: {
+      domain: 'github',
+      url: 'codesuki/react-d3-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://codesuki.github.io/react-d3-components/example.html'
+    },
+    framework: 'React',
+    version: '0.6.6',
+    license: 'MIT',
+    details: 'https://github.com/codesuki/react-d3-components',
+    keywords: ['charts','d3']
+  },
+  {
+    id: 78,
+    name: 'recharts',
+    install: {
+      packager: 'npm',
+      url: 'recharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'recharts/recharts'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'x1yoboc7',
+      id: '612'
+    },
+    framework: 'React',
+    version: '1.0.0-apha.5',
+    license: 'MIT',
+    details: 'https://github.com/recharts/recharts',
+    keywords: ['charts','d3']
+  },
+  {
+    id: 79,
+    name: 'react-chartjs',
+    install: {
+      packager: 'npm',
+      url: 'react-chartjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/react-chartjs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://reactcommunity.org/react-chartjs/index.html'
+    },
+    framework: 'React',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/reactjs/react-chartjs',
+    keywords: ['charts','chartjs']
+  },
+  {
+    id: 80,
+    name: 'react-dazzle',
+    install: {
+      packager: 'npm',
+      url: 'react-dazzle'
+    },
+    source: {
+      domain: 'github',
+      url: 'Raathigesh/Dazzle'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://raathigesh.com/dazzle/'
+    },
+    framework: 'React',
+    version: '1.2.5',
+    license: 'MIT',
+    details: 'https://github.com/Raathigesh/Dazzle',
+    keywords: ['charts','dazzle']
+  },
+  {
+    id: 81,
+    name: 'react-vis',
+    install: {
+      packager: 'npm',
+      url: 'react-vis'
+    },
+    source: {
+      domain: 'github',
+      url: 'uber/react-vis'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://uber.github.io/react-vis/examples/showcases/plots'
+    },
+    framework: 'React',
+    version: '1.7.7',
+    license: 'MIT',
+    details: 'https://uber.github.io/react-vis/',
+    keywords: ['charts']
+  },
+  {
+    id: 82,
+    name: 'react-sparkline',
+    install: {
+      packager: 'npm',
+      url: 'react-sparkline'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-sparkline'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-sparkline/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',   
+    details: 'https://github.com/KyleAMathews/react-sparkline',
+    keywords: ['charts']
+  },
+  {
+    id: 83,
+    name: 'react-sparklines',
+    install: {
+      packager: 'npm',
+      url: 'react-sparklines'
+    },
+    source: {
+      domain: 'github',
+      url: 'borisyankov/react-sparklines'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://borisyankov.github.io/react-sparklines/'
+    },
+    framework: 'React',
+    version: '1.7.0',
+    license: 'MIT',   
+    details: 'https://github.com/borisyankov/react-sparklines',
+    keywords: ['charts']
+  },
+  {
+    id: 84,
+    name: 'rumble-js-charts',
+    install: {
+      packager: 'npm',
+      url: 'rumble-js-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'RumbleInc/rumble-js-charts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rosko.github.io/slides/2016-04-declarative-charts/#/liveedit?_k=jm1rnj'
+    },
+    framework: 'React',
+    version: '1.4.1',
+    license: 'MIT',   
+    details: 'https://github.com/RumbleInc/rumble-js-charts',
+    keywords: ['charts']
+  },
+  {
+    id: 85,
+    name: 'react-micro-bar-chart',
+    install: {
+      packager: 'npm',
+      url: 'react-micro-bar-chart'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-micro-bar-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/react-micro-bar-chart/'
+    },
+    framework: 'React',
+    version: '1.1.0',
+    license: 'MIT',   
+    details: 'https://github.com/KyleAMathews/react-micro-bar-chart',
+    keywords: ['charts','bar']
+  },
+  {
+    id: 86,
+    name: 'react-timeseries-charts',
+    install: {
+      packager: 'npm',
+      url: 'react-timeseries-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'esnet/react-timeseries-charts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://software.es.net/react-timeseries-charts/#/example/realtime?_k=ssh7f4'
+    },
+    framework: 'React',
+    version: '1.12.8',
+    license: 'MIT',   
+    details: 'https://github.com/esnet/react-timeseries-charts',
+    keywords: ['charts','timeseries']
+  },
+  {
+    id: 87,
+    name: 'react-google-charts',
+    install: {
+      packager: 'npm',
+      url: 'react-google-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'RakanNimer/react-google-charts'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'sain_anky',
+      id: 'f8zpr8uc'
+    },
+    framework: 'React',
+    version: '1.5.5',
+    license: 'MIT',   
+    details: 'http://rakannimer.github.io/react-google-charts/#/?_k=5q6pmi',
+    keywords: ['charts','google']
+  },
+  {
+    id: 88,
+    name: 'victory',
+    install: {
+      packager: 'npm',
+      url: 'victory'
+    },
+    source: {
+      domain: 'github',
+      url: 'FormidableLabs/victory'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://formidable.com/open-source/victory/gallery/brush-zoom'
+    },
+    framework: 'React',
+    version: '0.22.2',
+    license: 'MIT',   
+    details: 'http://formidable.com/open-source/victory',
+    keywords: ['charts']
+  },
+  {
+    id: 89,
+    name: 'react-sigma',
+    install: {
+      packager: 'npm',
+      url: 'react-sigma'
+    },
+    source: {
+      domain: 'github',
+      url: 'dunnock/react-sigma'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dunnock.github.io/react-sigma/?knob-Outbound%20attraction%20distribution=false&knob-Barneshut%20theta=0.5&knob-Timeout=2000&knob-Easing%20after%20layout=cubicInOut&knob-Randomize%20node%20positions=locally&knob-Barneshut%20optimize=false&knob-Force%20layout%20in%20backround=true&knob-Gravity=1&knob-Edge%20weight%20influence=0&knob-Align%20node%20siblings=false&selectedKind=Complex%20graph%20samples&selectedStory=Big%20graph%20animated&full=0&down=1&left=1&panelRight=1&downPanel=storybook%2Faddon-actions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '1.2.26',
+    license: 'MIT',   
+    details: 'https://github.com/dunnock/react-sigma',
+    keywords: ['charts']
+  },
+  {
+    id: 90,
+    name: 'chartify',
+    install: {
+      packager: 'npm',
+      url: 'chartify'
+    },
+    source: {
+      domain: 'github',
+      url: 'kis/chartify'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://kis.github.io/chartify/example/'
+    },
+    framework: 'React',
+    version: '2.1.0',
+    license: 'MIT',   
+    details: 'https://github.com/kis/chartify',
+    keywords: ['charts']
+  },
+  {
+    id: 91,
+    name: 'react-highcharts',
+    install: {
+      packager: 'npm',
+      url: 'react-highcharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'kirjs/react-highcharts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kirjs.github.io/react-highcharts/'
+    },
+    framework: 'React',
+    version: '12.0.0',
+    license: 'MIT',   
+    details: 'https://github.com/kirjs/react-highcharts',
+    keywords: ['charts','highcharts']
+  },
+  {
+    id: 92,
+    name: 'react-trend',
+    install: {
+      packager: 'npm',
+      url: 'react-trend'
+    },
+    source: {
+      domain: 'github',
+      url: 'unsplash/react-trend'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://unsplash.github.io/react-trend/'
+    },
+    framework: 'React',
+    version: '1.2.4',    
+    license: 'MIT',   
+    details: 'https://github.com/unsplash/react-trend',
+    keywords: ['charts']
+  },
+  {
+    id: 93,
+    name: 'react-treeview',
+    install: {
+      packager: 'npm',
+      url: 'react-treeview'
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/react-treeview'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://cdn.rawgit.com/chenglou/react-treeview/aa72ed8b9e0b31fabc09e2f8bd4084947d48bb09/demos/index.html'
+    },
+    framework: 'React',
+    version: '0.4.7',    
+    license: 'MIT',   
+    details: 'https://github.com/chenglou/react-treeview',
+    keywords: ['tree']
+  },
+  {
+    id: 94,
+    name: 'react-ui-tree',
+    install: {
+      packager: 'npm',
+      url: 'react-ui-tree'
+    },
+    source: {
+      domain: 'github',
+      url: 'pqx/react-ui-tree'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://pqx.github.io/react-ui-tree/'
+    },
+    framework: 'React',
+    version: '3.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/pqx/react-ui-tree',
+    keywords: ['tree']
+  },
+  {
+    id: 95,
+    name: 'react-treebeard',
+    install: {
+      packager: 'npm',
+      url: 'react-treebeard'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexcurtis/react-treebeard'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alexcurtis.github.io/react-treebeard/'
+    },
+    framework: 'React',
+    version: '2.0.3',    
+    license: 'MIT',   
+    details: 'https://github.com/alexcurtis/react-treebeard',
+    keywords: ['tree']
+  },
+  {
+    id: 96,
+    name: 'react-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'fisshy/react-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fisshy.github.io/react-scroll-example/basic/index.html'
+    },
+    framework: 'React',
+    version: '1.5.4',    
+    license: 'MIT',   
+    details: 'https://github.com/fisshy/react-scroll',
+    keywords: ['scroll','ui']
+  },
+  {
+    id: 97,
+    name: 'react-swipe-views',
+    install: {
+      packager: 'npm',
+      url: 'react-swipe-views'
+    },
+    source: {
+      domain: 'github',
+      url: 'damusnet/react-swipe-views'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://damusnet.github.io/react-swipe-views/'
+    },
+    framework: 'React',
+    version: '0.0.12',    
+    license: 'MIT',   
+    details: 'https://github.com/damusnet/react-swipe-views',
+    keywords: ['swipe']
+  },
+  {
+    id: 98,
+    name: 'react-custom-scrollbars',
+    install: {
+      packager: 'npm',
+      url: 'react-custom-scrollbars'
+    },
+    source: {
+      domain: 'github',
+      url: 'malte-wessel/react-custom-scrollbars'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://malte-wessel.github.io/react-custom-scrollbars/'
+    },
+    framework: 'React',
+    version: '4.1.2',    
+    license: 'MIT',   
+    details: 'https://github.com/malte-wessel/react-custom-scrollbars',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 99,
+    name: 'react-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'react-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'souhe/reactScrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://souhe.github.io/reactScrollbar/'
+    },
+    framework: 'React',
+    version: '0.5.1',    
+    license: 'MIT',   
+    details: 'https://github.com/souhe/reactScrollbar',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 100,
+    name: 'react-smooth-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'react-smooth-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'idiotWu/react-smooth-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://idiotwu.github.io/react-smooth-scrollbar/'
+    },
+    framework: 'React',
+    version: '7.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/idiotWu/react-smooth-scrollbar',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 101,
+    name: 'react-gemini-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'react-gemini-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'noeldelgado/react-gemini-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://noeldelgado.github.io/gemini-scrollbar/'
+    },
+    framework: 'React',
+    version: '2.3.2',    
+    license: 'MIT',   
+    details: 'https://github.com/noeldelgado/react-gemini-scrollbar',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 102,
+    name: 'react-custom-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-custom-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'rommguy/react-custom-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rommguy.github.io/react-custom-scroll/example/demo.html'
+    },
+    framework: 'React',
+    version: '2.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/rommguy/react-custom-scroll',
+    keywords: ['scrollbar']
+  },
+  {
+    id: 103,
+    name: 'react-player',
+    install: {
+      packager: 'npm',
+      url: 'react-player'
+    },
+    source: {
+      domain: 'github',
+      url: 'CookPete/react-player'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cookpete.com/react-player/'
+    },
+    framework: 'React',
+    version: '0.24.5',    
+    license: 'MIT',   
+    details: 'https://github.com/CookPete/react-player',
+    keywords: ['player']
+  },
+  {
+    id: 104,
+    name: 'react-youtube',
+    install: {
+      packager: 'npm',
+      url: 'react-youtube'
+    },
+    source: {
+      domain: 'github',
+      url: 'troybetz/react-youtube'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://troybetz.github.io/react-youtube/'
+    },
+    framework: 'React',
+    version: '7.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/troybetz/react-youtube',
+    keywords: ['video','youtube','player']
+  },
+  {
+    id: 105,
+    name: 'react-soundplayer',
+    install: {
+      packager: 'npm',
+      url: 'react-soundplayer'
+    },
+    source: {
+      domain: 'github',
+      url: 'soundblogs/react-soundplayer'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://labs.voronianski.com/react-soundplayer/#ExamplePlayers'
+    },
+    framework: 'React',
+    version: '0.3.6',    
+    license: 'MIT',   
+    details: 'https://github.com/soundblogs/react-soundplayer',
+    keywords: ['audio','player']
+  },
+  {
+    id: 106,
+    name: 'react-video',
+    install: {
+      packager: 'npm',
+      url: 'react-video'
+    },
+    source: {
+      domain: 'github',
+      url: 'pedronauck/react-video'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://pedronauck.github.io/react-video/'
+    },
+    framework: 'React',
+    version: '1.5.3',    
+    license: 'MIT',   
+    details: 'https://github.com/pedronauck/react-video',
+    keywords: ['video','player']
+  },
+  {
+    id: 107,
+    name: 'react-music',
+    install: {
+      packager: 'npm',
+      url: 'react-music'
+    },
+    source: {
+      domain: 'github',
+      url: 'FormidableLabs/react-music'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://reactmusic.surge.sh/'
+    },
+    framework: 'React',
+    version: '1.0.2',    
+    license: 'MIT',   
+    details: 'https://github.com/FormidableLabs/react-music',
+    keywords: ['audio','music','player']
+  },
+  {
+    id: 108,
+    name: 'react-dailymotion',
+    install: {
+      packager: 'npm',
+      url: 'react-dailymotion'
+    },
+    source: {
+      domain: 'github',
+      url: 'u-wave/react-dailymotion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://u-wave.net/react-dailymotion/'
+    },
+    framework: 'React',
+    version: '0.50.0',    
+    license: 'MIT',   
+    details: 'https://github.com/u-wave/react-dailymotion',
+    keywords: ['video','player']
+  },
+  {
+    id: 109,
+    name: 'video-react',
+    install: {
+      packager: 'npm',
+      url: 'video-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'video-react/video-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://video-react.js.org/'
+    },
+    framework: 'React',
+    version: '0.8.8',    
+    license: 'MIT',   
+    details: 'https://github.com/video-react/video-react',
+    keywords: ['video','player']
+  },
+  {
+    id: 110,
+    name: 'react-gmaps',
+    install: {
+      packager: 'npm',
+      url: 'react-gmaps'
+    },
+    source: {
+      domain: 'github',
+      url: 'MicheleBertoli/react-gmaps'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-gmaps.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '1.6.0',    
+    license: 'MIT',   
+    details: 'https://github.com/MicheleBertoli/react-gmaps',
+    keywords: ['map','google']
+  },
+  {
+    id: 111,
+    name: 'google-map-react',
+    install: {
+      packager: 'npm',
+      url: 'google-map-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'istarkov/google-map-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://istarkov.github.io/google-map-react/map/main/'
+    },
+    framework: 'React',
+    version: '0.24.0',    
+    license: 'MIT',   
+    details: 'https://github.com/istarkov/google-map-react',
+    keywords: ['map','google']
+  },
+  {
+    id: 112,
+    name: 'react-googlemaps',
+    install: {
+      packager: 'npm',
+      url: 'react-googlemaps'
+    },
+    source: {
+      domain: 'github',
+      url: 'pieterv/react-googlemaps'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tomchentw.github.io/react-google-maps/#infobox'
+    },
+    framework: 'React',
+    version: '0.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/pieterv/react-googlemaps',
+    keywords: ['map','google']
+  },
+  {
+    id: 113,
+    name: 'react-leaflet',
+    install: {
+      packager: 'npm',
+      url: 'react-leaflet'
+    },
+    source: {
+      domain: 'github',
+      url: 'PaulLeCam/react-leaflet'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'sain_anky',
+      id: 'okxf834h'
+    },
+    framework: 'React',
+    version: '1.6',    
+    license: 'MIT',   
+    details: 'https://github.com/PaulLeCam/react-leaflet',
+    keywords: ['map','google']
+  },
+  {
+    id: 114,
+    name: 'react-geosuggest',
+    install: {
+      packager: 'npm',
+      url: 'react-geosuggest'
+    },
+    source: {
+      domain: 'github',
+      url: 'ubilabs/react-geosuggest'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ubilabs.github.io/react-geosuggest/'
+    },
+    framework: 'React',
+    version: '2.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/ubilabs/react-geosuggest',
+    keywords: ['location','geo','maps']
+  },
+  {
+    id: 115,
+    name: 'react-map-gl',
+    install: {
+      packager: 'npm',
+      url: 'react-map-gl'
+    },
+    source: {
+      domain: 'github',
+      url: 'uber/react-map-gl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://uber.github.io/react-map-gl/#/Examples/dynamic-styling'
+    },
+    framework: 'React',
+    version: '3.0.3',    
+    license: 'MIT',   
+    details: 'https://github.com/uber/react-map-gl',
+    keywords: ['location','geo','maps']
+  },
+  {
+    id: 116,
+    name: 'react-mapbox-gl',
+    install: {
+      packager: 'npm',
+      url: 'react-mapbox-gl'
+    },
+    source: {
+      domain: 'github',
+      url: 'alex3165/react-mapbox-gl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alex3165.github.io/react-mapbox-gl/demos'
+    },
+    framework: 'React',
+    version: '2.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/alex3165/react-mapbox-gl',
+    keywords: ['location','geo','maps']
+  },
+  {
+    id: 117,
+    name: 'react-times',
+    install: {
+      packager: 'npm',
+      url: 'react-times'
+    },
+    source: {
+      domain: 'github',
+      url: 'ecmadao/react-times'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ecmadao.github.io/react-times/?selectedKind=Default%20TimePicker&selectedStory=basic&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '2.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/ecmadao/react-times',
+    keywords: ['time','timepicker']
+  },
+  {
+    id: 118,
+    name: 'react-timeago',
+    install: {
+      packager: 'npm',
+      url: 'react-timeago'
+    },
+    source: {
+      domain: 'github',
+      url: 'nmn/react-timeago'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cdn.rawgit.com/nmn/react-timeago/master/examples/simple/index.html'
+    },
+    framework: 'React',
+    version: '3.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/nmn/react-timeago',
+    keywords: ['time','timepicker']
+  },
+  {
+    id: 119,
+    name: 'timeago-react',
+    install: {
+      packager: 'npm',
+      url: 'timeago-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'hustcc/timeago-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://git.hust.cc/timeago-react/'
+    },
+    framework: 'React',
+    version: '1.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/hustcc/timeago-react',
+    keywords: ['time','timer','date']
   }
 ];
