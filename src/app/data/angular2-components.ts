@@ -1788,4 +1788,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://maxisam.github.io/ngx-clipboard/',
     keywords: ['angular', 'clipboard', 'copy']
   },
+  {
+    id: 84,
+    name: 'ngx-tour',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-tour-md-menu'
+    }],
+    source: {
+      domain: 'github',
+      url: 'isaacplmann/ngx-tour'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://isaacplmann.github.io/ngx-tour/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://isaacplmann.github.io/ngx-tour/',
+    keywords: ['ng2-tour', 'angular', 'product-tour', 'ngx', 'ngx-tour']
+  },
 ];
