@@ -1830,4 +1830,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/tjoskar/ng-lazyload-image',
     keywords: ['lazy-load', 'lazy-image', 'angular']
   },
+  {
+    id: 86,
+    name: 'ng2-image-lazy-load',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-image-lazy-load'
+    }],
+    source: {
+      domain: 'github',
+      url: 'NathanWalker/ng2-image-lazy-load'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng2-image-lazy-load-demo.herokuapp.com/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.9',
+    license: 'MIT',
+    details: 'http://nathanwalker.github.io/ng2-image-lazy-load/',
+    keywords: ['lazy', 'load', 'image', 'ng2', 'angular']
+  },
 ];
