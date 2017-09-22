@@ -246,6 +246,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/noru/vue-easy-toast',
     keywords: [ 'vue-component', 'component','vue', 'toastr', 'toast', 'notification', 'vuejs', 'vue.js','vue2js', 'vue2.js']
+  },
+  {
+    id: 11,
+    name: 'vue-notification',
+    install: {
+      packager: 'npm',
+      url: 'vue-notification'
+    },
+    source: {
+      domain: 'github',
+      url: 'euvl/vue-notification',
+    stars: 178
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vue-notification.yev.io'
+    },
+    framework: 'Vue',
+    version: '2.x',
+    license: 'MIT',
+    details: 'https://github.com/euvl/vue-notification',
+    keywords: ['vue', 'notifications', 'notification', 'vue2js', 'vue2.js', 'vuejs', 'vue.js','messages', 'errors']
   }
 
 ];
