@@ -3122,5 +3122,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/Hacker0x01/react-datepicker',
     keywords: ['datepicker']
+  },
+  {
+    id: 145,
+    name: 'rc-calendar',
+    install: {
+      packager: 'npm',
+      url: 'rc-calendar'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/calendar/'
+    },
+    framework: 'React',
+    version: '9.1.8',    
+    license: 'MIT',   
+    details: 'https://github.com/react-component/calendar',
+    keywords: ['calendar']
   }
 ];
