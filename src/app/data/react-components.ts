@@ -3669,5 +3669,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/prakhar1989/react-tags',
     keywords: ['suggest']
+  },
+  {
+    id: 171,
+    name: 'react-mentions',
+    install: {
+      packager: 'npm',
+      url: 'react-mentions'
+    },
+    source: {
+      domain: 'github',
+      url: 'effektif/react-mentions'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://effektif.github.io/react-mentions/'
+    },
+    framework: 'React',
+    version: '1.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/effektif/react-mentions',
+    keywords: ['suggest','mention']
   }
 ];
