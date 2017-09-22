@@ -3017,5 +3017,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/ceasbz/react-pagespeed-score',
     keywords: ['pagespeed']
+  },
+  {
+    id: 140,
+    name: 'react-svg-buttons',
+    install: {
+      packager: 'npm',
+      url: 'react-svg-buttons'
+    },
+    source: {
+      domain: 'github',
+      url: 'plouc/react-svg-buttons'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://plouc.github.io/react-svg-buttons/'
+    },
+    framework: 'React',
+    version: '0.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/ceasbz/plouc/react-svg-buttons',
+    keywords: ['buttons']
   }
 ];
