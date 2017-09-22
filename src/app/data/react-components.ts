@@ -3270,5 +3270,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/fmoo/react-typeahead',
     keywords: ['typeahead']
+  },
+  {
+    id: 152,
+    name: 'react-typeahead-component',
+    install: {
+      packager: 'npm',
+      url: 'react-typeahead-component'
+    },
+    source: {
+      domain: 'github',
+      url: 'ezequiel/react-typeahead-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ezequiel.github.io/react-typeahead-component/youtube/'
+    },
+    framework: 'React',
+    version: '0.9.0',    
+    license: 'MIT',   
+    details: 'https://github.com/ezequiel/react-typeahead-component',
+    keywords: ['typeahead']
   }
 ];
