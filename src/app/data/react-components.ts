@@ -3921,5 +3921,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/react-dnd/react-dnd',
     keywords: ['drag','drop']
+  },
+  {
+    id: 183,
+    name: 'react-sortable-pane',
+    install: {
+      packager: 'npm',
+      url: 'react-sortable-pane'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/react-sortable-pane'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-sortable-pane/?selectedKind=SortablePane&selectedStory=vertical%20pane%20basic&full=0&down=1&left=1&panelRight=0&downPanel=storybook%2Factions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '0.6.7',    
+    license: 'MIT',   
+    details: 'https://github.com/bokuweb/react-sortable-pane',
+    keywords: ['drag','drop','sortable']
   }
 ];
