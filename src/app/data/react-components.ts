@@ -3417,5 +3417,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/davidtheclark/teeny-tap',
     keywords: ['tap']
+  },
+  {
+    id: 159,
+    name: 'react-select',
+    install: {
+      packager: 'npm',
+      url: 'react-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-select'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jedwatson.github.io/react-select/'
+    },
+    framework: 'React',
+    version: '1.0.0-rc.10',    
+    license: 'MIT',   
+    details: 'https://github.com/JedWatson/react-select',
+    keywords: ['select']
   }
 ];
