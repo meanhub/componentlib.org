@@ -3459,5 +3459,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/instructure-react/react-select-box',
     keywords: ['select']
+  },
+  {
+    id: 161,
+    name: 'react-input-color',
+    install: {
+      packager: 'npm',
+      url: 'react-input-color'
+    },
+    source: {
+      domain: 'github',
+      url: 'wangzuo/react-input-color'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://wangzuo.github.io/react-input-color/'
+    },
+    framework: 'React',
+    version: '1.7.2',    
+    license: 'MIT',   
+    details: 'https://github.com/wangzuo/react-input-color',
+    keywords: ['select']
   }
 ];
