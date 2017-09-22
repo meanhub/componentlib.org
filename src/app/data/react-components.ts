@@ -3690,5 +3690,68 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/effektif/react-mentions',
     keywords: ['suggest','mention']
+  },
+  {
+    id: 172,
+    name: 'react-mentions',
+    install: {
+      packager: 'npm',
+      url: 'react-mentions'
+    },
+    source: {
+      domain: 'github',
+      url: 'effektif/react-mentions'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://effektif.github.io/react-mentions/'
+    },
+    framework: 'React',
+    version: '1.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/effektif/react-mentions',
+    keywords: ['suggest','mention']
+  },
+  {
+    id: 173,
+    name: 'react-tokeninput',
+    install: {
+      packager: 'npm',
+      url: 'react-tokeninput'
+    },
+    source: {
+      domain: 'github',
+      url: 'instructure-react/react-tokeninput'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://instructure-react.github.io/react-tokeninput/'
+    },
+    framework: 'React',
+    version: '2.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/instructure-react/react-tokeninput',
+    keywords: ['tokeninput']
+  },
+  {
+    id: 174,
+    name: 'react-autocomplete-input',
+    install: {
+      packager: 'npm',
+      url: 'react-autocomplete-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'yury-dymov/react-autocomplete-input'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://yury-dymov.github.io/react-autocomplete-input/'
+    },
+    framework: 'React',
+    version: '1.0.4',    
+    license: 'MIT',   
+    details: 'https://github.com/yury-dymov/react-autocomplete-input',
+    keywords: ['autocomplete']
   }
 ];
