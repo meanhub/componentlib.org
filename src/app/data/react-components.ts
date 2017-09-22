@@ -2828,5 +2828,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/react-component/pagination',
     keywords: ['pagination']
+  },
+  {
+    id: 131,
+    name: 'rc-markdown',
+    install: {
+      packager: 'npm',
+      url: 'rc-markdown'
+    },
+    source: {
+      domain: 'github',
+      url: 'rexxars/react-markdown'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rexxars.github.io/react-markdown/'
+    },
+    framework: 'React',
+    version: '2.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/rexxars/react-markdown',
+    keywords: ['markdown']
   }
 ];
