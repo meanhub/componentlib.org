@@ -3333,5 +3333,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/davidtheclark/react-aria-menubutton',
     keywords: ['menubutton']
+  },
+  {
+    id: 155,
+    name: 'react-aria-tabpanel',
+    install: {
+      packager: 'npm',
+      url: 'react-aria-tabpanel'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidtheclark/react-aria-tabpanel'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidtheclark.github.io/react-aria-tabpanel/demo/'
+    },
+    framework: 'React',
+    version: '4.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/davidtheclark/react-aria-tabpanel',
+    keywords: ['tabpanel']
   }
 ];
