@@ -3543,5 +3543,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/aaronshaf/react-toggle',
     keywords: ['toggle']
+  },
+  {
+    id: 165,
+    name: 'react-ios-switch',
+    install: {
+      packager: 'npm',
+      url: 'react-ios-switch'
+    },
+    source: {
+      domain: 'github',
+      url: 'clari/react-ios-switch'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://clari.github.io/react-ios-switch/'
+    },
+    framework: 'React',
+    version: '0.1.19',    
+    license: 'MIT',   
+    details: 'https://github.com/clari/react-ios-switch',
+    keywords: ['switch','radiobutton']
   }
 ];
