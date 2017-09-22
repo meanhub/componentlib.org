@@ -3585,5 +3585,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/react-component/slider',
     keywords: ['slider']
+  },
+  {
+    id: 167,
+    name: 'react-slider',
+    install: {
+      packager: 'npm',
+      url: 'react-slider'
+    },
+    source: {
+      domain: 'github',
+      url: 'mpowaga/react-slider'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mpowaga.github.io/react-slider/'
+    },
+    framework: 'React',
+    version: '0.9.0',    
+    license: 'MIT',   
+    details: 'https://github.com/mpowaga/react-slider',
+    keywords: ['slider']
+  },
+  {
+    id: 168,
+    name: 'radio-buttons-react',
+    install: {
+      packager: 'npm',
+      url: 'radio-buttons-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'fedosejev/radio-buttons-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fedosejev.github.io/radio-buttons-react/'
+    },
+    framework: 'React',
+    version: '1.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/fedosejev/radio-buttons-react',
+    keywords: ['buttons','radio']
   }
 ];
