@@ -2680,5 +2680,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/neptunian/chrvadala/react-svg-pan-zoom',
     keywords: ['gallery','image']
+  },
+  {
+    id: 124,
+    name: 'react-image-lightbox',
+    install: {
+      packager: 'npm',
+      url: 'react-image-lightbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'fritz-c/react-image-lightbox'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://fritz-c.github.io/react-image-lightbox/'
+    },
+    framework: 'React',
+    version: '4.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/neptunian/fritz-c/react-image-lightbox',
+    keywords: ['gallery','image']
   }
 ];
