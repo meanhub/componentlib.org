@@ -3249,5 +3249,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/moroshko/react-autosuggest',
     keywords: ['autosuggest']
+  },
+  {
+    id: 151,
+    name: 'react-typeahead',
+    install: {
+      packager: 'npm',
+      url: 'react-typeahead'
+    },
+    source: {
+      domain: 'github',
+      url: 'fmoo/react-typeahead'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://wookiehangover.github.io/react-typeahead/examples/typeahead-topcoat.html'
+    },
+    framework: 'React',
+    version: '2.0.0-alpha.6',    
+    license: 'MIT',   
+    details: 'https://github.com/fmoo/react-typeahead',
+    keywords: ['typeahead']
   }
 ];
