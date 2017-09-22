@@ -2870,5 +2870,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/yuanyan/react-timesheet',
     keywords: ['timesheet']
+  },
+  {
+    id: 133,
+    name: 'rc-blur',
+    install: {
+      packager: 'npm',
+      url: 'rc-blur'
+    },
+    source: {
+      domain: 'github',
+      url: 'javierbyte/react-blur'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://javier.xyz/react-blur/'
+    },
+    framework: 'React',
+    version: '0.5.2',    
+    license: 'MIT',   
+    details: 'https://github.com/javierbyte/react-blur',
+    keywords: ['blur']
   }
 ];
