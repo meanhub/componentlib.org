@@ -3816,5 +3816,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/cameronroe/react-star-rating',
     keywords: ['rating','star']
+  },
+  {
+    id: 178,
+    name: 'react-star-rating-input',
+    install: {
+      packager: 'npm',
+      url: 'react-star-rating-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'ikr/react-star-rating-input'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ikr.su/h/react-star-rating-input/demo.html'
+    },
+    framework: 'React',
+    version: '11.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/ikr/react-star-rating-input',
+    keywords: ['rating','star']
   }
 ];
