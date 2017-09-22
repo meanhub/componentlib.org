@@ -3378,6 +3378,27 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 157,
+    name: 'focus-group',
+    install: {
+      packager: 'npm',
+      url: 'focus-group'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidtheclark/focus-group'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidtheclark.github.io/focus-group/demo/'
+    },
+    framework: 'React',
+    version: '0.3.1',    
+    license: 'MIT',   
+    details: 'https://github.com/davidtheclark/focus-group',
+    keywords: ['focus']
+  },
+  {
+    id: 158,
     name: 'teeny-tap',
     install: {
       packager: 'npm',
