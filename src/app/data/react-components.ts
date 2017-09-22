@@ -4174,5 +4174,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/JedWatson/react-codemirror,
     keywords: ['editor']
+  },
+  {
+    id: 195,
+    name: 'react-medium-editor',
+    install: {
+      packager: 'npm',
+      url: 'react-medium-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'wangzuo/react-medium-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://wangzuo.github.io/react-medium-editor/'
+    },
+    framework: 'React',
+    version: '1.8.1',    
+    license: 'MIT',   
+    details: 'https://github.com/wangzuo/react-medium-editor,
+    keywords: ['editor']
   }
 ];
