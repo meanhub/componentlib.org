@@ -3036,7 +3036,28 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.4.0',    
     license: 'MIT',   
-    details: 'https://github.com/ceasbz/plouc/react-svg-buttons',
+    details: 'https://github.com/plouc/react-svg-buttons',
     keywords: ['buttons']
+  },
+  {
+    id: 141,
+    name: 'react-avatar',
+    install: {
+      packager: 'npm',
+      url: 'react-avatar'
+    },
+    source: {
+      domain: 'github',
+      url: 'Sitebase/react-avatar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.sitebase.be/react-avatar/?utm_source=github&utm_medium=readme&utm_campaign=react-avatar'
+    },
+    framework: 'React',
+    version: '2.4.0',    
+    license: 'MIT',   
+    details: 'https://github.com/Sitebase/react-avatar',
+    keywords: ['avatar']
   }
 ];
