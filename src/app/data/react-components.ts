@@ -3164,5 +3164,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/sanniassin/react-input-mask',
     keywords: ['mask']
+  },
+  {
+    id: 147,
+    name: 'react-maskedinput',
+    install: {
+      packager: 'npm',
+      url: 'react-maskedinput'
+    },
+    source: {
+      domain: 'github',
+      url: 'insin/react-maskedinput'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://insin.github.io/react-maskedinput/'
+    },
+    framework: 'React',
+    version: '4.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/insin/react-maskedinput',
+    keywords: ['mask']
   }
 ];
