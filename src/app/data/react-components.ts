@@ -3438,5 +3438,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/JedWatson/react-select',
     keywords: ['select']
+  },
+  {
+    id: 160,
+    name: 'react-select-box',
+    install: {
+      packager: 'npm',
+      url: 'react-select-box'
+    },
+    source: {
+      domain: 'github',
+      url: 'instructure-react/react-select-box'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://instructure-react.github.io/react-select-box/'
+    },
+    framework: 'React',
+    version: '3.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/instructure-react/react-select-box',
+    keywords: ['select']
   }
 ];
