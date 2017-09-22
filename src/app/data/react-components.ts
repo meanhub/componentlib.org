@@ -3647,6 +3647,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.18.0',    
     license: 'MIT',   
     details: 'https://github.com/olahol/react-tagsinput',
-    keywords: ['buttons','radio']
+    keywords: ['suggest','tags']
+  },
+  {
+    id: 170,
+    name: 'react-tags',
+    install: {
+      packager: 'npm',
+      url: 'react-tags'
+    },
+    source: {
+      domain: 'github',
+      url: 'prakhar1989/react-tags'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://prakhar1989.github.io/react-tags/example/'
+    },
+    framework: 'React',
+    version: '4.7.2',    
+    license: 'MIT',   
+    details: 'https://github.com/prakhar1989/react-tags',
+    keywords: ['suggest']
   }
 ];
