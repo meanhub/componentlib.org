@@ -3627,5 +3627,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/fedosejev/radio-buttons-react',
     keywords: ['buttons','radio']
+  },
+  {
+    id: 169,
+    name: 'react-tagsinput',
+    install: {
+      packager: 'npm',
+      url: 'react-tagsinput'
+    },
+    source: {
+      domain: 'github',
+      url: 'olahol/react-tagsinput'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://olahol.github.io/react-tagsinput/'
+    },
+    framework: 'React',
+    version: '3.18.0',    
+    license: 'MIT',   
+    details: 'https://github.com/olahol/react-tagsinput',
+    keywords: ['buttons','radio']
   }
 ];
