@@ -4131,5 +4131,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/securingsincity/react-ace',
     keywords: ['editor']
+  },
+  {
+    id: 193,
+    name: 'react-contenteditable',
+    install: {
+      packager: 'npm',
+      url: 'react-contenteditable'
+    },
+    source: {
+      domain: 'github',
+      url: 'lovasoa/react-contenteditable'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'vafvnrtk',
+      id: '14'
+    },
+    framework: 'React',
+    version: '2.0.4',    
+    license: 'MIT',   
+    details: 'https://github.com/lovasoa/react-contenteditable',
+    keywords: ['editor']
   }
 ];
