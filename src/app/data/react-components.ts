@@ -4279,5 +4279,25 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/RD17/react-trumbowyg,
     keywords: ['editor']
+  },
+  {
+    id: 200,
+    name: 'alloy-editor',
+    install: {
+      packager: 'npm',
+      url: 'alloy-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'liferay/alloy-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://alloyeditor.com/'
+    },
+    framework: 'React',
+    version: '1.4.1',   
+    details: 'https://github.com/liferay/alloy-editor,
+    keywords: ['editor']
   }
 ];
