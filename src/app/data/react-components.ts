@@ -3984,5 +3984,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/avocode/react-droparea',
     keywords: ['drag','drop']
+  },
+  {
+    id: 186,
+    name: 'react-droparea',
+    install: {
+      packager: 'npm',
+      url: 'react-droparea'
+    },
+    source: {
+      domain: 'github',
+      url: 'avocode/react-droparea'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-dropzone.js.org/#basic-example'
+    },
+    framework: 'React',
+    version: '4.0.2',    
+    license: 'MIT',   
+    details: 'https://github.com/avocode/react-droparea',
+    keywords: ['drag','drop']
+  },
+  {
+    id: 187,
+    name: 'sortablejs',
+    install: {
+      packager: 'npm',
+      url: 'sortablejs'
+    },
+    source: {
+      domain: 'github',
+      url: 'RubaXa/Sortable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rubaxa.github.io/Sortable/'
+    },
+    framework: 'React',
+    version: '1.6.1',    
+    license: 'MIT',   
+    details: 'https://github.com/RubaXa/Sortable',
+    keywords: ['sortable']
   }
 ];
