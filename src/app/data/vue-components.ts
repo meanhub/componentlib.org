@@ -312,6 +312,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/cristijora/vue-notifyjs',
     keywords: ['vue', 'notifications', 'notification', 'vue2js', 'vue2.js', 'vuejs', 'vue.js','messages']
+  },
+  {
+    id: 14,
+    name: 'vueup',
+    install: {
+      packager: 'npm',
+      url: 'vueup'
+    },
+    source: {
+      domain: 'github',
+      url: 'chryb/vueup',
+    stars: 44
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chryb.github.io/vueup/'
+    },
+    framework: 'Vue',
+    version: '2.x',
+    license: 'MIT',
+    details: 'https://github.com/chryb/vueup',
+    keywords: ['vue', 'notification', 'popup', 'component', 'global', 'simple']
   }
 
 ];
