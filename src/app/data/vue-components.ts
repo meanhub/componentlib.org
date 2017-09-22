@@ -444,6 +444,33 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/f/vuex-loading',
     keywords: ['vue', 'vuex', 'plugin', 'loading', 'loader']
+  },
+  {
+    id: 20,
+    name: 'vue-spinner-component',
+    install: [{
+      packager: 'npm',
+      url: 'vue-spinner-component'
+    },
+    {
+      packager: 'download',
+      url: 'https://sergeyloysha.github.io/vue-spinner-component/'
+    }
+    ],
+    source: {
+      domain: 'github',
+      url: 'sergeyloysha/vue-spinner-component',
+    stars: 28
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://sergeyloysha.github.io/vue-spinner-component/'
+    },
+    framework: 'Vue',
+    version: '^2.2.1',
+    license: 'MIT',
+    details: 'https://github.com/sergeyloysha/vue-spinner-component',
+    keywords: ['vue', 'vuex', 'plugin', 'loading', 'loader','spiner','custom','spin loader']
   }
 
 ];
