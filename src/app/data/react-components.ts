@@ -3522,5 +3522,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/elrumordelaluz/coloreact',
     keywords: ['color']
+  },
+  {
+    id: 164,
+    name: 'react-toggle',
+    install: {
+      packager: 'npm',
+      url: 'react-toggle'
+    },
+    source: {
+      domain: 'github',
+      url: 'aaronshaf/react-toggle'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://aaronshaf.github.io/react-toggle/'
+    },
+    framework: 'React',
+    version: '4.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/aaronshaf/react-toggle',
+    keywords: ['toggle']
   }
 ];
