@@ -3227,5 +3227,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/amarofashion/react-credit-cards',
     keywords: ['credit cards']
+  },
+  {
+    id: 150,
+    name: 'react-autosuggest',
+    install: {
+      packager: 'npm',
+      url: 'react-autosuggest'
+    },
+    source: {
+      domain: 'github',
+      url: 'moroshko/react-autosuggest'
+    },
+    demo: {
+      repl: 'moroshko',
+      user: 'pen',
+      id: 'qbRNjV'
+    },
+    framework: 'React',
+    version: '9.3.2',    
+    license: 'MIT',   
+    details: 'https://github.com/moroshko/react-autosuggest',
+    keywords: ['autosuggest']
   }
 ];
