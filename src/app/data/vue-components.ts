@@ -378,6 +378,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/artemsky/vue-snotify',
     keywords: ['vue', 'vuejs', 'vuejs 2', 'vue 2',  'Library', 'Notifications', 'Notification', 'Toast', 'toasts', 'toaster', 'promt', 'async', 'confirmation', 'notify', 'notie', 'notification-center', 'snotify', 'vue-snotify', 'vue2-snotify', 'vuejs notifications', 'vue notifications', 'vue toater']
+  },
+  {
+    id: 17,
+    name: 'vue-radial-progress',
+    install: {
+      packager: 'npm',
+      url: 'vue-radial-progress'
+    },
+    source: {
+      domain: 'github',
+      url: 'wyzant-dev/vue-radial-progress',
+    stars: 106
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://wyzant-dev.github.io/vue-radial-progress/'
+    },
+    framework: 'Vue',
+    version: '^1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/wyzant-dev/vue-radial-progress',
+    keywords: ['vue', 'vuejs', 'radial', 'progress', 'bar', 'progress bar', 'radial progress', 'radial progress bar']
   }
 
 ];
