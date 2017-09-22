@@ -3059,5 +3059,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/Sitebase/react-avatar',
     keywords: ['avatar']
+  },
+  {
+    id: 142,
+    name: 'react-joyride',
+    install: {
+      packager: 'npm',
+      url: 'react-joyride'
+    },
+    source: {
+      domain: 'github',
+      url: 'gilbarbara/react-joyride'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://gilbarbara.github.io/react-joyride/'
+    },
+    framework: 'React',
+    version: '1.10.1',    
+    license: 'MIT',   
+    details: 'https://github.com/gilbarbara/react-joyride',
+    keywords: ['joyride']
   }
 ];
