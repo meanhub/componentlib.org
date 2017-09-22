@@ -2975,5 +2975,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/yongxu/react-DnR',
     keywords: ['Dragable','Resizable']
+  },
+  {
+    id: 138,
+    name: 're-resizable',
+    install: {
+      packager: 'npm',
+      url: 're-resizable'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/re-resizable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/re-resizable/?selectedKind=omit%20size&selectedStory=auto.&full=0&down=1&left=1&panelRight=0&downPanel=storybook%2Factions%2Factions-panel'
+    },
+    framework: 'React',
+    version: '4.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/bokuweb/re-resizable',
+    keywords: ['Resizable']
   }
 ];
