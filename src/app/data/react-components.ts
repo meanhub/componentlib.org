@@ -3378,23 +3378,23 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 157,
-    name: 'focus-group',
+    name: 'teeny-tap',
     install: {
       packager: 'npm',
-      url: 'focus-group'
+      url: 'teeny-tap'
     },
     source: {
       domain: 'github',
-      url: 'davidtheclark/focus-group'
+      url: 'davidtheclark/teeny-tap'
     },
     demo: {
       repl: 'custom',
-      src: 'http://davidtheclark.github.io/focus-group/demo/'
+      src: 'http://davidtheclark.github.io/teeny-tap/demo/'
     },
     framework: 'React',
-    version: '0.3.1',    
+    version: '0.2.0',    
     license: 'MIT',   
-    details: 'https://github.com/davidtheclark/focus-group',
-    keywords: ['focus']
+    details: 'https://github.com/davidtheclark/teeny-tap',
+    keywords: ['tap']
   }
 ];
