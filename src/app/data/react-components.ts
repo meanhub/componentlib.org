@@ -3795,5 +3795,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/andreypopp/react-textarea-autosize',
     keywords: ['autosize']
+  },
+  {
+    id: 177,
+    name: 'react-star-rating',
+    install: {
+      packager: 'npm',
+      url: 'react-star-rating'
+    },
+    source: {
+      domain: 'github',
+      url: 'cameronroe/react-star-rating'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cameronroe.github.io/react-star-rating/'
+    },
+    framework: 'React',
+    version: '1.4.2',    
+    license: 'MIT',   
+    details: 'https://github.com/cameronroe/react-star-rating',
+    keywords: ['rating','star']
   }
 ];
