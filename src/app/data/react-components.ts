@@ -2785,5 +2785,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/conorhastings/react-emoji-react',
     keywords: ['icons','emoji']
+  },
+  {
+    id: 129,
+    name: 'react-paginate',
+    install: {
+      packager: 'npm',
+      url: 'react-paginate'
+    },
+    source: {
+      domain: 'github',
+      url: 'AdeleD/react-paginate'
+    },
+    demo: {
+      repl: 'cornflourblue',
+      user: 'pen',
+      id: 'oZZzLr'
+    },
+    framework: 'React',
+    version: '4.4.4',    
+    license: 'MIT',   
+    details: 'https://github.com/AdeleD/react-paginate',
+    keywords: ['pagination']
   }
 ];
