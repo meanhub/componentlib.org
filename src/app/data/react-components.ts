@@ -3879,5 +3879,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/yahoo/react-dnd-touch-backend',
     keywords: ['draggable']
+  },
+  {
+    id: 181,
+    name: 'react-dropzone',
+    install: {
+      packager: 'npm',
+      url: 'react-dropzone'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-dropzone/react-dropzone'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-dropzone.js.org/#basic-example'
+    },
+    framework: 'React',
+    version: '4.1.3',    
+    license: 'MIT',   
+    details: 'https://github.com/react-dropzone/react-dropzone',
+    keywords: ['drop']
   }
 ];
