@@ -2638,5 +2638,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/jossmac/react-images',
     keywords: ['gallery','image']
+  },
+  {
+    id: 122,
+    name: 'react-photo-gallery',
+    install: {
+      packager: 'npm',
+      url: 'react-photo-gallery'
+    },
+    source: {
+      domain: 'github',
+      url: 'neptunian/react-photo-gallery'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jossmac.github.io/react-images/#examples'
+    },
+    framework: 'React',
+    version: '6.0.2',    
+    license: 'MIT',   
+    details: 'http://neptunian.github.io/react-photo-gallery/',
+    keywords: ['gallery','image']
   }
 ];
