@@ -4258,5 +4258,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/globocom/megadraft,
     keywords: ['editor']
+  },
+  {
+    id: 199,
+    name: 'react-trumbowyg',
+    install: {
+      packager: 'npm',
+      url: 'react-trumbowyg'
+    },
+    source: {
+      domain: 'github',
+      url: 'RD17/react-trumbowyg'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://alex-d.github.io/Trumbowyg/demos/#core-default'
+    },
+    framework: 'React',
+    version: '1.1.0',    
+    license: 'MIT',   
+    details: 'https://github.com/RD17/react-trumbowyg,
+    keywords: ['editor']
   }
 ];
