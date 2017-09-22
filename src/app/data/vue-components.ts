@@ -268,6 +268,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/euvl/vue-notification',
     keywords: ['vue', 'notifications', 'notification', 'vue2js', 'vue2.js', 'vuejs', 'vue.js','messages', 'errors']
+  },
+  {
+    id: 12,
+    name: 'vs-notify',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify'
+    },
+    source: {
+      domain: 'github',
+      url: 'NxtChg/pieces/tree/master/js/vue/vs-notify',
+    stars: 66
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nxtchg.github.io/pieces/vue/vs-notify/'
+    },
+    framework: 'Vue',
+    version: '2.x',
+    license: 'The Unlicense',
+    details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify',
+    keywords: ['vue', 'notifications', 'notification', 'vue2js', 'vue2.js', 'vuejs', 'vue.js','messages']
   }
 
 ];
