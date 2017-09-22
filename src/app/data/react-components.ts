@@ -2933,5 +2933,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/KyleAMathews/typography.js',
     keywords: ['typography']
+  },
+  {
+    id: 136,
+    name: 'react-rnd',
+    install: {
+      packager: 'npm',
+      url: 'react-rnd'
+    },
+    source: {
+      domain: 'github',
+      url: 'bokuweb/react-rnd'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-rnd/'
+    },
+    framework: 'React',
+    version: '7.1.3',    
+    license: 'MIT',   
+    details: 'https://github.com/bokuweb/react-rnd',
+    keywords: ['drag',,'drop']
   }
 ];
