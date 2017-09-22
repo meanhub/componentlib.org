@@ -3312,5 +3312,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/furqanZafar/react-selectize',
     keywords: ['selectize']
+  },
+  {
+    id: 154,
+    name: 'react-aria-menubutton',
+    install: {
+      packager: 'npm',
+      url: 'react-aria-menubutton'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidtheclark/react-aria-menubutton'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidtheclark.github.io/react-aria-menubutton/demo/'
+    },
+    framework: 'React',
+    version: '5.0.2',    
+    license: 'MIT',   
+    details: 'https://github.com/davidtheclark/react-aria-menubutton',
+    keywords: ['menubutton']
   }
 ];
