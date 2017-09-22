@@ -3900,5 +3900,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/react-dropzone/react-dropzone',
     keywords: ['drop']
+  },
+  {
+    id: 182,
+    name: 'react-dnd',
+    install: {
+      packager: 'npm',
+      url: 'react-dnd'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-dnd/react-dnd'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-dnd.github.io/react-dnd/examples-dustbin-single-target.html'
+    },
+    framework: 'React',
+    version: '2.5.1',    
+    license: 'MIT',   
+    details: 'https://github.com/react-dnd/react-dnd',
+    keywords: ['drag','drop']
   }
 ];
