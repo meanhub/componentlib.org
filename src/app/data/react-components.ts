@@ -2912,5 +2912,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/tomkp/react-split-pane',
     keywords: ['pane']
+  },
+  {
+    id: 135,
+    name: 'typography',
+    install: {
+      packager: 'npm',
+      url: 'typography'
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/typography.js'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kyleamathews.github.io/typography.js/'
+    },
+    framework: 'React',
+    version: '0.16.8',    
+    license: 'MIT',   
+    details: 'https://github.com/KyleAMathews/typography.js',
+    keywords: ['typography']
   }
 ];
