@@ -2610,12 +2610,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://git.hust.cc/timeago-react/'
+      src: 'http://linxtion.com/demo/react-image-gallery/'
     },
     framework: 'React',
     version: '0.8.3',    
     license: 'MIT',   
-    details: 'http://linxtion.com/demo/react-image-gallery/',
+    details: 'https://github.com/xiaolin/react-image-gallery',
+    keywords: ['gallery','image']
+  },
+  {
+    id: 121,
+    name: 'react-images',
+    install: {
+      packager: 'npm',
+      url: 'react-images'
+    },
+    source: {
+      domain: 'github',
+      url: 'jossmac/react-images'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jossmac.github.io/react-images/#examples'
+    },
+    framework: 'React',
+    version: '0.5.6',    
+    license: 'MIT',   
+    details: 'https://github.com/jossmac/react-images',
     keywords: ['gallery','image']
   }
 ];
