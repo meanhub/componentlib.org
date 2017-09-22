@@ -3942,5 +3942,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/bokuweb/react-sortable-pane',
     keywords: ['drag','drop','sortable']
+  },
+  {
+    id: 184,
+    name: 'react-dragula',
+    install: {
+      packager: 'npm',
+      url: 'react-dragula'
+    },
+    source: {
+      domain: 'github',
+      url: 'bevacqua/react-dragula'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bevacqua.github.io/react-dragula/'
+    },
+    framework: 'React',
+    version: '1.1.17',    
+    license: 'MIT',   
+    details: 'https://github.com/bevacqua/react-dragula',
+    keywords: ['drag','drop']
+  },
+  {
+    id: 185,
+    name: 'react-droparea',
+    install: {
+      packager: 'npm',
+      url: 'react-droparea'
+    },
+    source: {
+      domain: 'github',
+      url: 'avocode/react-droparea'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-dropzone.js.org/#basic-example'
+    },
+    framework: 'React',
+    version: '4.0.2',    
+    license: 'MIT',   
+    details: 'https://github.com/avocode/react-droparea',
+    keywords: ['drag','drop']
   }
 ];
