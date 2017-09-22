@@ -2953,6 +2953,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '7.1.3',    
     license: 'MIT',   
     details: 'https://github.com/bokuweb/react-rnd',
-    keywords: ['drag',,'drop']
+    keywords: ['Resizable','movable']
+  },
+  {
+    id: 137,
+    name: 'react-DnR',
+    install: {
+      packager: 'npm',
+      url: 'react-DnR'
+    },
+    source: {
+      domain: 'github',
+      url: 'yongxu/react-DnR'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bokuweb.github.io/react-rnd/'
+    },
+    framework: 'React',
+    version: '0.2.2',    
+    license: 'MIT',   
+    details: 'https://github.com/yongxu/react-DnR',
+    keywords: ['Dragable','Resizable']
   }
 ];
