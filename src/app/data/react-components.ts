@@ -4047,5 +4047,68 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/jasonslyvia/react-anything-sortable',
     keywords: ['sortable']
+  },
+  {
+    id: 189,
+    name: 'react-sortable-hoc',
+    install: {
+      packager: 'npm',
+      url: 'react-sortable-hoc'
+    },
+    source: {
+      domain: 'github',
+      url: 'clauderic/react-sortable-hoc'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=kq7l9u'
+    },
+    framework: 'React',
+    version: '0.6.7',    
+    license: 'MIT',   
+    details: 'https://github.com/clauderic/react-sortable-hoc',
+    keywords: ['sortable']
+  },
+  {
+    id: 190,
+    name: 'react-sortable',
+    install: {
+      packager: 'npm',
+      url: 'react-sortable'
+    },
+    source: {
+      domain: 'github',
+      url: 'danielstocks/react-sortable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://webcloud.se/react-sortable/'
+    },
+    framework: 'React',
+    version: '1.2.1',    
+    license: 'MIT',   
+    details: 'https://github.com/danielstocks/react-sortable',
+    keywords: ['sortable']
+  },
+  {
+    id: 191,
+    name: 'react-quill',
+    install: {
+      packager: 'npm',
+      url: 'react-quill'
+    },
+    source: {
+      domain: 'github',
+      url: 'zenoamaro/react-quill'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zenoamaro.github.io/react-quill/'
+    },
+    framework: 'React',
+    version: '1.1.0',    
+    license: 'MIT',   
+    details: 'https://github.com/zenoamaro/react-quill',
+    keywords: ['editor']
   }
 ];
