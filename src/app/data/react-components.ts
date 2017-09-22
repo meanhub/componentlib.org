@@ -4216,5 +4216,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/facebook/draft-js,
     keywords: ['editor']
+  },
+  {
+    id: 197,
+    name: 'ritzy',
+    install: {
+      packager: 'npm',
+      url: 'ritzy'
+    },
+    source: {
+      domain: 'github',
+      url: 'ritzyed/ritzy'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://demo-ritzy.rhcloud.com/'
+    },
+    framework: 'React',
+    version: '0.1.4',    
+    license: 'MIT',   
+    details: 'https://github.com/ritzyed/ritzy,
+    keywords: ['editor']
   }
 ];
