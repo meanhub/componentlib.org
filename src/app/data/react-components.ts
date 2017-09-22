@@ -3774,5 +3774,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/JedWatson/react-input-autosize',
     keywords: ['autosize']
+  },
+  {
+    id: 176,
+    name: 'react-textarea-autosize',
+    install: {
+      packager: 'npm',
+      url: 'react-textarea-autosize'
+    },
+    source: {
+      domain: 'github',
+      url: 'andreypopp/react-textarea-autosize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://andreypopp.github.io/react-textarea-autosize/'
+    },
+    framework: 'React',
+    version: '5.1.0',    
+    license: 'MIT',   
+    details: 'https://github.com/andreypopp/react-textarea-autosize',
+    keywords: ['autosize']
   }
 ];
