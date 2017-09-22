@@ -2807,5 +2807,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/AdeleD/react-paginate',
     keywords: ['pagination']
+  },
+  {
+    id: 130,
+    name: 'rc-pagination',
+    install: {
+      packager: 'npm',
+      url: 'rc-pagination'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/pagination'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-component.github.io/pagination/examples/default.html'
+    },
+    framework: 'React',
+    version: '1.2.9',    
+    license: 'MIT',   
+    details: 'https://github.com/react-component/pagination',
+    keywords: ['pagination']
   }
 ];
