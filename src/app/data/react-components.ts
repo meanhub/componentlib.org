@@ -3206,5 +3206,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/text-mask/text-mask',
     keywords: ['mask']
+  },
+  {
+    id: 149,
+    name: 'react-credit-cards',
+    install: {
+      packager: 'npm',
+      url: 'react-credit-cards'
+    },
+    source: {
+      domain: 'github',
+      url: 'amarofashion/react-credit-cards'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://amarofashion.github.io/react-credit-cards/'
+    },
+    framework: 'React',
+    version: '0.5.3',    
+    license: 'MIT',   
+    details: 'https://github.com/amarofashion/react-credit-cards',
+    keywords: ['credit cards']
   }
 ];
