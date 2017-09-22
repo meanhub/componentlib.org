@@ -3501,5 +3501,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/casesandberg/react-color',
     keywords: ['color']
+  },
+  {
+    id: 163,
+    name: 'coloreact',
+    install: {
+      packager: 'npm',
+      url: 'coloreact'
+    },
+    source: {
+      domain: 'github',
+      url: 'elrumordelaluz/coloreact'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://elrumordelaluz.github.io/coloreact/'
+    },
+    framework: 'React',
+    version: '0.1.9',    
+    license: 'MIT',   
+    details: 'https://github.com/elrumordelaluz/coloreact',
+    keywords: ['color']
   }
 ];
