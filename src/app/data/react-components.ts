@@ -3143,5 +3143,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/react-component/calendar',
     keywords: ['calendar']
+  },
+  {
+    id: 146,
+    name: 'react-input-mask',
+    install: {
+      packager: 'npm',
+      url: 'react-input-mask'
+    },
+    source: {
+      domain: 'github',
+      url: 'sanniassin/react-input-mask'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://sanniassin.github.io/react-input-mask/demo.html'
+    },
+    framework: 'React',
+    version: '1.0.7',    
+    license: 'MIT',   
+    details: 'https://github.com/sanniassin/react-input-mask',
+    keywords: ['mask']
   }
 ];
