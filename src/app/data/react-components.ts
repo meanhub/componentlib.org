@@ -4299,5 +4299,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.4.1',   
     details: 'https://github.com/liferay/alloy-editor,
     keywords: ['editor']
+  },
+  {
+    id: 201,
+    name: 'react-draft-wysiwyg',
+    install: {
+      packager: 'npm',
+      url: 'react-draft-wysiwyg'
+    },
+    source: {
+      domain: 'github',
+      url: 'jpuri/react-draft-wysiwyg'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jpuri.github.io/react-draft-wysiwyg/#/'
+    },
+    framework: 'React',
+    version: '1.10.11',   
+    details: 'https://github.com/jpuri/react-draft-wysiwyg,
+    keywords: ['editor']
   }
 ];
