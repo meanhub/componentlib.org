@@ -2891,5 +2891,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/javierbyte/react-blur',
     keywords: ['blur']
+  },
+  {
+    id: 134,
+    name: 'react-split-pane',
+    install: {
+      packager: 'npm',
+      url: 'react-split-pane'
+    },
+    source: {
+      domain: 'github',
+      url: 'tomkp/react-split-pane'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-split-pane.surge.sh/percentage-vertical.html'
+    },
+    framework: 'React',
+    version: '0.1.66',    
+    license: 'MIT',   
+    details: 'https://github.com/tomkp/react-split-pane',
+    keywords: ['pane']
   }
 ];
