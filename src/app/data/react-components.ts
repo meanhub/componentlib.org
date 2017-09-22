@@ -3291,5 +3291,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/ezequiel/react-typeahead-component',
     keywords: ['typeahead']
+  },
+  {
+    id: 153,
+    name: 'react-selectize',
+    install: {
+      packager: 'npm',
+      url: 'react-selectize'
+    },
+    source: {
+      domain: 'github',
+      url: 'furqanZafar/react-selectize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://furqanzafar.github.io/react-selectize/#/?category=simple'
+    },
+    framework: 'React',
+    version: '3.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/furqanZafar/react-selectize',
+    keywords: ['selectize']
   }
 ];
