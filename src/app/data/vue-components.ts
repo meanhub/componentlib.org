@@ -356,6 +356,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ahmed-dinar/vuex-flash',
     keywords: ['vue', 'vuejs', 'vuex', 'flash', 'vuex-flash', 'vue-flash', 'flash-message']
+  },
+  {
+    id: 16,
+    name: 'vue-snotify',
+    install: {
+      packager: 'npm',
+      url: 'vue-snotify'
+    },
+    source: {
+      domain: 'github',
+      url: 'artemsky/vue-snotify',
+    stars: 63
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://artemsky.github.io/vue-snotify/'
+    },
+    framework: 'Vue',
+    version: '2.x',
+    license: 'MIT',
+    details: 'https://github.com/artemsky/vue-snotify',
+    keywords: ['vue', 'vuejs', 'vuejs 2', 'vue 2',  'Library', 'Notifications', 'Notification', 'Toast', 'toasts', 'toaster', 'promt', 'async', 'confirmation', 'notify', 'notie', 'notification-center', 'snotify', 'vue-snotify', 'vue2-snotify', 'vuejs notifications', 'vue notifications', 'vue toater']
   }
 
 ];
