@@ -2849,5 +2849,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/rexxars/react-markdown',
     keywords: ['markdown']
+  },
+  {
+    id: 132,
+    name: 'rc-timesheet',
+    install: {
+      packager: 'npm',
+      url: 'rc-timesheet'
+    },
+    source: {
+      domain: 'github',
+      url: 'yuanyan/react-timesheet'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://madscript.com/react-timesheet/'
+    },
+    framework: 'React',
+    version: '0.1.0',    
+    license: 'MIT',   
+    details: 'https://github.com/yuanyan/react-timesheet',
+    keywords: ['timesheet']
   }
 ];
