@@ -3101,5 +3101,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/BelkaLab/material-color-hash',
     keywords: ['material','hash']
+  },
+  {
+    id: 144,
+    name: 'react-datepicker',
+    install: {
+      packager: 'npm',
+      url: 'react-datepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'Hacker0x01/react-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hacker0x01.github.io/react-datepicker/'
+    },
+    framework: 'React',
+    version: '0.55.0',    
+    license: 'MIT',   
+    details: 'https://github.com/Hacker0x01/react-datepicker',
+    keywords: ['datepicker']
   }
 ];
