@@ -2701,5 +2701,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/neptunian/fritz-c/react-image-lightbox',
     keywords: ['gallery','image']
+  },
+  {
+    id: 125,
+    name: 'react-intense',
+    install: {
+      packager: 'npm',
+      url: 'react-intense'
+    },
+    source: {
+      domain: 'github',
+      url: 'brycedorn/react-intense'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bryce.io/react-intense/'
+    },
+    framework: 'React',
+    version: '0.0.8',    
+    license: 'MIT',   
+    details: 'https://github.com/neptunian/brycedorn/react-intense',
+    keywords: ['gallery','image']
+  },
+  {
+    id: 126,
+    name: 'react-icons',
+    install: {
+      packager: 'npm',
+      url: 'react-icons'
+    },
+    source: {
+      domain: 'github',
+      url: 'gorangajic/react-icons'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://gorangajic.github.io/react-icons/fa.html'
+    },
+    framework: 'React',
+    version: '2.2.5',    
+    license: 'MIT',   
+    details: 'https://github.com/gorangajic/react-icons',
+    keywords: ['icons']
   }
 ];
