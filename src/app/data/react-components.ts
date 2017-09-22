@@ -2743,5 +2743,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/gorangajic/react-icons',
     keywords: ['icons']
+  },
+  {
+    id: 127,
+    name: 'react-emoji',
+    install: {
+      packager: 'npm',
+      url: 'react-emoji'
+    },
+    source: {
+      domain: 'github',
+      url: 'banyan/react-emoji'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://banyan.me/react-emoji/'
+    },
+    framework: 'React',
+    version: '0.5.0',    
+    license: 'MIT',   
+    details: 'https://github.com/banyan/react-emoji',
+    keywords: ['icons','emoji']
   }
 ];
