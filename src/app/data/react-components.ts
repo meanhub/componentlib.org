@@ -4110,5 +4110,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/zenoamaro/react-quill',
     keywords: ['editor']
+  },
+  {
+    id: 192,
+    name: 'react-ace',
+    install: {
+      packager: 'npm',
+      url: 'react-ace'
+    },
+    source: {
+      domain: 'github',
+      url: 'securingsincity/react-ace'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://securingsincity.github.io/react-ace/'
+    },
+    framework: 'React',
+    version: '5.2.0',    
+    license: 'MIT',   
+    details: 'https://github.com/securingsincity/react-ace',
+    keywords: ['editor']
   }
 ];
