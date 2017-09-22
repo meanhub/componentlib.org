@@ -3858,5 +3858,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/mzabriskie/react-draggable',
     keywords: ['draggable']
+  },
+  {
+    id: 180,
+    name: 'react-dnd-touch-backend',
+    install: {
+      packager: 'npm',
+      url: 'react-dnd-touch-backend'
+    },
+    source: {
+      domain: 'github',
+      url: 'yahoo/react-dnd-touch-backend'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-dnd.github.io/react-dnd/examples-chessboard-tutorial-app.html'
+    },
+    framework: 'React',
+    version: '0.3.15',    
+    license: 'MIT',   
+    details: 'https://github.com/yahoo/react-dnd-touch-backend',
+    keywords: ['draggable']
   }
 ];
