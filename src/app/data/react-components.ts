@@ -3564,5 +3564,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/clari/react-ios-switch',
     keywords: ['switch','radiobutton']
+  },
+  {
+    id: 166,
+    name: 'rc-slider',
+    install: {
+      packager: 'npm',
+      url: 'rc-slider'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/slider'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/slider/examples/handle.html'
+    },
+    framework: 'React',
+    version: '8.3.1',    
+    license: 'MIT',   
+    details: 'https://github.com/react-component/slider',
+    keywords: ['slider']
   }
 ];
