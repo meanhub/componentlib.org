@@ -422,6 +422,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/dzwillia/vue-simple-spinner',
     keywords: ['vue', 'vuejs', 'ui', 'components', 'spinner', 'progress']
+  },
+  {
+    id: 19,
+    name: 'vuex-loading',
+    install: {
+      packager: 'npm',
+      url: 'vuex-loading'
+    },
+    source: {
+      domain: 'github',
+      url: 'f/vuex-loading',
+    stars: 160
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://f.github.io/vuex-loading/'
+    },
+    framework: 'Vue',
+    version: '^v2.0.0+',
+    license: 'MIT',
+    details: 'https://github.com/f/vuex-loading',
+    keywords: ['vue', 'vuex', 'plugin', 'loading', 'loader']
   }
 
 ];
