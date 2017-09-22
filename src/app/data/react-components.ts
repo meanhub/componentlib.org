@@ -4237,5 +4237,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/ritzyed/ritzy,
     keywords: ['editor']
+  },
+  {
+    id: 198,
+    name: 'megadraft',
+    install: {
+      packager: 'npm',
+      url: 'megadraft'
+    },
+    source: {
+      domain: 'github',
+      url: 'globocom/megadraft'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://megadraft.io/#/'
+    },
+    framework: 'React',
+    version: '0.4.28',    
+    license: 'MIT',   
+    details: 'https://github.com/globocom/megadraft,
+    keywords: ['editor']
   }
 ];
