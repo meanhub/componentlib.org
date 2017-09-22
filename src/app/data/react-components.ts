@@ -3080,5 +3080,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/gilbarbara/react-joyride',
     keywords: ['joyride']
+  },
+  {
+    id: 143,
+    name: 'material-color-hash',
+    install: {
+      packager: 'npm',
+      url: 'material-color-hash'
+    },
+    source: {
+      domain: 'github',
+      url: 'BelkaLab/material-color-hash'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://belkalab.github.io/material-color-hash/'
+    },
+    framework: 'React',
+    version: '0.1.3',    
+    license: 'MIT',   
+    details: 'https://github.com/BelkaLab/material-color-hash',
+    keywords: ['material','hash']
   }
 ];
