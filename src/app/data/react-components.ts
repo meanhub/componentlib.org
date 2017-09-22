@@ -2596,5 +2596,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/hustcc/timeago-react',
     keywords: ['time','timer','date']
+  },
+  {
+    id: 120,
+    name: 'react-image-gallery',
+    install: {
+      packager: 'npm',
+      url: 'react-image-gallery'
+    },
+    source: {
+      domain: 'github',
+      url: 'xiaolin/react-image-gallery'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://git.hust.cc/timeago-react/'
+    },
+    framework: 'React',
+    version: '0.8.3',    
+    license: 'MIT',   
+    details: 'http://linxtion.com/demo/react-image-gallery/',
+    keywords: ['gallery','image']
   }
 ];
