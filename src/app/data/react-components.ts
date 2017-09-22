@@ -3354,5 +3354,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/davidtheclark/react-aria-tabpanel',
     keywords: ['tabpanel']
+  },
+  {
+    id: 156,
+    name: 'react-aria-modal',
+    install: {
+      packager: 'npm',
+      url: 'react-aria-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'davidtheclark/react-aria-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://davidtheclark.github.io/react-aria-modal/demo/'
+    },
+    framework: 'React',
+    version: '2.8.0',    
+    license: 'MIT',   
+    details: 'https://github.com/davidtheclark/react-aria-modal',
+    keywords: ['modal']
   }
 ];
