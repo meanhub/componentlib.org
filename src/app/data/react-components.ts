@@ -3479,6 +3479,27 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.7.2',    
     license: 'MIT',   
     details: 'https://github.com/wangzuo/react-input-color',
-    keywords: ['select']
+    keywords: ['color']
+  },
+  {
+    id: 162,
+    name: 'react-color',
+    install: {
+      packager: 'npm',
+      url: 'react-color'
+    },
+    source: {
+      domain: 'github',
+      url: 'casesandberg/react-color'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://casesandberg.github.io/react-color/'
+    },
+    framework: 'React',
+    version: '2.13.8',    
+    license: 'MIT',   
+    details: 'https://github.com/casesandberg/react-color',
+    keywords: ['color']
   }
 ];
