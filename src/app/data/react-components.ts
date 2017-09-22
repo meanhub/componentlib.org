@@ -3837,5 +3837,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/ikr/react-star-rating-input',
     keywords: ['rating','star']
+  },
+  {
+    id: 179,
+    name: 'react-draggable',
+    install: {
+      packager: 'npm',
+      url: 'react-draggable'
+    },
+    source: {
+      domain: 'github',
+      url: 'mzabriskie/react-draggable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mzabriskie.github.io/react-draggable/example/'
+    },
+    framework: 'React',
+    version: '3.0.3',    
+    license: 'MIT',   
+    details: 'https://github.com/mzabriskie/react-draggable',
+    keywords: ['draggable']
   }
 ];
