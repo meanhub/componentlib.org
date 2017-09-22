@@ -3185,5 +3185,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/insin/react-maskedinput',
     keywords: ['mask']
+  },
+  {
+    id: 148,
+    name: 'text-mask',
+    install: {
+      packager: 'npm',
+      url: 'text-mask'
+    },
+    source: {
+      domain: 'github',
+      url: 'text-mask/text-mask'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://text-mask.github.io/text-mask/'
+    },
+    framework: 'React',
+    version: '0.3.0',    
+    license: 'MIT',   
+    details: 'https://github.com/text-mask/text-mask',
+    keywords: ['mask']
   }
 ];
