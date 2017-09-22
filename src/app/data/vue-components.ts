@@ -334,6 +334,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/chryb/vueup',
     keywords: ['vue', 'notification', 'popup', 'component', 'global', 'simple']
+  },
+  {
+    id: 15,
+    name: 'vuex-flash',
+    install: {
+      packager: 'npm',
+      url: 'vuex-flash'
+    },
+    source: {
+      domain: 'github',
+      url: 'ahmed-dinar/vuex-flash',
+    stars: 8
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ahmed-dinar.github.io/vuex-flash/#/'
+    },
+    framework: 'Vue',
+    version: '2.x',
+    license: 'MIT',
+    details: 'https://github.com/ahmed-dinar/vuex-flash',
+    keywords: ['vue', 'vuejs', 'vuex', 'flash', 'vuex-flash', 'vue-flash', 'flash-message']
   }
 
 ];
