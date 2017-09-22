@@ -2996,5 +2996,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/bokuweb/re-resizable',
     keywords: ['Resizable']
+  },
+  {
+    id: 139,
+    name: 'react-pagespeed-score',
+    install: {
+      packager: 'npm',
+      url: 'react-pagespeed-score'
+    },
+    source: {
+      domain: 'github',
+      url: 'ceasbz/react-pagespeed-score'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://reactjsexample.com/a-react-component-for-display-a-dial-type-chart-of-pagespeed-insights/'
+    },
+    framework: 'React',
+    version: '0.1.1',    
+    license: 'MIT',   
+    details: 'https://github.com/ceasbz/react-pagespeed-score',
+    keywords: ['pagespeed']
   }
 ];
