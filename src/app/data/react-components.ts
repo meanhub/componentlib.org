@@ -2652,12 +2652,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://jossmac.github.io/react-images/#examples'
+      src: 'http://neptunian.github.io/react-photo-gallery/'
     },
     framework: 'React',
     version: '6.0.2',    
     license: 'MIT',   
-    details: 'http://neptunian.github.io/react-photo-gallery/',
+    details: 'https://github.com/neptunian/react-photo-gallery',
+    keywords: ['gallery','image']
+  },
+  {
+    id: 123,
+    name: 'react-svg-pan-zoom',
+    install: {
+      packager: 'npm',
+      url: 'react-svg-pan-zoom'
+    },
+    source: {
+      domain: 'github',
+      url: 'chrvadala/react-svg-pan-zoom'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chrvadala.github.io/react-svg-pan-zoom/?knob-detectAutoPan=true&knob-detectWheel=true&knob-detectPinchGesture=true&knob-preventPanOutside=true&knob-toolbarPosition=right&knob-miniaturePosition=left&knob-miniatureWidth=100&knob-disableDoubleClickZoomWithToolAuto=false&selectedKind=React%20SVG%20Pan%20Zoom&selectedStory=Viewer&full=0&down=1&left=1&panelRight=0&downPanel=storybooks%2Fstorybook-addon-knobs'
+    },
+    framework: 'React',
+    version: '2.12.0',    
+    license: 'MIT',   
+    details: 'https://github.com/neptunian/chrvadala/react-svg-pan-zoom',
     keywords: ['gallery','image']
   }
 ];
