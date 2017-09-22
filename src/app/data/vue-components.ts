@@ -198,5 +198,33 @@ export const VUE_COMPONENTS: any[] = [{
   license: 'MIT',
   details: 'https://github.com/OneWayTech/vue2-datatable',
   keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
-}
+},
+{
+    id: 9,
+    name: 'vue-notifications',
+    install: [{
+      packager: 'npm',
+      url: 'vue-notifications'
+    },{
+      packager: 'bower',
+      url: 'vue-notifications'
+    }, {
+      packager: 'download',
+      url: 'https://github.com/se-panfilov/vue-notifications/releases'
+    }],
+    source: {
+      domain: 'github',
+      url: 'se-panfilov/vue-notifications'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://se-panfilov.github.io/vue-notifications/#/'
+    },
+    framework: 'Vue',
+    version: '2.0',
+    license: 'MIT',
+    details: 'https://github.com/se-panfilov/vue-notifications',
+    keywords: ['vue', 'toastr', 'toast', 'non-blocking', 'notifications', 'notification', 'vuejs', 'vue.js', 'messages', 'errors']
+  }
+
 ];
