@@ -4026,5 +4026,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/RubaXa/Sortable',
     keywords: ['sortable']
+  },
+  {
+    id: 188,
+    name: 'react-anything-sortable',
+    install: {
+      packager: 'npm',
+      url: 'react-anything-sortable'
+    },
+    source: {
+      domain: 'github',
+      url: 'jasonslyvia/react-anything-sortable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jasonslyvia.github.io/react-anything-sortable/demo/#/?_k=08whlj'
+    },
+    framework: 'React',
+    version: '1.7.3',    
+    license: 'MIT',   
+    details: 'https://github.com/jasonslyvia/react-anything-sortable',
+    keywords: ['sortable']
   }
 ];
