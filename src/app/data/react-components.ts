@@ -3753,5 +3753,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/yury-dymov/react-autocomplete-input',
     keywords: ['autocomplete']
+  },
+  {
+    id: 175,
+    name: 'react-input-autosize',
+    install: {
+      packager: 'npm',
+      url: 'react-input-autosize'
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-input-autosize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jedwatson.github.io/react-input-autosize/'
+    },
+    framework: 'React',
+    version: '2.0.1',    
+    license: 'MIT',   
+    details: 'https://github.com/JedWatson/react-input-autosize',
+    keywords: ['autosize']
   }
 ];
