@@ -4153,5 +4153,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/lovasoa/react-contenteditable',
     keywords: ['editor']
+  },
+  {
+    id: 194,
+    name: 'react-codemirror',
+    install: {
+      packager: 'npm',
+      url: 'react-codemirror'
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-codemirror'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jedwatson.github.io/react-codemirror/'
+    },
+    framework: 'React',
+    version: '1.0.0',    
+    license: 'MIT',   
+    details: 'https://github.com/JedWatson/react-codemirror,
+    keywords: ['editor']
   }
 ];
