@@ -4195,5 +4195,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',   
     details: 'https://github.com/wangzuo/react-medium-editor,
     keywords: ['editor']
+  },
+  {
+    id: 196,
+    name: 'draft-js',
+    install: {
+      packager: 'npm',
+      url: 'draft-js'
+    },
+    source: {
+      domain: 'github',
+      url: 'facebook/draft-js'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://draftjs.org/'
+    },
+    framework: 'React',
+    version: '0.10.2',    
+    license: 'MIT',   
+    details: 'https://github.com/facebook/draft-js,
+    keywords: ['editor']
   }
 ];
