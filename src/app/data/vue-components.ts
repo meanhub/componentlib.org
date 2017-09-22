@@ -400,6 +400,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/wyzant-dev/vue-radial-progress',
     keywords: ['vue', 'vuejs', 'radial', 'progress', 'bar', 'progress bar', 'radial progress', 'radial progress bar']
+  },
+    {
+    id: 18,
+    name: 'vue-simple-spinner',
+    install: {
+      packager: 'npm',
+      url: 'vue-simple-spinner'
+    },
+    source: {
+      domain: 'github',
+      url: 'dzwillia/vue-simple-spinner',
+    stars: 136
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dzwillia.github.io/vue-simple-spinner/examples/'
+    },
+    framework: 'Vue',
+    version: '^v2.1.4',
+    license: 'MIT',
+    details: 'https://github.com/dzwillia/vue-simple-spinner',
+    keywords: ['vue', 'vuejs', 'ui', 'components', 'spinner', 'progress']
   }
 
 ];
