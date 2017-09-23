@@ -1535,6 +1535,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/DeviaVir/vue-bar',
     keywords: ['vue', 'bars', 'svg', 'graph', 'data-visualization', 'component']
+  },
+  {
+    id: 68,
+    name: 'vue-d3-network',
+    install: {
+      packager: 'npm',
+      url: 'vue-d3-network'
+    },
+    source: {
+      domain: 'github',
+      url: 'emiliorizzo/vue-d3-network',
+    stars: 49
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://emiliorizzo.github.io/vue-d3-network/'
+  },
+    framework: 'Vue',
+    version: '0.1.19',
+    license: 'MIT',
+    details: 'https://github.com/emiliorizzo/vue-d3-network',
+    keywords: ['vue', 'vuejs', 'd3', 'network', 'd3-force', 'graph', 'component']
   }
 
 ];
