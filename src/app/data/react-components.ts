@@ -5081,5 +5081,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.0.0', 
     details: 'https://github.com/gilbox/react-spark-scroll',
     keywords: ['spark','scroll']
+  },
+  {
+    id: 241,
+    name: 'react-poker',
+    install: {
+      packager: 'npm',
+      url: 'react-poker'
+    },
+    source: {
+      domain: 'github',
+      url: 'therewillbecode/react-poker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://therewillbecode.github.io/react-poker/'
+    },
+    framework: 'React',
+    version: '0.0.2', 
+    details: 'https://github.com/therewillbecode/react-poker',
+    keywords: ['poker']
   }
 ];
