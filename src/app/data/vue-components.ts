@@ -1579,6 +1579,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/alexcode/vue2vis',
     keywords: ['vue', 'vuejs', 'vis', 'visjs']
+  },
+  {
+    id: 70,
+    name: 'vue-timeago',
+    install: [{
+      packager: 'npm',
+      url: 'vue-timeago'
+    }, {
+      packager: 'download',
+      url: 'https://unpkg.com/vue-timeago@3.3.6/dist/vue-timeago.js>'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'egoist/vue-timeago',
+    stars: 297
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://egoist.moe/vue-timeago/'
+  },
+    framework: 'Vue',
+    version: '3.3.6',
+    license: 'MIT',
+    details: 'https://github.com/egoist/vue-timeago',
+    keywords: ['vue', 'timeago', 'filter']
   }
 
 ];
