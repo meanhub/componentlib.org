@@ -854,6 +854,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/DCzajkowski/vue-pure-lightbox',
     keywords: ['lightbox', 'vue', 'vuejs', 'component']
+  },
+  {
+    id: 38,
+    name: 'v-viewer',
+    install: {
+      packager: 'npm',
+    url: 'v-viewer'
+    },
+    source: {
+      domain: 'github',
+      url: 'mirari/v-viewer',
+    stars: 30
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://mirari.cc/v-viewer/'
+  },
+    framework: 'Vue',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/mirari/v-viewer',
+    keywords: ['vue', 'viewer', 'gallery', 'picture', 'img', 'image']
   }
 
 ];
