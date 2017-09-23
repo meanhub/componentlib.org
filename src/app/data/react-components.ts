@@ -5339,7 +5339,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://joshwcomeau.github.io/react-flip-move/examples/#/shuffle?_k=hf1udg'
     },
     framework: 'React',
-    version: '2.9.15, 
+    version: '2.9.15', 
     details: 'https://github.com/joshwcomeau/react-flip-move',
     keywords: ['flip','move']
   },
@@ -5359,7 +5359,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://easings.net/'
     },
     framework: 'React',
-    version: '0.0.4, 
+    version: '0.0.4', 
     details: 'https://github.com/pleasetrythisathome/react.animate',
     keywords: ['animate','ease']
   },
@@ -5379,7 +5379,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://hyperfuse.github.io/react-anime/#/'
     },
     framework: 'React',
-    version: '0.3.4, 
+    version: '0.3.4', 
     details: 'https://github.com/hyperfuse/react-anime',
     keywords: ['animate']
   },
@@ -5399,7 +5399,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://animakit.github.io/#/rotator'
     },
     framework: 'React',
-    version: '1.0.0, 
+    version: '1.0.0', 
     details: 'https://animakit.github.io/#/',
     keywords: ['animate','rotator']
   },
@@ -5419,7 +5419,7 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://animakit.github.io/#/elastic'
     },
     framework: 'React',
-    version: '1.1.1, 
+    version: '1.1.1', 
     details: 'https://animakit.github.io/#/',
     keywords: ['animate','elastic']
   },
@@ -5439,8 +5439,29 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://animakit.github.io/#/expander'
     },
     framework: 'React',
-    version: '2.1.2, 
+    version: '2.1.2', 
     details: 'https://github.com/animakit/animakit-expander',
     keywords: ['animakit','expander']
+  },
+  {
+    id: 259,
+    name: 'react-tween',
+    install: {
+      packager: 'npm',
+      url: 'react-tween'  
+    },
+    source: {
+      domain: 'github',
+      url: 'clari/react-tween'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'mking-clari',
+      id: 'XNYbJX'
+    },
+    framework: 'React',
+    version: '0.4.0-alpha.17', 
+    details: 'https://github.com/clari/react-tween',
+    keywords: ['tween']
   }
 ];
