@@ -5723,5 +5723,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.7.0', 
     details: 'https://github.com/grommet/grommet',
     keywords: ['grommet']
+  },
+  {
+    id: 273,
+    name: 'blueprint',
+    install: {
+      packager: 'npm',
+      url: 'blueprint'  
+    },
+    source: {
+      domain: 'github',
+      url: 'palantir/blueprint'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://blueprintjs.com/docs/#table-js.sorting'
+    },
+    framework: 'React',
+    version: '1.28.0', 
+    details: 'https://github.com/palantir/blueprint',
+    keywords: ['blueprint']
   }
 ];
