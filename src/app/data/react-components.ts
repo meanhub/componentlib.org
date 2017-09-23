@@ -4941,5 +4941,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.1.7', 
     details: 'https://github.com/bytefunc/react-resize-layout',
     keywords: ['grid','layout','resize']
+  },
+  {
+    id: 234,
+    name: 'react-resize-detector',
+    install: {
+      packager: 'npm',
+      url: 'react-resize-detector'
+    },
+    source: {
+      domain: 'github',
+      url: 'maslianok/react-resize-detector'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://maslianok.github.io/react-resize-detector/'
+    },
+    framework: 'React',
+    version: '0.6.0', 
+    details: 'https://github.com/maslianok/react-resize-detector',
+    keywords: ['grid','layout','resize','detector']
   }
 ];
