@@ -4359,5 +4359,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.6.2',   
     details: 'https://github.com/jrm2k6/react-markdown-editor',
     keywords: ['editor']
+  },
+  {
+    id: 204,
+    name: 'react-avatar-cropper',
+    install: {
+      packager: 'npm',
+      url: 'react-avatar-cropper'
+    },
+    source: {
+      domain: 'github',
+      url: 'DropsOfSerenity/react-avatar-cropper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://dropsofserenity.github.io/react-avatar-cropper/'
+    },
+    framework: 'React',
+    version: '0.1.3',   
+    details: 'https://github.com/DropsOfSerenity/react-avatar-cropper',
+    keywords: ['editor']
   }
 ];
