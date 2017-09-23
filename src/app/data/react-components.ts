@@ -5643,5 +5643,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.1', 
     details: 'http://otissv.github.io/react-uikit-components/',
     keywords: ['ui','layout','responsive']
+  },
+  {
+    id: 269,
+    name: 'searchkit',
+    install: {
+      packager: 'npm',
+      url: 'searchkit'  
+    },
+    source: {
+      domain: 'github',
+      url: 'searchkit/searchkit'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://otissv.github.io/react-uikit-components/docs.html#/grid?_k=yn7dm8'
+    },
+    framework: 'React',
+    version: '2.2.0', 
+    details: 'http://otissv.github.io/searchkit/searchkit',
+    keywords: ['searchkit']
   }
 ];
