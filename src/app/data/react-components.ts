@@ -5484,4 +5484,24 @@ export const REACT_COMPONENTS: any[] = [
     details: 'https://github.com/tkh44/data-driven-motion',
     keywords: ['motion','driven-motion']
   }
+  {
+    id: 261,
+    name: 'react-web-animation',
+    install: {
+      packager: 'npm',
+      url: 'react-web-animation'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bringking/react-web-animation'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-web-animation.surge.sh/basic'
+    },
+    framework: 'React',
+    version: '0.0.0-development', 
+    details: 'https://github.com/tkh44/data-driven-motion',
+    keywords: ['motion','driven-motion']
+  }
 ];
