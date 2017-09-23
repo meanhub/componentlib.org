@@ -1308,6 +1308,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/wlada/vue-carousel-3d',
     keywords: ['vue', 'carousel 3d','slider','carousel']
+  },
+  {
+    id: 58,
+    name: 'vue-carousel',
+    install: {
+      packager: 'npm',
+      url: 'vue-carousel'
+    },
+    source: {
+      domain: 'github',
+      url: 'SSENSE/vue-carousel',
+    stars: 187
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://ssense.github.io/vue-carousel/'
+  },
+    framework: 'Vue',
+    version: '0.6.5',
+    license: 'MIT',
+    details: 'https://github.com/SSENSE/vue-carousel',
+    keywords: ['vue', 'responsive','slider','carousel']
   }
 
 ];
