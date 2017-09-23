@@ -493,6 +493,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hilongjw/vue-progressbar',
     keywords: ['vue', 'vue-progressbar', 'vue loading progress', 'vue progressbar', 'progressbar']
+  },
+  {
+    id: 22,
+    name: 'vue2-loading-bar',
+    install: [{
+      packager: 'npm',
+    url: 'vue2-loading-bar'
+    },{
+    packager: 'download',
+    url: 'https://github.com/BosNaufal/vue2-loading-bar/blob/master/build/vue2-loading-bar.min.js'
+    }],
+    source: {
+      domain: 'github',
+      url: 'BosNaufal/vue2-loading-bar',
+    stars: 162
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bosnaufal.github.io/vue2-loading-bar/'
+    },
+    framework: 'Vue',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/BosNaufal/vue2-loading-bar',
+    keywords: ['vue', 'component','vue-js', 'vue2', 'loading-bar', 'youtube-loading-bar', 'vue2-loading-bar']
   }
 
 ];
