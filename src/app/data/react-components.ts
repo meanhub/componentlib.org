@@ -5903,5 +5903,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.14', 
     details: 'https://github.com/react-materialize/react-materialize',
     keywords: ['components']
+  },
+  {
+    id: 282,
+    name: 'react-toolbox',
+    install: {
+      packager: 'npm',
+      url: 'react-toolbox'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-toolbox/react-toolbox'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-toolbox.com/#/components/avatar'
+    },
+    framework: 'React',
+    version: '2.0.0-beta.11', 
+    details: 'https://github.com/react-toolbox/react-toolbox',
+    keywords: ['components','tools']
   }
 ];
