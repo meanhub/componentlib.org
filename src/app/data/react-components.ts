@@ -4172,7 +4172,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.0.0',    
     license: 'MIT',   
-    details: 'https://github.com/JedWatson/react-codemirror,
+    details: 'https://github.com/JedWatson/react-codemirror',
     keywords: ['editor']
   },
   {
@@ -4193,7 +4193,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.8.1',    
     license: 'MIT',   
-    details: 'https://github.com/wangzuo/react-medium-editor,
+    details: 'https://github.com/wangzuo/react-medium-editor',
     keywords: ['editor']
   },
   {
@@ -4214,7 +4214,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.10.2',    
     license: 'MIT',   
-    details: 'https://github.com/facebook/draft-js,
+    details: 'https://github.com/facebook/draft-js',
     keywords: ['editor']
   },
   {
@@ -4235,7 +4235,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.1.4',    
     license: 'MIT',   
-    details: 'https://github.com/ritzyed/ritzy,
+    details: 'https://github.com/ritzyed/ritzy',
     keywords: ['editor']
   },
   {
@@ -4256,7 +4256,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.4.28',    
     license: 'MIT',   
-    details: 'https://github.com/globocom/megadraft,
+    details: 'https://github.com/globocom/megadraft',
     keywords: ['editor']
   },
   {
@@ -4277,7 +4277,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.1.0',    
     license: 'MIT',   
-    details: 'https://github.com/RD17/react-trumbowyg,
+    details: 'https://github.com/RD17/react-trumbowyg',
     keywords: ['editor']
   },
   {
@@ -4297,7 +4297,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.4.1',   
-    details: 'https://github.com/liferay/alloy-editor,
+    details: 'https://github.com/liferay/alloy-editor',
     keywords: ['editor']
   },
   {
@@ -4317,7 +4317,27 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.10.11',   
-    details: 'https://github.com/jpuri/react-draft-wysiwyg,
+    details: 'https://github.com/jpuri/react-draft-wysiwyg',
+    keywords: ['editor']
+  },
+  {
+    id: 202,
+    name: 'react-md-editor',
+    install: {
+      packager: 'npm',
+      url: 'react-md-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-md-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jedwatson.github.io/react-md-editor/'
+    },
+    framework: 'React',
+    version: '0.2.2',   
+    details: 'https://github.com/JedWatson/react-md-editor',
     keywords: ['editor']
   }
 ];
