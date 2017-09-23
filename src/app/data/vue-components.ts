@@ -652,6 +652,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/RobinCK/vue-popper',
     keywords: ['vue','vuejs', 'vue-popper.js', 'vue-popover','vuejs-popper.js','vuejs-popover','vue-plugin','vue-component']
+  },
+  {
+    id: 29,
+    name: 'vuedals',
+    install: {
+      packager: 'npm',
+    url: 'vuedals'
+    },
+    source: {
+      domain: 'github',
+      url: 'javisperez/vuedals',
+    stars: 33
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/ackqudv7/19/'
+    },
+    framework: 'Vue',
+    version: '1.6.2',
+    license: 'MIT',
+    details: 'https://github.com/javisperez/vuedals',
+    keywords: ['vue','vuejs','vuedals','modal', 'modals', 'modal windows', 'plugin']
   }
 
 ];
