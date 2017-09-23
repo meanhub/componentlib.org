@@ -5279,7 +5279,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.4.1', 
-    details: 'https://github.com/react-component/animate,
+    details: 'https://github.com/react-component/animate',
     keywords: ['animate']
   }
 ];
