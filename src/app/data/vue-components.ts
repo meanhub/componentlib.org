@@ -718,6 +718,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-modal',
     keywords: ['vue','vuejs', 'vue-js-modal', 'modal']
+  },
+  {
+    id: 32,
+    name: 'vue-image-lightbox',
+    install: {
+      packager: 'npm',
+    url: 'vue-image-lightbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'pexea12/vue-image-lightbox',
+    stars: 33
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://pexea12.github.io/vue-image-lightbox/'
+    },
+    framework: 'Vue',
+    version: '5.5.3',
+    license: 'MIT',
+    details: 'https://github.com/pexea12/vue-image-lightbox',
+    keywords: ['vue', 'vuejs', 'lightbox', 'gallery', 'image gallery', 'image lightbox']
   }
 
 ];
