@@ -4594,7 +4594,7 @@ export const REACT_COMPONENTS: any[] = [
     demo: {
       repl: 'codepen',
       user: 'hartzis',
-      id: 'pen/VvNGZP'
+      id: 'VvNGZP'
     },
     framework: 'React',
     version: '1.1.1',   
@@ -4760,5 +4760,26 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.7', 
     details: 'https://github.com/dantrain/react-stonecutter',
     keywords: ['stonecutter']
+  },
+  {
+    id: 225,
+    name: 'flexbox-react',
+    install: {
+      packager: 'npm',
+      url: 'flexbox-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'nachoaIvarez/flexbox-react'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'sain_anky',
+      id: 'LzRooN'
+    },
+    framework: 'React',
+    version: '4.4.0', 
+    details: 'https://github.com/nachoaIvarez/flexbox-react',
+    keywords: ['flexbox']
   }
 ];
