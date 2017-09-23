@@ -5161,5 +5161,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.0', 
     details: 'https://github.com/bgryszko/react-motion-example',
     keywords: ['motion']
+  },
+  {
+    id: 245,
+    name: 'kabuki-motion',
+    install: {
+      packager: 'npm',
+      url: 'kabuki-motion'
+    },
+    source: {
+      domain: 'github',
+      url: 'bishopZ/kabuki-motion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://kabuki.venicetexas.com/'
+    },
+    framework: 'React',
+    version: '0.0.4', 
+    details: 'https://github.com/bishopZ/kabuki-motion',
+    keywords: ['motion']
   }
 ];
