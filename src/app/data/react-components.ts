@@ -5141,5 +5141,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.0.3', 
     details: 'https://github.com/nkbt/react-collapse',
     keywords: ['collapse']
+  },
+  {
+    id: 244,
+    name: 'react-motion-example',
+    install: {
+      packager: 'npm',
+      url: 'react-motion-example'
+    },
+    source: {
+      domain: 'github',
+      url: 'bgryszko/react-motion-example'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://cdn.rawgit.com/bgryszko/react-motion-example/master/dist/index.html'
+    },
+    framework: 'React',
+    version: '1.0.0', 
+    details: 'https://github.com/bgryszko/react-motion-example',
+    keywords: ['motion']
   }
 ];
