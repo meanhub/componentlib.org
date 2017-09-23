@@ -4419,5 +4419,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.2.4',   
     details: 'https://github.com/exelban/react-image-crop-component',
     keywords: ['crop','image']
+  },
+  {
+    id: 207,
+    name: 'react-image-cropper',
+    install: {
+      packager: 'npm',
+      url: 'react-image-cropper'
+    },
+    source: {
+      domain: 'github',
+      url: 'jerryshew/react-image-cropper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://exelban.github.io/react-image-crop-component/'
+    },
+    framework: 'React',
+    version: '1.1.1',   
+    details: 'https://github.com/jerryshew/react-image-cropper',
+    keywords: ['crop','image']
   }
 ];
