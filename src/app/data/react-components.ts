@@ -5657,11 +5657,31 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://otissv.github.io/react-uikit-components/docs.html#/grid?_k=yn7dm8'
+      src: 'http://demo.searchkit.co/imdb'
     },
     framework: 'React',
     version: '2.2.0', 
     details: 'http://otissv.github.io/searchkit/searchkit',
     keywords: ['searchkit']
+  },
+  {
+    id: 270,
+    name: 'rebass',
+    install: {
+      packager: 'npm',
+      url: 'rebass'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jxnblk/rebass'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jxnblk.com/rebass/#Demo'
+    },
+    framework: 'React',
+    version: '1.0.4', 
+    details: 'http://otissv.github.io/jxnblk/rebass',
+    keywords: ['rebass']
   }
 ];
