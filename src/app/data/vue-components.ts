@@ -1286,6 +1286,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/drewjbartlett/vue-flickity',
     keywords: ['vue','flickity', 'responsive','touch','carousel']
+  },
+  {
+    id: 57,
+    name: 'Vue Carousel 3d',
+    install: {
+      packager: 'npm',
+      url: 'vue-carousel-3d'
+    },
+    source: {
+      domain: 'github',
+      url: 'wlada/vue-carousel-3d',
+    stars: 246
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://wlada.github.io/vue-carousel-3d/'
+  },
+    framework: 'Vue',
+    version: '0.1.18',
+    license: 'MIT',
+    details: 'https://github.com/wlada/vue-carousel-3d',
+    keywords: ['vue', 'carousel 3d','slider','carousel']
   }
 
 ];
