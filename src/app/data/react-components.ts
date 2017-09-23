@@ -5041,5 +5041,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.5.1', 
     details: 'https://github.com/chenglou/react-motion',
     keywords: ['motion']
+  },
+  {
+    id: 239,
+    name: 'react-transitive-number',
+    install: {
+      packager: 'npm',
+      url: 'react-transitive-number'
+    },
+    source: {
+      domain: 'github',
+      url: 'Lapple/react-transitive-number'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'transitive-number'
+    },
+    framework: 'React',
+    version: '3.0.1', 
+    details: 'https://github.com/Lapple/react-transitive-number',
+    keywords: ['transitive','number']
   }
 ];
