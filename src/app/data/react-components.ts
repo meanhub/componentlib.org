@@ -5783,5 +5783,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.73.1', 
     details: 'https://github.com/Semantic-Org/Semantic-UI-React',
     keywords: ['semantic','ui']
+  },
+  {
+    id: 276,
+    name: 'pivotal-ui',
+    install: {
+      packager: 'npm',
+      url: 'pivotal-ui'  
+    },
+    source: {
+      domain: 'github',
+      url: 'pivotal-cf/pivotal-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://styleguide.pivotal.io/alerts'
+    },
+    framework: 'React',
+    version: '8.3.3', 
+    details: 'https://github.com/pivotal-cf/pivotal-ui',
+    keywords: ['layout','ui']
   }
 ];
