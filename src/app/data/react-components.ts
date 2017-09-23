@@ -5342,5 +5342,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.9.15, 
     details: 'https://github.com/joshwcomeau/react-flip-move',
     keywords: ['flip','move']
+  },
+  {
+    id: 254,
+    name: 'react.animate',
+    install: {
+      packager: 'npm',
+      url: 'react.animate'  
+    },
+    source: {
+      domain: 'github',
+      url: 'pleasetrythisathome/react.animate'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://easings.net/'
+    },
+    framework: 'React',
+    version: '0.0.4, 
+    details: 'https://github.com/pleasetrythisathome/react.animate',
+    keywords: ['animate','ease']
   }
 ];
