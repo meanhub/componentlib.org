@@ -1352,6 +1352,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/OrangeXC/vue-coverflow',
     keywords: ['vue', 'coverflow','vue-coverflow','vue coverflow']
+  },
+  {
+    id: 60,
+    name: 'vue-morris',
+    install: {
+      packager: 'npm',
+      url: 'vue-morris'
+    },
+    source: {
+      domain: 'github',
+      url: 'bbonnin/vue-morris',
+    stars: 74
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://morrisjs.github.io/morris.js/'
+  },
+    framework: 'Vue',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'https://github.com/bbonnin/vue-morris',
+    keywords: ['vue', 'vuejs','morris','morris.js','data']
   }
 
 ];
