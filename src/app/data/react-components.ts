@@ -5396,11 +5396,31 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'https://animakit.github.io/#/'
+      src: 'https://animakit.github.io/#/rotator'
     },
     framework: 'React',
     version: '1.0.0, 
     details: 'https://animakit.github.io/#/',
-    keywords: ['animate']
+    keywords: ['animate','rotator']
+  },
+  {
+    id: 257,
+    name: 'animakit-elastic',
+    install: {
+      packager: 'npm',
+      url: 'animakit-elastic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'animakit/animakit-elastic'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://animakit.github.io/#/elastic'
+    },
+    framework: 'React',
+    version: '1.1.1, 
+    details: 'https://animakit.github.io/#/',
+    keywords: ['animate','elastic']
   }
 ];
