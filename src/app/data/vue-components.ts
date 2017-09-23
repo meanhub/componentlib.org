@@ -583,6 +583,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/Akryum/v-tooltip',
     keywords: ['vue', 'tooltip']
+  },
+  {
+    id: 26,
+    name: 'vue-popper-component',
+    install: {
+      packager: 'npm',
+    url: 'vue-popper-component'
+    },
+    source: {
+      domain: 'github',
+      url: 'antongorodezkiy/vue-popper-component',
+    stars: 22
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://antongorodezkiy.github.io/vue-popper-component/'
+    },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/antongorodezkiy/vue-popper-component',
+    keywords: ['vue', 'popperjs', 'component']
   }
 
 ];
