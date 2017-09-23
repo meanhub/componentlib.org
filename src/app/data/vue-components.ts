@@ -1083,6 +1083,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/zeratulmdq/vue-accordion',
     keywords: ['accordion', 'component','vue.js','vue']
+  },
+  {
+    id: 48,
+    name: 'vue-js-popover',
+    install: {
+      packager: 'npm',
+    url: 'vue-js-popover'
+    },
+    source: {
+      domain: 'github',
+      url: 'euvl/vue-js-popover',
+    stars: 92
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vue-js-dropdown.yev.io'
+  },
+    framework: 'Vue',
+    version: '1.1.4',
+    license: 'MIT',
+    details: 'https://github.com/euvl/vue-js-popover',
+    keywords: ['vue', 'dropdown', 'tooltip', 'popover', 'menu', 'button']
   }
 
 ];
