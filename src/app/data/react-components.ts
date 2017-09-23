@@ -6003,5 +6003,45 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.6.0', 
     details: 'https://github.com/OnsenUI/OnsenUI',
     keywords: ['OnsenUI']
+  },
+  {
+    id: 287,
+    name: 'reactionic',
+    install: {
+      packager: 'npm',
+      url: 'reactionic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reactionic/reactionic'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://reactionic.github.io/#demo'
+    },
+    framework: 'React',
+    version: '1.1.10', 
+    details: 'https://github.com/reactionic/reactionic',
+    keywords: ['ionic']
+  },
+  {
+    id: 288,
+    name: 'touchstonejs',
+    install: {
+      packager: 'npm',
+      url: 'touchstonejs'  
+    },
+    source: {
+      domain: 'github',
+      url: 'touchstonejs/touchstonejs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://touchstonejs.io/'
+    },
+    framework: 'React',
+    version: '0.7.3', 
+    details: 'https://github.com/touchstonejs/touchstonejs',
+    keywords: ['ionic']
   }
 ];
