@@ -5281,5 +5281,26 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.4.1', 
     details: 'https://github.com/react-component/animate',
     keywords: ['animate']
+  },
+  {
+    id: 251,
+    name: 'react-gsap-enhancer',
+    install: {
+      packager: 'npm',
+      url: 'react-gsap-enhancer'  
+    },
+    source: {
+      domain: 'github',
+      url: 'azazdeaz/react-gsap-enhancer'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'sain_anky',
+      id: 'zEoYZr'
+    },
+    framework: 'React',
+    version: '0.3.0', 
+    details: 'https://github.com/azazdeaz/react-gsap-enhancer',
+    keywords: ['gsap','enhancer']
   }
 ];
