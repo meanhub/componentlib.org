@@ -5422,5 +5422,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.1, 
     details: 'https://animakit.github.io/#/',
     keywords: ['animate','elastic']
+  },
+  {
+    id: 258,
+    name: 'animakit-expander',
+    install: {
+      packager: 'npm',
+      url: 'animakit-expander'  
+    },
+    source: {
+      domain: 'github',
+      url: 'animakit/animakit-expander'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://animakit.github.io/#/expander'
+    },
+    framework: 'React',
+    version: '2.1.2, 
+    details: 'https://github.com/animakit/animakit-expander',
+    keywords: ['animakit','expander']
   }
 ];
