@@ -6063,5 +6063,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.0-beta.2', 
     details: 'https://github.com/ant-design/ant-design-mobile',
     keywords: ['ionic','mobile']
+  },
+  {
+    id: 290,
+    name: 'react-desktop',
+    install: {
+      packager: 'npm',
+      url: 'react-desktop'  
+    },
+    source: {
+      domain: 'github',
+      url: 'gabrielbull/react-desktop'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://reactdesktop.js.org/demo/'
+    },
+    framework: 'React',
+    version: '0.3.1', 
+    details: 'https://github.com/gabrielbull/react-desktop',
+    keywords: ['desktop']
   }
 ];
