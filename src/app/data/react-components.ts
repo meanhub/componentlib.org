@@ -5843,5 +5843,45 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.31.3', 
     details: 'https://github.com/react-bootstrap/react-bootstrap',
     keywords: ['bootstrap']
+  },
+  {
+    id: 279,
+    name: 'reactstrap',
+    install: {
+      packager: 'npm',
+      url: 'reactstrap'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reactstrap/reactstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://reactstrap.github.io/components/alerts/'
+    },
+    framework: 'React',
+    version: '4.7.0', 
+    details: 'https://github.com/reactstrap/reactstrap',
+    keywords: ['bootstrap']
+  },
+  {
+    id: 280,
+    name: 'react-mdl',
+    install: {
+      packager: 'npm',
+      url: 'react-mdl'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-mdl/react-mdl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-mdl.github.io/react-mdl/components/card/'
+    },
+    framework: 'React',
+    version: '1.10.3', 
+    details: 'https://github.com/react-mdl/react-mdl',
+    keywords: ['components']
   }
 ];
