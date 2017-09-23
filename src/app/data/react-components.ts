@@ -6163,5 +6163,45 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.10.1', 
     details: 'https://github.com/joshwnj/react-visibility-sensor',
     keywords: ['visibility','sensor']
+  },
+  {
+    id: 295,
+    name: 'react-measure',
+    install: {
+      packager: 'npm',
+      url: 'react-measure'  
+    },
+    source: {
+      domain: 'github',
+      url: 'souporserious/react-measure'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://souporserious.github.io/react-measure/'
+    },
+    framework: 'React',
+    version: '2.0.2', 
+    details: 'https://github.com/souporserious/react-measure',
+    keywords: ['measure']
+  },
+  {
+    id: 296,
+    name: 'react-height',
+    install: {
+      packager: 'npm',
+      url: 'react-height'  
+    },
+    source: {
+      domain: 'github',
+      url: 'nkbt/react-height'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nkbt.github.io/react-height/example/'
+    },
+    framework: 'React',
+    version: '3.0.0', 
+    details: 'https://github.com/nkbt/react-height',
+    keywords: ['height']
   }
 ];
