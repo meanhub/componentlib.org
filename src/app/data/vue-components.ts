@@ -920,6 +920,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Godofbrowser/vuejs-dialog',
     keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'loading-dialog', 'hard-confirm', 'soft-confirm']
+  },
+  {
+    id: 41,
+    name: 'vue-window',
+    install: {
+      packager: 'npm',
+    url: '@hscmap/vue-window'
+    },
+    source: {
+      domain: 'github',
+      url: 'michitaro/vue-window',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://michitaro.github.io/vue-window/?Sample5'
+  },
+    framework: 'Vue',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'https://github.com/michitaro/vue-window',
+    keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'Window', 'UI', 'TypeSript', 'Vuejs']
   }
 
 ];
