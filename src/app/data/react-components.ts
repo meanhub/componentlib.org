@@ -4623,22 +4623,42 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 217,
-    name: 'react-flexbox-grid',
+    name: 'react-masonry-mixin',
     install: {
       packager: 'npm',
-      url: 'react-flexbox-grid'
+      url: 'react-masonry-mixin'
     },
     source: {
       domain: 'github',
-      url: 'roylee0704/react-flexbox-grid'
+      url: 'eiriklv/react-masonry-mixin'
     },
     demo: {
       repl: 'custom',
-      src: 'https://roylee0704.github.io/react-flexbox-grid/'
+      src: 'http://www.hearsay.me/'
     },
     framework: 'React',
-    version: '1.1.5',   
-    details: 'https://github.com/roylee0704/react-flexbox-grid',
-    keywords: ['grid','flexbox']
+    version: '2.1.0',   
+    details: 'https://github.com/eiriklv/react-masonry-mixin',
+    keywords: ['mixin']
+  },
+  {
+    id: 218,
+    name: 'react-inline-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-inline-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'broucz/react-inline-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://broucz.github.io/react-inline-grid/'
+    },
+    framework: 'React',
+    version: '0.5.3',   
+    details: 'https://github.com/broucz/react-inline-grid',
+    keywords: ['mixin']
   }
 ];
