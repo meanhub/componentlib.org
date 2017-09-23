@@ -5121,5 +5121,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.1', 
     details: 'https://github.com/maisano/react-router-transition',
     keywords: ['transition','router']
+  },
+  {
+    id: 243,
+    name: 'react-collapse',
+    install: {
+      packager: 'npm',
+      url: 'react-collapse'
+    },
+    source: {
+      domain: 'github',
+      url: 'nkbt/react-collapse'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nkbt.github.io/react-collapse/'
+    },
+    framework: 'React',
+    version: '4.0.3', 
+    details: 'https://github.com/nkbt/react-collapse',
+    keywords: ['collapse']
   }
 ];
