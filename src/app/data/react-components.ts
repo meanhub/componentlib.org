@@ -5201,5 +5201,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.4.0', 
     details: 'https://github.com/StreakYC/react-draggable-list',
     keywords: ['draggable','list']
+  },
+  {
+    id: 247,
+    name: 'ScrollMagic',
+    install: {
+      packager: 'npm',
+      url: 'ScrollMagic'
+    },
+    source: {
+      domain: 'github',
+      url: 'janpaepke/ScrollMagic'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://scrollmagic.io/'
+    },
+    framework: 'React',
+    version: '2.0.5', 
+    details: 'janpaepke/ScrollMagic',
+    keywords: ['scroll']
   }
 ];
