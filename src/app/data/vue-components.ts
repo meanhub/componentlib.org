@@ -539,6 +539,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/dalphyx/vue-top-progress',
     keywords: ['vue', 'vue.js', 'progress', 'loading', 'component', 'vue-component', 'progressbar', 'loadingbar']
+  },
+  {
+    id: 24,
+    name: 'vue-progress-button',
+    install: {
+      packager: 'npm',
+    url: 'vue-progress-button'
+    },
+    source: {
+      domain: 'github',
+      url: 'websmurf/vue-progress-button',
+    stars: 11
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tympanus.net/Development/ProgressButtonStyles/'
+    },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/websmurf/vue-progress-button',
+    keywords: ['vue', 'vue.js', 'progress', 'component', 'vue-component', 'progressbar', 'button']
   }
 
 ];
