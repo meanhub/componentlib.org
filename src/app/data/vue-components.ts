@@ -1374,6 +1374,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/bbonnin/vue-morris',
     keywords: ['vue', 'vuejs','morris','morris.js','data']
+  },
+  {
+    id: 61,
+    name: 'vue-charts',
+    install: {
+      packager: 'npm',
+      url: 'vue-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'haydenbbickerton/vue-charts',
+    stars: 144
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://haydenbbickerton.github.io/vue-charts/sets.html'
+  },
+    framework: 'Vue',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://github.com/haydenbbickerton/vue-charts',
+    keywords: ['vue', 'vuejs','data','charts']
   }
 
 ];
