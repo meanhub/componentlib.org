@@ -831,6 +831,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/qgp9/vue-ya-semantic-modal',
     keywords: ['plugin', 'vue', 'vuejs', 'semantic-ui', 'component']
+  },
+  {
+    id: 37,
+    name: 'vue-pure-lightbox',
+    install: {
+      packager: 'npm',
+    url: 'vue-pure-lightbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'DCzajkowski/vue-pure-lightbox',
+    stars: 6
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'DCzajkowski',
+      id: 'rzOErW'
+  },
+    framework: 'Vue',
+    version: '2.1.4',
+    license: 'MIT',
+    details: 'https://github.com/DCzajkowski/vue-pure-lightbox',
+    keywords: ['lightbox', 'vue', 'vuejs', 'component']
   }
 
 ];
