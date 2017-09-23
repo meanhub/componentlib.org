@@ -605,6 +605,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/antongorodezkiy/vue-popper-component',
     keywords: ['vue', 'popperjs', 'component']
+  },
+  {
+    id: 27,
+    name: 'vue-directive-tooltip',
+    install: {
+      packager: 'npm',
+    url: 'vue-directive-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'hekigan/vue-directive-tooltip',
+    stars: 33
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hekigan.github.io/vue-directive-tooltip/'
+    },
+    framework: 'Vue',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'https://github.com/hekigan/vue-directive-tooltip',
+    keywords: ['vue','vuejs', 'tooltip', 'component','directive-tooltip']
   }
 
 ];
