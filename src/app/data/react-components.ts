@@ -6243,5 +6243,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.2.0', 
     details: 'https://github.com/ctrlplusb/react-component-queries',
     keywords: ['queries']
+  },
+  {
+    id: 299,
+    name: 'react-sizeme',
+    install: {
+      packager: 'npm',
+      url: 'react-sizeme'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ctrlplusb/react-sizeme'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-sizeme.now.sh/'
+    },
+    framework: 'React',
+    version: '2.3.5', 
+    details: 'https://github.com/ctrlplusb/react-sizeme',
+    keywords: ['size']
   }
 ];
