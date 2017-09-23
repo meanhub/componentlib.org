@@ -765,6 +765,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mazipan/vue2-simplert',
     keywords: ['vue2 alert','vue2 sweet alert','vue2 popup','vue alert','vue sweet alert','vue popup']
+  },
+  {
+    id: 34,
+    name: 'v-img',
+    install: {
+      packager: 'npm',
+    url: 'v-img'
+    },
+    source: {
+      domain: 'github',
+      url: 'crowdbotics/v-img',
+    stars: 105
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://v-img.review'
+    },
+    framework: 'Vue',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'https://github.com/crowdbotics/v-img',
+    keywords: ['vue', 'images', 'photoswipe', 'preview']
   }
 
 ];
