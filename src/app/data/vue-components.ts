@@ -876,6 +876,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mirari/v-viewer',
     keywords: ['vue', 'viewer', 'gallery', 'picture', 'img', 'image']
+  },
+  {
+    id: 39,
+    name: 'vue-messageBox',
+    install: {
+      packager: 'npm',
+    url: 'vue-messageBox-addon'
+    },
+    source: {
+      domain: 'github',
+      url: 'zhangxiang958/vue-messageBox',
+    stars: 3
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://zhangxiang958.github.io/vue-messageBox/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/zhangxiang958/vue-messageBox',
+    keywords: ['vue', 'modal', 'custom', 'dialog', 'modal-dialog']
   }
 
 ];
