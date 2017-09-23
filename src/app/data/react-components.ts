@@ -5362,5 +5362,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.0.4, 
     details: 'https://github.com/pleasetrythisathome/react.animate',
     keywords: ['animate','ease']
+  },
+  {
+    id: 255,
+    name: 'react-anime',
+    install: {
+      packager: 'npm',
+      url: 'react-anime'  
+    },
+    source: {
+      domain: 'github',
+      url: 'hyperfuse/react-anime'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hyperfuse.github.io/react-anime/#/'
+    },
+    framework: 'React',
+    version: '0.3.4, 
+    details: 'https://github.com/hyperfuse/react-anime',
+    keywords: ['animate']
   }
 ];
