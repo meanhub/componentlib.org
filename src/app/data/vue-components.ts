@@ -898,6 +898,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/zhangxiang958/vue-messageBox',
     keywords: ['vue', 'modal', 'custom', 'dialog', 'modal-dialog']
+  },
+  {
+    id: 40,
+    name: 'vuejs-dialog',
+    install: {
+      packager: 'npm',
+    url: 'vuejs-dialog'
+    },
+    source: {
+      domain: 'github',
+      url: 'Godofbrowser/vuejs-dialog',
+    stars: 29
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://godofbrowser.github.io/vuejs-dialog/'
+  },
+    framework: 'Vue',
+    version: '0.3.4',
+    license: 'MIT',
+    details: 'https://github.com/Godofbrowser/vuejs-dialog',
+    keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'loading-dialog', 'hard-confirm', 'soft-confirm']
   }
 
 ];
