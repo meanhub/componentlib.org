@@ -809,6 +809,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/emiliorizzo/vue-dialog-drag',
     keywords: ['vue', 'drag-and-drop', 'modal', 'custom', 'dialog','modal-dialog']
+  },
+  {
+    id: 36,
+    name: 'vue-ya-semantic-modal',
+    install: {
+      packager: 'npm',
+    url: 'vue-ya-semantic-elements'
+    },
+    source: {
+      domain: 'github',
+      url: 'qgp9/vue-ya-semantic-modal',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vue-ya-semantic.netlify.com/#/modal'
+    },
+    framework: 'Vue',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/qgp9/vue-ya-semantic-modal',
+    keywords: ['plugin', 'vue', 'vuejs', 'semantic-ui', 'component']
   }
 
 ];
