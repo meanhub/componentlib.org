@@ -4519,5 +4519,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.6.3',   
     details: 'https://github.com/rojobuffalo/formsy-material-ui',
     keywords: ['formsy','material']
+  },
+  {
+    id: 212,
+    name: 'react-input-enhancements',
+    install: {
+      packager: 'npm',
+      url: 'react-input-enhancements'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexkuz/react-input-enhancements'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alexkuz.github.io/react-input-enhancements/'
+    },
+    framework: 'React',
+    version: 'v1.0.0-beta2',   
+    details: 'https://github.com/rojobuffalo/alexkuz/react-input-enhancements',
+    keywords: ['input','enhancements']
   }
 ];
