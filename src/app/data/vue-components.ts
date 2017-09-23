@@ -989,6 +989,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-parallax',
     keywords: ['vuejs','vue','parallax','vue-component','component']
+  },
+  {
+    id: 44,
+    name: 'vue-parallaxy',
+    install: {
+      packager: 'npm',
+    url: 'vue-parallaxy'
+    },
+    source: {
+      domain: 'github',
+      url: 'apertureless/vue-parallax',
+    stars: 133
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://apertureless.github.io/vue-parallax/'
+  },
+    framework: 'Vue',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-parallax',
+    keywords: ['vue.js', 'Vue', 'parallax', 'scrolling', 'image effect']
   }
 
 ];
