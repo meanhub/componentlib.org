@@ -4961,5 +4961,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.6.0', 
     details: 'https://github.com/maslianok/react-resize-detector',
     keywords: ['grid','layout','resize','detector']
+  },
+  {
+    id: 235,
+    name: 'react-element-resize',
+    install: {
+      packager: 'npm',
+      url: 'react-element-resize'
+    },
+    source: {
+      domain: 'github',
+      url: 'nkbt/react-works/tree/master/packages/element-resize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nkbt.github.io/react-element-resize/'
+    },
+    framework: 'React',
+    version: '0.2.1', 
+    details: 'https://github.com/nkbt/react-works/tree/master/packages/element-resize',
+    keywords: ['grid','layout','resize']
   }
 ];
