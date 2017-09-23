@@ -4559,5 +4559,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.0.0',   
     details: 'https://github.com/rojobuffalo/jquense/react-widgets',
     keywords: ['widgets']
+  },
+  {
+    id: 214,
+    name: 'react-designer',
+    install: {
+      packager: 'npm',
+      url: 'react-designer'
+    },
+    source: {
+      domain: 'github',
+      url: 'fatiherikli/react-designer'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fatiherikli.github.io/react-designer/#examples'
+    },
+    framework: 'React',
+    version: '1.0.8',   
+    details: 'https://github.com/fatiherikli/react-designer',
+    keywords: ['designer']
   }
 ];
