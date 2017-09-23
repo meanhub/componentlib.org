@@ -4841,5 +4841,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.1.3', 
     details: 'https://github.com/stayradiated/reactwm',
     keywords: ['layout']
+  },
+  {
+    id: 229,
+    name: 'react-stack-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-stack-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'tsuyoshiwada/react-stack-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tsuyoshiwada.github.io/react-stack-grid/#/'
+    },
+    framework: 'React',
+    version: '0.5.0', 
+    details: 'https://github.com/tsuyoshiwada/react-stack-grid',
+    keywords: ['grid']
   }
 ];
