@@ -5963,5 +5963,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.19.2', 
     details: 'https://github.com/callemall/material-ui',
     keywords: ['material']
+  },
+  {
+    id: 285,
+    name: 'react-essence',
+    install: {
+      packager: 'npm',
+      url: 'react-essence'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Evo-Forge/Essence'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://getessence.io/'
+    },
+    framework: 'React',
+    version: '1.0.10', 
+    details: 'https://github.com/Evo-Forge/Essence',
+    keywords: ['essence']
   }
 ];
