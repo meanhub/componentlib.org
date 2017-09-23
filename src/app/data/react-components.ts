@@ -6143,5 +6143,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '7.1.0', 
     details: 'https://github.com/brigade/react-waypoint',
     keywords: ['waypoint']
+  },
+  {
+    id: 294,
+    name: 'react-visibility-sensor',
+    install: {
+      packager: 'npm',
+      url: 'react-visibility-sensor'  
+    },
+    source: {
+      domain: 'github',
+      url: 'joshwnj/react-visibility-sensor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://joshwnj.github.io/react-visibility-sensor/'
+    },
+    framework: 'React',
+    version: '3.10.1', 
+    details: 'https://github.com/joshwnj/react-visibility-sensor',
+    keywords: ['visibility','sensor']
   }
 ];
