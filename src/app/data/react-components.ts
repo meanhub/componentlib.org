@@ -4739,6 +4739,26 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.1.5', 
     details: 'https://github.com/roylee0704/react-flexbox-grid',
-    keywords: ['masonry']
+    keywords: ['grid']
+  },
+  {
+    id: 223,
+    name: 'react-stonecutter',
+    install: {
+      packager: 'npm',
+      url: 'react-stonecutter'
+    },
+    source: {
+      domain: 'github',
+      url: 'dantrain/react-stonecutter'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://dantrain.github.io/react-stonecutter/'
+    },
+    framework: 'React',
+    version: '0.3.7', 
+    details: 'https://github.com/dantrain/react-stonecutter',
+    keywords: ['stonecutter']
   }
 ];
