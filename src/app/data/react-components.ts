@@ -4339,5 +4339,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.2.2',   
     details: 'https://github.com/JedWatson/react-md-editor',
     keywords: ['editor']
+  },
+  {
+    id: 203,
+    name: 'react-markdown-editor',
+    install: {
+      packager: 'npm',
+      url: 'react-markdown-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'jrm2k6/react-markdown-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.jeremydagorn.com/react-markdown-editor/'
+    },
+    framework: 'React',
+    version: '0.6.2',   
+    details: 'https://github.com/jrm2k6/react-markdown-editor',
+    keywords: ['editor']
   }
 ];
