@@ -4378,6 +4378,26 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.1.3',   
     details: 'https://github.com/DropsOfSerenity/react-avatar-cropper',
-    keywords: ['editor']
+    keywords: ['cropper','avatar']
+  },
+  {
+    id: 205,
+    name: 'react-avatar-editor',
+    install: {
+      packager: 'npm',
+      url: 'react-avatar-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'mosch/react-avatar-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-avatar-editor.netlify.com/'
+    },
+    framework: 'React',
+    version: '10.2.1',   
+    details: 'https://github.com/mosch/react-avatar-editor',
+    keywords: ['cropper','avatar']
   }
 ];
