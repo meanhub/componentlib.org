@@ -787,6 +787,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/crowdbotics/v-img',
     keywords: ['vue', 'images', 'photoswipe', 'preview']
+  },
+  {
+    id: 35,
+    name: 'vue-dialog-drag',
+    install: {
+      packager: 'npm',
+    url: 'vue-dialog-drag'
+    },
+    source: {
+      domain: 'github',
+      url: 'emiliorizzo/vue-dialog-drag',
+    stars: 19
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://emiliorizzo.github.io/vue-dialog-drag/'
+    },
+    framework: 'Vue',
+    version: '0.1.18',
+    license: 'MIT',
+    details: 'https://github.com/emiliorizzo/vue-dialog-drag',
+    keywords: ['vue', 'drag-and-drop', 'modal', 'custom', 'dialog','modal-dialog']
   }
 
 ];
