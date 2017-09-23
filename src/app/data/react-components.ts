@@ -6043,5 +6043,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.7.3', 
     details: 'https://github.com/touchstonejs/touchstonejs',
     keywords: ['ionic']
+  },
+  {
+    id: 289,
+    name: 'ant-design-mobile',
+    install: {
+      packager: 'npm',
+      url: 'ant-design-mobile'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ant-design/ant-design-mobile'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mobile.ant.design/'
+    },
+    framework: 'React',
+    version: '2.0.0-beta.2', 
+    details: 'https://github.com/ant-design/ant-design-mobile',
+    keywords: ['ionic','mobile']
   }
 ];
