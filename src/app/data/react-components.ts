@@ -5001,5 +5001,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.2', 
     details: 'https://github.com/martinnov92/React-Splitters',
     keywords: ['splitters']
+  },
+  {
+    id: 237,
+    name: 'react-tween-state',
+    install: {
+      packager: 'npm',
+      url: 'react-tween-state'
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/react-tween-state'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rawgit.com/chenglou/react-tween-state/master/examples/index.html'
+    },
+    framework: 'React',
+    version: '0.1.5', 
+    details: 'https://github.com/chenglou/react-tween-state',
+    keywords: ['tween']
   }
 ];
