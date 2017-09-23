@@ -4499,5 +4499,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.10.1',   
     details: 'https://github.com/twisty/formsy-react-components',
     keywords: ['formsy']
+  },
+  {
+    id: 211,
+    name: 'formsy-material-ui',
+    install: {
+      packager: 'npm',
+      url: 'formsy-material-ui'
+    },
+    source: {
+      domain: 'github',
+      url: 'rojobuffalo/formsy-material-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://redux-form.com/6.1.1/examples/simple/'
+    },
+    framework: 'React',
+    version: '0.6.3',   
+    details: 'https://github.com/rojobuffalo/formsy-material-ui',
+    keywords: ['formsy','material']
   }
 ];
