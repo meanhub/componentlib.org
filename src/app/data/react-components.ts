@@ -5983,5 +5983,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.10', 
     details: 'https://github.com/Evo-Forge/Essence',
     keywords: ['essence']
+  },
+  {
+    id: 286,
+    name: 'monaca',
+    install: {
+      packager: 'npm',
+      url: 'monaca'  
+    },
+    source: {
+      domain: 'github',
+      url: 'OnsenUI/OnsenUI'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://frandiox.github.io/OnsenUI-YouTube/'
+    },
+    framework: 'React',
+    version: '2.6.0', 
+    details: 'https://github.com/OnsenUI/OnsenUI',
+    keywords: ['OnsenUI']
   }
 ];
