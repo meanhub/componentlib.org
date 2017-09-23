@@ -1557,6 +1557,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/emiliorizzo/vue-d3-network',
     keywords: ['vue', 'vuejs', 'd3', 'network', 'd3-force', 'graph', 'component']
+  },
+  {
+    id: 69,
+    name: 'vue2vis',
+    install: {
+      packager: 'npm',
+      url: 'vue2vis'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexcode/vue2vis',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/alexkodo/ejdut8fm/show/'
+  },
+    framework: 'Vue',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'https://github.com/alexcode/vue2vis',
+    keywords: ['vue', 'vuejs', 'vis', 'visjs']
   }
 
 ];
