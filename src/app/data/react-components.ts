@@ -5681,7 +5681,27 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.4', 
-    details: 'http://otissv.github.io/jxnblk/rebass',
+    details: 'https://github.com/jxnblk/rebass',
     keywords: ['rebass']
+  },
+  {
+    id: 271,
+    name: 'react-foundation-apps',
+    install: {
+      packager: 'npm',
+      url: 'react-foundation-apps'  
+    },
+    source: {
+      domain: 'github',
+      url: 'akiran/react-foundation-apps'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://webrafter.com/opensource/react-foundation-apps'
+    },
+    framework: 'React',
+    version: '1.1.0', 
+    details: 'https://github.com/akiran/react-foundation-apps',
+    keywords: ['foundation']
   }
 ];
