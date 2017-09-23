@@ -5101,5 +5101,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.0.2', 
     details: 'https://github.com/therewillbecode/react-poker',
     keywords: ['poker']
+  },
+  {
+    id: 242,
+    name: 'react-router-transition',
+    install: {
+      packager: 'npm',
+      url: 'react-router-transition'
+    },
+    source: {
+      domain: 'github',
+      url: 'maisano/react-router-transition'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://maisano.github.io/react-router-transition/'
+    },
+    framework: 'React',
+    version: '1.0.1', 
+    details: 'https://github.com/maisano/react-router-transition',
+    keywords: ['transition','router']
   }
 ];
