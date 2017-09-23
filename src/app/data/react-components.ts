@@ -6223,5 +6223,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.0-alpha1', 
     details: 'https://github.com/digidem/react-dimensions',
     keywords: ['dimensions']
+  },
+  {
+    id: 298,
+    name: 'react-component-queries',
+    install: {
+      packager: 'npm',
+      url: 'react-component-queries'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ctrlplusb/react-component-queries'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-component-queries-demo-aowygvryob.now.sh/'
+    },
+    framework: 'React',
+    version: '2.2.0', 
+    details: 'https://github.com/ctrlplusb/react-component-queries',
+    keywords: ['queries']
   }
 ];
