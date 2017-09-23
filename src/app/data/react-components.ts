@@ -5219,7 +5219,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.5', 
-    details: 'janpaepke/ScrollMagic',
+    details: 'https://github.com/janpaepke/ScrollMagic',
     keywords: ['scroll']
   },
   {
@@ -5239,7 +5239,47 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.3.3', 
-    details: 'twitter-fabric/velocity-react',
+    details: 'https://github.com/twitter-fabric/velocity-react',
     keywords: ['velocity']
+  },
+  {
+    id: 249,
+    name: 'react-track',
+    install: {
+      packager: 'npm',
+      url: 'react-track'
+    },
+    source: {
+      domain: 'github',
+      url: 'gilbox/react-track'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://gilbox.github.io/react-track/examples/demo/demo.html'
+    },
+    framework: 'React',
+    version: '0.4.3', 
+    details: 'https://github.com/gilbox/react-track',
+    keywords: ['track']
+  },
+  {
+    id: 250,
+    name: 'rc-animate',
+    install: {
+      packager: 'npm',
+      url: 'rc-animate'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-component/animate'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://react-component.github.io/animate/'
+    },
+    framework: 'React',
+    version: '2.4.1', 
+    details: 'https://github.com/react-component/animate,
+    keywords: ['animate']
   }
 ];
