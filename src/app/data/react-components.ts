@@ -4634,7 +4634,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://www.hearsay.me/'
+      src: 'http://hearsay-frontend.herokuapp.com/'
     },
     framework: 'React',
     version: '2.1.0',   
@@ -4700,5 +4700,45 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.15.2',   
     details: 'https://github.com/STRML/react-grid-layout',
     keywords: ['layout','grid']
+  },
+  {
+    id: 221,
+    name: 'react-masonry-component',
+    install: {
+      packager: 'npm',
+      url: 'react-masonry-component'
+    },
+    source: {
+      domain: 'github',
+      url: 'eiriklv/react-masonry-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://hearsay-frontend.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '5.0.7',   
+    details: 'https://github.com/eiriklv/react-masonry-component',
+    keywords: ['masonry']
+  },
+  {
+    id: 222,
+    name: 'react-flexbox-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-flexbox-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'roylee0704/react-flexbox-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://roylee0704.github.io/react-flexbox-grid/'
+    },
+    framework: 'React',
+    version: '1.1.5', 
+    details: 'https://github.com/roylee0704/react-flexbox-grid',
+    keywords: ['masonry']
   }
 ];
