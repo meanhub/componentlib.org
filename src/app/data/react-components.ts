@@ -4981,5 +4981,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.2.1', 
     details: 'https://github.com/nkbt/react-works/tree/master/packages/element-resize',
     keywords: ['grid','layout','resize']
+  },
+  {
+    id: 236,
+    name: 'm-react-splitters',
+    install: {
+      packager: 'npm',
+      url: 'm-react-splitters'
+    },
+    source: {
+      domain: 'github',
+      url: 'martinnov92/React-Splitters'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://martinnov92.github.io/React-Splitters/'
+    },
+    framework: 'React',
+    version: '1.0.2', 
+    details: 'https://github.com/martinnov92/React-Splitters',
+    keywords: ['splitters']
   }
 ];
