@@ -5583,5 +5583,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.7.0', 
     details: 'https://github.com/elementalui/elemental',
     keywords: ['ui','layout','responsive']
+  },
+  {
+    id: 266,
+    name: 'react-ui',
+    install: {
+      packager: 'npm',
+      url: 'rctui'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Lobos/react-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://elemental-ui.com/'
+    },
+    framework: 'React',
+    version: '0.7.0', 
+    details: 'https://github.com/Lobos/react-ui',
+    keywords: ['ui','layout','responsive']
   }
 ];
