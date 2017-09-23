@@ -5603,5 +5603,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.7.0', 
     details: 'https://github.com/Lobos/react-ui',
     keywords: ['ui','layout','responsive']
+  },
+  {
+    id: 267,
+    name: 'belle',
+    install: {
+      packager: 'npm',
+      url: 'belle'  
+    },
+    source: {
+      domain: 'github',
+      url: 'nikgraf/belle'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nikgraf.github.io/belle/#/component/button?_k=r5qwte'
+    },
+    framework: 'React',
+    version: '3.0.2', 
+    details: 'http://nikgraf.github.io/belle/#/?_k=e9uvlc',
+    keywords: ['ui','layout','responsive']
   }
 ];
