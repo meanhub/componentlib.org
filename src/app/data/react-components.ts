@@ -4881,5 +4881,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.9', 
     details: 'https://github.com/leefsmp/Re-Flex',
     keywords: ['flex']
+  },
+  {
+    id: 231,
+    name: 'reflexbox',
+    install: {
+      packager: 'npm',
+      url: 'reflexbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'jxnblk/reflexbox'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jxnblk.com/reflexbox/'
+    },
+    framework: 'React',
+    version: '3.0.0-0', 
+    details: 'https://github.com/jxnblk/reflexbox',
+    keywords: ['flex']
   }
 ];
