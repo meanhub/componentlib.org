@@ -4439,5 +4439,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.1',   
     details: 'https://github.com/jerryshew/react-image-cropper',
     keywords: ['crop','image']
+  },
+  {
+    id: 208,
+    name: 'react-crop',
+    install: {
+      packager: 'npm',
+      url: 'react-crop'
+    },
+    source: {
+      domain: 'github',
+      url: 'instructure-react/react-crop'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://instructure-react.github.io/react-crop/'
+    },
+    framework: 'React',
+    version: '4.0.2',   
+    details: 'https://github.com/instructure-react/react-crop',
+    keywords: ['crop','image']
   }
 ];
