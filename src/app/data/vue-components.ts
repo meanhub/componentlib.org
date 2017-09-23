@@ -1217,6 +1217,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'LGPL-V3',
     details: 'https://github.com/lsycxyj/vue-l-carousel',
     keywords: ['vue','carsousel','swiper','vue-component','vue-slider','slider']
+  },
+  {
+    id: 54,
+    name: 'Vue-Awesome-Swiper',
+    install: {
+      packager: 'npm',
+    url: 'vue-awesome-swiper'
+    },
+    source: {
+      domain: 'github',
+      url: 'surmon-china/vue-awesome-swiper',
+    stars: 1607
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://surmon-china.github.io/vue-awesome-swiper/'
+  },
+    framework: 'Vue',
+    version: '2.6.4',
+    license: 'MIT',
+    details: 'https://github.com/lsycxyj/vue-l-carousel',
+    keywords: ['vue-awesome-swiper','vue awesome swiper','awesome-swiper','vue carrousel','vue swiper','vue slide','carrousel','swiper']
   }
 
 ];
