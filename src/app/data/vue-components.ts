@@ -518,6 +518,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/BosNaufal/vue2-loading-bar',
     keywords: ['vue', 'component','vue-js', 'vue2', 'loading-bar', 'youtube-loading-bar', 'vue2-loading-bar']
+  },
+  {
+    id: 23,
+    name: 'vue-top-progress',
+    install: {
+      packager: 'npm',
+    url: 'vue-top-progress'
+    },
+    source: {
+      domain: 'github',
+      url: 'dalphyx/vue-top-progress'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dalphyx.github.io/vue-top-progress/'
+    },
+    framework: 'Vue',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/dalphyx/vue-top-progress',
+    keywords: ['vue', 'vue.js', 'progress', 'loading', 'component', 'vue-component', 'progressbar', 'loadingbar']
   }
 
 ];
