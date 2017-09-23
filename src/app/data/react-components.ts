@@ -4579,5 +4579,26 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.8',   
     details: 'https://github.com/fatiherikli/react-designer',
     keywords: ['designer']
+  },
+  {
+    id: 215,
+    name: 'react-images-upload',
+    install: {
+      packager: 'npm',
+      url: 'react-images-upload'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-images-upload'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'hartzis',
+      id: 'pen/VvNGZP'
+    },
+    framework: 'React',
+    version: '1.1.1',   
+    details: 'https://github.com/react-images-upload',
+    keywords: ['images','upload']
   }
 ];
