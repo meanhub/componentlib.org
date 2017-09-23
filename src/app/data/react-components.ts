@@ -6083,5 +6083,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.1', 
     details: 'https://github.com/gabrielbull/react-desktop',
     keywords: ['desktop']
+  },
+  {
+    id: 291,
+    name: 'aframe-react',
+    install: {
+      packager: 'npm',
+      url: 'aframe-react'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ngokevin/aframe-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ngokevin.github.io/aframe-react-boilerplate/'
+    },
+    framework: 'React',
+    version: '4.3.0', 
+    details: 'https://github.com/ngokevin/aframe-react',
+    keywords: ['frame']
   }
 ];
