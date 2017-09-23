@@ -6123,5 +6123,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.3.1', 
     details: 'https://github.com/marmelab/admin-on-rest',
     keywords: ['admin']
+  },
+  {
+    id: 293,
+    name: 'react-waypoint',
+    install: {
+      packager: 'npm',
+      url: 'react-waypoint'  
+    },
+    source: {
+      domain: 'github',
+      url: 'brigade/react-waypoint'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://brigade.github.io/react-waypoint/'
+    },
+    framework: 'React',
+    version: '7.1.0', 
+    details: 'https://github.com/brigade/react-waypoint',
+    keywords: ['waypoint']
   }
 ];
