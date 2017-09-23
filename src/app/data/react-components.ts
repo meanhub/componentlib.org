@@ -5923,5 +5923,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.0-beta.11', 
     details: 'https://github.com/react-toolbox/react-toolbox',
     keywords: ['components','tools']
+  },
+  {
+    id: 283,
+    name: 'react-material',
+    install: {
+      packager: 'npm',
+      url: 'react-material'  
+    },
+    source: {
+      domain: 'github',
+      url: 'BerkeleyTrue/react-material'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://berkeleytrue.github.io/react-material/'
+    },
+    framework: 'React',
+    version: '0.3.2', 
+    details: 'https://github.com/BerkeleyTrue/react-material',
+    keywords: ['material']
   }
 ];
