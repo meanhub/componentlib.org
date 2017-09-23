@@ -1513,6 +1513,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/weizhenye/vue-highcharts',
     keywords: ['vue', 'highcharts', 'chart', 'plugin', 'component']
+  },
+  {
+    id: 67,
+    name: 'vue-bar',
+    install: {
+      packager: 'npm',
+      url: 'vuebars'
+    },
+    source: {
+      domain: 'github',
+      url: 'DeviaVir/vue-bar',
+    stars: 54
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/nyh18bLq/91/show/'
+  },
+    framework: 'Vue',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'https://github.com/DeviaVir/vue-bar',
+    keywords: ['vue', 'bars', 'svg', 'graph', 'data-visualization', 'component']
   }
 
 ];
