@@ -5181,5 +5181,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.0.4', 
     details: 'https://github.com/bishopZ/kabuki-motion',
     keywords: ['motion']
+  },
+  {
+    id: 246,
+    name: 'react-draggable-list',
+    install: {
+      packager: 'npm',
+      url: 'react-draggable-list'
+    },
+    source: {
+      domain: 'github',
+      url: 'StreakYC/react-draggable-list'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://streakyc.github.io/react-draggable-list/example/'
+    },
+    framework: 'React',
+    version: '3.4.0', 
+    details: 'https://github.com/StreakYC/react-draggable-list',
+    keywords: ['draggable','list']
   }
 ];
