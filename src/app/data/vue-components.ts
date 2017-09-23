@@ -1490,6 +1490,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/QingWei-Li/vue-trend',
     keywords: ['vue', 'trend', 'svg', 'graph', 'data-visualization', 'component']
+  },
+  {
+    id: 66,
+    name: 'vue-highcharts',
+    install: {
+      packager: 'npm',
+      url: 'vue-highcharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'weizhenye/vue-highcharts',
+    stars: 167
+    },
+    demo: {
+    repl: 'codepen',
+      user: 'weizhenye',
+      id: 'rrKgbP'
+  },
+    framework: 'Vue',
+    version: '0.0.10',
+    license: 'MIT',
+    details: 'https://github.com/weizhenye/vue-highcharts',
+    keywords: ['vue', 'highcharts', 'chart', 'plugin', 'component']
   }
 
 ];
