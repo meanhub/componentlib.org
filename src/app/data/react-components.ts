@@ -5623,5 +5623,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.0.2', 
     details: 'http://nikgraf.github.io/belle/#/?_k=e9uvlc',
     keywords: ['ui','layout','responsive']
+  },
+  {
+    id: 268,
+    name: 'react-uikit-components',
+    install: {
+      packager: 'npm',
+      url: 'react-uikit-components'  
+    },
+    source: {
+      domain: 'github',
+      url: 'otissv/react-uikit-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://otissv.github.io/react-uikit-components/docs.html#/grid?_k=yn7dm8'
+    },
+    framework: 'React',
+    version: '2.0.1', 
+    details: 'http://otissv.github.io/react-uikit-components/',
+    keywords: ['ui','layout','responsive']
   }
 ];
