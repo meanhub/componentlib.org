@@ -4821,5 +4821,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.5.9', 
     details: 'https://github.com/deepstreamIO/golden-layout',
     keywords: ['layout']
+  },
+  {
+    id: 228,
+    name: 'reactwm',
+    install: {
+      packager: 'npm',
+      url: 'reactwm'
+    },
+    source: {
+      domain: 'github',
+      url: 'stayradiated/reactwm'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://stayradiated.github.io/reactwm/'
+    },
+    framework: 'React',
+    version: '0.1.3', 
+    details: 'https://github.com/stayradiated/reactwm',
+    keywords: ['layout']
   }
 ];
