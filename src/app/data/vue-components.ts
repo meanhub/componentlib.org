@@ -1039,6 +1039,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Justineo/vue-awesome',
     keywords: ['Font Awesome', 'Vue.js']
+  },
+  {
+    id: 46,
+    name: 'vue-side-nav',
+    install: {
+      packager: 'npm',
+    url: 'vue-side-nav'
+    },
+    source: {
+      domain: 'github',
+      url: 'vue-comps/vue-side-nav',
+    stars: 42
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vue-comps.github.io/vue-side-nav/#/basic'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vue-comps/vue-side-nav',
+    keywords: ['side-nav', 'vue.js','vue']
   }
 
 ];
