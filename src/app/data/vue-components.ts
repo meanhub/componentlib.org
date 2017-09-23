@@ -1440,6 +1440,34 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hchstera/vue-charts',
     keywords: ['ChartJs','Chart.Js', 'Vue', 'Vuejs','laravel', 'chart', 'Charts']
+  },
+  {
+    id: 64,
+    name: 'vue-echarts',
+    install: [{
+      packager: 'npm',
+      url: 'vue-echarts'
+    }, {
+      packager: 'bower',
+      url: 'vue-echarts'
+    }, {
+      packager: 'download',
+      url: 'https://github.com/Justineo/vue-echarts/blob/master/dist/vue-echarts.js'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Justineo/vue-echarts',
+    stars: 941
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://justineo.github.io/vue-echarts/demo/'
+  },
+    framework: 'Vue',
+    version: '2.4.1',
+    license: 'MIT',
+    details: 'https://github.com/Justineo/vue-echarts',
+    keywords: ['ECharts','Vue', 'Vuejs']
   }
 
 ];
