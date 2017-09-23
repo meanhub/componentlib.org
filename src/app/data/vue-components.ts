@@ -1239,6 +1239,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/lsycxyj/vue-l-carousel',
     keywords: ['vue-awesome-swiper','vue awesome swiper','awesome-swiper','vue carrousel','vue swiper','vue slide','carrousel','swiper']
+  },
+  {
+    id: 55,
+    name: 'vue-slick',
+    install: [{
+      packager: 'npm',
+      url: 'vue-slick'
+    },{
+    packager: 'download',
+      url:'https://github.com/kenwheeler/slick/archive/1.8.0.zip'
+  }],
+    source: {
+      domain: 'github',
+      url: 'staskjs/vue-slick',
+    stars: 136
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://kenwheeler.github.io/slick/'
+  },
+    framework: 'Vue',
+    version: '1.1.10',
+    license: 'ISC',
+    details: 'https://github.com/staskjs/vue-slick',
+    keywords: ['vue','vue slide','carrousel','slick']
   }
 
 ];
