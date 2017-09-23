@@ -740,6 +740,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/pexea12/vue-image-lightbox',
     keywords: ['vue', 'vuejs', 'lightbox', 'gallery', 'image gallery', 'image lightbox']
+  },
+  {
+    id: 33,
+    name: 'vue2-simplert',
+    install: [{
+      packager: 'npm',
+    url: 'vue2-simplert'
+    },{
+      packager: 'download',
+      url: 'https://mazipan.github.io/vue2-simplert/'
+    }],
+    source: {
+      domain: 'github',
+      url: 'mazipan/vue2-simplert',
+    stars: 117
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mazipan.github.io/vue2-simplert/'
+    },
+    framework: 'Vue',
+    version: '0.5.5',
+    license: 'MIT',
+    details: 'https://github.com/mazipan/vue2-simplert',
+    keywords: ['vue2 alert','vue2 sweet alert','vue2 popup','vue alert','vue sweet alert','vue popup']
   }
 
 ];
