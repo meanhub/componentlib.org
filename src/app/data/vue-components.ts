@@ -964,6 +964,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/RobinCK/vue-gallery',
     keywords: ['vue-gallery','vuejs-gallery','vue','vuejs','gallery','images','pictures','carousel','slider','mobile','touch','vue-plugin','vue-component']
+  },
+  {
+    id: 43,
+    name: 'vue-parallax',
+    install: [{
+      packager: 'npm',
+    url: 'vue-parallax'
+    },{
+      packager: 'npm',
+    url: 'vue-parallax@1'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vue-comps/vue-parallax',
+    stars: 35
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vue-comps.github.io/vue-parallax/#/basic'
+  },
+    framework: 'Vue',
+    version: '2.1.3',
+    license: 'MIT',
+    details: 'https://github.com/vue-comps/vue-parallax',
+    keywords: ['vuejs','vue','parallax','vue-component','component']
   }
 
 ];
