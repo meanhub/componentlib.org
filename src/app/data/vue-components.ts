@@ -674,6 +674,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/javisperez/vuedals',
     keywords: ['vue','vuejs','vuedals','modal', 'modals', 'modal windows', 'plugin']
+  },
+  {
+    id: 30,
+    name: 'sweet-modal-vue',
+    install: {
+      packager: 'npm',
+    url: 'sweet-modal-vue'
+    },
+    source: {
+      domain: 'github',
+      url: 'adeptoas/sweet-modal-vue',
+    stars: 243
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://sweet-modal-vue.adepto.as'
+    },
+    framework: 'Vue',
+    version: '1.2.0',
+    license: 'GPL-2.0',
+    details: 'https://github.com/adeptoas/sweet-modal-vue',
+    keywords: ['vue','vuejs', 'sweetmodal', 'modal', 'library']
   }
 
 ];
