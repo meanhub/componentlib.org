@@ -5055,11 +5055,31 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'transitive-number'
+      src: 'http://lapple.github.io/react-transitive-number/'
     },
     framework: 'React',
     version: '3.0.1', 
     details: 'https://github.com/Lapple/react-transitive-number',
     keywords: ['transitive','number']
+  },
+  {
+    id: 240,
+    name: 'react-spark-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-spark-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'gilbox/react-spark-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://gilbox.github.io/react-spark-scroll/examples/demo/demo.html'
+    },
+    framework: 'React',
+    version: '4.0.0', 
+    details: 'https://github.com/gilbox/react-spark-scroll',
+    keywords: ['spark','scroll']
   }
 ];
