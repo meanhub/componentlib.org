@@ -4620,5 +4620,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.2.4',   
     details: 'https://github.com/jxnblk/rgx',
     keywords: ['grid']
+  },
+  {
+    id: 217,
+    name: 'react-flexbox-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-flexbox-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'roylee0704/react-flexbox-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://roylee0704.github.io/react-flexbox-grid/'
+    },
+    framework: 'React',
+    version: '1.1.5',   
+    details: 'https://github.com/roylee0704/react-flexbox-grid',
+    keywords: ['grid','flexbox']
   }
 ];
