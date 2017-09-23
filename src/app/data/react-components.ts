@@ -4801,5 +4801,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.11', 
     details: 'https://github.com/xudafeng/autoresponsive-react',
     keywords: ['autoresponsive']
+  },
+  {
+    id: 227,
+    name: 'golden-layout',
+    install: {
+      packager: 'npm',
+      url: 'golden-layout'
+    },
+    source: {
+      domain: 'github',
+      url: 'deepstreamIO/golden-layout'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://golden-layout.com/examples/'
+    },
+    framework: 'React',
+    version: '1.5.9', 
+    details: 'https://github.com/deepstreamIO/golden-layout',
+    keywords: ['layout']
   }
 ];
