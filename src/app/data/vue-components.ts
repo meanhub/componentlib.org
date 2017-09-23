@@ -58,7 +58,7 @@ export const VUE_COMPONENTS: any[] = [{
   },
   demo: {
       repl: 'custom',
-      src: 'https://jsfiddle.net/matfish2/823jzuzc/'
+      src: 'https://jsfiddle.net/matfish2/823jzuzc/show/'
   },
   framework: 'Vue',
   version: '0.6.73',
@@ -305,7 +305,7 @@ export const VUE_COMPONENTS: any[] = [{
     },
     demo: {
       repl: 'custom',
-      src: 'https://jsfiddle.net/z11fe07p/2248/'
+      src: 'https://jsfiddle.net/z11fe07p/2248/show'
     },
     framework: 'Vue',
     version: '0.2.0',
@@ -645,7 +645,7 @@ export const VUE_COMPONENTS: any[] = [{
     },
     demo: {
       repl: 'custom',
-      src: 'https://jsfiddle.net/Robin_ck/1espngy1/'
+      src: 'https://jsfiddle.net/Robin_ck/1espngy1/show'
     },
     framework: 'Vue',
     version: '1.1.6',
@@ -667,7 +667,7 @@ export const VUE_COMPONENTS: any[] = [{
     },
     demo: {
       repl: 'custom',
-      src: 'https://jsfiddle.net/ackqudv7/19/'
+      src: 'https://jsfiddle.net/ackqudv7/19/show'
     },
     framework: 'Vue',
     version: '1.6.2',
