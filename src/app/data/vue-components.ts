@@ -1418,6 +1418,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-chartjs',
     keywords: ['ChartJs', 'Vue', 'Visualisation', 'Wrapper', 'Charts']
+  },
+  {
+    id: 63,
+    name: 'vue-charts',
+    install: {
+      packager: 'npm',
+      url: 'hchs-vue-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'hchstera/vue-charts',
+    stars: 218
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vue-charts.hchspersonal.tk'
+  },
+    framework: 'Vue',
+    version: '1.2.8',
+    license: 'MIT',
+    details: 'https://github.com/hchstera/vue-charts',
+    keywords: ['ChartJs','Chart.Js', 'Vue', 'Vuejs','laravel', 'chart', 'Charts']
   }
 
 ];
