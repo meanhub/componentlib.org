@@ -4901,5 +4901,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.0.0-0', 
     details: 'https://github.com/jxnblk/reflexbox',
     keywords: ['flex']
+  },
+  {
+    id: 232,
+    name: 'hedron',
+    install: {
+      packager: 'npm',
+      url: 'hedron'
+    },
+    source: {
+      domain: 'github',
+      url: 'JSBros/hedron'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsbros.github.io/hedron/'
+    },
+    framework: 'React',
+    version: '0.7.1', 
+    details: 'https://github.com/JSBros/hedron',
+    keywords: ['grid']
   }
 ];
