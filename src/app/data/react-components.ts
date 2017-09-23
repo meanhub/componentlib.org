@@ -6263,5 +6263,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.3.5', 
     details: 'https://github.com/ctrlplusb/react-sizeme',
     keywords: ['size']
+  },
+  {
+    id: 300,
+    name: 'react-keydown',
+    install: {
+      packager: 'npm',
+      url: 'react-keydown'  
+    },
+    source: {
+      domain: 'github',
+      url: 'glortho/react-keydown'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://glortho.github.io/react-keydown/example/index.html'
+    },
+    framework: 'React',
+    version: '1.9.4', 
+    details: 'https://github.com/glortho/react-keydown',
+    keywords: ['keydown']
   }
 ];
