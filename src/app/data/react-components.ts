@@ -4398,6 +4398,26 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '10.2.1',   
     details: 'https://github.com/mosch/react-avatar-editor',
-    keywords: ['cropper','avatar']
+    keywords: ['editor','avatar']
+  },
+  {
+    id: 206,
+    name: 'react-image-crop-component',
+    install: {
+      packager: 'npm',
+      url: 'react-image-crop-component'
+    },
+    source: {
+      domain: 'github',
+      url: 'exelban/react-image-crop-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://exelban.github.io/react-image-crop-component/'
+    },
+    framework: 'React',
+    version: '0.2.4',   
+    details: 'https://github.com/exelban/react-image-crop-component',
+    keywords: ['crop','image']
   }
 ];
