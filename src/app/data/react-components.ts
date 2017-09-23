@@ -5763,5 +5763,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.8.0', 
     details: 'https://github.com/digiaonline/react-foundation',
     keywords: ['foundation']
+  },
+  {
+    id: 275,
+    name: 'react-semantic.ui-starter',
+    install: {
+      packager: 'npm',
+      url: 'react-semantic.ui-starter'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Semantic-Org/Semantic-UI-React'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react.semantic-ui.com/elements/container'
+    },
+    framework: 'React',
+    version: '0.73.1', 
+    details: 'https://github.com/Semantic-Org/Semantic-UI-React',
+    keywords: ['semantic','ui']
   }
 ];
