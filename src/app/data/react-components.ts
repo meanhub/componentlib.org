@@ -5483,7 +5483,7 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.0.11', 
     details: 'https://github.com/tkh44/data-driven-motion',
     keywords: ['motion','driven-motion']
-  }
+  },
   {
     id: 261,
     name: 'react-web-animation',
@@ -5501,7 +5501,27 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.0-development', 
-    details: 'https://github.com/tkh44/data-driven-motion',
-    keywords: ['motion','driven-motion']
+    details: 'https://github.com/bringking/react-web-animation',
+    keywords: ['animation']
+  },
+  {
+    id: 262,
+    name: 'react-atv-img',
+    install: {
+      packager: 'npm',
+      url: 'react-atv-img'  
+    },
+    source: {
+      domain: 'github',
+      url: 'keyanzhang/react-atv-img'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://keyanzhang.com/react-atv-img/'
+    },
+    framework: 'React',
+    version: '0.0.1', 
+    details: 'https://github.com/keyanzhang/react-atv-img',
+    keywords: ['image']
   }
 ];
