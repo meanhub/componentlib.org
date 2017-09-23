@@ -5302,5 +5302,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.0', 
     details: 'https://github.com/azazdeaz/react-gsap-enhancer',
     keywords: ['gsap','enhancer']
+  },
+  {
+    id: 252,
+    name: 'react-mt-svg-lines',
+    install: {
+      packager: 'npm',
+      url: 'react-mt-svg-lines'  
+    },
+    source: {
+      domain: 'github',
+      url: 'moarwick/react-mt-svg-lines'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://moarwick.github.io/react-mt-svg-lines/'
+    },
+    framework: 'React',
+    version: '0.8.0', 
+    details: 'https://github.com/moarwick/react-mt-svg-lines',
+    keywords: ['svg','lines']
   }
 ];
