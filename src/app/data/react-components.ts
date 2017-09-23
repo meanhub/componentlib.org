@@ -5823,5 +5823,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.13.3', 
     details: 'https://github.com/ant-design/ant-design',
     keywords: ['design','ui']
+  },
+  {
+    id: 278,
+    name: 'react-bootstrap',
+    install: {
+      packager: 'npm',
+      url: 'react-bootstrap'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-bootstrap/react-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-bootstrap.github.io/components.html'
+    },
+    framework: 'React',
+    version: '0.31.3', 
+    details: 'https://github.com/react-bootstrap/react-bootstrap',
+    keywords: ['bootstrap']
   }
 ];
