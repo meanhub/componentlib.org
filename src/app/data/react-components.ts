@@ -4459,5 +4459,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.0.2',   
     details: 'https://github.com/instructure-react/react-crop',
     keywords: ['crop','image']
+  },
+  {
+    id: 209,
+    name: 'react-cropperjs',
+    install: {
+      packager: 'npm',
+      url: 'react-cropperjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'TAPP-TV/react-cropperjs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://tapp-tv.github.io/react-cropperjs/example/'
+    },
+    framework: 'React',
+    version: '1.2.5',   
+    details: 'https://github.com/TAPP-TV/react-cropperjs',
+    keywords: ['crop','image']
   }
 ];
