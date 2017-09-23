@@ -5883,5 +5883,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.10.3', 
     details: 'https://github.com/react-mdl/react-mdl',
     keywords: ['components']
+  },
+  {
+    id: 281,
+    name: 'react-materialize',
+    install: {
+      packager: 'npm',
+      url: 'react-materialize'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-materialize/react-materialize'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react-materialize.github.io/#/breadcrumbs'
+    },
+    framework: 'React',
+    version: '1.0.14', 
+    details: 'https://github.com/react-materialize/react-materialize',
+    keywords: ['components']
   }
 ];
