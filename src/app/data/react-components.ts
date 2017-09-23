@@ -5703,5 +5703,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.0', 
     details: 'https://github.com/akiran/react-foundation-apps',
     keywords: ['foundation']
+  },
+  {
+    id: 272,
+    name: 'grommet',
+    install: {
+      packager: 'npm',
+      url: 'grommet'  
+    },
+    source: {
+      domain: 'github',
+      url: 'grommet/grommet'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://grommet.io/docs/showcase'
+    },
+    framework: 'React',
+    version: '1.7.0', 
+    details: 'https://github.com/grommet/grommet',
+    keywords: ['grommet']
   }
 ];
