@@ -5743,5 +5743,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.28.0', 
     details: 'https://github.com/palantir/blueprint',
     keywords: ['blueprint']
+  },
+  {
+    id: 274,
+    name: 'react-foundation',
+    install: {
+      packager: 'npm',
+      url: 'react-foundation'  
+    },
+    source: {
+      domain: 'github',
+      url: 'digiaonline/react-foundation'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://react.foundation/'
+    },
+    framework: 'React',
+    version: '0.8.0', 
+    details: 'https://github.com/digiaonline/react-foundation',
+    keywords: ['foundation']
   }
 ];
