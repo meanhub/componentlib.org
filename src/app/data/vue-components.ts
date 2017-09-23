@@ -627,6 +627,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hekigan/vue-directive-tooltip',
     keywords: ['vue','vuejs', 'tooltip', 'component','directive-tooltip']
+  },
+  {
+    id: 28,
+    name: 'vue-popperjs',
+    install: [{
+      packager: 'npm',
+    url: 'vue-popperjs'
+    },{
+      packager: 'bower',
+    url: 'vue-popperjs'
+    }],
+    source: {
+      domain: 'github',
+      url: 'RobinCK/vue-popper',
+    stars: 51
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/Robin_ck/1espngy1/'
+    },
+    framework: 'Vue',
+    version: '1.1.6',
+    license: 'MIT',
+    details: 'https://github.com/RobinCK/vue-popper',
+    keywords: ['vue','vuejs', 'vue-popper.js', 'vue-popover','vuejs-popper.js','vuejs-popover','vue-plugin','vue-component']
   }
 
 ];
