@@ -5943,5 +5943,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.2', 
     details: 'https://github.com/BerkeleyTrue/react-material',
     keywords: ['material']
+  },
+  {
+    id: 284,
+    name: 'material-ui',
+    install: {
+      packager: 'npm',
+      url: 'material-ui'  
+    },
+    source: {
+      domain: 'github',
+      url: 'callemall/material-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.material-ui.com/#/components/badge'
+    },
+    framework: 'React',
+    version: '0.19.2', 
+    details: 'https://github.com/callemall/material-ui',
+    keywords: ['material']
   }
 ];
