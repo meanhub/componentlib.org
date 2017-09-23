@@ -5803,5 +5803,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '8.3.3', 
     details: 'https://github.com/pivotal-cf/pivotal-ui',
     keywords: ['layout','ui']
+  },
+  {
+    id: 277,
+    name: 'ant-design',
+    install: {
+      packager: 'npm',
+      url: 'ant-design'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ant-design/ant-design'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ant.design/components/icon/'
+    },
+    framework: 'React',
+    version: '2.13.3', 
+    details: 'https://github.com/ant-design/ant-design',
+    keywords: ['design','ui']
   }
 ];
