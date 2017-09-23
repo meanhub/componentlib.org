@@ -1195,6 +1195,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/shhdgit/vue-easy-slider',
     keywords: ['vue','vuejs','vue.js','vue-component','vue-slider','slider']
+  },
+  {
+    id: 53,
+    name: 'vue-l-carousel',
+    install: {
+      packager: 'npm',
+    url: 'vue-l-carousel'
+    },
+    source: {
+      domain: 'github',
+      url: 'lsycxyj/vue-l-carousel',
+    stars: 20
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://cdn.rawgit.com/lsycxyj/vue-l-carousel/master/demo/index.html'
+  },
+    framework: 'Vue',
+    version: '1.0.1',
+    license: 'LGPL-V3',
+    details: 'https://github.com/lsycxyj/vue-l-carousel',
+    keywords: ['vue','carsousel','swiper','vue-component','vue-slider','slider']
   }
 
 ];
