@@ -561,6 +561,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/websmurf/vue-progress-button',
     keywords: ['vue', 'vue.js', 'progress', 'component', 'vue-component', 'progressbar', 'button']
+  },
+  {
+    id: 25,
+    name: 'v-tooltip',
+    install: {
+      packager: 'npm',
+    url: 'v-tooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'Akryum/v-tooltip',
+    stars: 203
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://akryum.github.io/v-tooltip/'
+    },
+    framework: 'Vue',
+    version: '2.0.0-beta.12',
+    license: 'ISC',
+    details: 'https://github.com/Akryum/v-tooltip',
+    keywords: ['vue', 'tooltip']
   }
 
 ];
