@@ -4781,5 +4781,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.4.0', 
     details: 'https://github.com/nachoaIvarez/flexbox-react',
     keywords: ['flexbox']
+  },
+  {
+    id: 226,
+    name: 'autoresponsive-react',
+    install: {
+      packager: 'npm',
+      url: 'autoresponsive-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'xudafeng/autoresponsive-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://xudafeng.github.io/autoresponsive-react/'
+    },
+    framework: 'React',
+    version: '1.1.11', 
+    details: 'https://github.com/xudafeng/autoresponsive-react',
+    keywords: ['autoresponsive']
   }
 ];
