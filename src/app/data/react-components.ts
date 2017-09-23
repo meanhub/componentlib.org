@@ -4539,5 +4539,25 @@ export const REACT_COMPONENTS: any[] = [
     version: 'v1.0.0-beta2',   
     details: 'https://github.com/rojobuffalo/alexkuz/react-input-enhancements',
     keywords: ['input','enhancements']
+  },
+  {
+    id: 213,
+    name: 'react-widgets',
+    install: {
+      packager: 'npm',
+      url: 'react-widgets'
+    },
+    source: {
+      domain: 'github',
+      url: 'jquense/react-widgets'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jquense.github.io/react-widgets/api/Calendar/'
+    },
+    framework: 'React',
+    version: '4.0.0',   
+    details: 'https://github.com/rojobuffalo/jquense/react-widgets',
+    keywords: ['widgets']
   }
 ];
