@@ -1061,6 +1061,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-side-nav',
     keywords: ['side-nav', 'vue.js','vue']
+  },
+  {
+    id: 47,
+    name: 'vue-accordion',
+    install: {
+      packager: 'npm',
+    url: 'vue-accordion'
+    },
+    source: {
+      domain: 'github',
+      url: 'zeratulmdq/vue-accordion',
+    stars: 63
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://zeratulmdq.github.io/vue-accordion/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/zeratulmdq/vue-accordion',
+    keywords: ['accordion', 'component','vue.js','vue']
   }
 
 ];
