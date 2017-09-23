@@ -5523,5 +5523,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.0.1', 
     details: 'https://github.com/keyanzhang/react-atv-img',
     keywords: ['image']
+  },
+  {
+    id: 263,
+    name: 'react-parallax-effect',
+    install: {
+      packager: 'npm',
+      url: 'react-parallax-effect'  
+    },
+    source: {
+      domain: 'github',
+      url: 'uismithing/react-parallax-effect'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.uismithing.com/main/parallax'
+    },
+    framework: 'React',
+    version: '1.0.4', 
+    details: 'https://github.com/uismithing/react-parallax-effect',
+    keywords: ['parallax','effect']
   }
 ];
