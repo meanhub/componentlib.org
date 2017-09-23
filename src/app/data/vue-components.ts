@@ -471,6 +471,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/sergeyloysha/vue-spinner-component',
     keywords: ['vue', 'vuex', 'plugin', 'loading', 'loader','spiner','custom','spin loader']
+  },
+  {
+    id: 21,
+    name: 'vue-progressbar',
+    install: {
+      packager: 'npm',
+      url: 'vue-progressbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'hilongjw/vue-progressbar',
+    stars: 477
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://hilongjw.github.io/vue-progressbar/index.html'
+    },
+    framework: 'Vue',
+    version: '0.7.3',
+    license: 'MIT',
+    details: 'https://github.com/hilongjw/vue-progressbar',
+    keywords: ['vue', 'vue-progressbar', 'vue loading progress', 'vue progressbar', 'progressbar']
   }
 
 ];
