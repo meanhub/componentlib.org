@@ -1105,6 +1105,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-popover',
     keywords: ['vue', 'dropdown', 'tooltip', 'popover', 'menu', 'button']
+  },
+  {
+    id: 49,
+    name: 'vue-quick-menu',
+    install: {
+      packager: 'npm',
+    url: 'vue-quick-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'AshleyLv/vue-quick-menu',
+    stars: 19
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://ashleylv.github.io/vue-quick-menu/index.html'
+  },
+    framework: 'Vue',
+    version: '1.0.6',
+    license: 'MIT',
+    details: 'https://github.com/AshleyLv/vue-quick-menu',
+    keywords: ['vue', 'menu', 'style', 'vue.js', 'button']
   }
 
 ];
