@@ -1127,6 +1127,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/AshleyLv/vue-quick-menu',
     keywords: ['vue', 'menu', 'style', 'vue.js', 'button']
+  },
+  {
+    id: 50,
+    name: 'vue-menu',
+    install: {
+      packager: 'npm',
+    url: '@hscmap/vue-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'michitaro/vue-menu',
+    stars: 16
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://michitaro.github.io/vue-menu/'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/michitaro/vue-menu',
+    keywords: ['vue', 'menu', 'Context Menu', 'vue.js', 'UI', 'TypeSript']
   }
 
 ];
