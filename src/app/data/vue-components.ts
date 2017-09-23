@@ -1011,6 +1011,34 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-parallax',
     keywords: ['vue.js', 'Vue', 'parallax', 'scrolling', 'image effect']
+  },
+  {
+    id: 45,
+    name: 'vue-awesome',
+    install: [{
+      packager: 'npm',
+    url: 'vue-awesome'
+    },{
+      packager: 'bower',
+      url: 'vue-awesome'
+    }, {
+      packager: 'download',
+      url: 'https://github.com/Justineo/vue-awesome/blob/master/dist/vue-awesome.js'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Justineo/vue-awesome',
+    stars: 786
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://justineo.github.io/vue-awesome/demo/'
+  },
+    framework: 'Vue',
+    version: '2.3.3',
+    license: 'MIT',
+    details: 'https://github.com/Justineo/vue-awesome',
+    keywords: ['Font Awesome', 'Vue.js']
   }
 
 ];
