@@ -4921,5 +4921,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.7.1', 
     details: 'https://github.com/JSBros/hedron',
     keywords: ['grid']
+  },
+  {
+    id: 233,
+    name: 'react-resize-layout',
+    install: {
+      packager: 'npm',
+      url: 'react-resize-layout'
+    },
+    source: {
+      domain: 'github',
+      url: 'bytefunc/react-resize-layout'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bytefunc.github.io/react-resize-layout/demo/'
+    },
+    framework: 'React',
+    version: '0.1.7', 
+    details: 'https://github.com/bytefunc/react-resize-layout',
+    keywords: ['grid','layout','resize']
   }
 ];
