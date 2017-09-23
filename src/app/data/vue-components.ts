@@ -1468,6 +1468,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Justineo/vue-echarts',
     keywords: ['ECharts','Vue', 'Vuejs']
+  },
+  {
+    id: 65,
+    name: 'vue-trend',
+    install: {
+      packager: 'npm',
+      url: 'vuetrend'
+    },
+    source: {
+      domain: 'github',
+      url: 'QingWei-Li/vue-trend',
+    stars: 423
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/nyh18bLq/show/'
+  },
+    framework: 'Vue',
+    version: '0.2.3',
+    license: 'MIT',
+    details: 'https://github.com/QingWei-Li/vue-trend',
+    keywords: ['vue', 'trend', 'svg', 'graph', 'data-visualization', 'component']
   }
 
 ];
