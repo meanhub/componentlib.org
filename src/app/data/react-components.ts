@@ -4861,5 +4861,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.5.0', 
     details: 'https://github.com/tsuyoshiwada/react-stack-grid',
     keywords: ['grid']
+  },
+  {
+    id: 230,
+    name: 'react-reflex',
+    install: {
+      packager: 'npm',
+      url: 'react-reflex'
+    },
+    source: {
+      domain: 'github',
+      url: 'leefsmp/Re-Flex'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://leefsmp.github.io/Re-Flex/index.html'
+    },
+    framework: 'React',
+    version: '2.0.9', 
+    details: 'https://github.com/leefsmp/Re-Flex',
+    keywords: ['flex']
   }
 ];
