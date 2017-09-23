@@ -6103,5 +6103,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '4.3.0', 
     details: 'https://github.com/ngokevin/aframe-react',
     keywords: ['frame']
+  },
+  {
+    id: 292,
+    name: 'admin-on-rest',
+    install: {
+      packager: 'npm',
+      url: 'admin-on-rest'  
+    },
+    source: {
+      domain: 'github',
+      url: 'marmelab/admin-on-rest'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://marmelab.com/admin-on-rest/Show.html'
+    },
+    framework: 'React',
+    version: '1.3.1', 
+    details: 'https://github.com/marmelab/admin-on-rest',
+    keywords: ['admin']
   }
 ];
