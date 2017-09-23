@@ -5322,5 +5322,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.8.0', 
     details: 'https://github.com/moarwick/react-mt-svg-lines',
     keywords: ['svg','lines']
+  },
+  {
+    id: 253,
+    name: 'react-flip-move',
+    install: {
+      packager: 'npm',
+      url: 'react-flip-move'  
+    },
+    source: {
+      domain: 'github',
+      url: 'joshwcomeau/react-flip-move'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://joshwcomeau.github.io/react-flip-move/examples/#/shuffle?_k=hf1udg'
+    },
+    framework: 'React',
+    version: '2.9.15, 
+    details: 'https://github.com/joshwcomeau/react-flip-move',
+    keywords: ['flip','move']
   }
 ];
