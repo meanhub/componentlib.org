@@ -6203,5 +6203,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.0.0', 
     details: 'https://github.com/nkbt/react-height',
     keywords: ['height']
+  },
+  {
+    id: 297,
+    name: 'react-dimensions',
+    install: {
+      packager: 'npm',
+      url: 'react-dimensions'  
+    },
+    source: {
+      domain: 'github',
+      url: 'digidem/react-dimensions'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://lab.digital-democracy.org/react-dimensions/'
+    },
+    framework: 'React',
+    version: '2.0.0-alpha1', 
+    details: 'https://github.com/digidem/react-dimensions',
+    keywords: ['dimensions']
   }
 ];
