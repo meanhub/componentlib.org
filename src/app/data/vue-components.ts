@@ -1173,6 +1173,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://gitlab.com/robcresswell/vue-material-design-icons',
     keywords: ['mdi','icons','material','icon','svg','vue','vuejs','vue.js','material design','material design icons','vue material design icons','flat icons']
+  },
+  {
+    id: 52,
+    name: 'vue-easy-slider',
+    install: {
+      packager: 'npm',
+    url: 'vue-easy-slider'
+    },
+    source: {
+      domain: 'github',
+      url: 'shhdgit/vue-easy-slider',
+    stars: 115
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/su9zv0w9/69/show/'
+  },
+    framework: 'Vue',
+    version: '3.1.2',
+    license: 'MIT',
+    details: 'https://github.com/shhdgit/vue-easy-slider',
+    keywords: ['vue','vuejs','vue.js','vue-component','vue-slider','slider']
   }
 
 ];
