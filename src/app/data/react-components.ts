@@ -4680,5 +4680,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '3.0.6',   
     details: 'https://github.com/rofrischmann/react-layout-components',
     keywords: ['layout']
+  },
+  {
+    id: 220,
+    name: 'react-grid-layout',
+    install: {
+      packager: 'npm',
+      url: 'react-grid-layout'
+    },
+    source: {
+      domain: 'github',
+      url: 'STRML/react-grid-layout'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://strml.github.io/react-grid-layout/examples/0-showcase.html'
+    },
+    framework: 'React',
+    version: '0.15.2',   
+    details: 'https://github.com/STRML/react-grid-layout',
+    keywords: ['layout','grid']
   }
 ];
