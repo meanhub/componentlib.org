@@ -5221,5 +5221,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '2.0.5', 
     details: 'janpaepke/ScrollMagic',
     keywords: ['scroll']
+  },
+  {
+    id: 248,
+    name: 'velocity-react',
+    install: {
+      packager: 'npm',
+      url: 'velocity-react'
+    },
+    source: {
+      domain: 'github',
+      url: 'twitter-fabric/velocity-react'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://twitter-fabric.github.io/velocity-react/'
+    },
+    framework: 'React',
+    version: '1.3.3', 
+    details: 'twitter-fabric/velocity-react',
+    keywords: ['velocity']
   }
 ];
