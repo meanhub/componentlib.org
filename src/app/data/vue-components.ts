@@ -696,6 +696,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'GPL-2.0',
     details: 'https://github.com/adeptoas/sweet-modal-vue',
     keywords: ['vue','vuejs', 'sweetmodal', 'modal', 'library']
+  },
+  {
+    id: 31,
+    name: 'vue-js-modal',
+    install: {
+      packager: 'npm',
+    url: 'vue-js-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'euvl/vue-js-modal',
+    stars: 469
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://vue-js-modal.yev.io'
+    },
+    framework: 'Vue',
+    version: '1.2.12',
+    license: 'MIT',
+    details: 'https://github.com/euvl/vue-js-modal',
+    keywords: ['vue','vuejs', 'vue-js-modal', 'modal']
   }
 
 ];
