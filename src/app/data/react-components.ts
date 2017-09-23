@@ -4600,5 +4600,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.1.1',   
     details: 'https://github.com/react-images-upload',
     keywords: ['images','upload']
+  },
+  {
+    id: 216,
+    name: 'rgx',
+    install: {
+      packager: 'npm',
+      url: 'rgx'
+    },
+    source: {
+      domain: 'github',
+      url: 'jxnblk/rgx'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jxnblk.com/rgx/'
+    },
+    framework: 'React',
+    version: '0.2.4',   
+    details: 'https://github.com/jxnblk/rgx',
+    keywords: ['grid']
   }
 ];
