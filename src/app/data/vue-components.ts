@@ -1149,6 +1149,30 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-menu',
     keywords: ['vue', 'menu', 'Context Menu', 'vue.js', 'UI', 'TypeSript']
+  },
+  {
+    id: 51,
+    name: 'vue-material-design-icons',
+    install: [{
+      packager: 'npm',
+    url: 'vue-material-design-icons'
+    },{
+      packager: 'yarn',
+    url: 'vue-material-design-icons'
+    }],
+    source: {
+      domain: 'gitlab',
+      url: 'robcresswell/vue-material-design-icons'
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://materialdesignicons.com'
+  },
+    framework: 'Vue',
+    version: '0.7.1',
+    license: 'MIT',
+    details: 'https://gitlab.com/robcresswell/vue-material-design-icons',
+    keywords: ['mdi','icons','material','icon','svg','vue','vuejs','vue.js','material design','material design icons','vue material design icons','flat icons']
   }
 
 ];
