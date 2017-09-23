@@ -1396,6 +1396,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/haydenbbickerton/vue-charts',
     keywords: ['vue', 'vuejs','data','charts']
+  },
+  {
+    id: 62,
+    name: 'vue-chartjs',
+    install: {
+      packager: 'npm',
+      url: 'vue-chartjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'apertureless/vue-chartjs',
+    stars: 1041
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://demo.vue-chartjs.org'
+  },
+    framework: 'Vue',
+    version: '2.8.7',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-chartjs',
+    keywords: ['ChartJs', 'Vue', 'Visualisation', 'Wrapper', 'Charts']
   }
 
 ];
