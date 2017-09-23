@@ -5021,5 +5021,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.1.5', 
     details: 'https://github.com/chenglou/react-tween-state',
     keywords: ['tween']
+  },
+  {
+    id: 238,
+    name: 'react-motion',
+    install: {
+      packager: 'npm',
+      url: 'react-motion'
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/react-motion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://chenglou.github.io/react-motion/demos/demo0-simple-transition/'
+    },
+    framework: 'React',
+    version: '0.5.1', 
+    details: 'https://github.com/chenglou/react-motion',
+    keywords: ['motion']
   }
 ];
