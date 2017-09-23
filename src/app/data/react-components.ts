@@ -5463,5 +5463,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.4.0-alpha.17', 
     details: 'https://github.com/clari/react-tween',
     keywords: ['tween']
+  },
+  {
+    id: 260,
+    name: 'data-driven-motion',
+    install: {
+      packager: 'npm',
+      url: 'data-driven-motion'  
+    },
+    source: {
+      domain: 'github',
+      url: 'tkh44/data-driven-motion'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://tkh44.github.io/data-driven-motion/#/demos'
+    },
+    framework: 'React',
+    version: '0.0.11', 
+    details: 'https://github.com/tkh44/data-driven-motion',
+    keywords: ['motion','driven-motion']
   }
 ];
