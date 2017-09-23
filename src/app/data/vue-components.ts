@@ -1264,6 +1264,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/staskjs/vue-slick',
     keywords: ['vue','vue slide','carrousel','slick']
+  },
+  {
+    id: 56,
+    name: 'vue-flickity',
+    install: {
+      packager: 'npm',
+      url: 'vue-flickity'
+    },
+    source: {
+      domain: 'github',
+      url: 'drewjbartlett/vue-flickity',
+    stars: 122
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://drewjbartlett.com/demos/vue-flickity/'
+  },
+    framework: 'Vue',
+    version: '1.0.8',
+    license: 'ISC',
+    details: 'https://github.com/drewjbartlett/vue-flickity',
+    keywords: ['vue','flickity', 'responsive','touch','carousel']
   }
 
 ];
