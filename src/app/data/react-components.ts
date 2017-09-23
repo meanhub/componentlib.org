@@ -5382,5 +5382,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '0.3.4, 
     details: 'https://github.com/hyperfuse/react-anime',
     keywords: ['animate']
+  },
+  {
+    id: 256,
+    name: 'animakit-rotator',
+    install: {
+      packager: 'npm',
+      url: 'animakit-rotator'  
+    },
+    source: {
+      domain: 'github',
+      url: 'animakit/animakit-rotator'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://animakit.github.io/#/'
+    },
+    framework: 'React',
+    version: '1.0.0, 
+    details: 'https://animakit.github.io/#/',
+    keywords: ['animate']
   }
 ];
