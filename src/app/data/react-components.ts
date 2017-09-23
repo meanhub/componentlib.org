@@ -4479,5 +4479,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.2.5',   
     details: 'https://github.com/TAPP-TV/react-cropperjs',
     keywords: ['crop','image']
+  },
+  {
+    id: 210,
+    name: 'formsy-react',
+    install: {
+      packager: 'npm',
+      url: 'formsy-react@beta'
+    },
+    source: {
+      domain: 'github',
+      url: 'twisty/formsy-react-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://twisty.github.io/formsy-react-components/playground/'
+    },
+    framework: 'React',
+    version: '0.10.1',   
+    details: 'https://github.com/twisty/formsy-react-components',
+    keywords: ['formsy']
   }
 ];
