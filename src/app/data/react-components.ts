@@ -5543,5 +5543,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.0.4', 
     details: 'https://github.com/uismithing/react-parallax-effect',
     keywords: ['parallax','effect']
+  },
+  {
+    id: 264,
+    name: 'react-parallax',
+    install: {
+      packager: 'npm',
+      url: 'react-parallax'  
+    },
+    source: {
+      domain: 'github',
+      url: 'RRutsche/react-parallax'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://rrutsche.github.io/#parallax'
+    },
+    framework: 'React',
+    version: '1.4.4', 
+    details: 'https://github.com/RRutsche/react-parallax',
+    keywords: ['parallax','effect']
   }
 ];
