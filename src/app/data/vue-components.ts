@@ -942,6 +942,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-window',
     keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'Window', 'UI', 'TypeSript', 'Vuejs']
+  },
+  {
+    id: 42,
+    name: 'vue-gallery',
+    install: {
+      packager: 'npm',
+    url: 'vue-gallery'
+    },
+    source: {
+      domain: 'github',
+      url: 'RobinCK/vue-gallery',
+    stars: 25
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://fiddle.jshell.net/Robin_ck/LffrLb2k/show/light/'
+  },
+    framework: 'Vue',
+    version: '1.1.5',
+    license: 'MIT',
+    details: 'https://github.com/RobinCK/vue-gallery',
+    keywords: ['vue-gallery','vuejs-gallery','vue','vuejs','gallery','images','pictures','carousel','slider','mobile','touch','vue-plugin','vue-component']
   }
 
 ];
