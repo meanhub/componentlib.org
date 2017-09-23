@@ -4659,6 +4659,26 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.5.3',   
     details: 'https://github.com/broucz/react-inline-grid',
-    keywords: ['mixin']
+    keywords: ['grid']
+  },
+  {
+    id: 219,
+    name: 'react-layout-components',
+    install: {
+      packager: 'npm',
+      url: 'react-layout-components'
+    },
+    source: {
+      domain: 'github',
+      url: 'rofrischmann/react-layout-components'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.episodeyang.com/layout-components/'
+    },
+    framework: 'React',
+    version: '3.0.6',   
+    details: 'https://github.com/rofrischmann/react-layout-components',
+    keywords: ['layout']
   }
 ];
