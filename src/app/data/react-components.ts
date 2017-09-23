@@ -5563,5 +5563,25 @@ export const REACT_COMPONENTS: any[] = [
     version: '1.4.4', 
     details: 'https://github.com/RRutsche/react-parallax',
     keywords: ['parallax','effect']
+  },
+  {
+    id: 265,
+    name: 'elemental',
+    install: {
+      packager: 'npm',
+      url: 'elemental'  
+    },
+    source: {
+      domain: 'github',
+      url: 'elementalui/elemental'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://elemental-ui.com/'
+    },
+    framework: 'React',
+    version: '0.7.0', 
+    details: 'https://github.com/elementalui/elemental',
+    keywords: ['ui','layout','responsive']
   }
 ];
