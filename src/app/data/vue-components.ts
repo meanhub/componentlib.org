@@ -1330,6 +1330,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/SSENSE/vue-carousel',
     keywords: ['vue', 'responsive','slider','carousel']
+  },
+  {
+    id: 59,
+    name: 'vue-coverflow',
+    install: {
+      packager: 'npm',
+      url: 'vue-coverflow'
+    },
+    source: {
+      domain: 'github',
+      url: 'OrangeXC/vue-coverflow',
+    stars: 30
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://orangex_c.coding.me/vue-coverflow-website/'
+  },
+    framework: 'Vue',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/OrangeXC/vue-coverflow',
+    keywords: ['vue', 'coverflow','vue-coverflow','vue coverflow']
   }
 
 ];
