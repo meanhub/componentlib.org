@@ -1648,6 +1648,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Wanderxx/vue-fullcalendar',
     keywords: ['vue', 'fullcalendar']
+  },
+  {
+    id: 73,
+    name: 'vue-event-calendar',
+    install: {
+      packager: 'npm',
+      url: 'vue-event-calenda'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'GeoffZhu/vue-event-calendar',
+    stars: 160
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://geoffzhu.cn/vue-event-calendar/'
+  },
+    framework: 'Vue',
+    version: '1.4.11',
+    license: '',
+    details: 'https://github.com/GeoffZhu/vue-event-calendar',
+    keywords: ['vue', 'eventcalendar', 'vue-event-calendar']
   }
 
 ];
