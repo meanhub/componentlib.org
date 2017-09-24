@@ -6738,5 +6738,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://fluxxor.com/',
     keywords: ['flux']
+  },
+  {
+    id: 318,
+    name: 'fluxible',
+    install: {
+      packager: 'npm',
+      url: 'fluxible'  
+    },
+    source: {
+      domain: 'github',
+      url: 'yahoo/fluxible'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fluxible.io/quick-start.html'
+    },
+    framework: 'React',
+    version: '7.0.0',
+    license: 'MIT',
+    details: 'http://fluxible.io',
+    keywords: ['flux']
   }
 ];
