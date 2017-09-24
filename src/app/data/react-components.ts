@@ -7139,5 +7139,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/cerebral-legacy/cerebral-module-router',
     keywords: ['router','cerebral']
+  },
+  {
+    id: 337,
+    name: 'react-resolver',
+    install: {
+      packager: 'npm',
+      url: 'react-resolver'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ericclemmons/react-resolver'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://ericclemmons.com/react-resolver/'
+    },
+    framework: 'React',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'http://ericclemmons.com/react-resolver/',
+    keywords: ['resolver']
   }
 ];
