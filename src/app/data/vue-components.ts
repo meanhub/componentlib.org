@@ -1780,6 +1780,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/voluntadpear/vue-choropleth',
     keywords: ['vue', 'baidu-map', 'bmap', 'vue-baidu-map', 'baidu','map']
+  },
+  {
+    id: 79,
+    name: 'vuelayers',
+    install: {
+      packager: 'npm',
+      url: 'vuelayers'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ghettovoice/vuelayers',
+    stars: 20
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vuelayers.github.io/#/demo'
+  },
+    framework: 'Vue',
+    version: '0.7.1',
+    license: 'MIT',
+    details: 'https://vuelayers.github.io/#/',
+    keywords: ['vuelayers', 'vue', 'vuejs', 'vue2', 'vuejs2', 'vue plugins', 'vue components', 'openlayers', 'ol', 'maps', 'mapping']
   }
 
 ];
