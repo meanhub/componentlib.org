@@ -6423,5 +6423,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/avocode/react-shortcuts,
     keywords: ['shortcuts']
+  },
+  {
+    id: 303,
+    name: 'react-key-handler',
+    install: {
+      packager: 'npm',
+      url: 'react-key-handler'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ayrton/react-key-handler'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ayrton.be/react-key-handler/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/ayrton/react-key-handler,
+    keywords: ['key','handler']
   }
 ];
