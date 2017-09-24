@@ -7286,5 +7286,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://wix.github.io/react-templates/',
     keywords: ['templates']
+  },
+  {
+    id: 344,
+    name: 'react-server',
+    install: {
+      packager: 'npm',
+      url: 'react-server'  
+    },
+    source: {
+      domain: 'github',
+      url: 'redfin/react-server'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://react-server.io/'
+    },
+    framework: 'React',
+    version: '0.6.1',
+    license: 'MIT',
+    details: 'https://react-server.io/',
+    keywords: ['server']
+  },
+  {
+    id: 345,
+    name: 'rill',
+    install: {
+      packager: 'npm',
+      url: 'rill'  
+    },
+    source: {
+      domain: 'github',
+      url: 'rill-js/rill'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://rill.site/#top'
+    },
+    framework: 'React',
+    version: '5.0.15',
+    license: 'MIT',
+    details: 'https://rill.site/#top',
+    keywords: ['server']
   }
 ];
