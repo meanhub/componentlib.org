@@ -7265,5 +7265,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.styled-components.com/',
     keywords: ['components','style']
+  },
+  {
+    id: 343,
+    name: 'react-templates',
+    install: {
+      packager: 'npm',
+      url: 'react-templates'  
+    },
+    source: {
+      domain: 'github',
+      url: 'wix/react-templates'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://wix.github.io/react-templates/'
+    },
+    framework: 'React',
+    version: '0.6.1',
+    license: 'MIT',
+    details: 'https://wix.github.io/react-templates/',
+    keywords: ['templates']
   }
 ];
