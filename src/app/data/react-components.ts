@@ -7055,5 +7055,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://reacttraining.com/react-router/',
     keywords: ['router']
+  },
+  {
+    id: 333,
+    name: 'react-router-component',
+    install: {
+      packager: 'npm',
+      url: 'react-router-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'STRML/react-router-component'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://strml.viewdocs.io/react-router-component/'
+    },
+    framework: 'React',
+    version: '0.38.0',
+    license: 'MIT',
+    details: 'http://strml.viewdocs.io/react-router-component/',
+    keywords: ['router','component']
   }
 ];
