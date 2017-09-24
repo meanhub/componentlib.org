@@ -1758,6 +1758,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://dafrok.github.io/vue-baidu-map/#/',
     keywords: ['vue', 'baidu-map', 'bmap', 'vue-baidu-map', 'baidu','map']
+  },
+  {
+    id: 78,
+    name: 'vue-choropleth',
+    install: {
+      packager: 'npm',
+      url: 'vue-choropleth'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'voluntadpear/vue-choropleth',
+    stars: 17
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://educacionporgeneros.herokuapp.com/index.html'
+  },
+    framework: 'Vue',
+    version: '0.0.4',
+    license: 'MIT',
+    details: 'https://github.com/voluntadpear/vue-choropleth',
+    keywords: ['vue', 'baidu-map', 'bmap', 'vue-baidu-map', 'baidu','map']
   }
 
 ];
