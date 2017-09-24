@@ -1626,6 +1626,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/sagarkbhatt/vuejs-countdown-timer',
     keywords: ['vue2', 'timer', 'timezone', 'countdown']
+  },
+  {
+    id: 72,
+    name: 'vue-fullcalendar',
+    install: {
+      packager: 'npm',
+      url: 'vue-fullcalendar'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'Wanderxx/vue-fullcalendar',
+    stars: 429
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://wanderxx.github.io/vue-fullcalendar/'
+  },
+    framework: 'Vue',
+    version: '1.0.9',
+    license: 'MIT',
+    details: 'https://github.com/Wanderxx/vue-fullcalendar',
+    keywords: ['vue', 'fullcalendar']
   }
 
 ];
