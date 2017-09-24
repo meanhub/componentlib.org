@@ -1736,6 +1736,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/xkjyeah/vue-google-maps/blob/vue2/API.md',
     keywords: ['google-maps', 'map', 'vue','google']
+  },
+  {
+    id: 77,
+    name: 'vue-baidu-map',
+    install: {
+      packager: 'npm',
+      url: 'vue-baidu-map'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'Dafrok/vue-baidu-map',
+    stars: 323
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://dafrok.github.io/vue-baidu-map/#/en/map/bm-view'
+  },
+    framework: 'Vue',
+    version: '0.16.1',
+    license: 'MIT',
+    details: 'https://dafrok.github.io/vue-baidu-map/#/',
+    keywords: ['vue', 'baidu-map', 'bmap', 'vue-baidu-map', 'baidu','map']
   }
 
 ];
