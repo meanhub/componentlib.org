@@ -4296,7 +4296,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://alloyeditor.com/'
     },
     framework: 'React',
-    version: '1.4.1',   
+    version: '1.4.1',
+    license: 'MIT',   
     details: 'https://github.com/liferay/alloy-editor',
     keywords: ['editor']
   },
@@ -4316,7 +4317,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://jpuri.github.io/react-draft-wysiwyg/#/'
     },
     framework: 'React',
-    version: '1.10.11',   
+    version: '1.10.11',  
+    license: 'MIT', 
     details: 'https://github.com/jpuri/react-draft-wysiwyg',
     keywords: ['editor']
   },
@@ -4357,6 +4359,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.6.2',   
+    license: 'MIT',
     details: 'https://github.com/jrm2k6/react-markdown-editor',
     keywords: ['editor']
   },
@@ -4397,6 +4400,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '10.2.1',   
+    license: 'MIT',
     details: 'https://github.com/mosch/react-avatar-editor',
     keywords: ['editor','avatar']
   },
@@ -4416,7 +4420,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://exelban.github.io/react-image-crop-component/'
     },
     framework: 'React',
-    version: '0.2.4',   
+    version: '0.2.4',
+    license: 'MIT',   
     details: 'https://github.com/exelban/react-image-crop-component',
     keywords: ['crop','image']
   },
@@ -4436,7 +4441,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://exelban.github.io/react-image-crop-component/'
     },
     framework: 'React',
-    version: '1.1.1',   
+    version: '1.1.1',
+    license: 'MIT',   
     details: 'https://github.com/jerryshew/react-image-cropper',
     keywords: ['crop','image']
   },
@@ -4457,6 +4463,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.0.2',   
+    license: 'MIT',
     details: 'https://github.com/instructure-react/react-crop',
     keywords: ['crop','image']
   },
@@ -4476,7 +4483,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://tapp-tv.github.io/react-cropperjs/example/'
     },
     framework: 'React',
-    version: '1.2.5',   
+    version: '1.2.5',
+    license: 'MIT',   
     details: 'https://github.com/TAPP-TV/react-cropperjs',
     keywords: ['crop','image']
   },
@@ -4496,7 +4504,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://twisty.github.io/formsy-react-components/playground/'
     },
     framework: 'React',
-    version: '0.10.1',   
+    version: '0.10.1', 
+    license: 'MIT',  
     details: 'https://github.com/twisty/formsy-react-components',
     keywords: ['formsy']
   },
@@ -4517,6 +4526,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.6.3',   
+    license: 'MIT',
     details: 'https://github.com/rojobuffalo/formsy-material-ui',
     keywords: ['formsy','material']
   },
@@ -4536,7 +4546,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://alexkuz.github.io/react-input-enhancements/'
     },
     framework: 'React',
-    version: 'v1.0.0-beta2',   
+    version: 'v1.0.0-beta2', 
+    license: 'MIT',  
     details: 'https://github.com/rojobuffalo/alexkuz/react-input-enhancements',
     keywords: ['input','enhancements']
   },
@@ -4557,6 +4568,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.0.0',   
+    license: 'MIT',
     details: 'https://github.com/rojobuffalo/jquense/react-widgets',
     keywords: ['widgets']
   },
@@ -4576,7 +4588,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://fatiherikli.github.io/react-designer/#examples'
     },
     framework: 'React',
-    version: '1.0.8',   
+    version: '1.0.8', 
+    license: 'MIT',  
     details: 'https://github.com/fatiherikli/react-designer',
     keywords: ['designer']
   },
@@ -4597,7 +4610,8 @@ export const REACT_COMPONENTS: any[] = [
       id: 'VvNGZP'
     },
     framework: 'React',
-    version: '1.1.1',   
+    version: '1.1.1',  
+    license: 'MIT', 
     details: 'https://github.com/react-images-upload',
     keywords: ['images','upload']
   },
@@ -4617,7 +4631,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://jxnblk.com/rgx/'
     },
     framework: 'React',
-    version: '0.2.4',   
+    version: '0.2.4', 
+    license: 'MIT',  
     details: 'https://github.com/jxnblk/rgx',
     keywords: ['grid']
   },
@@ -4637,7 +4652,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://hearsay-frontend.herokuapp.com/'
     },
     framework: 'React',
-    version: '2.1.0',   
+    version: '2.1.0', 
+    license: 'MIT',  
     details: 'https://github.com/eiriklv/react-masonry-mixin',
     keywords: ['mixin']
   },
@@ -4657,7 +4673,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://broucz.github.io/react-inline-grid/'
     },
     framework: 'React',
-    version: '0.5.3',   
+    version: '0.5.3', 
+    license: 'MIT',  
     details: 'https://github.com/broucz/react-inline-grid',
     keywords: ['grid']
   },
@@ -4677,7 +4694,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://www.episodeyang.com/layout-components/'
     },
     framework: 'React',
-    version: '3.0.6',   
+    version: '3.0.6', 
+    license: 'MIT',  
     details: 'https://github.com/rofrischmann/react-layout-components',
     keywords: ['layout']
   },
@@ -4698,6 +4716,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.15.2',   
+    license: 'MIT',
     details: 'https://github.com/STRML/react-grid-layout',
     keywords: ['layout','grid']
   },
@@ -4718,6 +4737,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '5.0.7',   
+    license: 'MIT',
     details: 'https://github.com/eiriklv/react-masonry-component',
     keywords: ['masonry']
   },
@@ -4738,6 +4758,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.1.5', 
+    license: 'MIT',
     details: 'https://github.com/roylee0704/react-flexbox-grid',
     keywords: ['grid']
   },
@@ -4758,6 +4779,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.3.7', 
+    license: 'MIT',
     details: 'https://github.com/dantrain/react-stonecutter',
     keywords: ['stonecutter']
   },
@@ -4779,6 +4801,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.4.0', 
+    license: 'MIT',
     details: 'https://github.com/nachoaIvarez/flexbox-react',
     keywords: ['flexbox']
   },
@@ -4799,6 +4822,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.1.11', 
+    license: 'MIT',
     details: 'https://github.com/xudafeng/autoresponsive-react',
     keywords: ['autoresponsive']
   },
@@ -4819,6 +4843,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.5.9', 
+    license: 'MIT',
     details: 'https://github.com/deepstreamIO/golden-layout',
     keywords: ['layout']
   },
@@ -4839,6 +4864,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.1.3', 
+    license: 'MIT',
     details: 'https://github.com/stayradiated/reactwm',
     keywords: ['layout']
   },
@@ -4859,6 +4885,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.5.0', 
+    license: 'MIT',
     details: 'https://github.com/tsuyoshiwada/react-stack-grid',
     keywords: ['grid']
   },
@@ -4879,6 +4906,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.9', 
+    license: 'MIT',
     details: 'https://github.com/leefsmp/Re-Flex',
     keywords: ['flex']
   },
@@ -4899,6 +4927,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '3.0.0-0', 
+    license: 'MIT',
     details: 'https://github.com/jxnblk/reflexbox',
     keywords: ['flex']
   },
@@ -4919,6 +4948,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.7.1', 
+    license: 'MIT',
     details: 'https://github.com/JSBros/hedron',
     keywords: ['grid']
   },
@@ -4938,7 +4968,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://bytefunc.github.io/react-resize-layout/demo/'
     },
     framework: 'React',
-    version: '0.1.7', 
+    version: '0.1.7',
+    license: 'MIT', 
     details: 'https://github.com/bytefunc/react-resize-layout',
     keywords: ['grid','layout','resize']
   },
@@ -4959,6 +4990,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.6.0', 
+    license: 'MIT',
     details: 'https://github.com/maslianok/react-resize-detector',
     keywords: ['grid','layout','resize','detector']
   },
@@ -4979,6 +5011,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.2.1', 
+    license: 'MIT',
     details: 'https://github.com/nkbt/react-works/tree/master/packages/element-resize',
     keywords: ['grid','layout','resize']
   },
@@ -4998,7 +5031,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://martinnov92.github.io/React-Splitters/'
     },
     framework: 'React',
-    version: '1.0.2', 
+    version: '1.0.2',
+    license: 'MIT', 
     details: 'https://github.com/martinnov92/React-Splitters',
     keywords: ['splitters']
   },
@@ -5019,6 +5053,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.1.5', 
+    license: 'MIT',
     details: 'https://github.com/chenglou/react-tween-state',
     keywords: ['tween']
   },
@@ -5039,6 +5074,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.5.1', 
+    license: 'MIT',
     details: 'https://github.com/chenglou/react-motion',
     keywords: ['motion']
   },
@@ -5059,6 +5095,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '3.0.1', 
+    license: 'MIT',
     details: 'https://github.com/Lapple/react-transitive-number',
     keywords: ['transitive','number']
   },
@@ -5079,6 +5116,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.0.0', 
+    license: 'MIT',
     details: 'https://github.com/gilbox/react-spark-scroll',
     keywords: ['spark','scroll']
   },
@@ -5099,6 +5137,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.2', 
+    license: 'MIT',
     details: 'https://github.com/therewillbecode/react-poker',
     keywords: ['poker']
   },
@@ -5119,6 +5158,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.1', 
+    license: 'MIT',
     details: 'https://github.com/maisano/react-router-transition',
     keywords: ['transition','router']
   },
@@ -5139,6 +5179,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.0.3', 
+    license: 'MIT',
     details: 'https://github.com/nkbt/react-collapse',
     keywords: ['collapse']
   },
@@ -5159,6 +5200,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.0', 
+    license: 'MIT',
     details: 'https://github.com/bgryszko/react-motion-example',
     keywords: ['motion']
   },
@@ -5179,6 +5221,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.4', 
+    license: 'MIT',
     details: 'https://github.com/bishopZ/kabuki-motion',
     keywords: ['motion']
   },
@@ -5199,6 +5242,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '3.4.0', 
+    license: 'MIT',
     details: 'https://github.com/StreakYC/react-draggable-list',
     keywords: ['draggable','list']
   },
@@ -5219,6 +5263,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.5', 
+    license: 'MIT',
     details: 'https://github.com/janpaepke/ScrollMagic',
     keywords: ['scroll']
   },
@@ -5239,6 +5284,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.3.3', 
+    license: 'MIT',
     details: 'https://github.com/twitter-fabric/velocity-react',
     keywords: ['velocity']
   },
@@ -5259,6 +5305,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.4.3', 
+    license: 'MIT',
     details: 'https://github.com/gilbox/react-track',
     keywords: ['track']
   },
@@ -5279,6 +5326,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.4.1', 
+    license: 'MIT',
     details: 'https://github.com/react-component/animate',
     keywords: ['animate']
   },
@@ -5300,6 +5348,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.3.0', 
+    license: 'MIT',
     details: 'https://github.com/azazdeaz/react-gsap-enhancer',
     keywords: ['gsap','enhancer']
   },
@@ -5320,6 +5369,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.8.0', 
+    license: 'MIT',
     details: 'https://github.com/moarwick/react-mt-svg-lines',
     keywords: ['svg','lines']
   },
@@ -5339,7 +5389,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://joshwcomeau.github.io/react-flip-move/examples/#/shuffle?_k=hf1udg'
     },
     framework: 'React',
-    version: '2.9.15', 
+    version: '2.9.15',
+    license: 'MIT', 
     details: 'https://github.com/joshwcomeau/react-flip-move',
     keywords: ['flip','move']
   },
@@ -5360,6 +5411,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.4', 
+    license: 'MIT',
     details: 'https://github.com/pleasetrythisathome/react.animate',
     keywords: ['animate','ease']
   },
@@ -5379,7 +5431,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://hyperfuse.github.io/react-anime/#/'
     },
     framework: 'React',
-    version: '0.3.4', 
+    version: '0.3.4',
+    license: 'MIT', 
     details: 'https://github.com/hyperfuse/react-anime',
     keywords: ['animate']
   },
@@ -5400,6 +5453,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.0', 
+    license: 'MIT',
     details: 'https://animakit.github.io/#/',
     keywords: ['animate','rotator']
   },
@@ -5420,6 +5474,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.1.1', 
+    license: 'MIT',
     details: 'https://animakit.github.io/#/',
     keywords: ['animate','elastic']
   },
@@ -5440,6 +5495,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.1.2', 
+    license: 'MIT',
     details: 'https://github.com/animakit/animakit-expander',
     keywords: ['animakit','expander']
   },
@@ -5460,7 +5516,8 @@ export const REACT_COMPONENTS: any[] = [
       id: 'XNYbJX'
     },
     framework: 'React',
-    version: '0.4.0-alpha.17', 
+    version: '0.4.0-alpha.17',
+    license: 'MIT', 
     details: 'https://github.com/clari/react-tween',
     keywords: ['tween']
   },
@@ -5481,6 +5538,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.11', 
+    license: 'MIT',
     details: 'https://github.com/tkh44/data-driven-motion',
     keywords: ['motion','driven-motion']
   },
@@ -5501,6 +5559,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.0-development', 
+    license: 'MIT',
     details: 'https://github.com/bringking/react-web-animation',
     keywords: ['animation']
   },
@@ -5521,6 +5580,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.0.1', 
+    license: 'MIT',
     details: 'https://github.com/keyanzhang/react-atv-img',
     keywords: ['image']
   },
@@ -5541,6 +5601,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.4', 
+    license: 'MIT',
     details: 'https://github.com/uismithing/react-parallax-effect',
     keywords: ['parallax','effect']
   },
@@ -5561,6 +5622,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.4.4', 
+    license: 'MIT',
     details: 'https://github.com/RRutsche/react-parallax',
     keywords: ['parallax','effect']
   },
@@ -5581,6 +5643,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.7.0', 
+    license: 'MIT',
     details: 'https://github.com/elementalui/elemental',
     keywords: ['ui','layout','responsive']
   },
@@ -5601,6 +5664,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.7.0', 
+    license: 'MIT',
     details: 'https://github.com/Lobos/react-ui',
     keywords: ['ui','layout','responsive']
   },
@@ -5620,7 +5684,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'http://nikgraf.github.io/belle/#/component/button?_k=r5qwte'
     },
     framework: 'React',
-    version: '3.0.2', 
+    version: '3.0.2',
+    license: 'MIT', 
     details: 'http://nikgraf.github.io/belle/#/?_k=e9uvlc',
     keywords: ['ui','layout','responsive']
   },
@@ -5641,6 +5706,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.1', 
+    license: 'MIT',
     details: 'http://otissv.github.io/react-uikit-components/',
     keywords: ['ui','layout','responsive']
   },
@@ -5661,6 +5727,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.2.0', 
+    license: 'MIT',
     details: 'http://otissv.github.io/searchkit/searchkit',
     keywords: ['searchkit']
   },
@@ -5681,6 +5748,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.4', 
+    license: 'MIT',
     details: 'https://github.com/jxnblk/rebass',
     keywords: ['rebass']
   },
@@ -5701,6 +5769,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.1.0', 
+    license: 'MIT',
     details: 'https://github.com/akiran/react-foundation-apps',
     keywords: ['foundation']
   },
@@ -5721,6 +5790,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.7.0', 
+    license: 'MIT',
     details: 'https://github.com/grommet/grommet',
     keywords: ['grommet']
   },
@@ -5741,6 +5811,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.28.0', 
+    license: 'MIT',
     details: 'https://github.com/palantir/blueprint',
     keywords: ['blueprint']
   },
@@ -5761,6 +5832,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.8.0', 
+    license: 'MIT',
     details: 'https://github.com/digiaonline/react-foundation',
     keywords: ['foundation']
   },
@@ -5781,6 +5853,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.73.1', 
+    license: 'MIT',
     details: 'https://github.com/Semantic-Org/Semantic-UI-React',
     keywords: ['semantic','ui']
   },
@@ -5801,6 +5874,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '8.3.3', 
+    license: 'MIT',
     details: 'https://github.com/pivotal-cf/pivotal-ui',
     keywords: ['layout','ui']
   },
@@ -5821,6 +5895,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.13.3', 
+    license: 'MIT',
     details: 'https://github.com/ant-design/ant-design',
     keywords: ['design','ui']
   },
@@ -5841,6 +5916,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.31.3', 
+    license: 'MIT',
     details: 'https://github.com/react-bootstrap/react-bootstrap',
     keywords: ['bootstrap']
   },
@@ -5861,6 +5937,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.7.0', 
+    license: 'MIT',
     details: 'https://github.com/reactstrap/reactstrap',
     keywords: ['bootstrap']
   },
@@ -5881,6 +5958,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.10.3', 
+    license: 'MIT',
     details: 'https://github.com/react-mdl/react-mdl',
     keywords: ['components']
   },
@@ -5901,6 +5979,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.14', 
+    license: 'MIT',
     details: 'https://github.com/react-materialize/react-materialize',
     keywords: ['components']
   },
@@ -5921,6 +6000,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.0-beta.11', 
+    license: 'MIT',
     details: 'https://github.com/react-toolbox/react-toolbox',
     keywords: ['components','tools']
   },
@@ -5941,6 +6021,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.3.2', 
+    license: 'MIT',
     details: 'https://github.com/BerkeleyTrue/react-material',
     keywords: ['material']
   },
@@ -5961,6 +6042,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.19.2', 
+    license: 'MIT',
     details: 'https://github.com/callemall/material-ui',
     keywords: ['material']
   },
@@ -5981,6 +6063,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.0.10', 
+    license: 'MIT',
     details: 'https://github.com/Evo-Forge/Essence',
     keywords: ['essence']
   },
@@ -6001,6 +6084,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.6.0', 
+    license: 'MIT',
     details: 'https://github.com/OnsenUI/OnsenUI',
     keywords: ['OnsenUI']
   },
@@ -6021,6 +6105,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.1.10', 
+    license: 'MIT',
     details: 'https://github.com/reactionic/reactionic',
     keywords: ['ionic']
   },
@@ -6041,6 +6126,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.7.3', 
+    license: 'MIT',
     details: 'https://github.com/touchstonejs/touchstonejs',
     keywords: ['ionic']
   },
@@ -6061,6 +6147,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.0-beta.2', 
+    license: 'MIT',
     details: 'https://github.com/ant-design/ant-design-mobile',
     keywords: ['ionic','mobile']
   },
@@ -6081,6 +6168,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '0.3.1', 
+    license: 'MIT',
     details: 'https://github.com/gabrielbull/react-desktop',
     keywords: ['desktop']
   },
@@ -6101,6 +6189,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '4.3.0', 
+    license: 'MIT',
     details: 'https://github.com/ngokevin/aframe-react',
     keywords: ['frame']
   },
@@ -6121,6 +6210,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.3.1', 
+    license: 'MIT',
     details: 'https://github.com/marmelab/admin-on-rest',
     keywords: ['admin']
   },
@@ -6141,6 +6231,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '7.1.0', 
+    license: 'MIT',
     details: 'https://github.com/brigade/react-waypoint',
     keywords: ['waypoint']
   },
@@ -6160,7 +6251,8 @@ export const REACT_COMPONENTS: any[] = [
       src: 'https://joshwnj.github.io/react-visibility-sensor/'
     },
     framework: 'React',
-    version: '3.10.1', 
+    version: '3.10.1',
+    license: 'MIT', 
     details: 'https://github.com/joshwnj/react-visibility-sensor',
     keywords: ['visibility','sensor']
   },
@@ -6181,6 +6273,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.2', 
+    license: 'MIT',
     details: 'https://github.com/souporserious/react-measure',
     keywords: ['measure']
   },
@@ -6201,6 +6294,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '3.0.0', 
+    license: 'MIT',
     details: 'https://github.com/nkbt/react-height',
     keywords: ['height']
   },
@@ -6221,6 +6315,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.0.0-alpha1', 
+    license: 'MIT',
     details: 'https://github.com/digidem/react-dimensions',
     keywords: ['dimensions']
   },
@@ -6241,6 +6336,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.2.0', 
+    license: 'MIT',
     details: 'https://github.com/ctrlplusb/react-component-queries',
     keywords: ['queries']
   },
@@ -6261,6 +6357,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '2.3.5', 
+    license: 'MIT',
     details: 'https://github.com/ctrlplusb/react-sizeme',
     keywords: ['size']
   },
@@ -6281,6 +6378,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     framework: 'React',
     version: '1.9.4', 
+    license: 'MIT',
     details: 'https://github.com/glortho/react-keydown',
     keywords: ['keydown']
   }
