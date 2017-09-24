@@ -7,6 +7,7 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 export class ComponentThumbnailComponent implements OnInit {
 
+  public showDemo: boolean;
   public isCodePen: boolean;
   public isJsFiddle: boolean;
   public isPlunker: boolean;
@@ -18,6 +19,7 @@ export class ComponentThumbnailComponent implements OnInit {
   component: any;
 
   constructor() {
+    this.showDemo = false;
     this.isCodePen = false;
     this.isJsFiddle = false;
     this.isPlunker = false;

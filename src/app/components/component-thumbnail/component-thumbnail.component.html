@@ -2,27 +2,32 @@
   {{component.name}}<span class="version">{{component.version}}</span>
 </div>
 <div class="image">
-  <iframe *ngIf="isCodePen"  style="width: 100%; height: 100%"
-          [src]="component.codepenEmbedUrl | safe" frameborder="0"
-          allowfullscreen="allowfullscreen" allowtransparency='true' >
-    <a href='{{ component.codepenUrl }}'>Demo Page</a>.
-  </iframe>
-  <iframe *ngIf="isJsFiddle"  style="width: 100%; height: 100%"
-          [src]="component.jsfiddleEmbedUrl | safe" frameborder="0"
-          allowfullscreen="allowfullscreen" allowtransparency='true' >
-    <a href='{{ component.jsfiddleUrl }}'>Demo Page</a>.
-  </iframe>
-  <iframe *ngIf="isPlunker"  style="width: 100%; height: 100%"
-          [src]="component.plnkrEmbedUrl | safe" frameborder="0"
-          allowfullscreen="allowfullscreen" allowtransparency='true' >
-    <a href='{{ component.plnkrUrl }}'>Demo Page</a>.
-  </iframe>
-  <div *ngIf="isExpo" class="qr-code">
-    <div class="qr-code-text">Scan QR code with your <a href="https://expo.io/" target="_blank">Expo</a> mobile app</div>
-    <img class="qr-code-img" src="../../../assets/qr-codes/{{component.demo.qrCode}}.png">
+  <div class="demo-message" *ngIf="!showDemo" (mouseenter)="showDemo = true;">
+    Mouse hover or Tap to see running demo
   </div>
-  <iframe *ngIf="isCustom" height='265' scrolling='yes' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
-  </iframe>
+  <div class="demo-window" *ngIf="showDemo">
+    <iframe *ngIf="isCodePen"  style="width: 100%; height: 100%"
+            [src]="component.codepenEmbedUrl | safe" frameborder="0"
+            allowfullscreen="allowfullscreen" allowtransparency='true' >
+      <a href='{{ component.codepenUrl }}'>Demo Page</a>.
+    </iframe>
+    <iframe *ngIf="isJsFiddle"  style="width: 100%; height: 100%"
+            [src]="component.jsfiddleEmbedUrl | safe" frameborder="0"
+            allowfullscreen="allowfullscreen" allowtransparency='true' >
+      <a href='{{ component.jsfiddleUrl }}'>Demo Page</a>.
+    </iframe>
+    <iframe *ngIf="isPlunker"  style="width: 100%; height: 100%"
+            [src]="component.plnkrEmbedUrl | safe" frameborder="0"
+            allowfullscreen="allowfullscreen" allowtransparency='true' >
+      <a href='{{ component.plnkrUrl }}'>Demo Page</a>.
+    </iframe>
+    <div *ngIf="isExpo" class="qr-code">
+      <div class="qr-code-text">Scan QR code with your <a href="https://expo.io/" target="_blank">Expo</a> mobile app</div>
+      <img class="qr-code-img" src="../../../assets/qr-codes/{{component.demo.qrCode}}.png">
+    </div>
+    <iframe *ngIf="isCustom" height='265' scrolling='yes' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
+    </iframe>
+  </div>
 </div>
 
 <div class="icons">

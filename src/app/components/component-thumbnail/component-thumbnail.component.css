@@ -75,3 +75,12 @@
   display: inline-block;
 }
 
+.demo-message {
+  line-height: 387px;
+  text-align: center;
+}
+
+.demo-window {
+  height: 100%;
+  width: 100%;
+}
