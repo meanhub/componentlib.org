@@ -1692,6 +1692,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/KimWooHyun/vue-lunar-calendar',
     keywords: ['vue', 'calendar', 'lunar','lunar-calendar']
+  },
+  {
+    id: 75,
+    name: 'vue-simple-calendar',
+    install: {
+      packager: 'npm',
+      url: 'vue-simple-calendar'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'richardtallent/vue-simple-calendar',
+    stars: 39
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://www.tallent.us/vue-simple-calendar/'
+  },
+    framework: 'Vue',
+    version: '1.5.0',
+    license: '',
+    details: 'https://github.com/richardtallent/vue-simple-calendar',
+    keywords: ['vue', 'calendar', 'simple-calendar','simple']
   }
 
 ];
