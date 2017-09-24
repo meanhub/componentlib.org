@@ -6928,5 +6928,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://mozilla-services.github.io/react-jsonschema-form/',
     keywords: ['json','schema','form']
+  },
+  {
+    id: 327,
+    name: 'react-validation-mixin',
+    install: {
+      packager: 'npm',
+      url: 'react-validation-mixin'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jurassix/react-validation-mixin'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jurassix.github.io/react-validation-mixin/'
+    },
+    framework: 'React',
+    version: '5.4.0',
+    license: 'MIT',
+    details: 'https://github.com/jurassix/react-validation-mixin',
+    keywords: ['validation','mixin','form']
   }
 ];
