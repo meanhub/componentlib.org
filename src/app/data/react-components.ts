@@ -6633,5 +6633,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://redux.js.org/',
     keywords: ['redux']
+  },
+  {
+    id: 313,
+    name: 'shasta',
+    install: {
+      packager: 'npm',
+      url: 'shasta'  
+    },
+    source: {
+      domain: 'github',
+      url: 'shastajs/shasta'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://shasta.tools/'
+    },
+    framework: 'React',
+    version: '0.1.2',
+    license: 'MIT',
+    details: 'http://shasta.tools/',
+    keywords: ['redux']
   }
 ];
