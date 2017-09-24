@@ -6570,5 +6570,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/tajo/react-portal,
     keywords: ['portal']
+  },
+  {
+    id: 310,
+    name: 'react-layer-stack',
+    install: {
+      packager: 'npm',
+      url: 'react-layer-stack'  
+    },
+    source: {
+      domain: 'github',
+      url: 'fckt/react-layer-stack'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://fckt.github.io/react-layer-stack/'
+    },
+    framework: 'React',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://github.com/fckt/react-layer-stack,
+    keywords: ['layer','stack']
   }
 ];
