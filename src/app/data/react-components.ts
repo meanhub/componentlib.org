@@ -6868,14 +6868,14 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 324,
-    name: 'cerebral/cerebral',
+    name: 'cerebral',
     install: {
       packager: 'npm',
-      url: 'cerebral/cerebral'  
+      url: 'cerebral'  
     },
     source: {
       domain: 'github',
-      url: 'mobxjs/mobx-react'
+      url: 'cerebral/cerebral'
     },
     demo: {
       repl: 'custom',
@@ -6886,5 +6886,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://cerebraljs.com',
     keywords: ['codebase']
+  },
+  {
+    id: 325,
+    name: 'kea',
+    install: {
+      packager: 'npm',
+      url: 'kea'  
+    },
+    source: {
+      domain: 'github',
+      url: 'keajs/kea'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://kea.js.org/examples/todos'
+    },
+    framework: 'React',
+    version: '0.24.2',
+    license: 'MIT',
+    details: 'https://kea.js.org',
+    keywords: ['abstraction']
   }
 ];
