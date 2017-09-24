@@ -6654,5 +6654,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://shasta.tools/',
     keywords: ['redux']
+  },
+  {
+    id: 314,
+    name: 'shasta',
+    install: {
+      packager: 'npm',
+      url: 'shasta'  
+    },
+    source: {
+      domain: 'github',
+      url: 'shastajs/shasta'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://shasta.tools/'
+    },
+    framework: 'React',
+    version: '0.1.2',
+    license: 'MIT',
+    details: 'http://shasta.tools/',
+    keywords: ['redux']
+  },
+  {
+    id: 315,
+    name: 'react-redux-provide',
+    install: {
+      packager: 'npm',
+      url: 'react-redux-provide'  
+    },
+    source: {
+      domain: 'github',
+      url: 'loggur/react-redux-provide'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://loggur.github.io/react-redux-provide/core-example/managing-some-thing.html'
+    },
+    framework: 'React',
+    version: '7.0.0-rc.23',
+    license: 'MIT',
+    details: 'https://loggur.github.io/react-redux-provide/core-example/managing-some-thing.html',
+    keywords: ['redux','provide']
   }
 ];
