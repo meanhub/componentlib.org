@@ -7391,5 +7391,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/bdefore/universal-redux',
     keywords: ['universal','redux']
+  },
+  {
+    id: 349,
+    name: 'starhackit',
+    install: {
+      packager: 'npm',
+      url: 'starhackit'  
+    },
+    source: {
+      domain: 'github',
+      url: 'FredericHeem/starhackit'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://starhack.it/'
+    },
+    framework: 'React',
+    version: '5.2.0',
+    license: 'MIT',
+    details: 'http://starhack.it/',
+    keywords: ['ui','starter kit']
+  },
+  {
+    id: 350,
+    name: 'generator-react-webpack',
+    install: {
+      packager: 'npm',
+      url: 'generator-react-webpack'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-webpack-generators/generator-react-webpack'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://newtriks.com/2013/12/31/automating-react-with-yeoman-and-grunt/'
+    },
+    framework: 'React',
+    version: '3.3.1',
+    license: 'MIT',
+    details: 'http://newtriks.com/2013/12/31/automating-react-with-yeoman-and-grunt/',
+    keywords: ['generator','webpack']
   }
 ];
