@@ -6907,5 +6907,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://kea.js.org',
     keywords: ['abstraction']
+  },
+  {
+    id: 326,
+    name: 'react-jsonschema-form',
+    install: {
+      packager: 'npm',
+      url: 'react-jsonschema-form'  
+    },
+    source: {
+      domain: 'github',
+      url: 'mozilla-services/react-jsonschema-form'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://mozilla-services.github.io/react-jsonschema-form/'
+    },
+    framework: 'React',
+    version: '0.50.1',
+    license: 'MIT',
+    details: 'https://mozilla-services.github.io/react-jsonschema-form/',
+    keywords: ['json','schema','form']
   }
 ];
