@@ -6486,5 +6486,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/JedWatson/react-hammerjs,
     keywords: ['hammer','touch']
+  },
+  {
+    id: 306,
+    name: 'react-tappable',
+    install: {
+      packager: 'npm',
+      url: 'react-tappable'  
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-tappable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jedwatson.github.io/react-tappable/'
+    },
+    framework: 'React',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://github.com/JedWatson/react-tappable,
+    keywords: ['tappable']
   }
 ];
