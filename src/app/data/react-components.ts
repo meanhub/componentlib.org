@@ -6612,5 +6612,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/olahol/react-ab',
     keywords: ['testing','split']
+  },
+  {
+    id: 312,
+    name: 'react-redux',
+    install: {
+      packager: 'npm',
+      url: 'react-redux'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/react-redux'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://redux.js.org/docs/basics/UsageWithReact.html'
+    },
+    framework: 'React',
+    version: '5.0.6',
+    license: 'MIT',
+    details: 'http://redux.js.org/',
+    keywords: ['redux']
   }
 ];
