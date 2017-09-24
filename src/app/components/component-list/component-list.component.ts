@@ -21,6 +21,7 @@ export class ComponentListComponent implements OnInit {
   }
 
   onSearchTextChanged(searchCriteria) {
+    searchCriteria.searchText = searchCriteria.searchText.toLowerCase();
     if (searchCriteria.framework === 'AngularJS 1.x') {
       this.components = this.componentService.getAngularJSComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'Angular 2+') {
