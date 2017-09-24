@@ -6395,12 +6395,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://glortho.github.io/react-keydown/example/index.html'
+      src: 'https://chrisui.github.io/react-hotkeys/'
     },
     framework: 'React',
     version: '1.10.0',
     license: 'MIT',
-    details: 'https://chrisui.github.io/react-hotkeys/',
+    details: 'https://github.com/chrisui/react-hotkeys',
     keywords: ['hotkeys']
+  },
+  {
+    id: 302,
+    name: 'react-shortcuts',
+    install: {
+      packager: 'npm',
+      url: 'react-shortcuts'  
+    },
+    source: {
+      domain: 'github',
+      url: 'avocode/react-shortcuts'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://avocode.github.io/react-shortcuts/'
+    },
+    framework: 'React',
+    version: '1.6.1',
+    license: 'MIT',
+    details: 'https://github.com/avocode/react-shortcuts,
+    keywords: ['shortcuts']
   }
 ];
