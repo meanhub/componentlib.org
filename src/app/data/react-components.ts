@@ -7100,10 +7100,10 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 335,
-    name: 'svenanders/react-breadcrumbs',
+    name: 'react-breadcrumbs',
     install: {
       packager: 'npm',
-      url: 'svenanders/react-breadcrumbs'  
+      url: 'react-breadcrumbs'  
     },
     source: {
       domain: 'github',
@@ -7118,5 +7118,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/svenanders/react-breadcrumbs',
     keywords: ['router','breadcrumbs']
+  },
+  {
+    id: 336,
+    name: 'cerebral-module-router',
+    install: {
+      packager: 'npm',
+      url: 'cerebral-module-router'  
+    },
+    source: {
+      domain: 'github',
+      url: 'cerebral-legacy/cerebral-module-router'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://cerebral-website.herokuapp.com/documentation/cerebral-module-router'
+    },
+    framework: 'React',
+    version: '0.17.1',
+    license: 'MIT',
+    details: 'https://github.com/cerebral-legacy/cerebral-module-router',
+    keywords: ['router','cerebral']
   }
 ];
