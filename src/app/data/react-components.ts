@@ -6759,5 +6759,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://fluxible.io',
     keywords: ['flux']
+  },
+  {
+    id: 319,
+    name: 'alt',
+    install: {
+      packager: 'npm',
+      url: 'alt'  
+    },
+    source: {
+      domain: 'github',
+      url: 'goatslacker/alt'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://alt.js.org/guide/'
+    },
+    framework: 'React',
+    version: '0.18.6',
+    license: 'MIT',
+    details: 'http://alt.js.org/guide/',
+    keywords: ['flux']
+  },
+  {
+    id: 320,
+    name: 'reselect',
+    install: {
+      packager: 'npm',
+      url: 'reselect'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/reselect'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://redux.js.org/docs/basics/UsageWithReact.html'
+    },
+    framework: 'React',
+    version: '3.0.1',
+    license: 'MIT',
+    details: 'https://github.com/reactjs/reselect',
+    keywords: ['flux']
   }
 ];
