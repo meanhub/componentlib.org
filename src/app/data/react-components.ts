@@ -6717,5 +6717,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://saucelabs.com/u/refluxjs',
     keywords: ['redux','test']
+  },
+  {
+    id: 317,
+    name: 'fluxxor',
+    install: {
+      packager: 'npm',
+      url: 'fluxxor'  
+    },
+    source: {
+      domain: 'github',
+      url: 'BinaryMuse/fluxxor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fluxxor.com/guides/quick-start.html'
+    },
+    framework: 'React',
+    version: '1.7.3',
+    license: 'MIT',
+    details: 'http://fluxxor.com/',
+    keywords: ['flux']
   }
 ];
