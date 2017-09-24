@@ -6696,5 +6696,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://loggur.github.io/react-redux-provide/core-example/managing-some-thing.html',
     keywords: ['redux','provide']
+  },
+  {
+    id: 316,
+    name: 'refluxjs',
+    install: {
+      packager: 'npm',
+      url: 'refluxjs'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reflux/refluxjs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://loggur.github.io/react-redux-provide/core-example/managing-some-thing.html'
+    },
+    framework: 'React',
+    version: '6.4.1',
+    license: 'MIT',
+    details: 'https://saucelabs.com/u/refluxjs',
+    keywords: ['redux','test']
   }
 ];
