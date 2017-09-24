@@ -7013,5 +7013,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://appliedmathematicsanu.github.io/plexus-form/',
     keywords: ['form']
+  },
+  {
+    id: 331,
+    name: 'cerebral-module-forms',
+    install: {
+      packager: 'npm',
+      url: 'cerebral-module-forms'  
+    },
+    source: {
+      domain: 'github',
+      url: 'cerebral-legacy/cerebral-module-forms'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://cerebral-website.herokuapp.com/documentation/cerebral-module-forms'
+    },
+    framework: 'React',
+    version: '0.5.8',
+    license: 'MIT',
+    details: 'http://cerebral-website.herokuapp.com/documentation/cerebral-module-forms',
+    keywords: ['module','cerebral','forms']
   }
 ];
