@@ -7223,5 +7223,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/rofrischmann/inline-style-prefixer',
     keywords: ['prefixer','style','inline']
+  },
+  {
+    id: 341,
+    name: 'radium',
+    install: {
+      packager: 'npm',
+      url: 'radium'  
+    },
+    source: {
+      domain: 'github',
+      url: 'FormidableLabs/radium'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://formidable.com/open-source/radium/'
+    },
+    framework: 'React',
+    version: '0.53.1',
+    license: 'MIT',
+    details: 'http://formidable.com/open-source/radium/',
+    keywords: ['radium']
+  },
+  {
+    id: 342,
+    name: 'styled-components',
+    install: {
+      packager: 'npm',
+      url: 'styled-components'  
+    },
+    source: {
+      domain: 'github',
+      url: 'styled-components/styled-components'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://www.styled-components.com/'
+    },
+    framework: 'React',
+    version: '2.1.2',
+    license: 'MIT',
+    details: 'https://www.styled-components.com/',
+    keywords: ['components','style']
   }
 ];
