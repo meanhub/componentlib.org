@@ -1604,6 +1604,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/egoist/vue-timeago',
     keywords: ['vue', 'timeago', 'filter']
+  },
+  {
+    id: 71,
+    name: 'vuejs-countdown-timer',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/sagarkbhatt/vuejs-countdown-timer/archive/master.zip>'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'sagarkbhatt/vuejs-countdown-timer',
+    stars: 4
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://sagarkbhatt.github.io/vuejs-countdown-timer/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/sagarkbhatt/vuejs-countdown-timer',
+    keywords: ['vue2', 'timer', 'timezone', 'countdown']
   }
 
 ];
