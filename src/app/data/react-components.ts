@@ -6844,5 +6844,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://redux.js.org/',
     keywords: ['redux']
+  },
+  {
+    id: 323,
+    name: 'mobx-react',
+    install: {
+      packager: 'npm',
+      url: 'mobx-react'  
+    },
+    source: {
+      domain: 'github',
+      url: 'mobxjs/mobx-react'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://mobx.js.org/intro/overview.html'
+    },
+    framework: 'React',
+    version: '4.3.2',
+    license: 'MIT',
+    details: 'https://mobx.js.org/intro/overview.html',
+    keywords: ['redux']
   }
 ];
