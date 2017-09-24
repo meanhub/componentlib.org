@@ -6801,5 +6801,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/reactjs/reselect',
     keywords: ['flux']
+  },
+  {
+    id: 321,
+    name: 'recompose',
+    install: {
+      packager: 'npm',
+      url: 'recompose'  
+    },
+    source: {
+      domain: 'github',
+      url: 'acdlite/recompose'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user: 'samsch',
+      id: 'p3vsmrvo'
+    },
+    framework: 'React',
+    version: '0.25.1',
+    license: 'MIT',
+    details: 'https://github.com/acdlite/recompose',
+    keywords: ['function components','higher-order components']
   }
 ];
