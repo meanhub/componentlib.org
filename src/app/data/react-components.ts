@@ -6528,5 +6528,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/voronianski/react-swipe,
     keywords: ['swipe']
+  },
+  {
+    id: 308,
+    name: 'react-aim',
+    install: {
+      packager: 'npm',
+      url: 'react-aim'  
+    },
+    source: {
+      domain: 'github',
+      url: 'gabrielbull/react-aim'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://gabrielbull.github.io/react-aim/'
+    },
+    framework: 'React',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://github.com/gabrielbull/react-aim,
+    keywords: ['aim']
   }
 ];
