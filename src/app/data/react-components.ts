@@ -6549,5 +6549,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/gabrielbull/react-aim,
     keywords: ['aim']
+  },
+  {
+    id: 309,
+    name: 'react-portal',
+    install: {
+      packager: 'npm',
+      url: 'react-portal'  
+    },
+    source: {
+      domain: 'github',
+      url: 'tajo/react-portal'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://miksu.cz/react-portal/'
+    },
+    framework: 'React',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'https://github.com/tajo/react-portal,
+    keywords: ['portal']
   }
 ];
