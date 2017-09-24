@@ -6823,5 +6823,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/acdlite/recompose',
     keywords: ['function components','higher-order components']
+  },
+  {
+    id: 322,
+    name: 'redux',
+    install: {
+      packager: 'npm',
+      url: 'redux'  
+    },
+    source: {
+      domain: 'github',
+      url: 'reactjs/redux'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://redux.js.org/docs/introduction/Examples.html'
+    },
+    framework: 'React',
+    version: '3.7.2',
+    license: 'MIT',
+    details: 'http://redux.js.org/',
+    keywords: ['redux']
   }
 ];
