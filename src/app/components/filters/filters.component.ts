@@ -58,4 +58,9 @@ export class FiltersComponent implements OnInit {
       framework: this.selectedFramework.name
     });
   }
+
+  clearSearch() {
+    this.searchText = '';
+    this.searchComponents();
+  }
 }

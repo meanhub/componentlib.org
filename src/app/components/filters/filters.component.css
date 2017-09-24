@@ -6,6 +6,7 @@
 .search {
   display: inline-block;
   margin: 20px 80px;
+  position: relative;
 }
 
 .search-box {
@@ -33,3 +34,16 @@
   background-color: maroon;
 }
 
+.close-button {
+  height: 32px;
+  width: 32px;
+  position: absolute;
+  top: 6px;
+  left: 267px;
+  cursor: pointer;
+  border-radius: 999px;
+}
+
+.close-button:hover {
+  background-color: antiquewhite;
+}
