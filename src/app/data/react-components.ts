@@ -7370,5 +7370,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://lvarayut.github.io/relay-fullstack/',
     keywords: ['components','ui']
+  },
+  {
+    id: 348,
+    name: 'universal-redux',
+    install: {
+      packager: 'npm',
+      url: 'universal-redux'  
+    },
+    source: {
+      domain: 'github',
+      url: 'lvarayut/relay-fullstack'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://universal-redux-jwt-example.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '4.4.3',
+    license: 'MIT',
+    details: 'https://github.com/bdefore/universal-redux',
+    keywords: ['universal','redux']
   }
 ];
