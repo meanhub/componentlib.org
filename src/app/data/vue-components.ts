@@ -1714,6 +1714,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/richardtallent/vue-simple-calendar',
     keywords: ['vue', 'calendar', 'simple-calendar','simple']
+  },
+  {
+    id: 76,
+    name: 'vue-google-maps',
+    install: {
+      packager: 'npm',
+      url: 'vue2-google-maps'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'xkjyeah/vue-google-maps',
+    stars: 365
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://xkjyeah.github.io/vue-google-maps/overlay.html'
+  },
+    framework: 'Vue',
+    version: '0.8.3',
+    license: 'MIT',
+    details: 'https://github.com/xkjyeah/vue-google-maps/blob/vue2/API.md',
+    keywords: ['google-maps', 'map', 'vue','google']
   }
 
 ];
