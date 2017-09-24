@@ -6444,5 +6444,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ayrton/react-key-handler,
     keywords: ['key','handler']
+  },
+  {
+    id: 304,
+    name: 'react-scroll-lock-component',
+    install: {
+      packager: 'npm',
+      url: 'react-scroll-lock-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'orteth01/react-scroll-lock-component'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://orteth01.github.io/react-scroll-lock-component-demo/'
+    },
+    framework: 'React',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/orteth01/react-scroll-lock-component,
+    keywords: ['scroll','lock']
   }
 ];
