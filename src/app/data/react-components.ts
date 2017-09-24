@@ -6465,5 +6465,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/orteth01/react-scroll-lock-component,
     keywords: ['scroll','lock']
+  },
+  {
+    id: 305,
+    name: 'react-hammerjs',
+    install: {
+      packager: 'npm',
+      url: 'react-hammerjs'  
+    },
+    source: {
+      domain: 'github',
+      url: 'JedWatson/react-hammerjs'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://hammerjs.github.io/#team'
+    },
+    framework: 'React',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://github.com/JedWatson/react-hammerjs,
+    keywords: ['hammer','touch']
   }
 ];
