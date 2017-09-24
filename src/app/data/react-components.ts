@@ -6992,5 +6992,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/christianalfoni/formsy-react',
     keywords: ['form','formsy']
+  },
+  {
+    id: 330,
+    name: 'plexus-form',
+    install: {
+      packager: 'npm',
+      url: 'plexus-form'  
+    },
+    source: {
+      domain: 'github',
+      url: 'AppliedMathematicsANU/plexus-form'
+    },
+    demo: {
+      repl: 'codepen',
+      src:'http://appliedmathematicsanu.github.io/plexus-form/'
+    },
+    framework: 'React',
+    version: '0.1.3',
+    license: 'MIT',
+    details: 'http://appliedmathematicsanu.github.io/plexus-form/',
+    keywords: ['form']
   }
 ];
