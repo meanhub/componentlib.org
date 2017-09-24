@@ -7034,5 +7034,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://cerebral-website.herokuapp.com/documentation/cerebral-module-forms',
     keywords: ['module','cerebral','forms']
+  },
+  {
+    id: 332,
+    name: 'react-router',
+    install: {
+      packager: 'npm',
+      url: 'react-router'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ReactTraining/react-router'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://reacttraining.com/react-router/'
+    },
+    framework: 'React',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://reacttraining.com/react-router/',
+    keywords: ['router']
   }
 ];
