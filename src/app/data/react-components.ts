@@ -6591,5 +6591,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/fckt/react-layer-stack',
     keywords: ['layer','stack']
+  },
+  {
+    id: 311,
+    name: 'react-ab',
+    install: {
+      packager: 'npm',
+      url: 'react-ab'  
+    },
+    source: {
+      domain: 'github',
+      url: 'olahol/react-ab'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://olahol.github.io/react-ab/example/#'
+    },
+    framework: 'React',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://github.com/olahol/react-ab',
+    keywords: ['testing','split']
   }
 ];
