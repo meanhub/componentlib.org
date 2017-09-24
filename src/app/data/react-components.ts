@@ -7097,5 +7097,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.kriasoft.com/universal-router/getting-started',
     keywords: ['router','universal']
+  },
+  {
+    id: 335,
+    name: 'svenanders/react-breadcrumbs',
+    install: {
+      packager: 'npm',
+      url: 'svenanders/react-breadcrumbs'  
+    },
+    source: {
+      domain: 'github',
+      url: 'svenanders/react-breadcrumbs'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://breadcrumbs.surge.sh/index.html#/'
+    },
+    framework: 'React',
+    version: '1.6.5',
+    license: 'MIT',
+    details: 'https://github.com/svenanders/react-breadcrumbs',
+    keywords: ['router','breadcrumbs']
   }
 ];
