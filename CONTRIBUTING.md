@@ -55,7 +55,7 @@ Please add a JSON object for each component in these files.
       src: '<url of demo page>'
     } | {
       repl: 'codepen',
-      user: <username in codepen demo>,
+      user: '<username in codepen demo>',
       id: '<demo id>'
     } | {
       repl: 'plunker',
