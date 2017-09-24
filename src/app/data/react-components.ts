@@ -7328,5 +7328,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://rill.site/#top',
     keywords: ['server']
+  },
+  {
+    id: 346,
+    name: 'rill',
+    install: {
+      packager: 'npm',
+      url: 'rill'  
+    },
+    source: {
+      domain: 'github',
+      url: 'rill-js/rill'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://rill.site/#top'
+    },
+    framework: 'React',
+    version: '5.0.15',
+    license: 'MIT',
+    details: 'https://rill.site/#top',
+    keywords: ['server']
+  },
+  {
+    id: 347,
+    name: 'relay-fullstack',
+    install: {
+      packager: 'npm',
+      url: 'relay-fullstack'  
+    },
+    source: {
+      domain: 'github',
+      url: 'lvarayut/relay-fullstack'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://relay-fullstack.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://lvarayut.github.io/relay-fullstack/',
+    keywords: ['components','ui']
   }
 ];
