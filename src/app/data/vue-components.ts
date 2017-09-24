@@ -1802,6 +1802,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuelayers.github.io/#/',
     keywords: ['vuelayers', 'vue', 'vuejs', 'vue2', 'vuejs2', 'vue plugins', 'vue components', 'openlayers', 'ol', 'maps', 'mapping']
+  },
+  {
+    id: 80,
+    name: 'vue-aplayer',
+    install: {
+      packager: 'npm',
+      url: 'vue-aplayer'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'SevenOutman/vue-aplayer',
+    stars: 145
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://sevenoutman.github.io/vue-aplayer/demo/'
+  },
+    framework: 'Vue',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'https://github.com/SevenOutman/vue-aplayer',
+    keywords: ['vue', 'aplayer', 'player', 'music', 'html5']
   }
 
 ];
