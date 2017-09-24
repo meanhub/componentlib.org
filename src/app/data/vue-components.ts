@@ -1670,6 +1670,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/GeoffZhu/vue-event-calendar',
     keywords: ['vue', 'eventcalendar', 'vue-event-calendar']
+  },
+  {
+    id: 74,
+    name: 'vue-lunar-calendar',
+    install: {
+      packager: 'npm',
+      url: 'vue-lunar-calendar'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'KimWooHyun/vue-lunar-calendar',
+    stars: 32
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://kimwoohyun.github.io/vue-lunar-calendar/'
+  },
+    framework: 'Vue',
+    version: '1.4.2',
+    license: 'ISC',
+    details: 'https://github.com/KimWooHyun/vue-lunar-calendar',
+    keywords: ['vue', 'calendar', 'lunar','lunar-calendar']
   }
 
 ];
