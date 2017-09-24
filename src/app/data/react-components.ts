@@ -6970,5 +6970,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://newforms.readthedocs.org/',
     keywords: ['form']
+  },
+  {
+    id: 329,
+    name: 'formsy-react',
+    install: {
+      packager: 'npm',
+      url: 'formsy-react'  
+    },
+    source: {
+      domain: 'github',
+      url: 'christianalfoni/formsy-react'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'semigradsky',
+      id: 'dYYpwv'
+    },
+    framework: 'React',
+    version: '0.19.5',
+    license: 'MIT',
+    details: 'https://github.com/christianalfoni/formsy-react',
+    keywords: ['form','formsy']
   }
 ];
