@@ -6507,5 +6507,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/JedWatson/react-tappable,
     keywords: ['tappable']
+  },
+  {
+    id: 307,
+    name: 'react-swipe',
+    install: {
+      packager: 'npm',
+      url: 'react-swipe'  
+    },
+    source: {
+      domain: 'github',
+      url: 'voronianski/react-swipe'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://voronianski.github.io/react-swipe/demo/?continuous=true'
+    },
+    framework: 'React',
+    version: '5.0.8',
+    license: 'MIT',
+    details: 'https://github.com/voronianski/react-swipe,
+    keywords: ['swipe']
   }
 ];
