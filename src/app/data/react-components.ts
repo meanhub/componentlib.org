@@ -6949,5 +6949,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/jurassix/react-validation-mixin',
     keywords: ['validation','mixin','form']
+  },
+  {
+    id: 328,
+    name: 'newforms',
+    install: {
+      packager: 'npm',
+      url: 'newforms'  
+    },
+    source: {
+      domain: 'github',
+      url: 'insin/newforms'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://newforms.readthedocs.io/en/latest/react_components.html#form-options'
+    },
+    framework: 'React',
+    version: '0.13.2',
+    license: 'MIT',
+    details: 'http://newforms.readthedocs.org/',
+    keywords: ['form']
   }
 ];
