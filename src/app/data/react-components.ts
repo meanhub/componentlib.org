@@ -7160,5 +7160,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ericclemmons.com/react-resolver/',
     keywords: ['resolver']
+  },
+  {
+    id: 338,
+    name: 'react-refetch',
+    install: {
+      packager: 'npm',
+      url: 'react-refetch'  
+    },
+    source: {
+      domain: 'github',
+      url: 'heroku/react-refetch'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://blog.heroku.com/react-refetch'
+    },
+    framework: 'React',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/heroku/react-refetch',
+    keywords: ['refetch']
+  },
+  {
+    id: 339,
+    name: 'react-responsive',
+    install: {
+      packager: 'npm',
+      url: 'react-responsive'  
+    },
+    source: {
+      domain: 'github',
+      url: 'contra/react-responsive'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://contra.io/react-responsive/'
+    },
+    framework: 'React',
+    version: '1.3.4',
+    license: 'MIT',
+    details: 'https://github.com/contra/react-responsive',
+    keywords: ['responsive']
   }
 ];
