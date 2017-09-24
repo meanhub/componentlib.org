@@ -6865,5 +6865,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://mobx.js.org/intro/overview.html',
     keywords: ['redux']
+  },
+  {
+    id: 324,
+    name: 'cerebral/cerebral',
+    install: {
+      packager: 'npm',
+      url: 'cerebral/cerebral'  
+    },
+    source: {
+      domain: 'github',
+      url: 'mobxjs/mobx-react'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://cerebraljs.com/docs/introduction/debugger.html#debugger-state-tree'
+    },
+    framework: 'React',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'https://cerebraljs.com',
+    keywords: ['codebase']
   }
 ];
