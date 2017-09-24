@@ -6421,7 +6421,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.6.1',
     license: 'MIT',
-    details: 'https://github.com/avocode/react-shortcuts,
+    details: 'https://github.com/avocode/react-shortcuts',
     keywords: ['shortcuts']
   },
   {
@@ -6442,7 +6442,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.0.0',
     license: 'MIT',
-    details: 'https://github.com/ayrton/react-key-handler,
+    details: 'https://github.com/ayrton/react-key-handler',
     keywords: ['key','handler']
   },
   {
@@ -6463,7 +6463,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.1.0',
     license: 'MIT',
-    details: 'https://github.com/orteth01/react-scroll-lock-component,
+    details: 'https://github.com/orteth01/react-scroll-lock-component',
     keywords: ['scroll','lock']
   },
   {
@@ -6484,7 +6484,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.5.0',
     license: 'MIT',
-    details: 'https://github.com/JedWatson/react-hammerjs,
+    details: 'https://github.com/JedWatson/react-hammerjs',
     keywords: ['hammer','touch']
   },
   {
@@ -6505,7 +6505,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.0.2',
     license: 'MIT',
-    details: 'https://github.com/JedWatson/react-tappable,
+    details: 'https://github.com/JedWatson/react-tappable',
     keywords: ['tappable']
   },
   {
@@ -6526,7 +6526,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '5.0.8',
     license: 'MIT',
-    details: 'https://github.com/voronianski/react-swipe,
+    details: 'https://github.com/voronianski/react-swipe',
     keywords: ['swipe']
   },
   {
@@ -6547,7 +6547,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.2.1',
     license: 'MIT',
-    details: 'https://github.com/gabrielbull/react-aim,
+    details: 'https://github.com/gabrielbull/react-aim',
     keywords: ['aim']
   },
   {
@@ -6568,7 +6568,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '3.1.0',
     license: 'MIT',
-    details: 'https://github.com/tajo/react-portal,
+    details: 'https://github.com/tajo/react-portal',
     keywords: ['portal']
   },
   {
@@ -6589,7 +6589,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '4.2.1',
     license: 'MIT',
-    details: 'https://github.com/fckt/react-layer-stack,
+    details: 'https://github.com/fckt/react-layer-stack',
     keywords: ['layer','stack']
   }
 ];
