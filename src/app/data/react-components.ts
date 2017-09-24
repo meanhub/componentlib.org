@@ -7202,5 +7202,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/contra/react-responsive',
     keywords: ['responsive']
+  },
+  {
+    id: 340,
+    name: 'inline-style-prefixer',
+    install: {
+      packager: 'npm',
+      url: 'inline-style-prefixer'  
+    },
+    source: {
+      domain: 'github',
+      url: 'rofrischmann/inline-style-prefixer'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://inline-style-prefixer.js.org/docs/UsageGuides.html'
+    },
+    framework: 'React',
+    version: '1.3.4',
+    license: 'MIT',
+    details: 'https://github.com/rofrischmann/inline-style-prefixer',
+    keywords: ['prefixer','style','inline']
   }
 ];
