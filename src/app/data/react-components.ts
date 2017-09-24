@@ -6381,5 +6381,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/glortho/react-keydown',
     keywords: ['keydown']
+  },
+  {
+    id: 301,
+    name: 'react-hotkeys',
+    install: {
+      packager: 'npm',
+      url: 'react-hotkeys'  
+    },
+    source: {
+      domain: 'github',
+      url: 'chrisui/react-hotkeys'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://glortho.github.io/react-keydown/example/index.html'
+    },
+    framework: 'React',
+    version: '1.10.0',
+    license: 'MIT',
+    details: 'https://chrisui.github.io/react-hotkeys/',
+    keywords: ['hotkeys']
   }
 ];
