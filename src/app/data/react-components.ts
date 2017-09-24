@@ -7076,5 +7076,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://strml.viewdocs.io/react-router-component/',
     keywords: ['router','component']
+  },
+  {
+    id: 334,
+    name: 'universal-router',
+    install: {
+      packager: 'npm',
+      url: 'universal-router'  
+    },
+    source: {
+      domain: 'github',
+      url: 'kriasoft/universal-router'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://www.kriasoft.com/universal-router/getting-started'
+    },
+    framework: 'React',
+    version: '4.2.0',
+    license: 'MIT',
+    details: 'https://www.kriasoft.com/universal-router/getting-started',
+    keywords: ['router','universal']
   }
 ];
