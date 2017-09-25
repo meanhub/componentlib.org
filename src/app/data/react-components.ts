@@ -8443,5 +8443,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.gatsbyjs.org/docs/',
     keywords: ['generator','static']
+  },
+  {
+    id: 399,
+    name: 'phenomic',
+    install: {
+      packager: 'npm',
+      url: 'phenomic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'phenomic/phenomic'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://phenomic.io/showcase'
+    },
+    framework: 'React',
+    version: 'v1.0.0-alpha.8',
+    license: 'MIT',
+    details: 'https://phenomic.io/',
+    keywords: ['modular','compiler']
   }
 ];
