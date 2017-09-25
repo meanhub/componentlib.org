@@ -8085,5 +8085,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/facebook/jest',
     keywords: ['testing','utility']
+  },
+  {
+    id: 382,
+    name: 'redux-devtools-inspector',
+    install: {
+      packager: 'npm',
+      url: 'redux-devtools-inspector'  
+    },
+    source: {
+      domain: 'github',
+      url: 'alexkuz/redux-devtools-inspector'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://alexkuz.github.io/redux-devtools-inspector/'
+    },
+    framework: 'React',
+    version: '0.11.3',
+    license: 'MIT',
+    details: 'https://github.com/alexkuz/redux-devtools-inspector',
+    keywords: ['devtools','inspector']
   }
 ];
