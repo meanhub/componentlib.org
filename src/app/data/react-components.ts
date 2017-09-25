@@ -7433,5 +7433,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://newtriks.com/2013/12/31/automating-react-with-yeoman-and-grunt/',
     keywords: ['generator','webpack']
+  },
+  {
+    id: 351,
+    name: 'redux-auth',
+    install: {
+      packager: 'npm',
+      url: 'redux-auth'  
+    },
+    source: {
+      domain: 'github',
+      url: 'lynndylanhurley/redux-auth'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://redux-auth.herokuapp.com/'
+    },
+    framework: 'React',
+    version: 'v0.0.5-beta5',
+    license: 'MIT',
+    details: 'https://github.com/lynndylanhurley/redux-auth',
+    keywords: ['redux','auth']
   }
 ];
