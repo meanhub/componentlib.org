@@ -7854,5 +7854,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://infernojs.org/',
     keywords: ['tiny size','performance','one-way architecture','asomorphic']
+  },
+  {
+    id: 371,
+    name: 'react-perf-tool',
+    install: {
+      packager: 'npm',
+      url: 'react-perf-tool'  
+    },
+    source: {
+      domain: 'github',
+      url: 'RamonGebben/react-perf-tool'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://packagequality.com/#?package=react-perf-tool'
+    },
+    framework: 'React',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'http://packagequality.com/#?package=react-perf-tool',
+    keywords: ['record ','performance','debug']
   }
 ];
