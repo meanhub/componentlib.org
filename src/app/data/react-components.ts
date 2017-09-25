@@ -8190,5 +8190,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Lapple/react-json-inspector',
     keywords: ['json','inspector']
+  },
+  {
+    id: 387,
+    name: 'atellier',
+    install: {
+      packager: 'npm',
+      url: 'atellier'  
+    },
+    source: {
+      domain: 'github',
+      url: 'scup/atellier'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://lapple.github.io/react-json-inspector/'
+    },
+    framework: 'React',
+    version: '7.1.0',
+    license: 'MIT',
+    details: 'http://scup.github.io/atellier/',
+    keywords: ['components','emulator']
   }
 ];
