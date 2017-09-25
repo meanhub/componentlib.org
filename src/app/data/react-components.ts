@@ -8127,5 +8127,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/romseguy/redux-devtools-chart-monitor',
     keywords: ['devtools','chart','monitor']
+  },
+  {
+    id: 384,
+    name: 'redux-devtools-filterable-log-monitor',
+    install: {
+      packager: 'npm',
+      url: 'redux-devtools-filterable-log-monitor'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bvaughn/redux-devtools-filterable-log-monitor'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://bvaughn.github.io/redux-devtools-filterable-log-monitor/'
+    },
+    framework: 'React',
+    version: '0.6.8',
+    license: 'MIT',
+    details: 'https://bvaughn.github.io/redux-devtools-filterable-log-monitor/',
+    keywords: ['devtools','filterable','monitor']
   }
 ];
