@@ -7833,5 +7833,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.google.com/recaptcha/intro/index.html',
     keywords: ['recaptcha']
+  },
+  {
+    id: 370,
+    name: 'inferno',
+    install: {
+      packager: 'npm',
+      url: 'inferno'  
+    },
+    source: {
+      domain: 'github',
+      url: 'infernojs/inferno'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://infernojs.org/'
+    },
+    framework: 'React',
+    version: '3.5.0',
+    license: 'MIT',
+    details: 'https://infernojs.org/',
+    keywords: ['tiny size','performance','one-way architecture','asomorphic']
   }
 ];
