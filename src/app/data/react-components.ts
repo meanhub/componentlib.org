@@ -8043,5 +8043,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://bruderstein.github.io/unexpected-react/',
     keywords: ['unexpected','testing']
+  },
+  {
+    id: 380,
+    name: 'enzyme',
+    install: {
+      packager: 'npm',
+      url: 'enzyme'  
+    },
+    source: {
+      domain: 'github',
+      url: 'airbnb/enzyme/'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://airbnb.io/enzyme/'
+    },
+    framework: 'React',
+    version: '2.9.1',
+    license: 'MIT',
+    details: 'http://airbnb.io/enzyme/',
+    keywords: ['testing','utility']
   }
 ];
