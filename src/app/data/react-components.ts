@@ -8253,5 +8253,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://react-cosmos.github.io/',
     keywords: ['validate','style','format code']
+  },
+  {
+    id: 390,
+    name: 'mighty-react-snippets',
+    install: {
+      packager: 'npm',
+      url: 'mighty-react-snippets'  
+    },
+    source: {
+      domain: 'github',
+      url: 'nicksp/mighty-react-snippets'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://atom.io/themes'
+    },
+    framework: 'React',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://atom.io/packages/mighty-react-snippets',
+    keywords: ['snippets','mighty']
   }
 ];
