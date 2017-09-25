@@ -377,7 +377,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '2.0.1',
     license: 'MIT',
     details: 'https://github.com/artemsky/vue-snotify',
-    keywords: ['vue', 'vuejs', 'vuejs 2', 'vue 2',  'Library', 'Notifications', 'Notification', 'Toast', 'toasts', 'toaster', 'promt', 'async', 'confirmation', 'notify', 'notie', 'notification-center', 'snotify', 'vue-snotify', 'vue2-snotify', 'vuejs notifications', 'vue notifications', 'vue toater']
+    keywords: ['vue', 'vuejs', 'vuejs 2', 'vue 2',  'library', 'notifications', 'notification', 'toast', 'toasts', 'toaster', 'promt', 'async', 'confirmation', 'notify', 'notie', 'notification-center', 'snotify', 'vue-snotify', 'vue2-snotify', 'vuejs notifications', 'vue notifications', 'vue toater']
   },
   {
     id: 17,
@@ -941,7 +941,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '1.1.1',
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-window',
-    keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'Window', 'UI', 'TypeSript', 'Vuejs']
+    keywords: ['vue', 'vuejs', 'confirm', 'dialog', 'alert', 'simple', 'window', 'ui', 'typeSript', 'vuejs']
   },
   {
     id: 42,
@@ -1010,7 +1010,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '1.0.3',
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-parallax',
-    keywords: ['vue.js', 'Vue', 'parallax', 'scrolling', 'image effect']
+    keywords: ['vue.js', 'vue', 'parallax', 'scrolling', 'image effect']
   },
   {
     id: 45,
@@ -1038,7 +1038,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '2.3.3',
     license: 'MIT',
     details: 'https://github.com/Justineo/vue-awesome',
-    keywords: ['Font Awesome', 'Vue.js']
+    keywords: ['font awesome', 'vue.js']
   },
   {
     id: 46,
@@ -1148,7 +1148,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '1.1.0',
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-menu',
-    keywords: ['vue', 'menu', 'Context Menu', 'vue.js', 'UI', 'TypeSript']
+    keywords: ['vue', 'menu', 'context menu', 'vue.js', 'ui', 'typeSript']
   },
   {
     id: 51,
@@ -1417,7 +1417,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '2.8.7',
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-chartjs',
-    keywords: ['ChartJs', 'Vue', 'Visualisation', 'Wrapper', 'Charts']
+    keywords: ['chartJs', 'vue', 'visualisation', 'wrapper', 'charts']
   },
   {
     id: 63,
@@ -1439,7 +1439,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '1.2.8',
     license: 'MIT',
     details: 'https://github.com/hchstera/vue-charts',
-    keywords: ['ChartJs','Chart.Js', 'Vue', 'Vuejs','laravel', 'chart', 'Charts']
+    keywords: ['chartJs','chart.js', 'vue', 'vuejs','laravel', 'chart', 'charts']
   },
   {
     id: 64,
@@ -1467,7 +1467,7 @@ export const VUE_COMPONENTS: any[] = [{
     version: '2.4.1',
     license: 'MIT',
     details: 'https://github.com/Justineo/vue-echarts',
-    keywords: ['ECharts','Vue', 'Vuejs']
+    keywords: ['echarts','vue', 'vuejs']
   },
   {
     id: 65,
