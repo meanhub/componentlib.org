@@ -8401,5 +8401,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/zackargyle/react-bash',
     keywords: ['bash','terminal']
+  },
+  {
+    id: 397,
+    name: 'html-to-react-components',
+    install: {
+      packager: 'npm',
+      url: 'html-to-react-components'  
+    },
+    source: {
+      domain: 'github',
+      url: 'roman01la/html-to-react-components'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://roman01la.github.io/html-to-react-components/'
+    },
+    framework: 'React',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'http://roman01la.github.io/html-to-react-components/',
+    keywords: ['html','components']
   }
 ];
