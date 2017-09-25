@@ -7770,5 +7770,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://pixelscommander.com/polygon/reactive-elements/example/#.WcjePcgjHIU',
     keywords: ['component','element']
+  },
+  {
+    id: 367,
+    name: 'react-elm-components',
+    install: {
+      packager: 'npm',
+      url: 'react-elm-components'  
+    },
+    source: {
+      domain: 'github',
+      url: 'evancz/react-elm-components'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://evancz.github.io/react-elm-components/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/evancz/react-elm-components',
+    keywords: ['component','element']
   }
 ];
