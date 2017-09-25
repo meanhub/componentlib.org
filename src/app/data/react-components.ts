@@ -7707,5 +7707,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://shakacode.gitbooks.io/react-on-rails/content/',
     keywords: ['rails']
+  },
+  {
+    id: 364,
+    name: 'react-backbone',
+    install: {
+      packager: 'npm',
+      url: 'react-backbone'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jhudson8/react-backbone'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jhudson8.github.io/fancydocs/index.html#project/jhudson8/react-backbone/snippet/package/Select'
+    },
+    framework: 'React',
+    version: '1.0.5',
+    license: 'MIT',
+    details: 'http://jhudson8.github.io/fancydocs/index.html#project/jhudson8/react-backbone/snippet/package/Select',
+    keywords: ['backbone']
   }
 ];
