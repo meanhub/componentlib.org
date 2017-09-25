@@ -7959,5 +7959,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://bvaughn.github.io/react-virtualized/#/components/List',
     keywords: ['virtualized']
+  },
+  {
+    id: 376,
+    name: 'react-lite',
+    install: {
+      packager: 'npm',
+      url: 'react-lite'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Lucifier129/react-lite'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://lucifier129.github.io/material-ui/build/#/components/app-bar'
+    },
+    framework: 'React',
+    version: '0.15.38',
+    license: 'MIT',
+    details: 'https://github.com/Lucifier129/react-lite',
+    keywords: ['lite']
   }
 ];
