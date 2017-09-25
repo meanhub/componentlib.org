@@ -7580,5 +7580,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://react-famous.github.io',
     keywords: ['internationalization','translations']
+  },
+  {
+    id: 358,
+    name: 'backbone-react-component',
+    install: {
+      packager: 'npm',
+      url: 'backbone-react-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'magalhas/backbone-react-component'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://magalhas.github.io/backbone-react-component/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://magalhas.github.io/backbone-react-component/',
+    keywords: ['backbone','component']
   }
 ];
