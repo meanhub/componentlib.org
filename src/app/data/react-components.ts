@@ -8001,5 +8001,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://philcockfield.gitbooks.io/ui-harness/content/index.html',
     keywords: ['harness']
+  },
+  {
+    id: 378,
+    name: 'redux-test-recorder',
+    install: {
+      packager: 'npm',
+      url: 'redux-test-recorder'  
+    },
+    source: {
+      domain: 'github',
+      url: 'conorhastings/redux-test-recorder'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://conor.rodeo/redux-test-recorder/demo/'
+    },
+    framework: 'React',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'https://github.com/conorhastings/redux-test-recorder',
+    keywords: ['test','recorder']
   }
 ];
