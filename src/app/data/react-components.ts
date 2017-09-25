@@ -7791,5 +7791,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/evancz/react-elm-components',
     keywords: ['component','element']
+  },
+  {
+    id: 368,
+    name: 'react-stripe-checkout',
+    install: {
+      packager: 'npm',
+      url: 'react-stripe-checkout'  
+    },
+    source: {
+      domain: 'github',
+      url: 'azmenak/react-stripe-checkout'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.robinwieruch.de/react-express-stripe-payment/'
+    },
+    framework: 'React',
+    version: '2.6.3',
+    license: 'MIT',
+    details: 'https://www.robinwieruch.de/react-express-stripe-payment/',
+    keywords: ['stripe','checkout']
   }
 ];
