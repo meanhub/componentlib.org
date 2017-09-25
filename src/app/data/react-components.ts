@@ -7559,5 +7559,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://react.i18next.com/',
     keywords: ['internationalization','translations']
+  },
+  {
+    id: 357,
+    name: 'react-famous',
+    install: {
+      packager: 'npm',
+      url: 'react-famous'  
+    },
+    source: {
+      domain: 'github',
+      url: 'pilwon/react-famous'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://react-famous.github.io/#/modifiers/Draggable'
+    },
+    framework: 'React',
+    version: '0.1.7',
+    license: 'MIT',
+    details: 'http://react-famous.github.io',
+    keywords: ['internationalization','translations']
   }
 ];
