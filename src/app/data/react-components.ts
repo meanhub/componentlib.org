@@ -8148,5 +8148,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://bvaughn.github.io/redux-devtools-filterable-log-monitor/',
     keywords: ['devtools','filterable','monitor']
+  },
+  {
+    id: 385,
+    name: 'react-inspector',
+    install: {
+      packager: 'npm',
+      url: 'react-inspector'  
+    },
+    source: {
+      domain: 'github',
+      url: 'xyc/react-inspector'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://xyc.github.io/react-inspector/'
+    },
+    framework: 'React',
+    version: '2.1.6',
+    license: 'MIT',
+    details: 'https://github.com/xyc/react-inspector',
+    keywords: ['devtools','inspector']
   }
 ];
