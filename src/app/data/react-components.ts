@@ -8464,5 +8464,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://andreypopp.github.io/sitegen/',
     keywords: ['generator','static']
+  },
+  {
+    id: 400,
+    name: 'webpack',
+    install: {
+      packager: 'npm',
+      url: 'webpack'  
+    },
+    source: {
+      domain: 'github',
+      url: 'webpack/webpack'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://webpack.github.io/'
+    },
+    framework: 'React',
+    version: '3.6.0',
+    license: 'MIT',
+    details: 'https://github.com/webpack/webpack',
+    keywords: ['module','bundler','packaging']
   }
 ];
