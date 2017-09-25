@@ -7531,12 +7531,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src:'https://react-translate-demo.andert.io/'
+      src:'http://zpao.github.io/qrcode.react/'
     },
     framework: 'React',
     version: '0.7.0',
     license: 'MIT',
     details: 'http://zpao.github.io/qrcode.react/',
     keywords: ['qrcode']
+  },
+  {
+    id: 356,
+    name: 'react-i18next',
+    install: {
+      packager: 'npm',
+      url: 'react-i18next'  
+    },
+    source: {
+      domain: 'github',
+      url: 'i18next/react-i18next'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://react.i18next.com/'
+    },
+    framework: 'React',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://react.i18next.com/',
+    keywords: ['internationalization','translations']
   }
 ];
