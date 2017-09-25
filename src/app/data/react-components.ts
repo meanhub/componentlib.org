@@ -8359,5 +8359,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sonnylazuardi/react-komik',
     keywords: ['komik']
+  },
+  {
+    id: 395,
+    name: 'mozaik',
+    install: {
+      packager: 'npm',
+      url: 'mozaik'  
+    },
+    source: {
+      domain: 'github',
+      url: 'plouc/mozaik'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://mozaik.herokuapp.com/'
+    },
+    framework: 'React',
+    version: '1.4.4',
+    license: 'MIT',
+    details: 'http://mozaik.rocks/',
+    keywords: ['tool','dashboards']
   }
 ];
