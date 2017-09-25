@@ -7728,5 +7728,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jhudson8.github.io/fancydocs/index.html#project/jhudson8/react-backbone/snippet/package/Select',
     keywords: ['backbone']
+  },
+  {
+    id: 365,
+    name: 'react-backbone',
+    install: {
+      packager: 'npm',
+      url: 'react-backbone'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jhudson8/react-backbone'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jhudson8.github.io/fancydocs/index.html#project/jhudson8/react-backbone/snippet/package/Select'
+    },
+    framework: 'React',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'http://jhudson8.github.io/fancydocs/index.html#project/jhudson8/react-backbone/snippet/package/Select',
+    keywords: ['backbone']
+  },
+  {
+    id: 366,
+    name: 'my-react-component',
+    install: {
+      packager: 'npm',
+      url: 'my-react-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'PixelsCommander/ReactiveElements'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://pixelscommander.com/polygon/reactive-elements/example/#.WcjePcgjHIU'
+    },
+    framework: 'React',
+    version: '0.6.8',
+    license: 'MIT',
+    details: 'http://pixelscommander.com/polygon/reactive-elements/example/#.WcjePcgjHIU',
+    keywords: ['component','element']
   }
 ];
