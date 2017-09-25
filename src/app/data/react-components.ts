@@ -8193,10 +8193,10 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 387,
-    name: 'atellier',
+    name: 'react-atellier',
     install: {
       packager: 'npm',
-      url: 'atellier'  
+      url: 'react-atellier'  
     },
     source: {
       domain: 'github',
@@ -8204,12 +8204,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src : 'https://lapple.github.io/react-json-inspector/'
+      src : 'http://scup.github.io/atellier/material-ui-atellier/'
     },
     framework: 'React',
-    version: '7.1.0',
+    version: '0.1.13',
     license: 'MIT',
     details: 'http://scup.github.io/atellier/',
     keywords: ['components','emulator']
+  },
+  {
+    id: 388,
+    name: 'standard',
+    install: {
+      packager: 'npm',
+      url: 'standard'  
+    },
+    source: {
+      domain: 'github',
+      url: 'standard/standard'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://standardjs.com/demo.html?gist=5bb585ed2585430e0c53&file=index.js'
+    },
+    framework: 'React',
+    version: '10.1.3',
+    license: 'MIT',
+    details: 'https://standardjs.com/',
+    keywords: ['validate','style','format code']
   }
 ];
