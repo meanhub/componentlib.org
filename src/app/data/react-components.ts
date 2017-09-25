@@ -7492,9 +7492,30 @@ export const REACT_COMPONENTS: any[] = [
       src:'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/'
     },
     framework: 'React',
-    version: '1.2.0',
+    version: '4.0.3',
     license: 'MIT',
     details: 'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/',
     keywords: ['faux','dom']
+  },
+  {
+    id: 354,
+    name: 'react-translate-component',
+    install: {
+      packager: 'npm',
+      url: 'react-translate-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'martinandert/react-translate-component'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://react-translate-demo.andert.io/'
+    },
+    framework: 'React',
+    version: '0.14.0',
+    license: 'MIT',
+    details: 'https://github.com/martinandert/react-translate-component',
+    keywords: ['translate','component']
   }
 ];
