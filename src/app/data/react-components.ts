@@ -8106,5 +8106,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/alexkuz/redux-devtools-inspector',
     keywords: ['devtools','inspector']
+  },
+  {
+    id: 383,
+    name: 'redux-devtools-chart-monitor',
+    install: {
+      packager: 'npm',
+      url: 'redux-devtools-chart-monitor'  
+    },
+    source: {
+      domain: 'github',
+      url: 'romseguy/redux-devtools-chart-monitor'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://romseguy.github.io/redux-store-visualizer/'
+    },
+    framework: 'React',
+    version: '1.6.1',
+    license: 'MIT',
+    details: 'https://github.com/romseguy/redux-devtools-chart-monitor',
+    keywords: ['devtools','chart','monitor']
   }
 ];
