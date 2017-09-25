@@ -8362,23 +8362,23 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 395,
-    name: 'mozaik',
+    name: 'react-magic',
     install: {
       packager: 'npm',
-      url: 'mozaik'  
+      url: 'react-magic'  
     },
     source: {
       domain: 'github',
-      url: 'plouc/mozaik'
+      url: 'reactjs/react-magic'
     },
     demo: {
       repl: 'custom',
-      src:'http://mozaik.herokuapp.com/'
+      src:'http://stuff.dan.cx/facebook/react-hacks/magic/red.php'
     },
     framework: 'React',
-    version: '1.4.4',
+    version: '0.3.0',
     license: 'MIT',
-    details: 'http://mozaik.rocks/',
-    keywords: ['tool','dashboards']
+    details: 'https://github.com/reactjs/react-magic',
+    keywords: ['ajax','webpages','magic']
   }
 ];
