@@ -8274,5 +8274,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://atom.io/packages/mighty-react-snippets',
     keywords: ['snippets','mighty']
+  },
+  {
+    id: 391,
+    name: 'react-styleguidist',
+    install: {
+      packager: 'npm',
+      url: 'react-styleguidist'  
+    },
+    source: {
+      domain: 'github',
+      url: 'styleguidist/react-styleguidist'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://react-styleguidist.js.org/examples/basic/'
+    },
+    framework: 'React',
+    version: '0.0.0-development',
+    license: 'MIT',
+    details: 'https://atom.io/packages/mighty-react-snippets',
+    keywords: ['style','guide']
   }
 ];
