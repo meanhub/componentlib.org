@@ -8422,5 +8422,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://roman01la.github.io/html-to-react-components/',
     keywords: ['html','components']
+  },
+  {
+    id: 398,
+    name: 'gatsby',
+    install: {
+      packager: 'npm',
+      url: 'gatsby'  
+    },
+    source: {
+      domain: 'github',
+      url: 'gatsbyjs/gatsby'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://www.gatsbyjs.org/docs/'
+    },
+    framework: 'React',
+    version: '1.9.43',
+    license: 'MIT',
+    details: 'https://www.gatsbyjs.org/docs/',
+    keywords: ['generator','static']
   }
 ];
