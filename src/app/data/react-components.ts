@@ -8337,5 +8337,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://react-cosmos.github.io/',
     keywords: ['cosmos']
+  },
+  {
+    id: 394,
+    name: 'react-komik',
+    install: {
+      packager: 'npm',
+      url: 'react-komik'  
+    },
+    source: {
+      domain: 'github',
+      url: 'sonnylazuardi/react-komik'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'sonnylazuardi',
+      id : 'JGKmGE'
+    },
+    framework: 'React',
+    version: '0.0.5',
+    license: 'MIT',
+    details: 'https://github.com/sonnylazuardi/react-komik',
+    keywords: ['komik']
   }
 ];
