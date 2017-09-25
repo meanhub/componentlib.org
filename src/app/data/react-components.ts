@@ -7664,5 +7664,27 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://projectseptemberinc.gitbooks.io/gl-react/content/index.html',
     keywords: ['webgl','opengl','effects']
+  },
+  {
+    id: 362,
+    name: 'react-d3-library',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-library'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3-library/react-d3-library'
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'sain_anky',
+      id: 'NabZXO'
+    },
+    framework: 'React',
+    version: '1.1.8',
+    license: 'MIT',
+    details: 'https://projectseptemberinc.gitbooks.io/gl-react/content/index.html',
+    keywords: ['flexibility','templates','virtual dom']
   }
 ];
