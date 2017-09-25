@@ -7980,5 +7980,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Lucifier129/react-lite',
     keywords: ['lite']
+  },
+  {
+    id: 377,
+    name: 'ui-harness',
+    install: {
+      packager: 'npm',
+      url: 'ui-harness'  
+    },
+    source: {
+      domain: 'github',
+      url: 'philcockfield/ui-harness'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://philcockfield.gitbooks.io/ui-harness/content/index.html'
+    },
+    framework: 'React',
+    version: '3.19.20',
+    license: 'MIT',
+    details: 'https://philcockfield.gitbooks.io/ui-harness/content/index.html',
+    keywords: ['harness']
   }
 ];
