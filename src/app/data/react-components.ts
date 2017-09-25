@@ -7475,5 +7475,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://bvaughn.github.io/redux-search/',
     keywords: ['redux','search']
+  },
+  {
+    id: 353,
+    name: 'react-faux-dom',
+    install: {
+      packager: 'npm',
+      url: 'react-faux-dom'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Olical/react-faux-dom'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/'
+    },
+    framework: 'React',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/',
+    keywords: ['faux','dom']
   }
 ];
