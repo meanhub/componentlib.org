@@ -7601,5 +7601,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://magalhas.github.io/backbone-react-component/',
     keywords: ['backbone','component']
+  },
+  {
+    id: 359,
+    name: 'elm-react-component',
+    install: {
+      packager: 'npm',
+      url: 'elm-react-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'KtorZ/elm-react-component'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://ktorz.github.io/elm-react-component/basic/'
+    },
+    framework: 'React',
+    version: '0.4.1',
+    license: 'MIT',
+    details: 'https://github.com/KtorZ/elm-react-component',
+    keywords: ['elm','component']
   }
 ];
