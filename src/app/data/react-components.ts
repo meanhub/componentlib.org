@@ -8446,23 +8446,23 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 399,
-    name: 'phenomic',
+    name: 'sitegen',
     install: {
       packager: 'npm',
-      url: 'phenomic'  
+      url: 'sitegen'  
     },
     source: {
       domain: 'github',
-      url: 'phenomic/phenomic'
+      url: 'andreypopp/sitegen'
     },
     demo: {
       repl: 'custom',
-      src:'https://phenomic.io/showcase'
+      src:'http://andreypopp.github.io/sitegen/tutorial'
     },
     framework: 'React',
-    version: 'v1.0.0-alpha.8',
+    version: '0.29.0',
     license: 'MIT',
-    details: 'https://phenomic.io/',
-    keywords: ['modular','compiler']
+    details: 'http://andreypopp.github.io/sitegen/',
+    keywords: ['generator','static']
   }
 ];
