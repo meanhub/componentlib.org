@@ -7812,5 +7812,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.robinwieruch.de/react-express-stripe-payment/',
     keywords: ['stripe','checkout']
+  },
+  {
+    id: 369,
+    name: 'react-recaptcha',
+    install: {
+      packager: 'npm',
+      url: 'react-recaptcha'  
+    },
+    source: {
+      domain: 'github',
+      url: 'appleboy/react-recaptcha'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.google.com/recaptcha/intro/index.html'
+    },
+    framework: 'React',
+    version: '2.3.5',
+    license: 'MIT',
+    details: 'https://www.google.com/recaptcha/intro/index.html',
+    keywords: ['recaptcha']
   }
 ];
