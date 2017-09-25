@@ -7622,5 +7622,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/KtorZ/elm-react-component',
     keywords: ['elm','component']
+  },
+  {
+    id: 360,
+    name: 'react-three-renderer',
+    install: {
+      packager: 'npm',
+      url: 'react-three-renderer'  
+    },
+    source: {
+      domain: 'github',
+      url: 'toxicFork/react-three-renderer'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://toxicfork.github.io/react-three-renderer-example/#/webgl_simple'
+    },
+    framework: 'React',
+    version: '3.2.1',
+    license: 'MIT',
+    details: 'http://toxicfork.github.io/react-three-renderer-example/#/',
+    keywords: ['renderer']
   }
 ];
