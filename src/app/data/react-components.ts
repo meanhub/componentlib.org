@@ -7896,5 +7896,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/redsunsoft/react-render-visualizer',
     keywords: ['render ','visualizer']
+  },
+  {
+    id: 373,
+    name: 'react-lazyload',
+    install: {
+      packager: 'npm',
+      url: 'react-lazyload'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jasonslyvia/react-lazyload'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://jasonslyvia.github.io/react-lazyload/examples/#/normal?_k=16burp'
+    },
+    framework: 'React',
+    version: '2.2.7',
+    license: 'MIT',
+    details: 'https://github.com/jasonslyvia/react-lazyload',
+    keywords: ['lazyload']
   }
 ];
