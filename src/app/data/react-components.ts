@@ -7517,5 +7517,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/martinandert/react-translate-component',
     keywords: ['translate','component']
+  },
+  {
+    id: 355,
+    name: 'qrcode.react',
+    install: {
+      packager: 'npm',
+      url: 'qrcode.react'  
+    },
+    source: {
+      domain: 'github',
+      url: 'zpao/qrcode.react'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://react-translate-demo.andert.io/'
+    },
+    framework: 'React',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'http://zpao.github.io/qrcode.react/',
+    keywords: ['qrcode']
   }
 ];
