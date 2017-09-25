@@ -8232,5 +8232,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://standardjs.com/',
     keywords: ['validate','style','format code']
+  },
+  {
+    id: 389,
+    name: 'react-cosmos',
+    install: {
+      packager: 'npm',
+      url: 'react-cosmos'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-cosmos/react-cosmos'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://react-cosmos.github.io/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://react-cosmos.github.io/',
+    keywords: ['validate','style','format code']
   }
 ];
