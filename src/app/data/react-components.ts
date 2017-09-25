@@ -7875,5 +7875,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://packagequality.com/#?package=react-perf-tool',
     keywords: ['record ','performance','debug']
+  },
+  {
+    id: 372,
+    name: 'react-render-visualizer',
+    install: {
+      packager: 'npm',
+      url: 'react-render-visualizer'  
+    },
+    source: {
+      domain: 'github',
+      url: 'redsunsoft/react-render-visualizer'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://cloud.githubusercontent.com/assets/3999910/6566152/ba047a42-c673-11e4-9833-1e78de51abc1.gif'
+    },
+    framework: 'React',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://github.com/redsunsoft/react-render-visualizer',
+    keywords: ['render ','visualizer']
   }
 ];
