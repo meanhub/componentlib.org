@@ -7643,5 +7643,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://toxicfork.github.io/react-three-renderer-example/#/',
     keywords: ['renderer']
+  },
+  {
+    id: 361,
+    name: 'gl-react-v2',
+    install: {
+      packager: 'npm',
+      url: 'gl-react-v2'  
+    },
+    source: {
+      domain: 'github',
+      url: 'gre/gl-react-v2'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://projectseptemberinc.gitbooks.io/gl-react/content/index.html'
+    },
+    framework: 'React',
+    version: '2.3.0',
+    license: 'MIT',
+    details: 'https://projectseptemberinc.gitbooks.io/gl-react/content/index.html',
+    keywords: ['webgl','opengl','effects']
   }
 ];
