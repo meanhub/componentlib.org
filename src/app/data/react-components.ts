@@ -8169,5 +8169,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/xyc/react-inspector',
     keywords: ['devtools','inspector']
+  },
+  {
+    id: 386,
+    name: 'react-json-inspector',
+    install: {
+      packager: 'npm',
+      url: 'react-json-inspector'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Lapple/react-json-inspector'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://lapple.github.io/react-json-inspector/'
+    },
+    framework: 'React',
+    version: '7.1.0',
+    license: 'MIT',
+    details: 'https://github.com/Lapple/react-json-inspector',
+    keywords: ['json','inspector']
   }
 ];
