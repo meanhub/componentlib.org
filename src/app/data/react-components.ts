@@ -8295,5 +8295,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://atom.io/packages/mighty-react-snippets',
     keywords: ['style','guide']
+  },
+  {
+    id: 392,
+    name: 'structor-market',
+    install: {
+      packager: 'npm',
+      url: 'structor-market'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ipselon/structor-market'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'ipselon/structor-market'
+    },
+    framework: 'React',
+    version: '0.1.8',
+    license: 'MIT',
+    details: 'https://helmetrex.com/',
+    keywords: ['structor','market']
   }
 ];
