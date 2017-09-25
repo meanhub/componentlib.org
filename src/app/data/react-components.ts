@@ -8064,5 +8064,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://airbnb.io/enzyme/',
     keywords: ['testing','utility']
+  },
+  {
+    id: 381,
+    name: 'jest',
+    install: {
+      packager: 'npm',
+      url: 'jest'  
+    },
+    source: {
+      domain: 'github',
+      url: 'facebook/jest'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://facebook.github.io/jest/#use'
+    },
+    framework: 'React',
+    version: '21.1.0',
+    license: 'MIT',
+    details: 'https://github.com/facebook/jest',
+    keywords: ['testing','utility']
   }
 ];
