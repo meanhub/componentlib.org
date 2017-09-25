@@ -8022,5 +8022,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/conorhastings/redux-test-recorder',
     keywords: ['test','recorder']
+  },
+  {
+    id: 379,
+    name: 'unexpected-react',
+    install: {
+      packager: 'npm',
+      url: 'unexpected-react'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bruderstein/unexpected-react'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bruderstein.github.io/unexpected-react/'
+    },
+    framework: 'React',
+    version: '4.0.0',
+    license: 'MIT',
+    details: 'http://bruderstein.github.io/unexpected-react/',
+    keywords: ['unexpected','testing']
   }
 ];
