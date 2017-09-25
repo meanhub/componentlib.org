@@ -7931,12 +7931,33 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src : 'http://ggordan.com/post/react-infinite-grid.html '
+      src : 'http://ggordan.com/post/react-infinite-grid.html'
     },
     framework: 'React',
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/ggordan/react-infinite-grid',
     keywords: ['infinite','grid']
+  },
+  {
+    id: 375,
+    name: 'react-virtualized',
+    install: {
+      packager: 'npm',
+      url: 'react-virtualized'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bvaughn/react-virtualized'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://bvaughn.github.io/react-virtualized/#/components/List'
+    },
+    framework: 'React',
+    version: '9.10.1',
+    license: 'MIT',
+    details: 'https://bvaughn.github.io/react-virtualized/#/components/List',
+    keywords: ['virtualized']
   }
 ];
