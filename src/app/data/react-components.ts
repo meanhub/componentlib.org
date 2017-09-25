@@ -8380,5 +8380,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/reactjs/react-magic',
     keywords: ['ajax','webpages','magic']
+  },
+  {
+    id: 396,
+    name: 'react-bash',
+    install: {
+      packager: 'npm',
+      url: 'react-bash'  
+    },
+    source: {
+      domain: 'github',
+      url: 'zackargyle/react-bash'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://zackargyle.github.io/react-bash/'
+    },
+    framework: 'React',
+    version: '1.5.3',
+    license: 'MIT',
+    details: 'https://github.com/zackargyle/react-bash',
+    keywords: ['bash','terminal']
   }
 ];
