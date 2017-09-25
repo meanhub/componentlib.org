@@ -7454,5 +7454,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/lynndylanhurley/redux-auth',
     keywords: ['redux','auth']
+  },
+  {
+    id: 352,
+    name: 'redux-search',
+    install: {
+      packager: 'npm',
+      url: 'redux-search'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bvaughn/redux-search'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://bvaughn.github.io/redux-search/'
+    },
+    framework: 'React',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://bvaughn.github.io/redux-search/',
+    keywords: ['redux','search']
   }
 ];
