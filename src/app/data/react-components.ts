@@ -8305,7 +8305,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     source: {
       domain: 'github',
-      url: 'ipselon/structor-market'
+      url: 'https://helmetrex.com/'
     },
     demo: {
       repl: 'custom',
@@ -8316,5 +8316,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://helmetrex.com/',
     keywords: ['structor','market']
+  },
+  {
+    id: 393,
+    name: 'react-cosmos',
+    install: {
+      packager: 'npm',
+      url: 'react-cosmos'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-cosmos/react-cosmos'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://react-cosmos.github.io/'
+    },
+    framework: 'React',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://react-cosmos.github.io/',
+    keywords: ['cosmos']
   }
 ];
