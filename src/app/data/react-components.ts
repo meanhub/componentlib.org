@@ -7667,14 +7667,14 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 362,
-    name: 'react-d3-library',
+    name: 'gl-react-dom-v2',
     install: {
       packager: 'npm',
-      url: 'react-d3-library'  
+      url: 'gl-react-dom-v2'  
     },
     source: {
       domain: 'github',
-      url: 'react-d3-library/react-d3-library'
+      url: 'gre/gl-react-dom-v2'
     },
     demo: {
       repl: 'codepen',
@@ -7686,5 +7686,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://projectseptemberinc.gitbooks.io/gl-react/content/index.html',
     keywords: ['flexibility','templates','virtual dom']
+  },
+  {
+    id: 363,
+    name: 'react-on-rails',
+    install: {
+      packager: 'npm',
+      url: 'react-on-rails'  
+    },
+    source: {
+      domain: 'github',
+      url: 'shakacode/react_on_rails'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://shakacode.gitbooks.io/react-on-rails/content/'
+    },
+    framework: 'React',
+    version: '9.0.3',
+    license: 'MIT',
+    details: 'https://shakacode.gitbooks.io/react-on-rails/content/',
+    keywords: ['rails']
   }
 ];
