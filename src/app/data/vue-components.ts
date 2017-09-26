@@ -1849,6 +1849,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/shershen08/vuejs-sound-player',
     keywords: ['sound', 'mp3', 'wav', 'player', 'vue', 'vue.js']
+  },
+  {
+    id: 82,
+    name: 'vue-dplayer',
+    install: {
+      packager: 'npm',
+      url: 'vue-dplayer'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MoePlayer/vue-dplayer',
+    stars: 106
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://dplayer.surge.sh'
+  },
+    framework: 'Vue',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/MoePlayer/vue-dplayer',
+    keywords: ['player', 'component', 'vue', 'vue.js']
   }
 
 ];
