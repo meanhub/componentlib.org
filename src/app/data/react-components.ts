@@ -8779,5 +8779,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org',
     keywords: ['d3','chart','tooltip','brush','zoom']
+  },
+  {
+    id: 415,
+    name: 'react-d3-map-mobile',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-map-mobile'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-map-mobile'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://github.com/react-d3/react-d3-map-mobile#example'
+    },
+    framework: 'React',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-map-mobile',
+    keywords: ['d3','map','mobile']
   }
 ];
