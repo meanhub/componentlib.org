@@ -8714,7 +8714,28 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.1.3',
     license: 'MIT',
-    details: 'https://github.com/react-d3/react-d3-mobile-card  ',
+    details: 'https://github.com/react-d3/react-d3-mobile-card',
+    keywords: ['d3','mobile','card']
+  },
+  {
+    id: 412,
+    name: 'react-d3-map',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-map'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-map'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://interactive.reactd3.org/test-multipolygon.html'
+    },
+    framework: 'React',
+    version: '0.8.3',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-map',
     keywords: ['d3','mobile','card']
   }
 ];
