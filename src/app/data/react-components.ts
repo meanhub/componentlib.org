@@ -8506,5 +8506,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://touchstonejs.io/',
     keywords: ['components','ui','touch']
+  },
+  {
+    id: 402,
+    name: 'canner-core',
+    install: {
+      packager: 'npm',
+      url: 'canner-core'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3.github.io'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/components/'
+    },
+    framework: 'React',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/',
+    keywords: ['canner','charts']
   }
 ];
