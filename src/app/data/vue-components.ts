@@ -2138,6 +2138,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Apache License - 2.0',
     details: 'http://fusejs.io',
     keywords: ['vuejs','fuse','fuzzy-search','vue-fuse','vue']
+  },
+  {
+    id: 95,
+    name: 'vue-instantsearch',
+    install: {
+      packager: 'npm',
+      url: 'vue-instantsearch'
+    },  
+    source: {
+      domain: 'github',
+      url: 'algolia/vue-instantsearch/',
+    stars: 185
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'rayrutjes',
+      id: 'dWBMje'
+    },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://community.algolia.com/vue-instantsearch/',
+    keywords: ['vue','algolia', 'search', 'instantsearch', 'components', 'ui', 'facet', 'autocomplete']
   }
 
 ];
