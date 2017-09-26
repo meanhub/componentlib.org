@@ -5639,7 +5639,7 @@ export const REACT_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      src: 'http://elemental-ui.com/'
+      src: 'http://elemental-ui.com/spinner'
     },
     framework: 'React',
     version: '0.7.0', 
@@ -8235,24 +8235,24 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 389,
-    name: 'react-cosmos',
+    name: 'react-photonkit',
     install: {
       packager: 'npm',
-      url: 'react-cosmos'  
+      url: 'react-photonkit'  
     },
     source: {
       domain: 'github',
-      url: 'react-cosmos/react-cosmos'
+      url: 'react-photonkit/react-photonkit'
     },
     demo: {
       repl: 'custom',
-      src : 'https://react-cosmos.github.io/'
+      src : 'http://react-photonkit.github.io/#/components'
     },
     framework: 'React',
-    version: '2.0.0',
+    version: '0.4.1',
     license: 'MIT',
-    details: 'https://react-cosmos.github.io/',
-    keywords: ['validate','style','format code']
+    details: 'http://react-photonkit.github.io/#/',
+    keywords: ['components','ui','modules']
   },
   {
     id: 390,
@@ -8485,5 +8485,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/webpack/webpack',
     keywords: ['module','bundler','packaging']
+  },
+  {
+    id: 401,
+    name: 'touchstonejs-starter',
+    install: {
+      packager: 'npm',
+      url: 'touchstonejs-starter'  
+    },
+    source: {
+      domain: 'github',
+      url: 'touchstonejs/touchstonejs-starter'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://touchstonejs.github.io/touchstonejs-starter/'
+    },
+    framework: 'React',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://touchstonejs.io/',
+    keywords: ['components','ui','touch']
   }
 ];
