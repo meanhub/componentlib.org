@@ -1915,6 +1915,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://peachscript.github.io/vue-infinite-loading/#!/installation',
     keywords: ['vue', 'vue components', 'infinite loading', 'infinite scroll', 'vue infinite']
+  },
+  {
+    id: 85,
+    name: 'vue-mugen-scroll',
+    install: {
+      packager: 'npm',
+      url: 'vue-mugen-scroll'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'egoist/vue-mugen-scroll',
+    stars: 303
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://egoist.moe/vue-mugen-scroll/'
+  },
+    framework: 'Vue',
+    version: '0.2.5',
+    license: 'MIT',
+    details: 'https://github.com/egoist/vue-mugen-scroll',
+    keywords: ['vue', 'infinite scroll', 'scroll', 'infinite', 'ui', 'component']
   }
 
 ];
