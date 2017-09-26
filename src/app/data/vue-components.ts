@@ -1824,6 +1824,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/SevenOutman/vue-aplayer',
     keywords: ['vue', 'aplayer', 'player', 'music', 'html5']
+  },
+  {
+    id: 81,
+    name: 'vuejs-sound-player',
+    install: [{
+      packager: 'npm',
+      url: 'vue-audio'
+    }, {
+      packager: 'bower',
+      url: 'vue-audio'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'shershen08/vuejs-sound-player',
+    stars: 47
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://shershen08.github.io/vue-plugins-demo-static/index.html#/sound'
+  },
+    framework: 'Vue',
+    version: '0.0.7',
+    license: 'MIT',
+    details: 'https://github.com/shershen08/vuejs-sound-player',
+    keywords: ['sound', 'mp3', 'wav', 'player', 'vue', 'vue.js']
   }
 
 ];
