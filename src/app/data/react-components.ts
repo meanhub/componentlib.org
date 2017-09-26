@@ -8674,5 +8674,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-animation',
     keywords: ['d3','toggle','chart']
+  },
+  {
+    id: 410,
+    name: 'bar2pie',
+    install: {
+      packager: 'npm',
+      url: 'bar2pie'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/adaptive-data-design/blob/gh-pages/bar2pie'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://add.reactd3.org/demo/demo3.html'
+    },
+    framework: 'React',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/adaptive-data-design/blob/gh-pages/bar2pie',
+    keywords: ['d3','data','design']
   }
 ];
