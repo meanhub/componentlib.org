@@ -8884,5 +8884,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map-bubble',
     keywords: ['d3','chart','bubble','map']
+  },
+  {
+    id: 420,
+    name: 'react-d3-map-orthographic',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-map-orthographic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-map-orthographic'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://maportho.reactd3.org/test-multipolygon.html'
+    },
+    framework: 'React',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-map-bubble',
+    keywords: ['d3','chart','orthographic','map','polygons','markers','point','line']
   }
 ];
