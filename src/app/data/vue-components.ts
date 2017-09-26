@@ -1893,6 +1893,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/petsgre/music',
     keywords: ['player', 'music', 'vue', 'vue.js']
+  },
+  {
+    id: 84,
+    name: 'vue-infinite-loading',
+    install: {
+      packager: 'npm',
+      url: 'vue-infinite-loading'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'PeachScript/vue-infinite-loading',
+    stars: 709
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://peachscript.github.io/vue-infinite-loading/#!/'
+  },
+    framework: 'Vue',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://peachscript.github.io/vue-infinite-loading/#!/installation',
+    keywords: ['vue', 'vue components', 'infinite loading', 'infinite scroll', 'vue infinite']
   }
 
 ];
