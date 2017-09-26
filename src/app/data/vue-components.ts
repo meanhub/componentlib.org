@@ -1959,6 +1959,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/lookstudios/vue-loop',
     keywords: ['vue', 'vue-loop', 'scroll', 'infinite', 'ui', 'component']
+  },
+  {
+    id: 87,
+    name: 'vue-markdown',
+    install: {
+      packager: 'npm',
+      url: 'vue-markdown'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'miaolz123/vue-markdown',
+    stars: 330
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://miaolz123.github.io/vue-markdown/'
+  },
+    framework: 'Vue',
+    version: '2.2.4',
+    license: 'MIT',
+    details: 'https://github.com/miaolz123/vue-markdown',
+    keywords: ['vue', 'markdown', 'vue-markdown']
   }
 
 ];
