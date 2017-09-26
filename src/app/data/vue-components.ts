@@ -2324,6 +2324,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-cookie-law',
     keywords: ['gravatar','vue','vuejs','component']
+  },
+  {
+    id: 103,
+    name: 'vue-kanban',
+    install: {
+      packager: 'npm',
+      url: 'vue-kanban'
+    },  
+    source: {
+      domain: 'github',
+      url: 'BrockReece/vue-kanban',
+    stars: 126
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://brockreece.github.io/vue-kanban/'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: '',
+    details: 'https://github.com/BrockReece/vue-kanban',
+    keywords: ['kanban','vue','vue-kanban']
   }
 
 ];
