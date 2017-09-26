@@ -1871,6 +1871,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MoePlayer/vue-dplayer',
     keywords: ['player', 'component', 'vue', 'vue.js']
+  },
+  {
+    id: 83,
+    name: 'music',
+    install: {
+      packager: 'npm',
+      url: 'vue-music'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'petsgre/music',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://www.166zx.com/#/'
+  },
+    framework: 'Vue',
+    version: '1.0.7',
+    license: 'ISC',
+    details: 'https://github.com/petsgre/music',
+    keywords: ['player', 'music', 'vue', 'vue.js']
   }
 
 ];
