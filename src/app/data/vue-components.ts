@@ -2390,6 +2390,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://vue-particles.netlify.com',
     keywords: ['vue', 'vuejs', 'vue.js', 'vue-component', 'particles.js', 'particles', 'vue-particles']
+  },
+  {
+    id: 106,
+    name: 'vue-affix',
+    install: {
+      packager: 'npm',
+      url: 'vue-affix'
+    },  
+    source: {
+      domain: 'github',
+      url: 'eddiemf/vue-affix',
+    stars: 66
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://eddiemf.github.io/vue-affix/examples/example-1.html'
+  },
+    framework: 'Vue',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://github.com/eddiemf/vue-affix',
+    keywords: ['vue-affix', 'affix', 'sticky', 'vue-sticky', 'vue', 'vue-plugin', 'vue-component', 'scroll']
   }
 
 ];
