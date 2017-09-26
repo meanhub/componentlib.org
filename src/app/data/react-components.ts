@@ -8737,5 +8737,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map',
     keywords: ['d3','mobile','card']
+  },
+  {
+    id: 413,
+    name: 'react-visual-graphic',
+    install: {
+      packager: 'npm',
+      url: 'react-visual-graphic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-visual-graphic'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://github.com/react-d3/react-visual-graphic#quick-example'
+    },
+    framework: 'React',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-visual-graphic',
+    keywords: ['graphic','visual']
   }
 ];
