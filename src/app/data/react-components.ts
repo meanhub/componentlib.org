@@ -551,7 +551,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '3.0.0',
     license: 'MIT',
-    details: 'https://github.com/davidguttman/react-pivot',
+    details: 'http://davidguttman.github.io/react-pivot/',
     keywords: ['table','grid']
   },
   {
@@ -572,7 +572,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.1.x',
     license: 'MIT',
-    details: 'https://github.com/xudafeng/autoresponsive-react',
+    details: 'https://xudafeng.github.io/autoresponsive-react/',
     keywords: ['responsive','grid']
   },
   {
@@ -635,7 +635,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.2.1',
     license: 'MIT',
-    details: 'https://github.com/nmn/react-infinity',
+    details: 'https://scribbler.co/',
     keywords: ['infinite']
   },
   {
@@ -677,7 +677,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.8.7',
     license: 'MIT',
-    details: 'https://github.com/orgsync/react-list',
+    details: 'http://devblog.orgsync.com/react-list/',
     keywords: ['infinite','list']
   },
   {
@@ -1166,24 +1166,24 @@ export const REACT_COMPONENTS: any[] = [
   },
   {
     id: 54,
-    name: 'react-sticky',
+    name: 'react-faux-dom',
     install: {
       packager: 'npm',
-      url: 'react-sticky'
+      url: 'react-faux-dom'  
     },
     source: {
       domain: 'github',
-      url: 'captivationsoftware/react-sticky'
+      url: 'react-d3/react-faux-dom'
     },
     demo: {
       repl: 'custom',
-      src: 'http://rawgit.com/captivationsoftware/react-sticky/master/examples/stacked/index.html'
+      src:'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/'
     },
     framework: 'React',
-    version: '6.0.1',
+    version: '2.0.1',
     license: 'MIT',
-    details: 'https://github.com/captivationsoftware/react-sticky',
-    keywords: ['sticky']
+    details: 'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/',
+    keywords: ['faux','dom']
   },
   {
     id: 55,
@@ -1984,7 +1984,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '2.1.0',
     license: 'MIT',   
-    details: 'https://github.com/kis/chartify',
+    details: 'https://kis.github.io/chartify',
     keywords: ['charts']
   },
   {
@@ -2005,7 +2005,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '12.0.0',
     license: 'MIT',   
-    details: 'https://github.com/kirjs/react-highcharts',
+    details: 'http://kirjs.github.io/react-highcharts/',
     keywords: ['charts','highcharts']
   },
   {
@@ -2026,7 +2026,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.2.4',    
     license: 'MIT',   
-    details: 'https://github.com/unsplash/react-trend',
+    details: 'https://unsplash.github.io/react-trend/',
     keywords: ['charts']
   },
   {
@@ -2068,7 +2068,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '3.0.0',    
     license: 'MIT',   
-    details: 'https://github.com/pqx/react-ui-tree',
+    details: 'https://pqx.github.io/react-ui-tree/',
     keywords: ['tree']
   },
   {
@@ -2089,7 +2089,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '2.0.3',    
     license: 'MIT',   
-    details: 'https://github.com/alexcurtis/react-treebeard',
+    details: 'http://alexcurtis.github.io/react-treebeard/',
     keywords: ['tree']
   },
   {
@@ -2131,7 +2131,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.0.12',    
     license: 'MIT',   
-    details: 'https://github.com/damusnet/react-swipe-views',
+    details: 'http://damusnet.github.io/react-swipe-views/',
     keywords: ['swipe']
   },
   {
@@ -2152,7 +2152,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '4.1.2',    
     license: 'MIT',   
-    details: 'https://github.com/malte-wessel/react-custom-scrollbars',
+    details: 'http://malte-wessel.github.io/react-custom-scrollbars/',
     keywords: ['scrollbar']
   },
   {
@@ -2173,7 +2173,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.5.1',    
     license: 'MIT',   
-    details: 'https://github.com/souhe/reactScrollbar',
+    details: 'http://souhe.github.io/reactScrollbar/',
     keywords: ['scrollbar']
   },
   {
@@ -2194,7 +2194,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '7.2.2',    
     license: 'MIT',   
-    details: 'https://github.com/idiotWu/react-smooth-scrollbar',
+    details: 'http://idiotwu.github.io/react-smooth-scrollbar/',
     keywords: ['scrollbar']
   },
   {
@@ -2215,7 +2215,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '2.3.2',    
     license: 'MIT',   
-    details: 'https://github.com/noeldelgado/react-gemini-scrollbar',
+    details: 'https://noeldelgado.github.io/gemini-scrollbar/',
     keywords: ['scrollbar']
   },
   {
@@ -2257,7 +2257,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.24.5',    
     license: 'MIT',   
-    details: 'https://github.com/CookPete/react-player',
+    details: 'http://cookpete.com/react-player/',
     keywords: ['player']
   },
   {
@@ -2320,7 +2320,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.5.3',    
     license: 'MIT',   
-    details: 'https://github.com/pedronauck/react-video',
+    details: 'http://pedronauck.github.io/react-video/',
     keywords: ['video','player']
   },
   {
@@ -2341,7 +2341,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.0.2',    
     license: 'MIT',   
-    details: 'https://github.com/FormidableLabs/react-music',
+    details: 'http://reactmusic.surge.sh/',
     keywords: ['audio','music','player']
   },
   {
@@ -2362,7 +2362,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '0.50.0',    
     license: 'MIT',   
-    details: 'https://github.com/u-wave/react-dailymotion',
+    details: 'http://u-wave.net/react-dailymotion/',
     keywords: ['video','player']
   },
   {
@@ -3961,29 +3961,30 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '1.1.17',    
     license: 'MIT',   
-    details: 'https://github.com/bevacqua/react-dragula',
+    details: 'http://bevacqua.github.io/react-dragula/',
     keywords: ['drag','drop']
   },
   {
     id: 185,
-    name: 'react-droparea',
+    name: 'regular',
     install: {
       packager: 'npm',
-      url: 'react-droparea'
+      url: 'regular'
     },
     source: {
       domain: 'github',
-      url: 'avocode/react-droparea'
+      url: 'regularjs/regular'
     },
     demo: {
-      repl: 'custom',
-      src: 'https://react-dropzone.js.org/#basic-example'
+      repl: 'codepen',
+      user: 'leeluolee',
+      id : 'EDdfl'
     },
     framework: 'React',
-    version: '4.0.2',    
+    version: '0.5.2',    
     license: 'MIT',   
-    details: 'https://github.com/avocode/react-droparea',
-    keywords: ['drag','drop']
+    details: 'http://regularjs.github.io/',
+    keywords: ['framework','data driven']
   },
   {
     id: 186,
@@ -4003,7 +4004,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '4.0.2',    
     license: 'MIT',   
-    details: 'https://github.com/avocode/react-droparea',
+    details: 'https://react-dropzone.js.org',
     keywords: ['drag','drop']
   },
   {
@@ -4569,7 +4570,7 @@ export const REACT_COMPONENTS: any[] = [
     framework: 'React',
     version: '4.0.0',   
     license: 'MIT',
-    details: 'https://github.com/rojobuffalo/jquense/react-widgets',
+    details: 'http://jquense.github.io/react-widgets/',
     keywords: ['widgets']
   },
   {
@@ -8905,26 +8906,5 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map-bubble',
     keywords: ['d3','chart','orthographic','map','polygons','markers','point','line']
-  },
-  {
-    id: 421,
-    name: 'react-faux-dom',
-    install: {
-      packager: 'npm',
-      url: 'react-faux-dom'  
-    },
-    source: {
-      domain: 'github',
-      url: 'react-d3/react-faux-dom'
-    },
-    demo: {
-      repl: 'custom',
-      src:'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/'
-    },
-    framework: 'React',
-    version: '2.0.1',
-    license: 'MIT',
-    details: 'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/',
-    keywords: ['faux','dom']
   }
 ];
