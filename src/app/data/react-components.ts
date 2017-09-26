@@ -8905,5 +8905,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map-bubble',
     keywords: ['d3','chart','orthographic','map','polygons','markers','point','line']
+  },
+  {
+    id: 421,
+    name: 'react-faux-dom',
+    install: {
+      packager: 'npm',
+      url: 'react-faux-dom'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-faux-dom'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/'
+    },
+    framework: 'React',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/',
+    keywords: ['faux','dom']
   }
 ];
