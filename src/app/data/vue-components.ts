@@ -2412,6 +2412,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/eddiemf/vue-affix',
     keywords: ['vue-affix', 'affix', 'sticky', 'vue-sticky', 'vue', 'vue-plugin', 'vue-component', 'scroll']
+  },
+  {
+    id: 107,
+    name: 'X-Browser-Update-Vue',
+    install: {
+      packager: 'npm',
+      url: 'x-browser-update'
+    },  
+    source: {
+      domain: 'github',
+      url: 'OXOYO/X-Browser-Update-Vue',
+    stars: 4
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://oxoyo.github.io/X-Browser-Update-Vue/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://oxoyo.github.io/X-Browser-Update-Vue/',
+    keywords: ['vue', 'vue-plugin', 'browser-update', 'browser-update-vue']
   }
 
 ];
