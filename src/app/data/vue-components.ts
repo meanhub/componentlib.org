@@ -2183,6 +2183,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://eliep.github.io/vue-avatar/',
     keywords: ['vue','avatar', 'user']
+  },
+  {
+    id: 97,
+    name: 'vue-touch-ripple',
+    install: {
+      packager: 'npm',
+      url: 'vue-touch-ripple'
+    },  
+    source: {
+      domain: 'github',
+      url: 'surmon-china/vue-touch-ripple',
+    stars: 124
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://surmon-china.github.io/vue-touch-ripple/'
+  },
+    framework: 'Vue',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'https://surmon-china.github.io/vue-touch-ripple/',
+    keywords: ['vue-touch-ripple','vue touch ripple','vue click ripple','vue ripple']
   }
 
 ];
