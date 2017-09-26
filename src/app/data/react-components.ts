@@ -8758,5 +8758,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-visual-graphic',
     keywords: ['graphic','visual']
+  },
+  {
+    id: 414,
+    name: 'react-d3-example',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-example'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-example'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/components/#react-d3-basic'
+    },
+    framework: 'React',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://www.reactd3.org',
+    keywords: ['d3','chart','tooltip','brush','zoom']
   }
 ];
