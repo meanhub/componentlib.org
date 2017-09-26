@@ -8800,5 +8800,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map-mobile',
     keywords: ['d3','map','mobile']
+  },
+  {
+    id: 416,
+    name: 'react-d3-map-choropleth',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-map-choropleth'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-map-choropleth'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://bl.ocks.org/mbostock/4060606'
+    },
+    framework: 'React',
+    version: '0.5.1',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-map-choropleth',
+    keywords: ['d3','map','choropleth']
+  },
+  {
+    id: 417,
+    name: 'react-d3-brush',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-brush'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-brush'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/brush/#line'
+    },
+    framework: 'React',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'http://www.reactd3.org',
+    keywords: ['d3','chart','brush']
   }
 ];
