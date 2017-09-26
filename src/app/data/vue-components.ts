@@ -2230,6 +2230,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/cngu/vue-typer/blob/master/README.md#getting-started',
     keywords: ['vue-typer','vue','vuejs','vue.js','component','typer','typewriter','type','auto']
+  },
+  {
+    id: 99,
+    name: 'vue-keyboard',
+    install: [{
+      packager: 'npm',
+      url: 'vue-keyboard'
+    },{
+      packager: 'download',
+      url: 'https://github.com/MartyWallace/vue-keyboard/archive/master.zip'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'MartyWallace/vue-keyboard',
+    stars: 48
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vue-keyboard.martywallace.com'
+  },
+    framework: 'Vue',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'https://martywallace.com/projects/vue-keyboard/guide',
+    keywords: ['javascript','virtual-keyboard','keyboard','vue','vuejs','component']
   }
 
 ];
