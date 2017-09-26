@@ -2069,6 +2069,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/halower/vue2-tree',
     keywords: ['vue', 'lazy-tree', 'tree']
+  },
+  {
+    id: 92,
+    name: 'vue-social-sharing',
+    install: [{
+      packager: 'npm',
+      url: 'vue-social-sharing'
+    }, {
+      packager: 'bower',
+      url: 'vue-social-sharing'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'nicolasbeauvais/vue-social-sharing',
+    stars: 218
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://nicolasbeauvais.github.io/vue-social-sharing/'
+  },
+    framework: 'Vue',
+    version: '2.2.5',
+    license: 'MIT',
+    details: 'https://nicolasbeauvais.github.io/vue-social-sharing/',
+    keywords: ['plugin', 'vue', 'vuejs', 'social', 'share']
   }
 
 ];
