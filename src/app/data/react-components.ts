@@ -8842,5 +8842,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org',
     keywords: ['d3','chart','brush']
+  },
+  {
+    id: 418,
+    name: 'react-d3-zoom',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-zoom'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-zoom'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/zoom/#line'
+    },
+    framework: 'React',
+    version: '1.1.2',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/zoom/',
+    keywords: ['d3','chart','zoom']
+  },
+  {
+    id: 419,
+    name: 'react-d3-map-bubble',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-map-bubble'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-map-bubble'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://bl.ocks.org/mbostock/9943478'
+    },
+    framework: 'React',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-map-bubble',
+    keywords: ['d3','chart','bubble','map']
   }
 ];
