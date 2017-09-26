@@ -2205,6 +2205,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://surmon-china.github.io/vue-touch-ripple/',
     keywords: ['vue-touch-ripple','vue touch ripple','vue click ripple','vue ripple']
+  },
+  {
+    id: 98,
+    name: 'vue-typer',
+    install: [{
+      packager: 'npm',
+      url: 'vue-typer'
+    },{
+      packager: 'download',
+      url: 'https://api.github.com/repos/cngu/vue-typer/zipball'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'cngu/vue-typer',
+    stars: 179
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://cngu.github.io/vue-typer/'
+  },
+    framework: 'Vue',
+    version: '1.0.6',
+    license: 'MIT',
+    details: 'https://github.com/cngu/vue-typer/blob/master/README.md#getting-started',
+    keywords: ['vue-typer','vue','vuejs','vue.js','component','typer','typewriter','type','auto']
   }
 
 ];
