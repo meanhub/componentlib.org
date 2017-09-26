@@ -2368,6 +2368,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://www.metachris.com/2017/02/vuejs-syntax-highlighting-with-highlightjs/',
     keywords: ['syntax','vuejs','vue','highlight','highlight.js']
+  },
+  {
+    id: 105,
+    name: 'vue-particles',
+    install: {
+      packager: 'npm',
+      url: 'vue-particles'
+    },  
+    source: {
+      domain: 'github',
+      url: 'creotip/vue-particles',
+    stars: 255
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vue-particles.netlify.com'
+  },
+    framework: 'Vue',
+    version: '1.0.9',
+    license: 'MIT',
+    details: 'http://vue-particles.netlify.com',
+    keywords: ['vue', 'vuejs', 'vue.js', 'vue-component', 'particles.js', 'particles', 'vue-particles']
   }
 
 ];
