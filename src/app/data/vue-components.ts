@@ -2047,6 +2047,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/arvidkahl/vue-json-tree-view',
     keywords: ['vuejs', 'vue', 'vue-component']
+  },
+  {
+    id: 91,
+    name: 'vue2-tree',
+    install: {
+      packager: 'npm',
+      url: 'vue2-lazy-tree'
+    },  
+    source: {
+      domain: 'github',
+      url: 'halower/vue2-tree',
+    stars: 111
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://halower.github.io/vue2-tree/'
+  },
+    framework: 'Vue',
+    version: '1.1.4',
+    license: 'MIT',
+    details: 'https://github.com/halower/vue2-tree',
+    keywords: ['vue', 'lazy-tree', 'tree']
   }
 
 ];
