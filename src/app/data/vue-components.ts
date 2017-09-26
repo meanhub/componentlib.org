@@ -2302,6 +2302,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-cookie-law',
     keywords: ['cookie','eu law','cookie info','vue','vuejs','component']
+  },
+  {
+    id: 102,
+    name: 'vue-gravatar',
+    install: {
+      packager: 'npm',
+      url: 'vue-gravatar'
+    },  
+    source: {
+      domain: 'github',
+      url: 'JiriChara/vue-gravatar',
+    stars: 24
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jirichara.github.io/vue-gravatar/'
+  },
+    framework: 'Vue',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-cookie-law',
+    keywords: ['gravatar','vue','vuejs','component']
   }
 
 ];
