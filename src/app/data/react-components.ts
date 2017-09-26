@@ -8611,5 +8611,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org/docs/core/',
     keywords: ['d3','core']
+  },
+  {
+    id: 407,
+    name: 'react-d3-core',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-core'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-core'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/core/#xaxis'
+    },
+    framework: 'React',
+    version: '1.3.9',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/core/',
+    keywords: ['d3','core']
+  },
+  {
+    id: 408,
+    name: 'react-d3-tooltip',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-tooltip'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-tooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/tooltip/#line'
+    },
+    framework: 'React',
+    version: '1.4.12',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/tooltip/',
+    keywords: ['d3','tooltip','chart']
   }
 ];
