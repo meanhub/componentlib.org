@@ -8653,5 +8653,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org/docs/tooltip/',
     keywords: ['d3','tooltip','chart']
+  },
+  {
+    id: 409,
+    name: 'react-d3-animation',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-animation'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-animation'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://github.com/react-d3/react-d3-animation#sample'
+    },
+    framework: 'React',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-animation',
+    keywords: ['d3','toggle','chart']
   }
 ];
