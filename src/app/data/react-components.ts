@@ -8695,5 +8695,26 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/adaptive-data-design/blob/gh-pages/bar2pie',
     keywords: ['d3','data','design']
+  },
+  {
+    id: 411,
+    name: 'react-d3-mobile-card',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-mobile-card'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-mobile-card'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://github.com/react-d3/react-d3-mobile-card#quick-example'
+    },
+    framework: 'React',
+    version: '0.1.3',
+    license: 'MIT',
+    details: 'https://github.com/react-d3/react-d3-mobile-card  ',
+    keywords: ['d3','mobile','card']
   }
 ];
