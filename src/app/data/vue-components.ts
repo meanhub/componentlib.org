@@ -2025,6 +2025,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/FranckFreiburger/vue-pdf',
     keywords: ['viewer', 'vue', 'pdf']
+  },
+  {
+    id: 90,
+    name: 'vue-json-tree-view',
+    install: {
+      packager: 'npm',
+      url: 'vue-json-tree-view'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'arvidkahl/vue-json-tree-view',
+    stars: 127
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/arvidkahl/kwo6vk9d/11/show/'
+  },
+    framework: 'Vue',
+    version: '2.1.1',
+    license: 'MIT',
+    details: 'https://github.com/arvidkahl/vue-json-tree-view',
+    keywords: ['vuejs', 'vue', 'vue-component']
   }
 
 ];
