@@ -2116,6 +2116,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/superman66/vue-qart',
     keywords: ['qart', 'qr', 'vuejs2']
+  },
+  {
+    id: 94,
+    name: 'vue-fuse',
+    install: {
+      packager: 'npm',
+      url: 'vue-fuse'
+    },  
+    source: {
+      domain: 'github',
+      url: 'shayneo/vue-fuse',
+    stars: 59
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vue-fuse.firebaseapp.com'
+  },
+    framework: 'Vue',
+    version: '1.2.1',
+    license: 'Apache License - 2.0',
+    details: 'http://fusejs.io',
+    keywords: ['vuejs','fuse','fuzzy-search','vue-fuse','vue']
   }
 
 ];
