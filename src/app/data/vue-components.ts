@@ -2161,6 +2161,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://community.algolia.com/vue-instantsearch/',
     keywords: ['vue','algolia', 'search', 'instantsearch', 'components', 'ui', 'facet', 'autocomplete']
+  },
+  {
+    id: 96,
+    name: 'vue-avatar',
+    install: {
+      packager: 'npm',
+      url: 'vue-avatar'
+    },  
+    source: {
+      domain: 'github',
+      url: 'eliep/vue-avatar',
+    stars: 185
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://eliep.github.io/vue-avatar/'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://eliep.github.io/vue-avatar/',
+    keywords: ['vue','avatar', 'user']
   }
 
 ];
