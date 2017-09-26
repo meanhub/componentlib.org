@@ -8569,5 +8569,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org/docs/basic/#introduction',
     keywords: ['d3','charts']
+  },
+  {
+    id: 405,
+    name: 'react-d3-basic',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-basic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-basic'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/basic/#line'
+    },
+    framework: 'React',
+    version: '1.6.11',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/basic/#introduction',
+    keywords: ['d3','charts']
+  },
+  {
+    id: 406,
+    name: 'react-d3-core',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-core'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-core'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/core/#xaxis'
+    },
+    framework: 'React',
+    version: '1.3.9',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/core/',
+    keywords: ['d3','core']
   }
 ];
