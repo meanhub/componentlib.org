@@ -2255,6 +2255,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://martywallace.com/projects/vue-keyboard/guide',
     keywords: ['javascript','virtual-keyboard','keyboard','vue','vuejs','component']
+  },
+  {
+    id: 100,
+    name: 'TwentyTwenty',
+    install: [{
+      packager: 'npm',
+      url: 'vue-twentytwenty'
+    },{
+      packager: 'download',
+      url: 'https://github.com/zurb/twentytwenty/archive/master.zip'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'mhayes/vue-twentytwenty',
+    stars: 51
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://mhayes.github.io/vue-twentytwenty/'
+  },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://zurb.com/playground/twentytwenty',
+    keywords: ['twentytwenty','vue-twentytwenty','vue','vuejs','component']
   }
 
 ];
