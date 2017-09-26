@@ -2280,6 +2280,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://zurb.com/playground/twentytwenty',
     keywords: ['twentytwenty','vue-twentytwenty','vue','vuejs','component']
+  },
+  {
+    id: 101,
+    name: 'Vue Cookie Law',
+    install: {
+      packager: 'npm',
+      url: 'vue-cookie-law'
+    },  
+    source: {
+      domain: 'github',
+      url: 'apertureless/vue-cookie-law',
+    stars: 67
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://apertureless.github.io/vue-cookie-law/'
+  },
+    framework: 'Vue',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-cookie-law',
+    keywords: ['cookie','eu law','cookie info','vue','vuejs','component']
   }
 
 ];
