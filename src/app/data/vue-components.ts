@@ -1937,6 +1937,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/egoist/vue-mugen-scroll',
     keywords: ['vue', 'infinite scroll', 'scroll', 'infinite', 'ui', 'component']
+  },
+  {
+    id: 86,
+    name: 'vue-loop',
+    install: {
+      packager: 'npm',
+      url: 'vue-loop'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'lookstudios/vue-loop',
+    stars: 748
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://cdn.rawgit.com/lookstudios/vue-loop/ea086525/Examples/public/index.html'
+  },
+    framework: 'Vue',
+    version: '0.2.6',
+    license: 'MIT',
+    details: 'https://github.com/lookstudios/vue-loop',
+    keywords: ['vue', 'vue-loop', 'scroll', 'infinite', 'ui', 'component']
   }
 
 ];
