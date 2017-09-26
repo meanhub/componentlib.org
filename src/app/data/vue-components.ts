@@ -2003,6 +2003,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hinesboy/mavonEditor/blob/master/README-EN.md',
     keywords: ['javascript', 'vue', 'markdown', 'editor', 'html']
+  },
+  {
+    id: 89,
+    name: 'vue-pdf',
+    install: {
+      packager: 'npm',
+      url: 'vue-pdf'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'FranckFreiburger/vue-pdf',
+    stars: 127
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/9zm9c1sf/24/show/'
+  },
+    framework: 'Vue',
+    version: '1.2.4',
+    license: 'MIT',
+    details: 'https://github.com/FranckFreiburger/vue-pdf',
+    keywords: ['viewer', 'vue', 'pdf']
   }
 
 ];
