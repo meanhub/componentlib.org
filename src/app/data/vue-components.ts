@@ -1981,6 +1981,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/miaolz123/vue-markdown',
     keywords: ['vue', 'markdown', 'vue-markdown']
+  },
+  {
+    id: 88,
+    name: 'mavonEditor',
+    install: {
+      packager: 'npm',
+      url: 'mavon-editor'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'hinesboy/mavonEditor',
+    stars: 438
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://hinesboy.github.io/mavonEditor/dist/'
+  },
+    framework: 'Vue',
+    version: '2.2.6',
+    license: 'MIT',
+    details: 'https://github.com/hinesboy/mavonEditor/blob/master/README-EN.md',
+    keywords: ['javascript', 'vue', 'markdown', 'editor', 'html']
   }
 
 ];
