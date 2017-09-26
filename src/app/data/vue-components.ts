@@ -2346,6 +2346,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/BrockReece/vue-kanban',
     keywords: ['kanban','vue','vue-kanban']
+  },
+  {
+    id: 104,
+    name: 'vue-highlightjs',
+    install: {
+      packager: 'npm',
+      url: 'vue-highlightjs'
+    },  
+    source: {
+      domain: 'github',
+      url: 'metachris/vue-highlightjs',
+    stars: 50
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/metachris/1vz9oobc/show/'
+  },
+    framework: 'Vue',
+    version: '1.3.3',
+    license: 'MIT',
+    details: 'https://www.metachris.com/2017/02/vuejs-syntax-highlighting-with-highlightjs/',
+    keywords: ['syntax','vuejs','vue','highlight','highlight.js']
   }
 
 ];
