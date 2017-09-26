@@ -2094,6 +2094,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://nicolasbeauvais.github.io/vue-social-sharing/',
     keywords: ['plugin', 'vue', 'vuejs', 'social', 'share']
+  },
+  {
+    id: 93,
+    name: 'vue-qart',
+    install: {
+      packager: 'npm',
+      url: 'vue-qart'
+    },  
+    source: {
+      domain: 'github',
+      url: 'superman66/vue-qart',
+    stars: 130
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://chenhuichao.com/vue-qart/demo/'
+  },
+    framework: 'Vue',
+    version: '2.0.8',
+    license: '',
+    details: 'https://github.com/superman66/vue-qart',
+    keywords: ['qart', 'qr', 'vuejs2']
   }
 
 ];
