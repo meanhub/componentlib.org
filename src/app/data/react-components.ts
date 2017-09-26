@@ -8527,5 +8527,47 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.reactd3.org/',
     keywords: ['canner','charts']
+  },
+  {
+    id: 403,
+    name: 'canner-core',
+    install: {
+      packager: 'npm',
+      url: 'canner-core'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3.github.io'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/components/'
+    },
+    framework: 'React',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/',
+    keywords: ['canner','charts','d3']
+  },
+  {
+    id: 404,
+    name: 'react-d3-basic',
+    install: {
+      packager: 'npm',
+      url: 'react-d3-basic'  
+    },
+    source: {
+      domain: 'github',
+      url: 'react-d3/react-d3-basic'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.reactd3.org/docs/basic/#line'
+    },
+    framework: 'React',
+    version: '1.6.11',
+    license: 'MIT',
+    details: 'http://www.reactd3.org/docs/basic/#introduction',
+    keywords: ['d3','charts']
   }
 ];
