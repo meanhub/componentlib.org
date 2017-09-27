@@ -2588,6 +2588,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/zhangxiang958/vue-tab',
     keywords: ['tab', 'vue', 'vue-tab', 'vuejs']
+  },
+  {
+    id: 115,
+    name: 'vue-smooth-picker',
+    install: {
+      packager: 'npm',
+      url: 'vue-smooth-picker'
+    },  
+    source: {
+      domain: 'github',
+      url: 'hiyali/vue-smooth-picker',
+    stars: 38
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://hiyali.github.io/vue-smooth-picker/example/product/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/hiyali/vue-smooth-picker',
+    keywords: ['picker', 'smooth-picker', 'date picker', 'time picker','gender picker','product picker']
   }
 
 ];
