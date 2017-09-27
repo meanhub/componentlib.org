@@ -2610,6 +2610,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hiyali/vue-smooth-picker',
     keywords: ['picker', 'smooth-picker', 'date picker', 'time picker','gender picker','product picker']
+  },
+  {
+    id: 116,
+    name: 'vue-datepicker',
+    install: {
+      packager: 'npm',
+      url: 'vue-datepicker'
+    },  
+    source: {
+      domain: 'github',
+      url: 'hilongjw/vue-datepicker',
+    stars: 38
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://hilongjw.github.io/vue-datepicker/demo.html#!/'
+  },
+    framework: 'Vue',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://github.com/hilongjw/vue-datepicker',
+    keywords: ['vue', 'datepicker', 'vue-datepicker']
   }
 
 ];
