@@ -2723,6 +2723,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://monterail.github.io/vue-multiselect/#sub-getting-started',
     keywords: ['select', 'multiselect', 'vue-component', 'vuejs']
+  },
+  {
+    id: 121,
+    name: 'stf vue select VUE2',
+    install: {
+      packager: 'npm',
+      url: 'stf-vue-select'
+    },  
+    source: {
+      domain: 'github',
+      url: 'stfalcon-studio/stf-vue-select',
+    stars: 34
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://stfalcon-studio.github.io/stf-vue-select/dist/'
+  },
+    framework: 'Vue',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'https://github.com/stfalcon-studio/stf-vue-select',
+    keywords: ['select','vue','custom','flexible','flexible select','vue select','dropdown','vue.js','vuejs','vue2','select2','ui', 'component']
   }
 
 ];
