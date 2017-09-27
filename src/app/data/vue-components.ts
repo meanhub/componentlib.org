@@ -2789,6 +2789,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/NightCatSama/vue-slider-component',
     keywords: [ 'vue','slider','vue-slider','vue-component','vue-slider-component']
+  },
+  {
+    id: 124,
+    name: 'vue-circle-slider',
+    install: {
+      packager: 'npm',
+      url: 'vue-circle-slider'
+    },  
+    source: {
+      domain: 'github',
+      url: 'devstark-com/vue-circle-slider',
+    stars: 73
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://devstark-com.github.io/vue-circle-slider-demo/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/devstark-com/vue-circle-slider#demo',
+    keywords: [ 'vue','vuejs','plugin','slider','circle']
   }
 
 ];
