@@ -2767,6 +2767,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mazipan/vue-select-image',
     keywords: [ 'vue select image','vue image select','vue image picker','vue2 image picker','vue2 image select']
+  },
+  {
+    id: 123,
+    name: 'vue-slider-component',
+    install: {
+      packager: 'npm',
+      url: 'vue-slider-component'
+    },  
+    source: {
+      domain: 'github',
+      url: 'NightCatSama/vue-slider-component',
+    stars: 346
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://nightcatsama.github.io/vue-slider-component/example/'
+  },
+    framework: 'Vue',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'https://github.com/NightCatSama/vue-slider-component',
+    keywords: [ 'vue','slider','vue-slider','vue-component','vue-slider-component']
   }
 
 ];
