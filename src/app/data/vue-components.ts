@@ -2478,6 +2478,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vinayakkulkarni/v-offline',
     keywords: ['vuejs', 'offline', 'online', 'detect', 'internet-connectivity', 'disconnect']
+  },
+  {
+    id: 110,
+    name: 'vue-info-card',
+    install: {
+      packager: 'npm',
+      url: 'vue-info-card'
+    },  
+    source: {
+      domain: 'github',
+      url: 'karakanb/vue-info-card',
+    stars: 21
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://karakanb.github.io/vue-info-card/'
+  },
+    framework: 'Vue',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://github.com/karakanb/vue-info-card',
+    keywords: ['vue', 'card', 'component', 'info card', 'graph', 'data-visualization', 'vuejs']
   }
 
 ];
