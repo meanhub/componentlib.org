@@ -2679,6 +2679,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ittus/vue-monthly-picker',
     keywords: ['month-select', 'month-option', 'monthpicker', 'month-picker', 'vue-component', 'vuejs']
+  },
+  {
+    id: 119,
+    name: 'vue-select',
+    install: {
+      packager: 'npm',
+      url: 'vue-select'
+    },  
+    source: {
+      domain: 'github',
+      url: 'sagalbot/vue-select',
+    stars: 1345
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://sagalbot.github.io/vue-select/'
+  },
+    framework: 'Vue',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'http://sagalbot.github.io/vue-select/',
+    keywords: ['select', 'option', 'vue-component', 'vuejs']
   }
 
 ];
