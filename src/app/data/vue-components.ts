@@ -2836,6 +2836,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/SortableJS/Vue.Draggable',
     keywords: ['vue','vuejs','drag','and','drop','list','sortable.js','web-components']
+  },
+  {
+    id: 126,
+    name: 'vue-dragula',
+    install: {
+      packager: 'npm',
+      url: 'vue-dragula'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Astray-git/vue-dragula',
+    stars: 189
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://astray-git.github.io/vue-dragula/'
+  },
+    framework: 'Vue',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/Astray-git/vue-dragula',
+    keywords: ['vue','vuejs','drag and drop','list']
   }
 
 ];
