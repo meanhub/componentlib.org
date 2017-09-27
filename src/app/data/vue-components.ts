@@ -2858,6 +2858,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Astray-git/vue-dragula',
     keywords: ['vue','vuejs','drag and drop','list']
+  },
+  {
+    id: 127,
+    name: 'vue2-dragula',
+    install: {
+      packager: 'npm',
+      url: 'vue2-dragula'
+    },  
+    source: {
+      domain: 'github',
+      url: 'kristianmandrup/vue2-dragula',
+    stars: 113
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://bevacqua.github.io/dragula/'
+  },
+    framework: 'Vue',
+    version: '2.4.4',
+    license: 'MIT',
+    details: 'https://github.com/kristianmandrup/vue2-dragula',
+    keywords: ['vue','vuejs','drag and drop','list']
   }
 
 ];
