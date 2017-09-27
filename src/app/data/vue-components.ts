@@ -2500,6 +2500,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/karakanb/vue-info-card',
     keywords: ['vue', 'card', 'component', 'info card', 'graph', 'data-visualization', 'vuejs']
+  },
+  {
+    id: 111,
+    name: 'VueWordCloud',
+    install: {
+      packager: 'npm',
+      url: 'vuewordcloud'
+    },  
+    source: {
+      domain: 'github',
+      url: 'SeregPie/VueWordCloud',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://seregpie.github.io/VueWordCloud/'
+  },
+    framework: 'Vue',
+    version: '17.9.24',
+    license: 'MIT',
+    details: 'https://github.com/SeregPie/VueWordCloud',
+    keywords: ['cloud', 'component', 'draw', 'key', 'tag', 'vue', 'word']
   }
 
 ];
