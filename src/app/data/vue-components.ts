@@ -2657,6 +2657,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/phoenixwong/vue2-timepicker',
     keywords: ['vue', 'vue2', 'time', 'picker', 'dropdown', 'input', 'ui']
+  },
+  {
+    id: 118,
+    name: 'vue-monthly-picker',
+    install: {
+      packager: 'npm',
+      url: 'vue-monthly-picker'
+    },  
+    source: {
+      domain: 'github',
+      url: 'ittus/vue-monthly-picker',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://ittus.github.io/vue-monthly-picker/#/'
+  },
+    framework: 'Vue',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/ittus/vue-monthly-picker',
+    keywords: ['month-select', 'month-option', 'monthpicker', 'month-picker', 'vue-component', 'vuejs']
   }
 
 ];
