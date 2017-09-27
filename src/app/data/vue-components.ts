@@ -2544,6 +2544,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://cristijora.github.io/vue-tabs/#/',
     keywords: ['tabs', 'nav', 'vue-tabs', 'nav-tabs']
+  },
+  {
+    id: 113,
+    name: 'vue-xeditable',
+    install: {
+      packager: 'npm',
+      url: 'vue-xeditable'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Kar-Wai-Wong/vue-xeditable',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://kar-wai-wong.github.io/vue-xeditable/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/Kar-Wai-Wong/vue-xeditable',
+    keywords: ['tabs', 'nav', 'vue-tabs', 'nav-tabs']
   }
 
 ];
