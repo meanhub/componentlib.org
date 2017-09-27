@@ -2566,6 +2566,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Kar-Wai-Wong/vue-xeditable',
     keywords: ['tabs', 'nav', 'vue-tabs', 'nav-tabs']
+  },
+  {
+    id: 114,
+    name: 'vue-tab',
+    install: {
+      packager: 'npm',
+      url: 'vue-swipe-tab@2.0.2'
+    },  
+    source: {
+      domain: 'github',
+      url: 'zhangxiang958/vue-tab',
+    stars: 7
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://zhangxiang958.github.io/vue-tab/demo/index.html'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'ISC',
+    details: 'https://github.com/zhangxiang958/vue-tab',
+    keywords: ['tab', 'vue', 'vue-tab', 'vuejs']
   }
 
 ];
