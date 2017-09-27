@@ -2434,6 +2434,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://oxoyo.github.io/X-Browser-Update-Vue/',
     keywords: ['vue', 'vue-plugin', 'browser-update', 'browser-update-vue']
+  },
+  {
+    id: 108,
+    name: 'vue-query-builder',
+    install: {
+      packager: 'npm',
+      url: 'vue-query-builder'
+    },  
+    source: {
+      domain: 'github',
+      url: 'dabernathy89/vue-query-builder',
+    stars: 136
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://dabernathy89.github.io/vue-query-builder/'
+  },
+    framework: 'Vue',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'https://dabernathy89.github.io/vue-query-builder/',
+    keywords: ['vue', 'query', 'builder', 'query-builder']
   }
 
 ];
