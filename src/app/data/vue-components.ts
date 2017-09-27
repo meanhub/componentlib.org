@@ -2811,6 +2811,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/devstark-com/vue-circle-slider#demo',
     keywords: [ 'vue','vuejs','plugin','slider','circle']
+  },
+  {
+    id: 125,
+    name: 'Vue.Draggable',
+    install: [{
+      packager: 'npm',
+      url: 'vuedraggable'
+    },{
+      packager: 'bower',
+      url: 'vue.draggable'
+    }],  
+    source: {
+      domain: 'github',
+      url: 'SortableJS/Vue.Draggable',
+    stars: 1950
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/dede89/m2v0orcn/show/'
+  },
+    framework: 'Vue',
+    version: '2.14.1',
+    license: 'MIT',
+    details: 'https://github.com/SortableJS/Vue.Draggable',
+    keywords: ['vue','vuejs','drag','and','drop','list','sortable.js','web-components']
   }
 
 ];
