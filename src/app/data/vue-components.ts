@@ -2522,6 +2522,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/SeregPie/VueWordCloud',
     keywords: ['cloud', 'component', 'draw', 'key', 'tag', 'vue', 'word']
+  },
+  {
+    id: 112,
+    name: 'vue-tabs',
+    install: {
+      packager: 'npm',
+      url: 'vue-nav-tabs'
+    },  
+    source: {
+      domain: 'github',
+      url: 'cristijora/vue-tabs',
+    stars: 61
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://jsfiddle.net/b44cc4dq/188/show/'
+  },
+    framework: 'Vue',
+    version: '0.5.4',
+    license: 'MIT',
+    details: 'https://cristijora.github.io/vue-tabs/#/',
+    keywords: ['tabs', 'nav', 'vue-tabs', 'nav-tabs']
   }
 
 ];
