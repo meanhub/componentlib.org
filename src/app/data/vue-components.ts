@@ -2701,6 +2701,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://sagalbot.github.io/vue-select/',
     keywords: ['select', 'option', 'vue-component', 'vuejs']
+  },
+  {
+    id: 120,
+    name: 'vue-multiselect',
+    install: {
+      packager: 'npm',
+      url: 'vue-multiselect'
+    },  
+    source: {
+      domain: 'github',
+      url: 'monterail/vue-multiselect',
+    stars: 2098
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://monterail.github.io/vue-multiselect/#sub-multiple-select'
+  },
+    framework: 'Vue',
+    version: '2.0.2',
+    license: 'MIT',
+    details: 'http://monterail.github.io/vue-multiselect/#sub-getting-started',
+    keywords: ['select', 'multiselect', 'vue-component', 'vuejs']
   }
 
 ];
