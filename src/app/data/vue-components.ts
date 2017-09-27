@@ -2745,6 +2745,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/stfalcon-studio/stf-vue-select',
     keywords: ['select','vue','custom','flexible','flexible select','vue select','dropdown','vue.js','vuejs','vue2','select2','ui', 'component']
+  },
+  {
+    id: 122,
+    name: 'vue-select-image',
+    install: {
+      packager: 'npm',
+      url: 'vue-select-image'
+    },  
+    source: {
+      domain: 'github',
+      url: 'mazipan/vue-select-image',
+    stars: 10
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://mazipan.github.io/vue-select-image/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/mazipan/vue-select-image',
+    keywords: [ 'vue select image','vue image select','vue image picker','vue2 image picker','vue2 image select']
   }
 
 ];
