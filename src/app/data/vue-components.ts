@@ -2632,6 +2632,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hilongjw/vue-datepicker',
     keywords: ['vue', 'datepicker', 'vue-datepicker']
+  },
+  {
+    id: 117,
+    name: 'Vue2 Time Picker',
+    install: [{
+      packager: 'npm',
+      url: 'vue2-timepicker'
+    },{
+      packager: 'bower',
+      url: 'vue2-timepicker'
+    }],  
+    source: {
+      domain: 'github',
+      url: 'phoenixwong/vue2-timepicker',
+    stars: 118
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://phoenixwong.github.io/vue2-timepicker/'
+  },
+    framework: 'Vue',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/phoenixwong/vue2-timepicker',
+    keywords: ['vue', 'vue2', 'time', 'picker', 'dropdown', 'input', 'ui']
   }
 
 ];
