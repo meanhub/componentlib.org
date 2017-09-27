@@ -2456,6 +2456,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://dabernathy89.github.io/vue-query-builder/',
     keywords: ['vue', 'query', 'builder', 'query-builder']
+  },
+  {
+    id: 109,
+    name: 'v-offline',
+    install: {
+      packager: 'npm',
+      url: 'v-offline'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vinayakkulkarni/v-offline',
+    stars: 27
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://www.webpackbin.com/bins/-KuycG-C1MEglypFLLBu'
+  },
+    framework: 'Vue',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://github.com/vinayakkulkarni/v-offline',
+    keywords: ['vuejs', 'offline', 'online', 'detect', 'internet-connectivity', 'disconnect']
   }
 
 ];
