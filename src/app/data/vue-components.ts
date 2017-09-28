@@ -3056,6 +3056,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/matiastucci/vue-input-tag',
     keywords: ['input', 'tag', 'inputtag']
+  },
+  {
+    id: 136,
+    name: 'V - Distpicker',
+    install: {
+      packager: 'npm',
+      url: 'v-distpicker'
+    },  
+    source: {
+      domain: 'github',
+      url: 'jcc/v-distpicker',
+    stars: 227
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://distpicker.iline.co'
+  },
+    framework: 'Vue',
+    version: '1.0.8',
+    license: 'MIT',
+    details: 'https://distpicker.iline.co',
+    keywords: ['省份','城市','地区','省市区','province','city','district','picker','plugin','javascript','development','vue','component']
   }
 
 ];
