@@ -2902,6 +2902,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hilongjw/vue-dragging',
     keywords: ['vue-dragging','vue-drag','vue-dnd','vue','draggable','drag','drop', 'html5','draggable','droppable','drag-and-drop','dnd']
+  },
+  {
+    id: 129,
+    name: 'VueDraggableResizable',
+    install: {
+      packager: 'npm',
+      url: 'vue-draggable-resizable'
+    },  
+    source: {
+      domain: 'github',
+      url: 'mauricius/vue-draggable-resizable',
+    stars: 120
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://mauricius.github.io/vue-draggable-resizable/'
+  },
+    framework: 'Vue',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/mauricius/vue-draggable-resizable',
+    keywords: ['vue','component','dragabble','resizable']
   }
 
 ];
