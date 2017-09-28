@@ -3012,6 +3012,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/paliari/v-autocomplete',
     keywords: ['vue','autocomplete','vue-autocomplete','autocomplete-vue','v-autocomplete']
+  },
+  {
+    id: 134,
+    name: 'vue-tagsinput',
+    install: {
+      packager: 'npm',
+      url: 'vue-tagsinput'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Ginhing/vue-tagsinput',
+    stars: 56
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vue-tagsinput.surge.sh'
+  },
+    framework: 'Vue',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/Ginhing/vue-tagsinput',
+    keywords: ['tagsinput', 'vue', 'input']
   }
 
 ];
