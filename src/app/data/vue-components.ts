@@ -3210,6 +3210,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mariomka/vue-checkbox-radio',
     keywords: ['checkbox','radio','vue']
+  },
+  {
+    id: 143,
+    name: 'vue-enhanced-check',
+    install: {
+      packager: 'npm',
+      url: 'vue-enhanced-check'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Keiwen/vue-enhancedCheck',
+    stars: 2
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://keiwen.github.io/vue-enhancedCheck/'
+  },
+    framework: 'Vue',
+    version: '1.3.1',
+    license: '',
+    details: 'https://github.com/Keiwen/vue-enhancedCheck',
+    keywords: ['checkbox','switch','toggle','vue']
   }
 
 ];
