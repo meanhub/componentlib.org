@@ -3276,6 +3276,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Unlicense',
     details: 'https://github.com/text-mask/text-mask/blob/master/componentDocumentation.md#readme',
     keywords: ['text mask','input mask','string mask','input formatting','text formatting','string formatting']
+  },
+  {
+    id: 146,
+    name: 'vue-ip-input',
+    install: {
+      packager: 'npm',
+      url: 'vue-ip-input'
+    },  
+    source: {
+      domain: 'github',
+      url: 'lakb248/vue-ip-input',
+    stars: 16
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://lakb248.github.io/vue-ip-input/'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'ISC',
+    details: 'https://github.com/lakb248/vue-ip-input',
+    keywords: ['vue-component','vuejs','ip','ip-input']
   }
 
 ];
