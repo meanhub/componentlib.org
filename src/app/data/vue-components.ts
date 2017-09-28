@@ -2968,6 +2968,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/cameronhimself/vue-drag-drop',
     keywords: ['vue','vuejs','plugin','drop','drag']
+  },
+  {
+    id: 132,
+    name: 'vue-instant',
+    install: {
+      packager: 'npm',
+      url: 'vue-instant'
+    },  
+    source: {
+      domain: 'github',
+      url: 'santiblanko/vue-instant',
+    stars: 210
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://santiblanko.github.io/vue-instant/#/'
+  },
+    framework: 'Vue',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://santiblanko.github.io/vue-instant/#/',
+    keywords: ['vue','vuejs','plugin','autocomplete','autosuggest','instant search','instant','searchbox','component']
   }
 
 ];
