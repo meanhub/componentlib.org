@@ -2880,6 +2880,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/kristianmandrup/vue2-dragula',
     keywords: ['vue','vuejs','drag and drop','list']
+  },
+  {
+    id: 128,
+    name: 'Awe-dnd',
+    install: {
+      packager: 'npm',
+      url: 'awe-dnd'
+    },  
+    source: {
+      domain: 'github',
+      url: 'hilongjw/vue-dragging',
+    stars: 202
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://hilongjw.github.io/vue-dragging/'
+  },
+    framework: 'Vue',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/hilongjw/vue-dragging',
+    keywords: ['vue-dragging','vue-drag','vue-dnd','vue','draggable','drag','drop', 'html5','draggable','droppable','drag-and-drop','dnd']
   }
 
 ];
