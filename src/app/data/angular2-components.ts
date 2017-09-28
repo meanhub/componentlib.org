@@ -2250,4 +2250,26 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/tabs/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'tabs']
   },
+  {
+    id: 106,
+    name: 'angular material expansion panel',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/expansion/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/expansion/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'expansion', 'panel']
+  },
+  
 ];
