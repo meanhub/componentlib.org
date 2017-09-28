@@ -2061,4 +2061,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/',
     keywords: ['angular', 'material', 'material design', 'components', 'slider']
   },
+  {
+    id: 97,
+    name: 'angular material slide toggle',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/slide-toggle/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/',
+    keywords: ['angular', 'material', 'material design', 'components', 'slide', 'toggle']
+  },
 ];
