@@ -2946,6 +2946,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://hejx.space/vddl/#/',
     keywords: ['vue','component','dragabble','drop','drag','drag-and-drop']
+  },
+  {
+    id: 131,
+    name: 'vue-drag-drop',
+    install: {
+      packager: 'npm',
+      url: 'vue-drag-drop'
+    },  
+    source: {
+      domain: 'github',
+      url: 'cameronhimself/vue-drag-drop',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://cameronhimself.github.io/vue-drag-drop/'
+  },
+    framework: 'Vue',
+    version: '0.1.2',
+    license: 'MIT',
+    details: 'https://github.com/cameronhimself/vue-drag-drop',
+    keywords: ['vue','vuejs','plugin','drop','drag']
   }
 
 ];
