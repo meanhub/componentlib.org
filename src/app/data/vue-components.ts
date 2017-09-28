@@ -3122,6 +3122,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vinayakkulkarni/v-image',
     keywords: ['vuejs','image','vue2','input-image']
+  },
+  {
+    id: 139,
+    name: 'vue-color',
+    install: {
+      packager: 'npm',
+      url: 'vue-color'
+    },  
+    source: {
+      domain: 'github',
+      url: 'xiaokaike/vue-color',
+    stars: 606
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://xiaokaike.github.io/vue-color/'
+  },
+    framework: 'Vue',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'https://github.com/xiaokaike/vue-color',
+    keywords: ['color','vuejs','vue']
   }
 
 ];
