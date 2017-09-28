@@ -2924,6 +2924,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mauricius/vue-draggable-resizable',
     keywords: ['vue','component','dragabble','resizable']
+  },
+  {
+    id: 130,
+    name: 'vddl',
+    install: {
+      packager: 'npm',
+      url: 'vddl'
+    },  
+    source: {
+      domain: 'github',
+      url: 'hejianxian/vddl',
+    stars: 79
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://hejx.space/vddl-demo/#/nested'
+  },
+    framework: 'Vue',
+    version: '0.5.2',
+    license: 'MIT',
+    details: 'http://hejx.space/vddl/#/',
+    keywords: ['vue','component','dragabble','drop','drag','drag-and-drop']
   }
 
 ];
