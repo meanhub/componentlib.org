@@ -3364,6 +3364,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vuejs-tips/v-money',
     keywords: ['vue','input','mask','directive','currency','money']
+  },
+  {
+    id: 150,
+    name: 'vue-autonumeric',
+    install: {
+      packager: 'npm',
+      url: 'vue-autonumeric'
+    },  
+    source: {
+      domain: 'github',
+      url: 'autoNumeric/vue-autoNumeric',
+    stars: 8
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'AnotherLinuxUser',
+      id: 'pWgOrZ'
+  },
+    framework: 'Vue',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'http://autonumeric.org/#/',
+    keywords: ['autonumeric','currency','money','monetary','euro','dollar','pound','number','numeric','format','form','input','mask','as-you-type','live','vue','vue.js','vuejs','ui','components']
   }
 
 ];
