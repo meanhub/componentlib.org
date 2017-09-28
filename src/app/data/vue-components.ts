@@ -3144,6 +3144,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/xiaokaike/vue-color',
     keywords: ['color','vuejs','vue']
+  },
+  {
+    id: 140,
+    name: 'Vue Switches',
+    install: {
+      packager: 'npm',
+      url: 'vue-switches'
+    },  
+    source: {
+      domain: 'github',
+      url: 'drewjbartlett/vue-switches',
+    stars: 63
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://drewjbartlett.com/demos/vue-switches/'
+  },
+    framework: 'Vue',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/drewjbartlett/vue-switches',
+    keywords: ['switches','component','vue']
   }
 
 ];
