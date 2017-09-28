@@ -3034,6 +3034,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Ginhing/vue-tagsinput',
     keywords: ['tagsinput', 'vue', 'input']
+  },
+  {
+    id: 135,
+    name: 'vue-input-tag',
+    install: {
+      packager: 'npm',
+      url: 'vue-input-tag'
+    },  
+    source: {
+      domain: 'github',
+      url: 'matiastucci/vue-input-tag',
+    stars: 174
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://tucci.me/vue-input-tag/'
+  },
+    framework: 'Vue',
+    version: '0.0.16',
+    license: 'MIT',
+    details: 'https://github.com/matiastucci/vue-input-tag',
+    keywords: ['input', 'tag', 'inputtag']
   }
 
 ];
