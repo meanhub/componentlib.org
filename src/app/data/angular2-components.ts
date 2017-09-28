@@ -1893,4 +1893,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/DethAriel/ng-recaptcha',
     keywords: ['angular', 'recaptcha', 'angular-recaptcha', 'ng-recaptcha']
   },
+  {
+    id: 89,
+    name: 'angular-cesium',
+    install: [{
+      packager: 'npm',
+      url: 'angular-cesium'
+    }],
+    source: {
+      domain: 'github',
+      url: 'TGFTech/angular-cesium'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.angular-cesium.com/'
+    },
+    framework: 'Angular 2+',
+    version: '0.0.25',
+    license: 'MIT',
+    details: 'https://github.com/TGFTech/angular-cesium',
+    keywords: ['Angular2', 'Cesium', 'Angular Cesium', 'Angular2 Cesium']
+  },
 ];
