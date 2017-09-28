@@ -3188,6 +3188,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-toggle-button',
     keywords: ['switch','toggle','vue','button']
+  },
+  {
+    id: 142,
+    name: 'vue-checkbox-radio',
+    install: {
+      packager: 'npm',
+      url: 'vue-checkbox-radio'
+    },  
+    source: {
+      domain: 'github',
+      url: 'mariomka/vue-checkbox-radio',
+    stars: 27
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://mariomka.github.io/vue-checkbox-radio/'
+  },
+    framework: 'Vue',
+    version: '0.5.2',
+    license: 'MIT',
+    details: 'https://github.com/mariomka/vue-checkbox-radio',
+    keywords: ['checkbox','radio','vue']
   }
 
 ];
