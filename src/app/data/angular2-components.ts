@@ -2397,4 +2397,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/progress-bar/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'progress', 'bar']
   },
+  {
+    id: 113,
+    name: 'angular material dialog',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/dialog/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/dialog/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'dialog', 'modal']
+  },
 ];
