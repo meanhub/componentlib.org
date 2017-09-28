@@ -2355,4 +2355,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/icon/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'icon']
   },
+  {
+    id: 111,
+    name: 'angular material progress-spinner',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/progress-spinner/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/progress-spinner/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'progress', 'spinner']
+  },
 ];
