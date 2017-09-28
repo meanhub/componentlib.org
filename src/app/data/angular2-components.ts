@@ -2502,4 +2502,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/sort/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'sort', 'header']
   },
+  {
+    id: 118,
+    name: 'angular material paginator',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/paginator/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/paginator/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'paginator']
+  },
 ];
