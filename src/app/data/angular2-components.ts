@@ -1956,4 +1956,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/',
     keywords: ['angular', 'material', 'material design', 'components', 'checkbox']
   },
+  {
+    id: 92,
+    name: 'angular material datepicker',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/datepicker/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/',
+    keywords: ['angular', 'material', 'material design', 'components', 'datepicker']
+  },
 ];
