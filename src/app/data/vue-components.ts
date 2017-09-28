@@ -3298,6 +3298,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/lakb248/vue-ip-input',
     keywords: ['vue-component','vuejs','ip','ip-input']
+  },
+  {
+    id: 147,
+    name: 'vue-numeric',
+    install: {
+      packager: 'npm',
+      url: 'vue-numeric'
+    },  
+    source: {
+      domain: 'github',
+      url: 'kevinongko/vue-numeric',
+    stars: 90
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://kevinongko.github.io/vue-numeric/'
+  },
+    framework: 'Vue',
+    version: '2.2.1',
+    license: 'MIT',
+    details: 'https://github.com/kevinongko/vue-numeric',
+    keywords: ['component','currency','input','text','number','numeric','separator','vue','vue.js']
   }
 
 ];
