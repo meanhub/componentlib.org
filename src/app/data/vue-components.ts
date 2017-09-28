@@ -3254,6 +3254,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://niksmr.github.io/vue-masked-input/',
     keywords: ['mask','masked','input','vue']
+  },
+  {
+    id: 145,
+    name: 'text-mask',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/text-mask/text-mask/archive/master.zip'
+    },  
+    source: {
+      domain: 'github',
+      url: 'text-mask/text-mask',
+    stars: 2224
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://text-mask.github.io/text-mask/'
+  },
+    framework: 'Vue',
+    version: '0.3.0',
+    license: 'Unlicense',
+    details: 'https://github.com/text-mask/text-mask/blob/master/componentDocumentation.md#readme',
+    keywords: ['text mask','input mask','string mask','input formatting','text formatting','string formatting']
   }
 
 ];
