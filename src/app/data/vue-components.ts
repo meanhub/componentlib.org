@@ -3078,6 +3078,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://distpicker.iline.co',
     keywords: ['省份','城市','地区','省市区','province','city','district','picker','plugin','javascript','development','vue','component']
+  },
+  {
+    id: 137,
+    name: 'vue-img-inputer',
+    install: {
+      packager: 'npm',
+      url: 'vue-img-inputer'
+    },  
+    source: {
+      domain: 'github',
+      url: 'waynecz/vue-img-inputer',
+    stars: 175
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://waynecz.github.io/VueImgInputer/index.html'
+  },
+    framework: 'Vue',
+    version: '1.1.5',
+    license: 'MIT',
+    details: 'https://github.com/waynecz/vue-img-inputer',
+    keywords: ['file-input','image','vue','components','ui']
   }
 
 ];
