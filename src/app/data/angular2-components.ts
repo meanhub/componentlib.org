@@ -2313,4 +2313,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/button-toggle/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'button', 'toggle']
   },
+  {
+    id: 109,
+    name: 'angular material chips',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/chips/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/chips/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'chips']
+  },
 ];
