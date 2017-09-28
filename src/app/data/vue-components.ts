@@ -2990,6 +2990,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://santiblanko.github.io/vue-instant/#/',
     keywords: ['vue','vuejs','plugin','autocomplete','autosuggest','instant search','instant','searchbox','component']
+  },
+  {
+    id: 133,
+    name: 'v-autocomplete',
+    install: {
+      packager: 'npm',
+      url: 'v-autocomplete'
+    },  
+    source: {
+      domain: 'github',
+      url: 'paliari/v-autocomplete',
+    stars: 57
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://paliari.github.io/v-autocomplete/'
+  },
+    framework: 'Vue',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://github.com/paliari/v-autocomplete',
+    keywords: ['vue','autocomplete','vue-autocomplete','autocomplete-vue','v-autocomplete']
   }
 
 ];
