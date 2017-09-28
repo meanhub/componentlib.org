@@ -2166,4 +2166,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/',
     keywords: ['angular', 'material', 'material design', 'components', 'list']
   },
+  {
+    id: 102,
+    name: 'angular material grid-list',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/grid-list/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/',
+    keywords: ['angular', 'material', 'material design', 'components', 'grid', 'list']
+  },
 ];
