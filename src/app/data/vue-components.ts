@@ -3100,6 +3100,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/waynecz/vue-img-inputer',
     keywords: ['file-input','image','vue','components','ui']
+  },
+  {
+    id: 138,
+    name: 'v-image',
+    install: {
+      packager: 'npm',
+      url: 'v-image'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vinayakkulkarni/v-image',
+    stars: 4
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vinayakkulkarni.github.io/v-image/'
+  },
+    framework: 'Vue',
+    version: '1.0.10',
+    license: 'MIT',
+    details: 'https://github.com/vinayakkulkarni/v-image',
+    keywords: ['vuejs','image','vue2','input-image']
   }
 
 ];
