@@ -3342,6 +3342,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/moip/awesome-mask',
     keywords: ['vue','vuejs','vue-directive','input','mask','text','vue-mask','awesome','awesome-mask']
+  },
+  {
+    id: 149,
+    name: 'v-money',
+    install: {
+      packager: 'npm',
+      url: 'v-money'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vuejs-tips/v-money',
+    stars: 89
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vuejs-tips.github.io/v-money/'
+  },
+    framework: 'Vue',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/vuejs-tips/v-money',
+    keywords: ['vue','input','mask','directive','currency','money']
   }
 
 ];
