@@ -2334,4 +2334,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://material.angular.io/components/chips/overview',
     keywords: ['angular', 'material', 'material design', 'components', 'chips']
   },
+  {
+    id: 110,
+    name: 'angular material icon',
+    install: [{
+      packager: 'npm',
+      url: '@angular/material'
+    }],
+    source: {
+      domain: 'github',
+      url: 'angular/material2'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://material.angular.io/components/icon/examples'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0-beta.11',
+    license: 'MIT',
+    details: 'https://material.angular.io/components/icon/overview',
+    keywords: ['angular', 'material', 'material design', 'components', 'icon']
+  },
 ];
