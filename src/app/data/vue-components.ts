@@ -3320,6 +3320,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/kevinongko/vue-numeric',
     keywords: ['component','currency','input','text','number','numeric','separator','vue','vue.js']
+  },
+  {
+    id: 148,
+    name: 'awesome-mask',
+    install: {
+      packager: 'npm',
+      url: 'awesome-mask'
+    },  
+    source: {
+      domain: 'github',
+      url: 'moip/awesome-mask',
+    stars: 82
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://moip.github.io/awesome-examples/'
+  },
+    framework: 'Vue',
+    version: '0.5.4',
+    license: 'ISC',
+    details: 'https://github.com/moip/awesome-mask',
+    keywords: ['vue','vuejs','vue-directive','input','mask','text','vue-mask','awesome','awesome-mask']
   }
 
 ];
