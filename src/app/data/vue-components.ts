@@ -3166,6 +3166,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/drewjbartlett/vue-switches',
     keywords: ['switches','component','vue']
+  },
+  {
+    id: 141,
+    name: 'vue-js-toggle-button',
+    install: {
+      packager: 'npm',
+      url: 'vue-js-toggle-button'
+    },  
+    source: {
+      domain: 'github',
+      url: 'euvl/vue-js-toggle-button',
+    stars: 153
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vue-js-toggle-button.yev.io'
+  },
+    framework: 'Vue',
+    version: '1.1.5',
+    license: 'MIT',
+    details: 'https://github.com/euvl/vue-js-toggle-button',
+    keywords: ['switch','toggle','vue','button']
   }
 
 ];
