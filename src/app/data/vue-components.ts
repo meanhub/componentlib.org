@@ -3232,6 +3232,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/Keiwen/vue-enhancedCheck',
     keywords: ['checkbox','switch','toggle','vue']
+  },
+  {
+    id: 144,
+    name: 'Vue Masked Input',
+    install: {
+      packager: 'npm',
+      url: 'vue-masked-input'
+    },  
+    source: {
+      domain: 'github',
+      url: 'niksmr/vue-masked-input',
+    stars: 180
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://niksmr.github.io/vue-masked-input/'
+  },
+    framework: 'Vue',
+    version: '0.5.2',
+    license: 'MIT',
+    details: 'https://niksmr.github.io/vue-masked-input/',
+    keywords: ['mask','masked','input','vue']
   }
 
 ];
