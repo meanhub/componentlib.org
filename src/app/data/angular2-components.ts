@@ -3426,4 +3426,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/dropdown',
     keywords: ['angular', 'primeng', 'dropdown']
   },
+  {
+    id: 162,
+    name: 'primeng inputswitch',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/inputswitch'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/inputswitch',
+    keywords: ['angular', 'primeng', 'inputswitch']
+  },
 ];
