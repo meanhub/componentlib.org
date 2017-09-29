@@ -3531,4 +3531,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/rating',
     keywords: ['angular', 'primeng', 'rating']
   },
+  {
+    id: 167,
+    name: 'primeng spinner',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/spinner'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/spinner',
+    keywords: ['angular', 'primeng', 'spinner']
+  },
 ];
