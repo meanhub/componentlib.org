@@ -4014,4 +4014,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/datagrid',
     keywords: ['angular', 'primeng', 'datagrid']
   },
+  {
+    id: 190,
+    name: 'primeng datascroller',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/datascroller'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/datascroller',
+    keywords: ['angular', 'primeng', 'datascroller']
+  },
 ];
