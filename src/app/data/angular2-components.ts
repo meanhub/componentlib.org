@@ -3678,4 +3678,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/inputtext',
     keywords: ['angular', 'primeng', 'inputtext']
   },
+  {
+    id: 174,
+    name: 'primeng listbox',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/listbox'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/listbox',
+    keywords: ['angular', 'primeng', 'listbox']
+  },
 ];
