@@ -3468,4 +3468,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/inputtextarea',
     keywords: ['angular', 'primeng', 'inputtextarea']
   },
+  {
+    id: 164,
+    name: 'primeng inputmask',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/inputmask'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/inputmask',
+    keywords: ['angular', 'primeng', 'inputmask']
+  },
 ];
