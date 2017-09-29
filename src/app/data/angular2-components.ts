@@ -3930,4 +3930,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/orderlist',
     keywords: ['angular', 'primeng', 'orderlist']
   },
+  {
+    id: 186,
+    name: 'primeng paginator',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/paginator'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/paginator',
+    keywords: ['angular', 'primeng', 'paginator']
+  },
 ];
