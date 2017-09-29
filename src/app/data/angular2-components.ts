@@ -2880,4 +2880,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ngx-bootstrap/#/typeahead',
     keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'typeahead']
   },
+  {
+    id: 136,
+    name: 'ng2-sheet',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-sheet'
+    }],
+    source: {
+      domain: 'github',
+      url: 'lexikteam/ng2-sheet'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'w0IzEGmMDmyN5TbuRXer'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.12',
+    license: 'MIT',
+    details: 'https://github.com/lexikteam/ng2-sheet',
+    keywords: ['angular2', 'angular', 'sheet', 'modal', 'angular-component']
+  },
 ];
