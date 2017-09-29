@@ -2691,4 +2691,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ngx-bootstrap/#/modals',
     keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'modals']
   },
+  {
+    id: 127,
+    name: 'ngx-bootstrap pagination',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ngx-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ngx-bootstrap/#/pagination#examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.9.3',
+    license: 'MIT',
+    details: 'https://valor-software.com/ngx-bootstrap/#/pagination',
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'pagination']
+  },
 ];
