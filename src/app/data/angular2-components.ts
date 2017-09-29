@@ -4119,4 +4119,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/tree',
     keywords: ['angular', 'primeng', 'tree']
   },
+  {
+    id: 195,
+    name: 'primeng accordion',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/accordion'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/accordion',
+    keywords: ['angular', 'primeng', 'accordion']
+  },
 ];
