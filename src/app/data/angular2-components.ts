@@ -4035,4 +4035,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/datascroller',
     keywords: ['angular', 'primeng', 'datascroller']
   },
+  {
+    id: 191,
+    name: 'primeng organizationchart',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/organizationchart'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/organizationchart',
+    keywords: ['angular', 'primeng', 'organizationchart']
+  },
 ];
