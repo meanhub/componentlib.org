@@ -4224,4 +4224,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/grid',
     keywords: ['angular', 'primeng', 'grid']
   },
+  {
+    id: 200,
+    name: 'primeng toolbar',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/toolbar'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/toolbar',
+    keywords: ['angular', 'primeng', 'toolbar']
+  },
 ];
