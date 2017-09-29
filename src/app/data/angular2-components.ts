@@ -3153,4 +3153,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/progress',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'progress']
   },
+  {
+    id: 149,
+    name: 'fuel-ui slider',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/component/slider'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/component/slider',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'slider']
+  },
 ];
