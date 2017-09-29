@@ -3342,4 +3342,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/tooltip',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tooltip']
   },
+  {
+    id: 158,
+    name: 'primeng inputgroup',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/inputgroup'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/inputgroup',
+    keywords: ['primeng', 'inputgroup']
+  },
 ];
