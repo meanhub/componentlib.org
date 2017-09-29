@@ -3321,4 +3321,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/codehighlighter',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'codehighlighter']
   },
+  {
+    id: 157,
+    name: 'fuel-ui tooltip',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/directive/tooltip'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/tooltip',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tooltip']
+  },
 ];
