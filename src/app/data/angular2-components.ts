@@ -3720,4 +3720,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/multiselect',
     keywords: ['angular', 'primeng', 'multiselect']
   },
+  {
+    id: 176,
+    name: 'primeng radiobutton',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/radiobutton'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/radiobutton',
+    keywords: ['angular', 'primeng', 'radiobutton']
+  },
 ];
