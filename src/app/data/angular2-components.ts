@@ -2586,4 +2586,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ngx-bootstrap/#/buttons',
     keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'buttons']
   },
+  {
+    id: 122,
+    name: 'ngx-bootstrap carousel',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ngx-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ngx-bootstrap/#/carousel#examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.9.3',
+    license: 'MIT',
+    details: 'https://valor-software.com/ngx-bootstrap/#/carousel',
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'carousel']
+  },
 ];
