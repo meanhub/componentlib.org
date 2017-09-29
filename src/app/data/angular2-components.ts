@@ -3489,4 +3489,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/inputmask',
     keywords: ['angular', 'primeng', 'inputmask']
   },
+  {
+    id: 165,
+    name: 'primeng password',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/password'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/password',
+    keywords: ['angular', 'primeng', 'password']
+  },
 ];
