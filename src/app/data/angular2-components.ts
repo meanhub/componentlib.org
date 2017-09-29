@@ -4287,4 +4287,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/lightbox',
     keywords: ['angular', 'primeng', 'lightbox']
   },
+  {
+    id: 203,
+    name: 'primeng tooltip',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/tooltip'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/tooltip',
+    keywords: ['angular', 'primeng', 'tooltip']
+  },
 ];
