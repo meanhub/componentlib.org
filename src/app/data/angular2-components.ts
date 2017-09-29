@@ -4245,4 +4245,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/toolbar',
     keywords: ['angular', 'primeng', 'toolbar']
   },
+  {
+    id: 201,
+    name: 'primeng confirmdialog',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/confirmdialog'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/confirmdialog',
+    keywords: ['angular', 'primeng', 'confirmdialog']
+  },
 ];
