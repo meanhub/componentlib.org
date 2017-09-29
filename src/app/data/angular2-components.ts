@@ -4308,4 +4308,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/tooltip',
     keywords: ['angular', 'primeng', 'tooltip']
   },
+  {
+    id: 204,
+    name: 'primeng dialog',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/dialog'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/dialog',
+    keywords: ['angular', 'primeng', 'dialog']
+  },
 ];
