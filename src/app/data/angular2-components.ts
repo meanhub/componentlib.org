@@ -3384,4 +3384,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/calendar',
     keywords: ['angular', 'primeng', 'calendar']
   },
+  {
+    id: 160,
+    name: 'primeng chips',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/chips'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/chips',
+    keywords: ['angular', 'primeng', 'chips']
+  },
 ];
