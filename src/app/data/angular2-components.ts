@@ -4098,4 +4098,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/picklist',
     keywords: ['angular', 'primeng', 'picklist']
   },
+  {
+    id: 194,
+    name: 'primeng tree',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/tree'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/tree',
+    keywords: ['angular', 'primeng', 'tree']
+  },
 ];
