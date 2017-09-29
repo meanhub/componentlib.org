@@ -2796,4 +2796,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ngx-bootstrap/#/sortable',
     keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'sortable']
   },
+  {
+    id: 132,
+    name: 'ngx-bootstrap tabs',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ngx-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ngx-bootstrap/#/tabs#examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.9.3',
+    license: 'MIT',
+    details: 'https://valor-software.com/ngx-bootstrap/#/tabs',
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'tabs']
+  },
 ];
