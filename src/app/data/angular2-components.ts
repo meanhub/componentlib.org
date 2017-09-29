@@ -3594,4 +3594,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/autocomplete',
     keywords: ['angular', 'primeng', 'autocomplete']
   },
+  {
+    id: 170,
+    name: 'primeng checkbox',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/checkbox'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/checkbox',
+    keywords: ['angular', 'primeng', 'checkbox']
+  },
 ];
