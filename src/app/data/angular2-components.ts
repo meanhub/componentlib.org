@@ -3699,4 +3699,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/listbox',
     keywords: ['angular', 'primeng', 'listbox']
   },
+  {
+    id: 175,
+    name: 'primeng multiselect',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/multiselect'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/multiselect',
+    keywords: ['angular', 'primeng', 'multiselect']
+  },
 ];
