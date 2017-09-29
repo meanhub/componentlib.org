@@ -3363,4 +3363,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/inputgroup',
     keywords: ['primeng', 'inputgroup']
   },
+  {
+    id: 159,
+    name: 'primeng calendar',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/calendar'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/calendar',
+    keywords: ['angular', 'primeng', 'calendar']
+  },
 ];
