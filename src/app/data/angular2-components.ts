@@ -2922,4 +2922,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/animation/collapse',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'collapse']
   },
+  {
+    id: 138,
+    name: 'fuel-ui accordion',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/component/accordion'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/component/accordion',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'accordion']
+  },
 ];
