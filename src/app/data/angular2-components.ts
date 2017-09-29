@@ -4161,4 +4161,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/panel',
     keywords: ['angular', 'primeng', 'panel']
   },
+  {
+    id: 197,
+    name: 'primeng tabview',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/tabview'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/tabview',
+    keywords: ['angular', 'primeng', 'tabview']
+  },
 ];
