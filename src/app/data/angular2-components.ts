@@ -3741,4 +3741,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/radiobutton',
     keywords: ['angular', 'primeng', 'radiobutton']
   },
+  {
+    id: 177,
+    name: 'primeng slider',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/slider'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/slider',
+    keywords: ['angular', 'primeng', 'slider']
+  },
 ];
