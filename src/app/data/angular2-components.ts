@@ -2754,4 +2754,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://valor-software.com/ngx-bootstrap/#/progressbar',
     keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'progressbar']
   },
+  {
+    id: 130,
+    name: 'ngx-bootstrap rating',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'valor-software/ngx-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://valor-software.com/ngx-bootstrap/#/rating#examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.9.3',
+    license: 'MIT',
+    details: 'https://valor-software.com/ngx-bootstrap/#/rating',
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'rating']
+  },
 ];
