@@ -3405,4 +3405,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/chips',
     keywords: ['angular', 'primeng', 'chips']
   },
+  {
+    id: 161,
+    name: 'primeng dropdown',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/dropdown'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/dropdown',
+    keywords: ['angular', 'primeng', 'dropdown']
+  },
 ];
