@@ -3762,4 +3762,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/slider',
     keywords: ['angular', 'primeng', 'slider']
   },
+  {
+    id: 178,
+    name: 'primeng selectbutton',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/selectbutton'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/selectbutton',
+    keywords: ['angular', 'primeng', 'selectbutton']
+  },
 ];
