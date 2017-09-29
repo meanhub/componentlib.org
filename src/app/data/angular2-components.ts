@@ -3048,4 +3048,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/dropdown',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'dropdown']
   },
+  {
+    id: 144,
+    name: 'fuel-ui infinitescroller',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/component/infinitescroller'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/component/infinitescroller',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'infinitescroller']
+  },
 ];
