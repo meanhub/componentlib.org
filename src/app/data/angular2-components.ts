@@ -3069,4 +3069,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/infinitescroller',
     keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'infinitescroller']
   },
+  {
+    id: 145,
+    name: 'fuel-ui modal',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/component/modal'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/component/modal',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'modal']
+  },
 ];
