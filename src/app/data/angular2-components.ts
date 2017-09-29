@@ -2901,4 +2901,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/lexikteam/ng2-sheet',
     keywords: ['angular2', 'angular', 'sheet', 'modal', 'angular-component']
   },
+  {
+    id: 137,
+    name: 'fuel-ui collapse',
+    install: [{
+      packager: 'npm',
+      url: 'fuel-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'FuelInteractive/fuel-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fuelinteractive.github.io/fuel-ui/#/animation/collapse'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.9',
+    license: 'ISC',
+    details: 'http://fuelinteractive.github.io/fuel-ui/#/animation/collapse',
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'collapse']
+  },
 ];
