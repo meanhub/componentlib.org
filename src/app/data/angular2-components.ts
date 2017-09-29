@@ -3510,4 +3510,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/password',
     keywords: ['angular', 'primeng', 'password']
   },
+  {
+    id: 166,
+    name: 'primeng rating',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/rating'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/rating',
+    keywords: ['angular', 'primeng', 'rating']
+  },
 ];
