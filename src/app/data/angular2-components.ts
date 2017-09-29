@@ -4182,4 +4182,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/tabview',
     keywords: ['angular', 'primeng', 'tabview']
   },
+  {
+    id: 198,
+    name: 'primeng fieldset',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/fieldset'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/fieldset',
+    keywords: ['angular', 'primeng', 'fieldset']
+  },
 ];
