@@ -4025,6 +4025,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/dattn/dnd-grid',
     keywords: ['vue','vue.js', 'component']
+  },
+  {
+    id: 180,
+    name: 'vue-extend-layout',
+    install: {
+      packager: 'npm',
+      url: 'vue-extend-layout'
+    },  
+    source: {
+      domain: 'github',
+      url: 'ktquez/vue-extend-layout',
+    stars: 15
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://layout-simple.surge.sh'
+  },
+    framework: 'Vue',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/ktquez/vue-extend-layout',
+    keywords: ['vuejs','layout','vue-layout','nuxt','spa','pwa','vue-router','choose','layout']
   }
 
 ];
