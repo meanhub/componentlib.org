@@ -3739,6 +3739,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/olefirenko/vue-google-autocomplete',
     keywords: ['vue','google', 'autocomplete']
+  },
+  {
+    id: 167,
+    name: 'Submit with progress indicator',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/NxtChg/pieces/archive/master.zip'
+    },  
+    source: {
+      domain: 'github',
+      url: 'NxtChg/pieces/tree/master/js/vue/vue-submit',
+    stars: 40
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://nxtchg.github.io/pieces/vue/vue-submit/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'Unlicense',
+    details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit',
+    keywords: ['vue','submit', 'autocomplete']
   }
 
 ];
