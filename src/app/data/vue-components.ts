@@ -3497,6 +3497,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/chmln/vue-wysiwyg',
     keywords: ['vue','vue2','wysiwyg','html','editor']
+  },
+  {
+    id: 156,
+    name: 'Vue-Core-Image-Upload',
+    install: {
+      packager: 'npm',
+      url: 'vue-core-image-upload'
+    },  
+    source: {
+      domain: 'github',
+      url: 'chmln/vue-wysiwyg',
+    stars: 656
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vanthink-ued.github.io/vue-core-image-upload/index.html#/en/get-started'
+  },
+    framework: 'Vue',
+    version: '2.3.7',
+    license: 'ISC',
+    details: 'http://vanthink-ued.github.io/vue-core-image-upload/index.html#/en/home',
+    keywords: ['vue','plugin','upload','image','crop','image']
   }
 
 ];
