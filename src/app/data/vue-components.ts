@@ -3981,6 +3981,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/tangbc/vue-virtual-scroll-list',
     keywords: ['vue','component', 'big-data','big-list','scroll-list','virtual-list']
+  },
+  {
+    id: 178,
+    name: 'vue-virtual-scroller',
+    install: {
+      packager: 'npm',
+      url: 'vue-virtual-scroller'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Akryum/vue-virtual-scroller',
+    stars: 377
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://akryum.github.io/vue-virtual-scroller/'
+  },
+    framework: 'Vue',
+    version: '0.9.0',
+    license: 'MIT',
+    details: 'https://github.com/Akryum/vue-virtual-scroller#usage',
+    keywords: ['vue','vue.js', 'plugin']
   }
 
 ];
