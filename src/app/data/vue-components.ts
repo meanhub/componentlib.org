@@ -3629,6 +3629,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/rowanwins/vue-dropzone',
     keywords: ['vuejs','vue','dropzone']
+  },
+  {
+    id: 162,
+    name: 'vue-context-menu',
+    install: {
+      packager: 'npm',
+      url: 'vue-context-menu'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vmaimone/vue-context-menu',
+    stars: 92
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://vmaimone.github.io/vue-context-menu/'
+  },
+    framework: 'Vue',
+    version: '2.0.6',
+    license: 'ISC',
+    details: 'https://github.com/vmaimone/vue-context-menu',
+    keywords: ['component','vue','context','menu']
   }
 
 ];
