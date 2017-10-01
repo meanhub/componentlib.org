@@ -3871,6 +3871,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/David-Desmaisons/Vue.Isotope',
     keywords: ['vue', 'vuejs', 'isotope', 'web-components','web-component', 'layout']
+  },
+  {
+    id: 173,
+    name: 'vue-grid-layout',
+    install: {
+      packager: 'npm',
+      url: 'vue-grid-layout'
+    },  
+    source: {
+      domain: 'github',
+      url: 'jbaysolutions/vue-grid-layout',
+    stars: 556
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jbaysolutions.github.io/vue-grid-layout/examples/01-basic.html'
+  },
+    framework: 'Vue',
+    version: '2.1.10',
+    license: 'MIT',
+    details: 'https://github.com/jbaysolutions/vue-grid-layout',
+    keywords: ['grid','vuejs','drag','draggable','resize','resizable','fluid', 'responsive']
   }
 
 ];
