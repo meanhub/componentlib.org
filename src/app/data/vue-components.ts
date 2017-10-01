@@ -3827,6 +3827,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://cristijora.github.io/vue-form-wizard/#/',
     keywords: ['vue','form','wizard','tab','vuejs']
+  },
+  {
+    id: 171,
+    name: 'vue-waterfall',
+    install: {
+      packager: 'npm',
+      url: 'vue-waterfall'
+    },  
+    source: {
+      domain: 'github',
+      url: 'MopTym/vue-waterfall',
+    stars: 888
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://app.moptym.com/vue-waterfall/demo/vertical-line-with-grow.html'
+  },
+    framework: 'Vue',
+    version: '1.0.6',
+    license: 'MIT',
+    details: 'https://github.com/MopTym/vue-waterfall',
+    keywords: ['waterfall','vue','pinterest','layout']
   }
 
 ];
