@@ -3519,6 +3519,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'http://vanthink-ued.github.io/vue-core-image-upload/index.html#/en/home',
     keywords: ['vue','plugin','upload','image','crop','image']
+  },
+  {
+    id: 157,
+    name: 'vue-croppa',
+    install: {
+      packager: 'npm',
+      url: 'vue-croppa'
+    },  
+    source: {
+      domain: 'github',
+      url: 'zhanziyang/vue-croppa',
+    stars: 126
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://zhanziyang.github.io/vue-croppa/#/'
+  },
+    framework: 'Vue',
+    version: '1.0.2',
+    license: 'ISC',
+    details: 'https://zhanziyang.github.io/vue-croppa/#/quick-start',
+    keywords: ['cropper','vue','image','crop','upload','vue-cropper', 'vue cropper','image cropper','vue plugin','move','zoom','javascript','web','front-end','staightforward','customizable', 'editable','lightweight','mobile']
   }
 
 ];
