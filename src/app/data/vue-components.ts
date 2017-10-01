@@ -3959,6 +3959,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://bkzl.github.io/vue-fraction-grid/',
     keywords: ['grid','flexbox','vue.js','vue']
+  },
+  {
+    id: 177,
+    name: 'vue-virtual-scroll-list',
+    install: {
+      packager: 'npm',
+      url: 'vue-virtual-scroll-list'
+    },  
+    source: {
+      domain: 'github',
+      url: 'tangbc/vue-virtual-scroll-list',
+    stars: 51
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://tangbc.github.io/vue-virtual-scroll-list/examples/variable/'
+  },
+    framework: 'Vue',
+    version: '1.1.6',
+    license: 'MIT',
+    details: 'https://github.com/tangbc/vue-virtual-scroll-list',
+    keywords: ['vue','component', 'big-data','big-list','scroll-list','virtual-list']
   }
 
 ];
