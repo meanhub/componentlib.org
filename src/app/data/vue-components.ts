@@ -3475,6 +3475,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://fritx.github.io/vue-at/#/en/quickstart',
     keywords: ['vue','text','editor','at']
+  },
+  {
+    id: 155,
+    name: 'vue-wysiwyg',
+    install: {
+      packager: 'npm',
+      url: 'vue-wysiwyg'
+    },  
+    source: {
+      domain: 'github',
+      url: 'chmln/vue-wysiwyg',
+    stars: 56
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://chmln.github.io/vue-wysiwyg/'
+  },
+    framework: 'Vue',
+    version: '1.2.7',
+    license: 'MIT',
+    details: 'https://github.com/chmln/vue-wysiwyg',
+    keywords: ['vue','vue2','wysiwyg','html','editor']
   }
 
 ];
