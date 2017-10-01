@@ -3849,6 +3849,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MopTym/vue-waterfall',
     keywords: ['waterfall','vue','pinterest','layout']
+  },
+  {
+    id: 172,
+    name: 'Vue.Isotope',
+    install: {
+      packager: 'npm',
+      url: 'vueisotope'
+    },  
+    source: {
+      domain: 'github',
+      url: 'David-Desmaisons/Vue.Isotope',
+    stars: 134
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/dede89/jm8g2qx7/show/'
+  },
+    framework: 'Vue',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'https://github.com/David-Desmaisons/Vue.Isotope',
+    keywords: ['vue', 'vuejs', 'isotope', 'web-components','web-component', 'layout']
   }
 
 ];
