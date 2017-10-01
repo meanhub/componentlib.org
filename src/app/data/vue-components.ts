@@ -3937,6 +3937,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/shershen08/vue-masonry',
     keywords: ['masonry','layout','vue.js','vue']
+  },
+  {
+    id: 176,
+    name: 'vue-fraction-grid',
+    install: {
+      packager: 'npm',
+      url: 'vue-fraction-grid'
+    },  
+    source: {
+      domain: 'github',
+      url: 'bkzl/vue-fraction-grid',
+    stars: 51
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://bkzl.github.io/vue-fraction-grid/'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://bkzl.github.io/vue-fraction-grid/',
+    keywords: ['grid','flexbox','vue.js','vue']
   }
 
 ];
