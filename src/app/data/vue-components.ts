@@ -3541,6 +3541,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://zhanziyang.github.io/vue-croppa/#/quick-start',
     keywords: ['cropper','vue','image','crop','upload','vue-cropper', 'vue cropper','image cropper','vue plugin','move','zoom','javascript','web','front-end','staightforward','customizable', 'editable','lightweight','mobile']
+  },
+  {
+    id: 158,
+    name: 'vue-cropper',
+    install: {
+      packager: 'npm',
+      url: 'vue-cropper'
+    },  
+    source: {
+      domain: 'github',
+      url: 'xyxiao001/vue-cropper',
+    stars: 154
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://xyxiao.cn/vue-cropper/example/'
+  },
+    framework: 'Vue',
+    version: '0.2.3',
+    license: 'ISC',
+    details: 'https://github.com/xyxiao001/vue-cropper/blob/master/english.md',
+    keywords: ['vue','cropper','vue-cropper','vue-component','vue-cropper-component']
   }
 
 ];
