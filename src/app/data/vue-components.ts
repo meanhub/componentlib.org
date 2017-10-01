@@ -3695,6 +3695,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-password-strength-meter',
     keywords: ['vue','password','password strength', 'security', 'vuejs']
+  },
+  {
+    id: 165,
+    name: 'VueLongpress',
+    install: {
+      packager: 'npm',
+      url: 'vue-longpress'
+    },  
+    source: {
+      domain: 'github',
+      url: 'javisperez/vuelongpress',
+    stars: 40
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/qr9ykxpp/show/'
+  },
+    framework: 'Vue',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/javisperez/vuelongpress',
+    keywords: ['vue','vuejs', 'button','confirm','confirmation','longpress','vue-longpress', 'hold click','plugin']
   }
 
 ];
