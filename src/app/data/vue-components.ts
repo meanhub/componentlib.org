@@ -3651,6 +3651,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/vmaimone/vue-context-menu',
     keywords: ['component','vue','context','menu']
+  },
+  {
+    id: 163,
+    name: 'Vuep (vue playground)',
+    install: {
+      packager: 'npm',
+      url: 'vuep'
+    },  
+    source: {
+      domain: 'github',
+      url: 'QingWei-Li/vuep',
+    stars: 176
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://cinwell.com/vuep/#/?id=demo'
+  },
+    framework: 'Vue',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://cinwell.com/vuep/#/',
+    keywords: ['vue','playground','preview', 'editable', 'component', 'vuejs']
   }
 
 ];
