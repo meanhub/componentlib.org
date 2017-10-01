@@ -3783,6 +3783,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/SinanMtl/vue-rate',
     keywords: ['vue','rate','component','vue.js','vue-component']
+  },
+  {
+    id: 169,
+    name: 'Vuetify Google Autocomplete',
+    install: {
+      packager: 'npm',
+      url: 'vuetify-google-autocomplete'
+    },  
+    source: {
+      domain: 'github',
+      url: 'MadimetjaShika/vuetify-google-autocomplete',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://madimetjashika.github.io/vuetify-google-autocomplete/'
+  },
+    framework: 'Vue',
+    version: '1.0.5',
+    license: 'MIT',
+    details: 'https://github.com/MadimetjaShika/vuetify-google-autocomplete',
+    keywords: ['vue','google','vuetify','autocomplete']
   }
 
 ];
