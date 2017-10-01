@@ -3915,6 +3915,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/surmon-china/vue-drag-zone',
     keywords: ['vue-drag-zone','vue drag dom','vue drag size','vue drag']
+  },
+  {
+    id: 175,
+    name: 'vue-masonry',
+    install: {
+      packager: 'npm',
+      url: 'vue-masonry'
+    },  
+    source: {
+      domain: 'github',
+      url: 'shershen08/vue-masonry',
+    stars: 111
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://shershen08.github.io/vue-plugins-demo-static/index.html#/masonry'
+  },
+    framework: 'Vue',
+    version: '0.10.12',
+    license: 'MIT',
+    details: 'https://github.com/shershen08/vue-masonry',
+    keywords: ['masonry','layout','vue.js','vue']
   }
 
 ];
