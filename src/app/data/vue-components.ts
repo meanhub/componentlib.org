@@ -3453,6 +3453,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'https://www.froala.com/wysiwyg-editor/terms/',
     details: 'https://www.froala.com/wysiwyg-editor/docs/framework-plugins/vue',
     keywords: ['vue','froala','html','text','editor','wysisyg','jquery-plugin','rich editor','rich text editor','rte','javascript','jquery']
+  },
+  {
+    id: 154,
+    name: 'vue-at',
+    install: {
+      packager: 'npm',
+      url: 'vue-at@2.x'
+    },  
+    source: {
+      domain: 'github',
+      url: 'fritx/vue-at',
+    stars: 125
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://fritx.github.io/vue-at/#/en/quickstart'
+  },
+    framework: 'Vue',
+    version: '2.2.5',
+    license: 'MIT',
+    details: 'https://fritx.github.io/vue-at/#/en/quickstart',
+    keywords: ['vue','text','editor','at']
   }
 
 ];
