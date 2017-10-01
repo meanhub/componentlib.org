@@ -3893,6 +3893,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/jbaysolutions/vue-grid-layout',
     keywords: ['grid','vuejs','drag','draggable','resize','resizable','fluid', 'responsive']
+  },
+  {
+    id: 174,
+    name: 'vue-drag-zone',
+    install: {
+      packager: 'npm',
+      url: 'vue-drag-zone'
+    },  
+    source: {
+      domain: 'github',
+      url: 'surmon-china/vue-drag-zone',
+    stars: 38
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://surmon-china.github.io/vue-drag-zone/'
+  },
+    framework: 'Vue',
+    version: '1.2.2',
+    license: 'MIT',
+    details: 'https://github.com/surmon-china/vue-drag-zone',
+    keywords: ['vue-drag-zone','vue drag dom','vue drag size','vue drag']
   }
 
 ];
