@@ -3673,6 +3673,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://cinwell.com/vuep/#/',
     keywords: ['vue','playground','preview', 'editable', 'component', 'vuejs']
+  },
+  {
+    id: 164,
+    name: 'vue-password-strength-meter',
+    install: {
+      packager: 'npm',
+      url: 'vue-password-strength-meter'
+    },  
+    source: {
+      domain: 'github',
+      url: 'apertureless/vue-password-strength-meter',
+    stars: 140
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://apertureless.github.io/vue-password-strength-meter/'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-password-strength-meter',
+    keywords: ['vue','password','password strength', 'security', 'vuejs']
   }
 
 ];
