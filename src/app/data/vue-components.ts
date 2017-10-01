@@ -3409,6 +3409,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://quilljs.com/docs/quickstart/',
     keywords: ['vue-quill-editor','vue quill','vue text editor','vue rich text editor','vue web editor','vue editor']
+  },
+  {
+    id: 152,
+    name: 'vue2-medium-editor',
+    install: {
+      packager: 'npm',
+      url: 'vue2-medium-editor'
+    },  
+    source: {
+      domain: 'github',
+      url: 'FranzSkuffka/vue-medium-editor',
+    stars: 1061
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://franzskuffka.github.io/vue-medium-editor/'
+  },
+    framework: 'Vue',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'https://github.com/yabwe/medium-editor#core-options',
+    keywords: ['vue','js','medium','editor','directive']
   }
 
 ];
