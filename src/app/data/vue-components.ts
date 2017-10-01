@@ -3761,6 +3761,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Unlicense',
     details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit',
     keywords: ['vue','submit', 'autocomplete']
+  },
+  {
+    id: 168,
+    name: 'Vue Rate',
+    install: {
+      packager: 'npm',
+      url: 'vue-rate'
+    },  
+    source: {
+      domain: 'github',
+      url: 'SinanMtl/vue-rate',
+    stars: 92
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://sinanmtl.github.io/vue-rate/'
+  },
+    framework: 'Vue',
+    version: '1.4.1',
+    license: 'MIT',
+    details: 'https://github.com/SinanMtl/vue-rate',
+    keywords: ['vue','rate','component','vue.js','vue-component']
   }
 
 ];
