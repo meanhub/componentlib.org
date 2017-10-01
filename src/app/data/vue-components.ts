@@ -3563,6 +3563,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/xyxiao001/vue-cropper/blob/master/english.md',
     keywords: ['vue','cropper','vue-cropper','vue-component','vue-cropper-component']
+  },
+  {
+    id: 159,
+    name: 'vue-clip',
+    install: {
+      packager: 'npm',
+      url: 'vue-clip'
+    },  
+    source: {
+      domain: 'github',
+      url: 'thetutlage/vue-clip',
+    stars: 105
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://vueclip.adonisjs.com/#-introduction'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://vueclip.adonisjs.com/#-introduction',
+    keywords: ['vuejs','vue','file-uploader','file-upload','vue-upload', 'dropzone']
   }
 
 ];
