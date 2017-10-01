@@ -3805,6 +3805,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MadimetjaShika/vuetify-google-autocomplete',
     keywords: ['vue','google','vuetify','autocomplete']
+  },
+  {
+    id: 170,
+    name: 'vue-form-wizard',
+    install: {
+      packager: 'npm',
+      url: 'vue-form-wizard'
+    },  
+    source: {
+      domain: 'github',
+      url: 'cristijora/vue-form-wizard',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://jsfiddle.net/bt5dhqtf/97/show/'
+  },
+    framework: 'Vue',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://cristijora.github.io/vue-form-wizard/#/',
+    keywords: ['vue','form','wizard','tab','vuejs']
   }
 
 ];
