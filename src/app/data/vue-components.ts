@@ -3431,6 +3431,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/yabwe/medium-editor#core-options',
     keywords: ['vue','js','medium','editor','directive']
+  },
+  {
+    id: 153,
+    name: 'vue-froala-wysiwyg',
+    install: {
+      packager: 'npm',
+      url: 'vue-froala-wysiwyg'
+    },  
+    source: {
+      domain: 'github',
+      url: 'froala/vue-froala-wysiwyg',
+    stars: 84
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://www.froala.com/wysiwyg-editor'
+  },
+    framework: 'Vue',
+    version: '2.7.0',
+    license: 'https://www.froala.com/wysiwyg-editor/terms/',
+    details: 'https://www.froala.com/wysiwyg-editor/docs/framework-plugins/vue',
+    keywords: ['vue','froala','html','text','editor','wysisyg','jquery-plugin','rich editor','rich text editor','rte','javascript','jquery']
   }
 
 ];
