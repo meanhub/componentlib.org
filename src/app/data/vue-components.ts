@@ -3585,6 +3585,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://vueclip.adonisjs.com/#-introduction',
     keywords: ['vuejs','vue','file-uploader','file-upload','vue-upload', 'dropzone']
+  },
+  {
+    id: 160,
+    name: 'vue2-multi-uploader',
+    install: {
+      packager: 'npm',
+      url: 'vue2-multi-uploader'
+    },  
+    source: {
+      domain: 'github',
+      url: 'abarta/vue2-multi-uploader',
+    stars: 40
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://abarta.github.io/vue2-multi-uploader/demo/'
+  },
+    framework: 'Vue',
+    version: '1.4.1',
+    license: 'MIT',
+    details: 'https://github.com/abarta/vue2-multi-uploader',
+    keywords: ['vuejs','vue','multi-uploader','file-upload','vue-upload']
   }
 
 ];
