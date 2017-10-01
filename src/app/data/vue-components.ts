@@ -4047,6 +4047,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ktquez/vue-extend-layout',
     keywords: ['vuejs','layout','vue-layout','nuxt','spa','pwa','vue-router','choose','layout']
+  },
+  {
+    id: 181,
+    name: 'Quasar Framework',
+    install: {
+      packager: 'npm',
+      url: 'quasar-framework'
+    },  
+    source: {
+      domain: 'github',
+      url: 'quasarframework/quasar',
+    stars: 3575
+    },
+    demo: {
+      repl: 'custom',
+      src:  'http://quasar-framework.org'
+  },
+    framework: 'Vue',
+    version: '0.15.0',
+    license: 'MIT',
+    details: 'http://quasar-framework.org/guide/',
+    keywords: ['vuejs','vue','quasar','js','phone', 'tablet', 'desktop', 'spa','website', 'electron']
   }
 
 ];
