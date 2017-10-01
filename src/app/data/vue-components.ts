@@ -3387,6 +3387,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://autonumeric.org/#/',
     keywords: ['autonumeric','currency','money','monetary','euro','dollar','pound','number','numeric','format','form','input','mask','as-you-type','live','vue','vue.js','vuejs','ui','components']
+  },
+  {
+    id: 151,
+    name: 'Vue-Quill-Editor',
+    install: {
+      packager: 'npm',
+      url: 'vue-quill-editor'
+    },  
+    source: {
+      domain: 'github',
+      url: 'surmon-china/vue-quill-editor',
+    stars: 1061
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://surmon-china.github.io/vue-quill-editor/'
+  },
+    framework: 'Vue',
+    version: '2.3.2',
+    license: 'MIT',
+    details: 'https://quilljs.com/docs/quickstart/',
+    keywords: ['vue-quill-editor','vue quill','vue text editor','vue rich text editor','vue web editor','vue editor']
   }
 
 ];
