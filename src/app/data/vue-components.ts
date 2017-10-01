@@ -3607,6 +3607,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/abarta/vue2-multi-uploader',
     keywords: ['vuejs','vue','multi-uploader','file-upload','vue-upload']
+  },
+  {
+    id: 161,
+    name: 'vue-dropzone',
+    install: {
+      packager: 'npm',
+      url: 'vue2-dropzone@^2.0.0'
+    },  
+    source: {
+      domain: 'github',
+      url: 'rowanwins/vue-dropzone',
+    stars: 461
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://rowanwins.github.io/vue-dropzone/dist/index.html'
+  },
+    framework: 'Vue',
+    version: '2.3.6',
+    license: 'MIT',
+    details: 'https://github.com/rowanwins/vue-dropzone',
+    keywords: ['vuejs','vue','dropzone']
   }
 
 ];
