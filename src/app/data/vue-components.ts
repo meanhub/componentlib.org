@@ -4069,6 +4069,32 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://quasar-framework.org/guide/',
     keywords: ['vuejs','vue','quasar','js','phone', 'tablet', 'desktop', 'spa','website', 'electron']
+  },
+  {
+    id: 182,
+    name: 'Material Design for Vue.js',
+    install: [{
+      packager: 'npm',
+      url: 'vue-material'
+    },{
+      packager: 'download',
+      url: 'https://github.com/marcosmoura/vue-material/archive/master.zip'
+    }],  
+    source: {
+      domain: 'github',
+      url: 'vuematerial/vue-material',
+    stars: 4365
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'vue-material',
+      id: 'WoZpMR'
+  },
+    framework: 'Vue',
+    version: '0.7.5',
+    license: 'MIT',
+    details: 'http://vuematerial.io/#/',
+    keywords: ['browser', 'vue', 'vue 2', 'vue2', 'vuejs', 'material design', 'material', 'components']
   }
 
 ];
