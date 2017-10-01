@@ -4003,6 +4003,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Akryum/vue-virtual-scroller#usage',
     keywords: ['vue','vue.js', 'plugin']
+  },
+  {
+    id: 179,
+    name: 'dnd-grid',
+    install: {
+      packager: 'npm',
+      url: '@dattn/dnd-grid'
+    },  
+    source: {
+      domain: 'github',
+      url: 'dattn/dnd-grid',
+    stars: 56
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://dnd-grid.duton.lu'
+  },
+    framework: 'Vue',
+    version: '0.0.9',
+    license: 'MIT',
+    details: 'https://github.com/dattn/dnd-grid',
+    keywords: ['vue','vue.js', 'component']
   }
 
 ];
