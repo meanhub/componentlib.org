@@ -3717,6 +3717,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/javisperez/vuelongpress',
     keywords: ['vue','vuejs', 'button','confirm','confirmation','longpress','vue-longpress', 'hold click','plugin']
+  },
+  {
+    id: 166,
+    name: 'Vue Google Autocomplete',
+    install: {
+      packager: 'npm',
+      url: 'vue-google-autocomplete'
+    },  
+    source: {
+      domain: 'github',
+      url: 'olefirenko/vue-google-autocomplete',
+    stars: 40
+    },
+    demo: {
+      repl: 'custom',
+      src:  'https://olefirenko.github.io/vue-google-autocomplete/'
+  },
+    framework: 'Vue',
+    version: '1.0.13',
+    license: 'MIT',
+    details: 'https://github.com/olefirenko/vue-google-autocomplete',
+    keywords: ['vue','google', 'autocomplete']
   }
 
 ];
