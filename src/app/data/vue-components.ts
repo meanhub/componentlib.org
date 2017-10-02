@@ -4183,6 +4183,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://element.eleme.io/#/en-US/component/installation',
     keywords: ['eleme','vue','vuejs','components']
+  },
+  {
+    id: 187,
+    name: 'vulma',
+    install: {
+      packager: 'npm',
+      url: 'vulma'
+    },  
+    source: {
+      domain: 'github',
+      url: 'oswaldofreitas/vulma',
+    stars: 22
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vulma.org/#/'
+  },
+    framework: 'Vue',
+    version: '0.0.11',
+    license: 'ISC',
+    details: 'https://vulma.org/#/setup',
+    keywords: ['vulma','vue','bulma','components']
   }
 
 ];
