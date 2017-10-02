@@ -4095,6 +4095,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://vuematerial.io/#/',
     keywords: ['browser', 'vue', 'vue 2', 'vue2', 'vuejs', 'material design', 'material', 'components']
+  },
+  {
+    id: 183,
+    name: 'vuetify',
+    install: {
+      packager: 'npm',
+      url: 'vuetify'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vuetifyjs/vuetify',
+    stars: 5427
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vuetifyjs.com'
+  },
+    framework: 'Vue',
+    version: '0.16.0-beta.3',
+    license: 'MIT',
+    details: 'https://vuetifyjs.com/vuetify/quick-start',
+    keywords: ['browser', 'vue', 'vue 2', 'vuetify','components']
   }
 
 ];
