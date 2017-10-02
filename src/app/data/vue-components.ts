@@ -4849,6 +4849,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/fergaldoyle/vue-form',
     keywords: ['async-validation', 'form-validation', 'html5-validation', 'validation', 'vue', 'vuejs2']
+  },
+  {
+    id: 217,
+    name: 'vuelidation',
+    install: {
+      packager: 'npm',
+      url: 'vuelidation@latest'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'cj/vuelidation',
+    stars: 19
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'cj',
+      id: 'BRNzgd'
+  },
+    framework: 'Vue',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/cj/vuelidation',
+    keywords: ['vuelidation', 'form-validation', 'vue', 'vuejs2']
   }
 
 ];
