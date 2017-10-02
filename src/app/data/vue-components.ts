@@ -4293,6 +4293,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://framework7.io/vue/',
     keywords: ['vue','vuejs','mobile','framework','framework7','ios','iphone','ipad','apple','phonegap', 'touch','app','f7','material','android']
+  },
+  {
+    id: 192,
+    name: 'OnsenUI',
+    install: {
+      packager: 'npm',
+      url: 'vue-onsenui'
+    },  
+    source: {
+      domain: 'github',
+      url: 'OnsenUI/OnsenUI',
+    stars: 5377
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://onsenui.github.io/vue-onsenui-kitchensink/'
+  },
+    framework: 'Vue',
+    version: '2.6.1',
+    license: 'Apache-2.0',
+    details: 'https://onsen.io',
+    keywords: ['phonegap', 'cordova','vue.js', 'components', 'hybrid', 'app', 'ui', 'mobile', 'onsen', 'onsenui']
   }
 
 ];
