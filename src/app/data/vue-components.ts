@@ -4469,6 +4469,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://uiv.wxsm.space/getting-started',
     keywords: ['bootstrap','vue','webpack']
+  },
+  {
+    id: 200,
+    name: 'vue-strap',
+    install: {
+      packager: 'npm',
+      url: 'vue-strap'
+    },  
+    source: {
+      domain: 'github',
+      url: 'yuche/vue-strap',
+    stars: 4341
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://yuche.github.io/vue-strap/'
+  },
+    framework: 'Vue',
+    version: '1.1.37',
+    license: 'MIT',
+    details: 'http://yuche.github.io/vue-strap/',
+    keywords: ['bootstrap','vue-component','vue','vue-bootstrap']
   }
 
 
