@@ -4601,6 +4601,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://nuxtjs.org/guide/installation',
     keywords: ['nuxt','nuxt.js','nuxtjs','vue','vue.js','vuejs','vue universal','vue ssr','vue isomorphic','vue versatile']
+  },
+  {
+    id: 206,
+    name: 'app-framework',
+    install: {
+      packager: 'npm',
+      url: 'app-framework'
+    },  
+    source: {
+      domain: 'github',
+      url: 'scriptPilot/app-framework',
+    stars: 295
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://demo.app-framework.com'
+  },
+    framework: 'Vue',
+    version: '1.13.3',
+    license: 'MIT',
+    details: 'https://github.com/scriptPilot/app-framework',
+    keywords: ['app-framework','app','framework','vue','vue.js']
   }
 
 ];
