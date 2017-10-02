@@ -4645,6 +4645,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-scrollfire',
     keywords: ['scrollfire','component','vue']
+  },
+  {
+    id: 208,
+    name: 'vue-outside-events',
+    install: {
+      packager: 'npm',
+      url: 'vue-outside-events'
+    },  
+    source: {
+      domain: 'github',
+      url: 'nchutchind/vue-outside-events',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nchutchind.github.io/vue-outside-events/docs/index.html'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/nchutchind/vue-outside-events',
+    keywords: ['vue-outside-events','component','vue']
   }
 
 ];
