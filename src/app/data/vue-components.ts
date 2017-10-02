@@ -4249,6 +4249,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://www.iviewui.com/docs/guide/introduce-en',
     keywords: ['iview','vue', 'vue.js', 'component', 'components', 'ui', 'framework']
+  },
+  {
+    id: 190,
+    name: 'at-ui',
+    install: {
+      packager: 'npm',
+      url: 'at-ui'
+    },  
+    source: {
+      domain: 'github',
+      url: 'at-ui/at-ui',
+    stars: 805
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://at-ui.github.io/at-ui/#/en'
+  },
+    framework: 'Vue',
+    version: '1.2.0-beta.2',
+    license: 'MIT',
+    details: 'https://at-ui.github.io/at-ui/#/en/docs/introduction',
+    keywords: ['at','at-ui', 'desktop', 'component', 'ui', 'framework']
   }
 
 ];
