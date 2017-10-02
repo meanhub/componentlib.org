@@ -4337,6 +4337,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Apache-2.0',
     details: 'https://weex.incubator.apache.org/guide/',
     keywords: ['weex','hybrid', 'webcomponent','appframework','mvvm', 'javascript','webkit','v8','jscore','html5','android','ios','yunos']
+  },
+  {
+    id: 194,
+    name: 'Vue Material Components web',
+    install: {
+      packager: 'npm',
+      url: 'vue-mdc'
+    },  
+    source: {
+      domain: 'github',
+      url: 'posva/vue-mdc',
+    stars: 1085
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://material-components-web.appspot.com/'
+  },
+    framework: 'Vue',
+    version: '0.0.10',
+    license: 'MIT',
+    details: 'https://github.com/posva/vue-mdc',
+    keywords: ['mdc','material', 'components']
   }
+
 
 ];
