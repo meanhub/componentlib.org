@@ -4315,6 +4315,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Apache-2.0',
     details: 'https://onsen.io',
     keywords: ['phonegap', 'cordova','vue.js', 'components', 'hybrid', 'app', 'ui', 'mobile', 'onsen', 'onsenui']
+  },
+  {
+    id: 193,
+    name: 'Weex',
+    install: {
+      packager: 'npm',
+      url: 'weex-html5'
+    },  
+    source: {
+      domain: 'github',
+      url: 'apache/incubator-weex/',
+    stars: 5505
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://weex.incubator.apache.org'
+  },
+    framework: 'Vue',
+    version: '0.12.2',
+    license: 'Apache-2.0',
+    details: 'https://weex.incubator.apache.org/guide/',
+    keywords: ['weex','hybrid', 'webcomponent','appframework','mvvm', 'javascript','webkit','v8','jscore','html5','android','ios','yunos']
   }
 
 ];
