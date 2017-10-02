@@ -4667,6 +4667,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/nchutchind/vue-outside-events',
     keywords: ['vue-outside-events','component','vue']
+  },
+  {
+    id: 209,
+    name: 'v-hotkey',
+    install: {
+      packager: 'npm',
+      url: 'v-hotkey'
+    },  
+    source: {
+      domain: 'github',
+      url: 'Dafrok/v-hotkey',
+    stars: 100
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://dafrok.github.io/v-hotkey/#/'
+  },
+    framework: 'Vue',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/Dafrok/v-hotkey/blob/master/README.md',
+    keywords: ['v-hotkey','directive','hotkey','vue']
   }
 
 ];
