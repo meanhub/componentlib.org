@@ -4359,6 +4359,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/posva/vue-mdc',
     keywords: ['mdc','material', 'components']
+  },
+  {
+    id: 195,
+    name: 'Keen-UI',
+    install: {
+      packager: 'npm',
+      url: 'keen-ui'
+    },  
+    source: {
+      domain: 'github',
+      url: 'JosephusPaye/Keen-UI',
+    stars: 3005
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://josephuspaye.github.io/Keen-UI/#/ui-alert'
+  },
+    framework: 'Vue',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://josephuspaye.github.io/Keen-UI/#/ui-alert',
+    keywords: ['vue','vuejs','material design', 'components','ui']
   }
 
 
