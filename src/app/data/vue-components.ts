@@ -4117,6 +4117,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuetifyjs.com/vuetify/quick-start',
     keywords: ['browser', 'vue', 'vue 2', 'vuetify','components']
+  },
+  {
+    id: 184,
+    name: 'muse-ui',
+    install: {
+      packager: 'npm',
+      url: 'muse-ui'
+    },  
+    source: {
+      domain: 'github',
+      url: 'museui/muse-ui',
+    stars: 4697
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://www.muse-ui.org/#/index'
+  },
+    framework: 'Vue',
+    version: '2.1.0',
+    license: 'MIT',
+    details: 'http://www.muse-ui.org/#/install',
+    keywords: ['browser', 'vue', 'muse', 'muse-ui','components']
   }
 
 ];
