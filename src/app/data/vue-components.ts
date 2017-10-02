@@ -4271,6 +4271,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://at-ui.github.io/at-ui/#/en/docs/introduction',
     keywords: ['at','at-ui', 'desktop', 'component', 'ui', 'framework']
+  },
+  {
+    id: 191,
+    name: 'framework7-vue',
+    install: {
+      packager: 'npm',
+      url: 'framework7-vue'
+    },  
+    source: {
+      domain: 'github',
+      url: 'framework7io/Framework7-Vue',
+    stars: 363
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://framework7.io/vue/'
+  },
+    framework: 'Vue',
+    version: '0.9.3',
+    license: 'MIT',
+    details: 'http://framework7.io/vue/',
+    keywords: ['vue','vuejs','mobile','framework','framework7','ios','iphone','ipad','apple','phonegap', 'touch','app','f7','material','android']
   }
 
 ];
