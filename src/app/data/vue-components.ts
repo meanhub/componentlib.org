@@ -4824,6 +4824,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://simple-vue-validator.maijin.info/',
     keywords: ['form','validation','vue','vuejs']
+  },
+  {
+    id: 216,
+    name: 'vue-form',
+    install: [{
+      packager: 'npm',
+      url: 'vue-form'
+    },{
+      packager: 'bower',
+      url: 'vue-form '
+    }], 
+    source: {
+      domain: 'github',
+      url: 'fergaldoyle/vue-form',
+    stars: 426
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/fergal_doyle/zfqt4yhq/show/'
+  },
+    framework: 'Vue',
+    version: '4.4.2',
+    license: 'MIT',
+    details: 'https://github.com/fergaldoyle/vue-form',
+    keywords: ['async-validation', 'form-validation', 'html5-validation', 'validation', 'vue', 'vuejs2']
   }
 
 ];
