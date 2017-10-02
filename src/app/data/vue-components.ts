@@ -4205,6 +4205,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://vulma.org/#/setup',
     keywords: ['vulma','vue','bulma','components']
+  },
+  {
+    id: 188,
+    name: 'vue-bulma-components',
+    install: {
+      packager: 'npm',
+      url: 'vue-bulma-components'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vouill/vue-bulma-components',
+    stars: 47
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://wk2w3z0zk5.codesandbox.io'
+  },
+    framework: 'Vue',
+    version: '1.5.0',
+    license: '',
+    details: 'https://github.com/vouill/vue-bulma-components',
+    keywords: ['vue','bulma','components']
   }
 
 ];
