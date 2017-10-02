@@ -4381,6 +4381,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://josephuspaye.github.io/Keen-UI/#/ui-alert',
     keywords: ['vue','vuejs','material design', 'components','ui']
+  },
+  {
+    id: 196,
+    name: 'vue-admin',
+    install: {
+      packager: 'npm',
+      url: 'vue-admin'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vue-bulma/vue-admin',
+    stars: 6091
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://admin.vuebulma.com/#/'
+  },
+    framework: 'Vue',
+    version: '0.1.12',
+    license: 'MIT',
+    details: 'https://admin.vuebulma.com/#/',
+    keywords: ['admin', 'bulma', 'dashboard', 'data', 'visualization', 'vue']
   }
 
 
