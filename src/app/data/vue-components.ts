@@ -4161,6 +4161,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://buefy.github.io/#/documentation/start',
     keywords: ['bulma','vue','vuejs','vue-bulma','components']
+  },
+  {
+    id: 186,
+    name: 'Element',
+    install: {
+      packager: 'npm',
+      url: 'element-ui'
+    },  
+    source: {
+      domain: 'github',
+      url: 'ElemeFE/element',
+    stars: 17632
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://element.eleme.io/#/en-US'
+  },
+    framework: 'Vue',
+    version: '1.4.6',
+    license: 'MIT',
+    details: 'http://element.eleme.io/#/en-US/component/installation',
+    keywords: ['eleme','vue','vuejs','components']
   }
 
 ];
