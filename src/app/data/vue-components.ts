@@ -4491,7 +4491,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://yuche.github.io/vue-strap/',
     keywords: ['bootstrap','vue-component','vue','vue-bootstrap']
-  }
+  },
+  {
+    id: 201,
+    name: 'N3-components',
+    install: {
+      packager: 'npm',
+      url: 'N3-components'
+    },  
+    source: {
+      domain: 'github',
+      url: 'N3-components/N3-components',
+    stars: 769
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://n3-components.github.io/N3-components/'
+  },
+    framework: 'Vue',
+    version: '2.4.2',
+    license: 'MIT',
+    details: 'https://n3-components.github.io/N3-components/component_en.html',
+    keywords: ['n3','vue-component','vue']
+  },
 
 
 ];
