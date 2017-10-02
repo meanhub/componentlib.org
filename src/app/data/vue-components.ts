@@ -4711,6 +4711,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/reinerBa/Vue-Responsive',
     keywords: ['vuejs','responsive','vue']
+  },
+  {
+    id: 211,
+    name: 'vue-breakpoints',
+    install: {
+      packager: 'npm',
+      url: 'vue-breakpoints'
+    },  
+    source: {
+      domain: 'github',
+      url: 'apertureless/vue-breakpoints',
+    stars: 19
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://apertureless.github.io/vue-breakpoints/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/apertureless/vue-breakpoints',
+    keywords: ['vuejs','breakpoints','responsive','mobile','helpers']
   }
 
 ];
