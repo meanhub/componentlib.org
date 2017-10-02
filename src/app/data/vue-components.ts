@@ -4447,6 +4447,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://bootstrap-vue.js.org/docs',
     keywords: ['bootstrap', 'bootstrap 4', 'bootstrap for vue', 'ssr', 'web', 'components', 'directives', 'polymer', 'vue', 'vuejs', 'vue2', 'webcomponents', 'jquery', 'popper.js', 'vue-strap', 'vueify', 'vuestrap', 'css', 'flexbox', 'alert', 'breadcrumb', 'button', 'checkbox', 'radio', 'card', 'carousel', 'slider', 'collapse', 'dropdown', 'select', 'option', 'input', 'jumbotron', 'list', 'nav', 'modal', 'upload', 'dropzone', 'navbar', 'pagination', 'popover', 'progress', 'tab', 'table', 'tag', 'tooltip']
+  },
+  {
+    id: 199,
+    name: 'uiv',
+    install: {
+      packager: 'npm',
+      url: 'uiv'
+    },  
+    source: {
+      domain: 'github',
+      url: 'wxsms/uiv',
+    stars: 216
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://uiv.wxsm.space'
+  },
+    framework: 'Vue',
+    version: '0.11.10',
+    license: 'MIT',
+    details: 'https://uiv.wxsm.space/getting-started',
+    keywords: ['bootstrap','vue','webpack']
   }
 
 
