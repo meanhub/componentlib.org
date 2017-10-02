@@ -4689,6 +4689,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Dafrok/v-hotkey/blob/master/README.md',
     keywords: ['v-hotkey','directive','hotkey','vue']
+  },
+  {
+    id: 210,
+    name: 'vue-responsive',
+    install: {
+      packager: 'npm',
+      url: 'vue-responsive'
+    },  
+    source: {
+      domain: 'github',
+      url: 'reinerBa/Vue-Responsive',
+    stars: 12
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://bamberger.rocks/Vue-Responsive/Demo.html'
+  },
+    framework: 'Vue',
+    version: '0.1.9',
+    license: 'MIT',
+    details: 'https://github.com/reinerBa/Vue-Responsive',
+    keywords: ['vuejs','responsive','vue']
   }
 
 ];
