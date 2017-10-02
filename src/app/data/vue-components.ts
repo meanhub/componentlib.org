@@ -4557,6 +4557,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://guilhermewaess.github.io/SemVue/#/welcome',
     keywords: ['vuejs','vue-semanticui','vue-semantic-ui','semantic-ui','vue-components','semantic components']
+  },
+  {
+    id: 204,
+    name: 'vant',
+    install: {
+      packager: 'npm',
+      url: 'vant'
+    },  
+    source: {
+      domain: 'github',
+      url: 'youzan/vant',
+    stars: 914
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.youzanyun.com/zanui/vue#/component/quickstart'
+  },
+    framework: 'Vue',
+    version: '0.9.9',
+    license: 'MIT',
+    details: 'https://www.youzanyun.com/zanui/vue#/component/quickstart',
+    keywords: ['component','vue', 'mobile', 'youzan']
   }
 
 ];
