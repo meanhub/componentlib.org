@@ -4755,6 +4755,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/simplesmiler/vue-focus',
     keywords: ['focus','reusable','vue','vue-directive','vuejs']
+  },
+  {
+    id: 213,
+    name: 'vue-form-generator',
+    install: {
+      packager: 'npm',
+      url: 'vue-form-generator'
+    },  
+    source: {
+      domain: 'github',
+      url: 'icebob/vue-form-generator',
+    stars: 643
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/icebob/0mg1v81e/show/'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://icebob.gitbooks.io/vueformgenerator/content/',
+    keywords: ['form','generator','vue','schema','vuejs','json']
   }
 
 ];
