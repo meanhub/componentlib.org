@@ -4916,6 +4916,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/luiguild/v-bar',
     keywords: ['vue','vuejs','bar','v-bar']
+  },
+  {
+    id: 220,
+    name: 'vuebar',
+    install: [{
+      packager: 'npm',
+      url: 'vuebar'
+    },{
+      packager: 'download',
+      url: 'https://raw.githubusercontent.com/DominikSerafin/vuebar/master/vuebar.js'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'DominikSerafin/vuebar',
+    stars: 136
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://github.serafin.io/vuebar/'
+  },
+    framework: 'Vue',
+    version: '0.0.17',
+    license: 'MIT',
+    details: 'https://github.serafin.io/vuebar/',
+    keywords: ['vue','vuejs','directive','scroll','scrollbar','native']
   }
 
 ];
