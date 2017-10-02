@@ -4579,6 +4579,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://www.youzanyun.com/zanui/vue#/component/quickstart',
     keywords: ['component','vue', 'mobile', 'youzan']
+  },
+  {
+    id: 205,
+    name: 'nuxt',
+    install: {
+      packager: 'npm',
+      url: 'nuxt'
+    },  
+    source: {
+      domain: 'github',
+      url: 'nuxt/nuxt.js',
+    stars: 6726
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nuxtjs.org/examples'
+  },
+    framework: 'Vue',
+    version: '1.0.0-rc11',
+    license: 'MIT',
+    details: 'https://nuxtjs.org/guide/installation',
+    keywords: ['nuxt','nuxt.js','nuxtjs','vue','vue.js','vuejs','vue universal','vue ssr','vue isomorphic','vue versatile']
   }
 
 ];
