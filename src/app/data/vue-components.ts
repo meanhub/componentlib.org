@@ -4623,6 +4623,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/scriptPilot/app-framework',
     keywords: ['app-framework','app','framework','vue','vue.js']
+  },
+  {
+    id: 207,
+    name: 'vue-scrollfire',
+    install: {
+      packager: 'npm',
+      url: 'vue-scrollfire'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vue-comps/vue-scrollfire',
+    stars: 11
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vue-comps.github.io/vue-scrollfire'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vue-comps/vue-scrollfire',
+    keywords: ['scrollfire','component','vue']
   }
 
 ];
