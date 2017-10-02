@@ -4514,6 +4514,27 @@ export const VUE_COMPONENTS: any[] = [{
     details: 'https://n3-components.github.io/N3-components/component_en.html',
     keywords: ['n3','vue-component','vue']
   },
-
+  {
+    id: 202,
+    name: 'jsmod-pc-vue',
+    install: {
+      packager: 'npm',
+      url: 'jsmod-pc-vue'
+    },  
+    source: {
+      domain: 'github',
+      url: 'chaogao/jsmod-pc-vue',
+    stars: 57
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jsmod-vue.tedfe.com/#/'
+  },
+    framework: 'Vue',
+    version: '0.2.4',
+    license: 'MIT',
+    details: 'http://jsmod-vue.tedfe.com/#/',
+    keywords: ['jsmod-pc-vue','vue-component','vue']
+  }
 
 ];
