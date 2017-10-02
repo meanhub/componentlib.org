@@ -4799,6 +4799,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://monterail.github.io/vuelidate/#getting-started',
     keywords: ['vuelidate','validate','vue','vuejs']
+  },
+  {
+    id: 215,
+    name: 'simple-vue-validator',
+    install: [{
+      packager: 'npm',
+      url: 'simple-vue-validator'
+    },{
+      packager: 'bower',
+      url: 'simple-vue-validator'
+    }],  
+    source: {
+      domain: 'github',
+      url: 'semisleep/simple-vue-validator',
+    stars: 131
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://simple-vue-validator.maijin.info/#basic_example'
+  },
+    framework: 'Vue',
+    version: '0.14.0',
+    license: 'MIT',
+    details: 'http://simple-vue-validator.maijin.info/',
+    keywords: ['form','validation','vue','vuejs']
   }
 
 ];
