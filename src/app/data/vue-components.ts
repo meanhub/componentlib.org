@@ -4535,6 +4535,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://jsmod-vue.tedfe.com/#/',
     keywords: ['jsmod-pc-vue','vue-component','vue']
+  },
+  {
+    id: 203,
+    name: 'semvue',
+    install: {
+      packager: 'npm',
+      url: 'semvue'
+    },  
+    source: {
+      domain: 'github',
+      url: 'guilhermewaess/SemVue',
+    stars: 26
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://guilhermewaess.github.io/SemVue/#/welcome'
+  },
+    framework: 'Vue',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://guilhermewaess.github.io/SemVue/#/welcome',
+    keywords: ['vuejs','vue-semanticui','vue-semantic-ui','semantic-ui','vue-components','semantic components']
   }
 
 ];
