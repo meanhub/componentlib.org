@@ -4139,6 +4139,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://www.muse-ui.org/#/install',
     keywords: ['browser', 'vue', 'muse', 'muse-ui','components']
+  },
+  {
+    id: 185,
+    name: 'Buefy',
+    install: {
+      packager: 'npm',
+      url: 'buefy'
+    },  
+    source: {
+      domain: 'github',
+      url: 'rafaelpimpa/buefy',
+    stars: 1333
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://buefy.github.io/#/'
+  },
+    framework: 'Vue',
+    version: '0.5.3',
+    license: 'MIT',
+    details: 'https://buefy.github.io/#/documentation/start',
+    keywords: ['bulma','vue','vuejs','vue-bulma','components']
   }
 
 ];
