@@ -4777,6 +4777,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://icebob.gitbooks.io/vueformgenerator/content/',
     keywords: ['form','generator','vue','schema','vuejs','json']
+  },
+  {
+    id: 214,
+    name: 'vuelidate',
+    install: {
+      packager: 'npm',
+      url: 'vuelidate'
+    },  
+    source: {
+      domain: 'github',
+      url: 'monterail/vuelidate',
+    stars: 1417
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://monterail.github.io/vuelidate/#examples'
+  },
+    framework: 'Vue',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://monterail.github.io/vuelidate/#getting-started',
+    keywords: ['vuelidate','validate','vue','vuejs']
   }
 
 ];
