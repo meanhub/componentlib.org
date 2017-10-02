@@ -4733,6 +4733,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-breakpoints',
     keywords: ['vuejs','breakpoints','responsive','mobile','helpers']
+  },
+  {
+    id: 212,
+    name: 'vue-focus',
+    install: {
+      packager: 'npm',
+      url: 'vue-focus'
+    },  
+    source: {
+      domain: 'github',
+      url: 'simplesmiler/vue-focus',
+    stars: 192
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/simplesmiler/zak1t6o8/show/'
+  },
+    framework: 'Vue',
+    version: '2.1.0',
+    license: 'MIT',
+    details: 'https://github.com/simplesmiler/vue-focus',
+    keywords: ['focus','reusable','vue','vue-directive','vuejs']
   }
 
 ];
