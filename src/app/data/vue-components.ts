@@ -4425,6 +4425,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuikit.js.org/#/',
     keywords: ['library', 'vuejs', 'uikit', 'vuikit', 'vue']
+  },
+  {
+    id: 198,
+    name: 'bootstrap-vue',
+    install: {
+      packager: 'npm',
+      url: 'bootstrap-vue'
+    },  
+    source: {
+      domain: 'github',
+      url: 'bootstrap-vue/bootstrap-vue',
+    stars: 2251
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bootstrap-vue.js.org/play'
+  },
+    framework: 'Vue',
+    version: '1.0.0-beta.9',
+    license: 'MIT',
+    details: 'https://bootstrap-vue.js.org/docs',
+    keywords: ['bootstrap', 'bootstrap 4', 'bootstrap for vue', 'ssr', 'web', 'components', 'directives', 'polymer', 'vue', 'vuejs', 'vue2', 'webcomponents', 'jquery', 'popper.js', 'vue-strap', 'vueify', 'vuestrap', 'css', 'flexbox', 'alert', 'breadcrumb', 'button', 'checkbox', 'radio', 'card', 'carousel', 'slider', 'collapse', 'dropdown', 'select', 'option', 'input', 'jumbotron', 'list', 'nav', 'modal', 'upload', 'dropzone', 'navbar', 'pagination', 'popover', 'progress', 'tab', 'table', 'tag', 'tooltip']
   }
 
 
