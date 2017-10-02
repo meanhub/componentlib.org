@@ -4403,6 +4403,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://admin.vuebulma.com/#/',
     keywords: ['admin', 'bulma', 'dashboard', 'data', 'visualization', 'vue']
+  },
+  {
+    id: 197,
+    name: 'vuikit',
+    install: {
+      packager: 'npm',
+      url: 'vuikit'
+    },  
+    source: {
+      domain: 'github',
+      url: 'vuikit/vuikit',
+    stars: 803
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vuikit.js.org/#/'
+  },
+    framework: 'Vue',
+    version: '0.6.3',
+    license: 'MIT',
+    details: 'https://vuikit.js.org/#/',
+    keywords: ['library', 'vuejs', 'uikit', 'vuikit', 'vue']
   }
 
 
