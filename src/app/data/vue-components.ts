@@ -4894,6 +4894,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://rigor789.github.io/vue-scrollto/#/docs',
     keywords: ['vue','vuejs','directive','scroll', 'scrollto','scroll to']
+  },
+  {
+    id: 219,
+    name: 'v-bar',
+    install: {
+      packager: 'npm',
+      url: 'v-bar'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'luiguild/v-bar',
+    stars: 123
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://luiguild.github.io/v-bar/'
+  },
+    framework: 'Vue',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/luiguild/v-bar',
+    keywords: ['vue','vuejs','bar','v-bar']
   }
 
 ];
