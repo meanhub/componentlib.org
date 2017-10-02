@@ -4227,6 +4227,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/vouill/vue-bulma-components',
     keywords: ['vue','bulma','components']
+  },
+  {
+    id: 189,
+    name: 'iview',
+    install: {
+      packager: 'npm',
+      url: 'iview'
+    },  
+    source: {
+      domain: 'github',
+      url: 'iview/iview',
+    stars: 9182
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.iviewui.com'
+  },
+    framework: 'Vue',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'https://www.iviewui.com/docs/guide/introduce-en',
+    keywords: ['iview','vue', 'vue.js', 'component', 'components', 'ui', 'framework']
   }
 
 ];
