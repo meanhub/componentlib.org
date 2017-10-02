@@ -4872,6 +4872,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/cj/vuelidation',
     keywords: ['vuelidation', 'form-validation', 'vue', 'vuejs2']
+  },
+  {
+    id: 218,
+    name: 'vue-scrollto',
+    install: {
+      packager: 'npm',
+      url: 'vue-scrollto'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'rigor789/vue-scrollTo',
+    stars: 296
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://rigor789.github.io/vue-scrollto/#/'
+  },
+    framework: 'Vue',
+    version: '2.7.8',
+    license: 'MIT',
+    details: 'https://rigor789.github.io/vue-scrollto/#/docs',
+    keywords: ['vue','vuejs','directive','scroll', 'scrollto','scroll to']
   }
 
 ];
