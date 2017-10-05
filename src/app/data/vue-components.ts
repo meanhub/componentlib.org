@@ -5515,6 +5515,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-typed/vue-typed',
     keywords: ['vue','component','typescript','vue-component','vuex']
+  },
+  {
+    id: 248,
+    name: 'TypeScript loader for Vue-loader',
+    install: {
+      packager: 'npm',
+      url: 'vue-ts-loader'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'HerringtonDarkholme/vue-ts-loader',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://herringtondarkholme.github.io/2016/10/03/vue2-ts2/'
+  },
+    framework: 'Vue',
+    version: '0.0.4',
+    license: 'MIT',
+    details: 'https://herringtondarkholme.github.io/2016/10/03/vue2-ts2/',
+    keywords: ['ts-loader','typescript-loader','webpack','loader','typescript','vue','vue-loader','ts']
   }
 
 ];
