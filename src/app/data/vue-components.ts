@@ -5365,6 +5365,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MMF-FE/vue-svgicon',
     keywords: ['vue','vue2.0','svg','icon','svgicon']
+  },
+  {
+    id: 241,
+    name: 'vue-visible',
+    install: {
+      packager: 'npm',
+      url: 'vue-visible'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'javisperez/vue-visible',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/fcpc6utm/show/'
+  },
+    framework: 'Vue',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://github.com/javisperez/vue-visible',
+    keywords: ['vue','vuejs','vue-visible','vuevisible','v-visible','directive','v-show','visibility','visible','hidden']
   }
 
 ];
