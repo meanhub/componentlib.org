@@ -5729,6 +5729,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/maple3142/vuejs-storage',
     keywords: ['vue','vue-pouch']
+  },
+  {
+    id: 258,
+    name: 'Vuex',
+    install: {
+      packager: 'npm',
+      url: 'vuex'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vuex',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vuex.vuejs.org/en/intro.html'
+  },
+    framework: 'Vue',
+    version: '2.4.1',
+    license: 'MIT',
+    details: 'https://vuex.vuejs.org/en/',
+    keywords: ['vue','vuex']
   }
 
 ];
