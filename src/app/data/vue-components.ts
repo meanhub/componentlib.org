@@ -5386,6 +5386,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/javisperez/vue-visible',
     keywords: ['vue','vuejs','vue-visible','vuevisible','v-visible','directive','v-show','visibility','visible','hidden']
+  },
+  {
+    id: 242,
+    name: 'vue-async-methods',
+    install: {
+      packager: 'npm',
+      url: 'vue-async-methods'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'mokkabonna/vue-async-methods',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/nyz4ahys/4/show/'
+  },
+    framework: 'Vue',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/mokkabonna/vue-async-methods',
+    keywords: ['vue','async','async-methods']
   }
 
 ];
