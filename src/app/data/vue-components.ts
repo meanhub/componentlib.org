@@ -5007,6 +5007,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/eddiemf/vue-scrollactive',
     keywords: ['vue','vue-plugin','vue-component','scroll','active','active-class','menu-item','highlight-menu-item']
+  },
+  {
+    id: 224,
+    name: 'vue-intersect',
+    install: {
+      packager: 'npm',
+      url: 'vue-intersect'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'heavyy/vue-intersect',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://heavyy.github.io/vue-intersect/'
+  },
+    framework: 'Vue',
+    version: '1.1.2',
+    license: 'MIT',
+    details: 'https://github.com/heavyy/vue-intersect',
+    keywords: ['vue','scroll','active']
   }
 
 ];
