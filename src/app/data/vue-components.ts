@@ -5707,6 +5707,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/buhrmi/vue-pouch',
     keywords: ['vue','vue-pouch']
+  },
+  {
+    id: 257,
+    name: 'vuejs-storageh',
+    install: {
+      packager: 'npm',
+      url: 'vuejs-storageh'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'maple3142/vuejs-storage',
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'maple3142',
+      id: 'MEagWw'
+  },
+    framework: 'Vue',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://github.com/maple3142/vuejs-storage',
+    keywords: ['vue','vue-pouch']
   }
 
 ];
