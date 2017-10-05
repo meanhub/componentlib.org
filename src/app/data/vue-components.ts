@@ -5259,6 +5259,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/asika32764/vue2-animate',
     keywords: ['less','animate','animate.css','vue','vue.js','transition','vue-animate','css']
+  },
+  {
+    id: 236,
+    name: 'vue-lottie',
+    install: {
+      packager: 'npm',
+      url: 'vue-lottie'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'chenqingspring/vue-lottie',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chenqingspring.github.io/vue-lottie/'
+  },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/chenqingspring/vue-lottie',
+    keywords: ['lottie','vue-component','vue-animation','vue']
   }
 
 ];
