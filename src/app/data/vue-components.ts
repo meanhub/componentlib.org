@@ -5154,6 +5154,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/matheusgrieger/vue-clazy-load',
     keywords: ['vue','vuejs','lazy load','lazyload','babel','webpack','component']
+  },
+  {
+    id: 231,
+    name: 'vue-paginate',
+    install: {
+      packager: 'npm',
+      url: 'vue-paginate'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'TahaSh/vue-paginate',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/taha_sh/hmapx482/show/'
+  },
+    framework: 'Vue',
+    version: '3.5.1',
+    license: 'MIT',
+    details: 'https://github.com/TahaSh/vue-paginate',
+    keywords: ['paginate','pagination','page','chunk','navigate','slice','vue']
   }
 
 ];
