@@ -5470,6 +5470,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: '',
     details: 'https://github.com/fritx/vue-threejs',
     keywords: ['vue-threejs','vue']
+  },
+  {
+    id: 246,
+    name: 'vue-fullscreen',
+    install: {
+      packager: 'npm',
+      url: 'vue-fullscreen'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'mirari/vue-fullscreen',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mirari.cc/vue-fullscreen/'
+  },
+    framework: 'Vue',
+    version: '2.1.1',
+    license: 'ISC',
+    details: 'http://mirari.cc/vue-fullscreen/',
+    keywords: ['fullscreen','vue']
   }
 
 ];
