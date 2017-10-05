@@ -5491,6 +5491,30 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'http://mirari.cc/vue-fullscreen/',
     keywords: ['fullscreen','vue']
+  },
+  {
+    id: 247,
+    name: 'VueTyped',
+    install: [{
+      packager: 'npm',
+      url: 'vue-typed'
+    },{
+      packager: 'bower',
+      url: 'vue-typed'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'vue-typed/vue-typed',
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'Ld0Rpu'
+  },
+    framework: 'Vue',
+    version: '2.1.2',
+    license: 'MIT',
+    details: 'https://github.com/vue-typed/vue-typed',
+    keywords: ['vue','component','typescript','vue-component','vuex']
   }
 
 ];
