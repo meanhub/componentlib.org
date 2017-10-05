@@ -5196,6 +5196,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/sant123/vuejs-uib-pagination',
     keywords: ['paginator','pagination','uib-pagination','vuejs pagination','vuejs paginator']
+  },
+  {
+    id: 233,
+    name: 'vuejs-paginate',
+    install: {
+      packager: 'npm',
+      url: 'vuejs-paginate'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'lokyoung/vuejs-paginate',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/lokyoung/u3u3nzns/show/'
+  },
+    framework: 'Vue',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://github.com/lokyoung/vuejs-paginate',
+    keywords: ['paginate','pagination','vue']
   }
 
 ];
