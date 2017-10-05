@@ -5028,6 +5028,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/heavyy/vue-intersect',
     keywords: ['vue','scroll','active']
+  },
+  {
+    id: 225,
+    name: 'vue-scrollmonitor',
+    install: {
+      packager: 'npm',
+      url: 'vue-scrollmonitor'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'AlexandreBonaventure/vue-scrollmonitor',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://htmlpreview.github.io/?https://raw.githubusercontent.com/AlexandreBonaventure/vue-scrollmonitor/dev/examples/dist/simple/index.html'
+  },
+    framework: 'Vue',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/AlexandreBonaventure/vue-scrollmonitor',
+    keywords: ['vue','scroll','monitor']
   }
 
 ];
