@@ -5620,6 +5620,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/panter/vue-i18next',
     keywords: ['i18n','i18next','internationalization','plugin','vue','vue.js']
+  },
+  {
+    id: 253,
+    name: 'vue-polyglot',
+    install: {
+      packager: 'npm',
+      url: 'vue-polyglot'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'guillaumevincent/vue-polyglot',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://guillaumevincent.github.io/vue-polyglot/example/'
+  },
+    framework: 'Vue',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://github.com/guillaumevincent/vue-polyglot',
+    keywords: ['i18n','polyglot','translation','vue-polyglot','vuepolyglot','locales','vue','vue.js']
   }
 
 ];
