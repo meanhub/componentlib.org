@@ -4962,6 +4962,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ozangulle/vue-detached-scrollbar',
     keywords: ['vue','vuejs','scroll','scrollbar','detached']
+  },
+  {
+    id: 222,
+    name: 'vue-scrollview',
+    install: {
+      packager: 'npm',
+      url: 'vue-scrollview'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'chrishurlburt/vue-scrollview',
+    stars: 24
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'churlburt',
+      id: 'QgYoMw'
+  },
+    framework: 'Vue',
+    version: '2.1.1',
+    license: 'MIT',
+    details: 'https://github.com/chrishurlburt/vue-scrollview',
+    keywords: ['vue','vuejs','scroll']
   }
 
 ];
