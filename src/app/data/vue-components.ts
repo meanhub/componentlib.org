@@ -5238,6 +5238,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination',
     keywords: ['laravel','semantic-ui','vuejs','paginator','pagination']
+  },
+  {
+    id: 235,
+    name: 'vue2-animate',
+    install: {
+      packager: 'npm',
+      url: 'vue2-animate'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'asika32764/vue2-animate',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://about.asika.tw/vue2-animate/'
+  },
+    framework: 'Vue',
+    version: '1.0.5',
+    license: 'MIT',
+    details: 'https://github.com/asika32764/vue2-animate',
+    keywords: ['less','animate','animate.css','vue','vue.js','transition','vue-animate','css']
   }
 
 ];
