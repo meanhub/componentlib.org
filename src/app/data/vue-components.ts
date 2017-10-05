@@ -5112,6 +5112,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hilongjw/vue-lazyload',
     keywords: ['vue', 'vue-lazyload', 'lazyload','vue-directive']
+  },
+  {
+    id: 229,
+    name: 'vue-lazyload-img',
+    install: {
+      packager: 'npm',
+      url: 'vue-lazyload-img'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'JALBAA/vue-lazyload-img',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://docs.gomeminus.com/vue-lazyload-img/test/bundle.html'
+  },
+    framework: 'Vue',
+    version: '2.0.3',
+    license: 'MIT',
+    details: 'https://github.com/JALBAA/vue-lazyload-img',
+    keywords: ['vue', 'lazyload']
   }
 
 ];
