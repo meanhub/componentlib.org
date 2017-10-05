@@ -4941,6 +4941,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.serafin.io/vuebar/',
     keywords: ['vue','vuejs','directive','scroll','scrollbar','native']
+  },
+  {
+    id: 221,
+    name: 'vue-detached-scrollbar',
+    install: {
+      packager: 'npm',
+      url: 'vue-detached-scrollbar'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ozangulle/vue-detached-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ozangulle.github.io/vue-detached-scrollbar/'
+  },
+    framework: 'Vue',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://github.com/ozangulle/vue-detached-scrollbar',
+    keywords: ['vue','vuejs','scroll','scrollbar','detached']
   }
 
 ];
