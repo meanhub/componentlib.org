@@ -5536,6 +5536,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://herringtondarkholme.github.io/2016/10/03/vue2-ts2/',
     keywords: ['ts-loader','typescript-loader','webpack','loader','typescript','vue','vue-loader','ts']
+  },
+  {
+    id: 249,
+    name: 'vue-api-request',
+    install: {
+      packager: 'npm',
+      url: 'vue-api-request'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ftgibran/vue-api-request',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ftgibran.github.io/#/vue-api-request'
+  },
+    framework: 'Vue',
+    version: '1.1.7',
+    license: 'MIT',
+    details: 'https://ftgibran.github.io/#/vue-api-request',
+    keywords: ['api','request','vuejs','axios','vue-resource','ajax','loader','component']
   }
 
 ];
