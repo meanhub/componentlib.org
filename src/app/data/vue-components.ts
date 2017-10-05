@@ -5217,6 +5217,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/lokyoung/vuejs-paginate',
     keywords: ['paginate','pagination','vue']
+  },
+  {
+    id: 234,
+    name: 'laravel-vue-semantic-ui-pagination',
+    install: {
+      packager: 'npm',
+      url: 'laravel-vue-semantic-ui-pagination'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vinayakkulkarni/laravel-vue-semantic-ui-pagination',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.webpackbin.com/bins/-KvgUPDeZsUyfDjnK9-Z'
+  },
+    framework: 'Vue',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination',
+    keywords: ['laravel','semantic-ui','vuejs','paginator','pagination']
   }
 
 ];
