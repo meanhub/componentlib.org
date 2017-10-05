@@ -5641,6 +5641,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/guillaumevincent/vue-polyglot',
     keywords: ['i18n','polyglot','translation','vue-polyglot','vuepolyglot','locales','vue','vue.js']
+  },
+  {
+    id: 254,
+    name: 'vue-geb',
+    install: {
+      packager: 'npm',
+      url: 'vue-geb'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vouill/vue-geb',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vouill.github.io/vue-geb/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vouill/vue-geb',
+    keywords: ['handler','event','vue','vue.js']
   }
 
 ];
