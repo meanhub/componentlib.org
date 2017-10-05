@@ -5175,6 +5175,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/TahaSh/vue-paginate',
     keywords: ['paginate','pagination','page','chunk','navigate','slice','vue']
+  },
+  {
+    id: 232,
+    name: 'vuejs-uib-pagination',
+    install: {
+      packager: 'npm',
+      url: 'vuejs-uib-pagination'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'sant123/vuejs-uib-pagination',
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'hcfYWCTaQ7GnlO7AitGM'
+  },
+    framework: 'Vue',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://github.com/sant123/vuejs-uib-pagination',
+    keywords: ['paginator','pagination','uib-pagination','vuejs pagination','vuejs paginator']
   }
 
 ];
