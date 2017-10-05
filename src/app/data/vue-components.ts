@@ -5449,6 +5449,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ChiChou/vue-pano',
     keywords: ['webgl','browser','panorama','vue-panorama']
+  },
+  {
+    id: 245,
+    name: 'vue-threejs',
+    install: {
+      packager: 'npm',
+      url: 'vue-threejs'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'fritx/vue-threejs',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://fritx.github.io/vue-threejs/'
+  },
+    framework: 'Vue',
+    version: '0.0.4',
+    license: '',
+    details: 'https://github.com/fritx/vue-threejs',
+    keywords: ['vue-threejs','vue']
   }
 
 ];
