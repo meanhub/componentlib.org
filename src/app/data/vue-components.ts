@@ -5662,6 +5662,30 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vouill/vue-geb',
     keywords: ['handler','event','vue','vue.js']
+  },
+  {
+    id: 255,
+    name: 'vue-ls',
+    install: [{
+      packager: 'npm',
+      url: 'vue-ls'
+    },{
+      packager: 'bower',
+      url: 'vue-ls'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'RobinCK/vue-ls',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/Robin_ck/6x1akv1L/show/'
+  },
+    framework: 'Vue',
+    version: '2.3.3',
+    license: 'MIT',
+    details: 'https://github.com/RobinCK/vue-ls',
+    keywords: ['localstorage','local-storage','vue-localstorage','vuejs-localstorage','vue-local-storage','vuejs-local-storage','vue-ls','vue','vuejs','vue-plugin','watch','es6-modules']
   }
 
 ];
