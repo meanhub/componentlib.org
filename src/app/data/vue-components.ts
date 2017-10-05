@@ -5301,6 +5301,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/jaweii/vueg/blob/master/README_EN.md',
     keywords: ['transition','vue']
+  },
+  {
+    id: 238,
+    name: 'PortalVue',
+    install: {
+      packager: 'npm',
+      url: 'portal-vue'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'linusborg/portal-vue',
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'LinusBorg',
+      id: 'QvVqpY'
+  },
+    framework: 'Vue',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://linusborg.github.io/portal-vue/#/',
+    keywords: ['portal-vue','vue']
   }
 
 ];
