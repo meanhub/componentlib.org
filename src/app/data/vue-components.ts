@@ -5557,6 +5557,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://ftgibran.github.io/#/vue-api-request',
     keywords: ['api','request','vuejs','axios','vue-resource','ajax','loader','component']
+  },
+  {
+    id: 250,
+    name: 'vue-gettext',
+    install: {
+      packager: 'npm',
+      url: 'vue-gettext'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'Polyconseil/vue-gettext',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://polyconseil.github.io/vue-gettext/'
+  },
+    framework: 'Vue',
+    version: '2.0.23',
+    license: 'MIT',
+    details: 'https://github.com/Polyconseil/vue-gettext',
+    keywords: ['vue-gettext','gettext','vue']
   }
 
 ];
