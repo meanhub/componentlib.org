@@ -4985,6 +4985,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/chrishurlburt/vue-scrollview',
     keywords: ['vue','vuejs','scroll']
+  },
+  {
+    id: 223,
+    name: 'vue-scrollactive',
+    install: {
+      packager: 'npm',
+      url: 'vue-scrollactive'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'eddiemf/vue-scrollactive',
+    stars: 48
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://eddiemf.github.io/vue-scrollactive/examples/example-1.html'
+  },
+    framework: 'Vue',
+    version: '0.4.5',
+    license: 'MIT',
+    details: 'https://github.com/eddiemf/vue-scrollactive',
+    keywords: ['vue','vue-plugin','vue-component','scroll','active','active-class','menu-item','highlight-menu-item']
   }
 
 ];
