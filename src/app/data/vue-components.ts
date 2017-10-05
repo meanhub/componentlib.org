@@ -5323,6 +5323,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://linusborg.github.io/portal-vue/#/',
     keywords: ['portal-vue','vue']
+  },
+  {
+    id: 239,
+    name: 'vue-currency-filter',
+    install: {
+      packager: 'npm',
+      url: 'vue-currency-filter'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'mazipan/vue-currency-filter',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mazipan.github.io/vue-currency-filter/'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://linusborg.github.io/portal-vue/#/',
+    keywords: ['vue 2 currency','vue currency','vue currency filter','vue filter']
   }
 
 ];
