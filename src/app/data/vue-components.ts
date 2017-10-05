@@ -5771,6 +5771,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'WTFPL',
     details: 'https://github.com/buhrmi/vue-sync',
     keywords: ['vue','sync']
+  },
+  {
+    id: 260,
+    name: 'vuelm',
+    install: {
+      packager: 'npm',
+      url: 'vuelm'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'keuller/vuelm',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://keuller.com/vuelm/demos/financial/'
+  },
+    framework: 'Vue',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/keuller/vuelm',
+    keywords: ['vuelm','vue','state management','elm']
   }
 
 ];
