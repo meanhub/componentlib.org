@@ -5428,6 +5428,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hujiulong/vue-3d-model',
     keywords: ['vue','three.js','component','vue-3d-model']
+  },
+  {
+    id: 244,
+    name: 'vue pano',
+    install: {
+      packager: 'npm',
+      url: 'vue-pano'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ChiChou/vue-pano',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chichou.github.io/vue-pano/'
+  },
+    framework: 'Vue',
+    version: '1.3.5',
+    license: 'MIT',
+    details: 'https://github.com/ChiChou/vue-pano',
+    keywords: ['webgl','browser','panorama','vue-panorama']
   }
 
 ];
