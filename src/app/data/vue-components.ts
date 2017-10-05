@@ -5578,6 +5578,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Polyconseil/vue-gettext',
     keywords: ['vue-gettext','gettext','vue']
+  },
+  {
+    id: 251,
+    name: 'vue-i18n',
+    install: {
+      packager: 'npm',
+      url: 'voo-i18n'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MattyRad/vue-i18n',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/83o3db0q/7/show/'
+  },
+    framework: 'Vue',
+    version: '1.0.10',
+    license: 'MIT',
+    details: 'https://github.com/MattyRad/vue-i18n',
+    keywords: ['vue','vue.js','plugin','i18n','internationalization']
   }
 
 ];
