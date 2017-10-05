@@ -5686,6 +5686,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/RobinCK/vue-ls',
     keywords: ['localstorage','local-storage','vue-localstorage','vuejs-localstorage','vue-local-storage','vuejs-local-storage','vue-ls','vue','vuejs','vue-plugin','watch','es6-modules']
+  },
+  {
+    id: 256,
+    name: 'vue-pouch',
+    install: {
+      packager: 'npm',
+      url: 'vue-pouch'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'buhrmi/vue-pouch',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://buhrmi.github.io/vue-pouch/'
+  },
+    framework: 'Vue',
+    version: '0.0.22',
+    license: 'ISC',
+    details: 'https://github.com/buhrmi/vue-pouch',
+    keywords: ['vue','vue-pouch']
   }
 
 ];
