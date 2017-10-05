@@ -5049,6 +5049,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/AlexandreBonaventure/vue-scrollmonitor',
     keywords: ['vue','scroll','monitor']
+  },
+  {
+    id: 226,
+    name: 'vue-scroll-behavior',
+    install: {
+      packager: 'npm',
+      url: 'vue-scroll-behavior'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'jeneser/vue-scroll-behavior',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jeneser.github.io/vue-scroll-behavior/#/movie'
+  },
+    framework: 'Vue',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'https://github.com/jeneser/vue-scroll-behavior',
+    keywords: ['vue','vue-scroll-behavior']
   }
 
 ];
