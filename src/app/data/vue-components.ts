@@ -5750,6 +5750,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuex.vuejs.org/en/',
     keywords: ['vue','vuex']
+  },
+  {
+    id: 259,
+    name: 'vue-sync',
+    install: {
+      packager: 'npm',
+      url: 'vue-sync'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'buhrmi/vue-sync',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://buhrmi.github.io/vue-sync/'
+  },
+    framework: 'Vue',
+    version: '3.2.0',
+    license: 'WTFPL',
+    details: 'https://github.com/buhrmi/vue-sync',
+    keywords: ['vue','sync']
   }
 
 ];
