@@ -5280,6 +5280,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/chenqingspring/vue-lottie',
     keywords: ['lottie','vue-component','vue-animation','vue']
+  },
+  {
+    id: 237,
+    name: 'Vueg',
+    install: {
+      packager: 'npm',
+      url: 'vueg'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'jaweii/vueg',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jaweii.github.io/vueg/example/dist/#/'
+  },
+    framework: 'Vue',
+    version: '1.2.6',
+    license: 'ISC',
+    details: 'https://github.com/jaweii/vueg/blob/master/README_EN.md',
+    keywords: ['transition','vue']
   }
 
 ];
