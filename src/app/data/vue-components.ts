@@ -5133,6 +5133,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/JALBAA/vue-lazyload-img',
     keywords: ['vue', 'lazyload']
+  },
+  {
+    id: 230,
+    name: 'vue-clazy-load',
+    install: {
+      packager: 'npm',
+      url: 'vue-clazy-load'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'matheusgrieger/vue-clazy-load',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://matheusgrieger.github.io/vue-clazy-load/example/index.html'
+  },
+    framework: 'Vue',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/matheusgrieger/vue-clazy-load',
+    keywords: ['vue','vuejs','lazy load','lazyload','babel','webpack','component']
   }
 
 ];
