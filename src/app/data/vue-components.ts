@@ -5070,6 +5070,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/jeneser/vue-scroll-behavior',
     keywords: ['vue','vue-scroll-behavior']
+  },
+  {
+    id: 227,
+    name: 'vue-router',
+    install: {
+      packager: 'npm',
+      url: 'vue-router'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vue-router',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://jsfiddle.net/yyx990803/L7hscd8h/show/'
+  },
+    framework: 'Vue',
+    version: '2.7.0',
+    license: 'MIT',
+    details: 'https://router.vuejs.org',
+    keywords: ['vue', 'router', 'routing']
   }
 
 ];
