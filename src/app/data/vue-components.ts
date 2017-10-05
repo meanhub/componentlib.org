@@ -5091,6 +5091,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://router.vuejs.org',
     keywords: ['vue', 'router', 'routing']
+  },
+  {
+    id: 228,
+    name: 'vue-lazyload',
+    install: {
+      packager: 'npm',
+      url: 'vue-lazyload'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'hilongjw/vue-lazyload',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://hilongjw.github.io/vue-lazyload/'
+  },
+    framework: 'Vue',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/hilongjw/vue-lazyload',
+    keywords: ['vue', 'vue-lazyload', 'lazyload','vue-directive']
   }
 
 ];
