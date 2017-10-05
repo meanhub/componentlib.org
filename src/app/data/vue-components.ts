@@ -5599,6 +5599,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MattyRad/vue-i18n',
     keywords: ['vue','vue.js','plugin','i18n','internationalization']
+  },
+  {
+    id: 252,
+    name: 'vue-i18next',
+    install: {
+      packager: 'npm',
+      url: '@panter/vue-i18next'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'panter/vue-i18next',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://panter.github.io/vue-i18next/examples/'
+  },
+    framework: 'Vue',
+    version: '0.4.0-development',
+    license: 'MIT',
+    details: 'https://github.com/panter/vue-i18next',
+    keywords: ['i18n','i18next','internationalization','plugin','vue','vue.js']
   }
 
 ];
