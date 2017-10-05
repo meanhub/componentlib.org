@@ -5344,6 +5344,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://linusborg.github.io/portal-vue/#/',
     keywords: ['vue 2 currency','vue currency','vue currency filter','vue filter']
+  },
+  {
+    id: 240,
+    name: 'vue-svgicon',
+    install: {
+      packager: 'npm',
+      url: 'vue-svgicon'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MMF-FE/vue-svgicon',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mmf-fe.github.io/vue-svgicon/'
+  },
+    framework: 'Vue',
+    version: '1.2.6',
+    license: 'MIT',
+    details: 'https://github.com/MMF-FE/vue-svgicon',
+    keywords: ['vue','vue2.0','svg','icon','svgicon']
   }
 
 ];
