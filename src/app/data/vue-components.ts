@@ -5407,6 +5407,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/mokkabonna/vue-async-methods',
     keywords: ['vue','async','async-methods']
+  },
+  {
+    id: 243,
+    name: 'vue-3d-model',
+    install: {
+      packager: 'npm',
+      url: 'vue-3d-model'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'hujiulong/vue-3d-model',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hujiulong.github.io/vue-3d-model/#/demo-basic'
+  },
+    framework: 'Vue',
+    version: '0.0.11',
+    license: 'MIT',
+    details: 'https://github.com/hujiulong/vue-3d-model',
+    keywords: ['vue','three.js','component','vue-3d-model']
   }
 
 ];
