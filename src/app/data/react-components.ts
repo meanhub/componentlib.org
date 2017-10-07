@@ -8906,5 +8906,636 @@ export const REACT_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/react-d3/react-d3-map-bubble',
     keywords: ['d3','chart','orthographic','map','polygons','markers','point','line']
+  },
+  {
+    id: 421,
+    name: 'react-components',
+    install: {
+      packager: 'npm',
+      url: 'react-components'  
+    },
+    source: {
+      domain: 'github',
+      url: 'Khan/react-components'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://khan.github.io/react-components/'
+    },
+    framework: 'React',
+    version: '0.5.1',
+    license: 'MIT',
+    details: 'https://github.com/Khan/react-components',
+    keywords: ['component','reacting']
+  },
+  {
+    id: 422,
+    name: 'react-topui',
+    install: {
+      packager: 'npm',
+      url: 'react-topui'  
+    },
+    source: {
+      domain: 'github',
+      url: 'kjda/react-topui'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://kjda.github.io/react-topui/'
+    },
+    framework: 'React',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'https://github.com/kjda/react-topui',
+    keywords: ['User Interface']
+  },
+  {
+    id: 423,
+    name: 'uxcore',
+    install: {
+      packager: 'npm',
+      url: 'uxcore'  
+    },
+    source: {
+      domain: 'github',
+      url: 'uxcore/uxcore'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://uxcore.coding.me'
+    },
+    framework: 'React',
+    version: '0.15.18',
+    license: 'MIT',
+    details: 'http://uxcore.coding.me/',
+    keywords: ['Shapes','Polymer','Graphics','Design']
+  },
+  {
+    id: 424,
+    name: 'react-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-grid'  
+    },
+    source: {
+      domain: 'github',
+      url: 'prometheusresearch/react-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://reactjs.org/'
+    },
+    framework: 'React',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/prometheusresearch/react-grid',
+    keywords: ['UI','Style']
+  },
+  {
+    id: 425,
+    name: 'react-icheck',
+    install: {
+      packager: 'npm',
+      url: 'react-icheck'  
+    },
+    source: {
+      domain: 'github',
+      url: 'luqin/react-icheck'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://luqin.github.io/react-icheck/#/?_k=vzsovv'
+    },
+    framework: 'React',
+    version: '0.3.8',
+    license: 'MIT',
+    details: 'https://github.com/luqin/react-icheck',
+    keywords: ['check box','radio button']
+  },
+  {
+    id: 426,
+    name: 'react-absolute-grid',
+    install: {
+      packager: 'npm',
+      url: 'react-absolute-grid'  
+    },
+    source: {
+      domain: 'github',
+      url: 'jrowny/react-absolute-grid'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://jrowny.github.io/react-absolute-grid/demo/'
+    },
+    framework: 'React',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/jrowny/react-absolute-grid',
+    keywords: ['Data Grid','Filter Grid']
+  },
+  {
+    id: 427,
+    name: 'react-countup',
+    install: {
+      packager: 'npm',
+      url: 'react-countup'  
+    },
+    source: {
+      domain: 'github',
+      url: 'glennreyes/react-countup'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://glennreyes.github.io/react-countup/'
+    },
+    framework: 'React',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://github.com/glennreyes/react-countup',
+    keywords: ['timing','Clock','count']
+  },
+  {
+    id: 428,
+    name: 'react-frame-component',
+    install: {
+      packager: 'npm',
+      url: 'react-frame-component'  
+    },
+    source: {
+      domain: 'github',
+      url: 'ryanseddon/react-frame-component'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://ryanseddon.github.io/react-frame-component/'
+    },
+    framework: 'React',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'https://github.com/ryanseddon/react-frame-component',
+    keywords: ['framing','wrapping']
+  },
+   {
+    id: 429,
+    name: 'react-gravatar',
+    install: {
+      packager: 'npm',
+      url: 'react-gravatar'  
+    },
+    source: {
+      domain: 'github',
+      url: 'KyleAMathews/react-gravatar'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://kyleamathews.github.io/react-gravatar/'
+    },
+    framework: 'React',
+    version: '2.6.3',
+    license: 'MIT',
+    details: 'https://github.com/KyleAMathews/react-gravatar',
+    keywords: ['retina display','gravatar']
+  },
+  {
+    id: 430,
+    name: 'react-markdown-area',
+    install: {
+      packager: 'npm',
+      url: 'react-markdown-area'  
+    },
+    source: {
+      domain: 'github',
+      url: 'MattMcFarland/react-markdown-area'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://blog.mmcfarland.net/react-markdown-area/'
+    },
+    framework: 'React',
+    version: '0.3.8',
+    license: 'MIT',
+    details: 'https://github.com/MattMcFarland/react-markdown-area',
+    keywords: ['markdown']
+  },
+   {
+    id: 431,
+    name: 'react-spinner',
+    install: {
+      packager: 'npm',
+      url: 'react-spinner'  
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/react-spinner'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://rawgit.com/chenglou/react-spinner/master/example/index.html'
+    },
+    framework: 'React',
+    version: '0.2.7',
+    license: 'MIT',
+    details: 'https://github.com/chenglou/react-spinner',
+    keywords: ['loading','spinner']
+  },
+  {
+    id: 432,
+    name: 'RCSS',
+    install: {
+      packager: 'npm',
+      url: 'RCSS'  
+    },
+    source: {
+      domain: 'github',
+      url: 'chenglou/RCSS'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://rawgit.com/chenglou/RCSS/master/examples/index.html'
+    },
+    framework: 'React',
+    version: '0.1.5',
+    license: 'MIT',
+    details: 'https://github.com/chenglou/RCSS',
+    keywords: ['style']
+  },
+  {
+    id: 433,
+    name: 'react-datalist',
+    install: {
+      packager: 'npm',
+      url: 'react-datalist'  
+    },
+    source: {
+      domain: 'github',
+      url: 'asbjornenge/react-datalist'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://www.asbjornenge.com/react-datalist/'
+    },
+    framework: 'React',
+    version: '4.0.0',
+    license: 'MIT',
+    details: 'https://github.com/asbjornenge/react-datalist',
+    keywords: ['list','search']
+  },
+    {
+    id: 434,
+    name: 'react-table-sorter-demo',
+    install: {
+      packager: 'npm',
+      url: 'react-table-sorter-demo'  
+    },
+    source: {
+      domain: 'github',
+      url: 'bgerm/react-table-sorter-demo'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://bgerm.github.io/react-table-sorter-demo/'
+    },
+    framework: 'React',
+    version: '',
+    license: 'MIT',
+    details: 'https://github.com/bgerm/react-table-sorter-demo',
+    keywords: ['list','search']
+  },
+   {
+    id: 435,
+    name: 'react-input-placeholder',
+    install: {
+      packager: 'npm',
+      url: 'react-input-placeholder'  
+    },
+    source: {
+      domain: 'github',
+      url: 'enigma-io/react-input-placeholder'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://jsfiddle.net/69z2wepo/16498/'
+    },
+    framework: 'React',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/enigma-io/react-input-placeholder',
+    keywords: ['placeholder']
+  },
+   {
+    id: 436,
+    name: 'react-infinite-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-infinite-scroll'  
+    },
+    source: {
+      domain: 'github',
+      url: 'guillaumervls/react-infinite-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://jsfiddle.net/mb9vJ/2'
+    },  
+    framework: 'React',
+    version: '0.1.5',
+    license: 'MIT',
+    details: 'https://github.com/guillaumervls/react-infinite-scroll',
+    keywords: ['scroll']
+  },
+   {
+    id: 437,
+    name: 'react-intl',
+    install: {
+      packager: 'npm',
+      url: 'react-intl'  
+    },
+    source: {
+      domain: 'github',
+      url: 'yahoo/react-intl'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://formatjs.io/react/v1/'
+    },  
+    framework: 'React',
+    version: '0.50.0',
+    license: 'MIT',
+    details: 'https://github.com/yahoo/react-intl',
+    keywords: ['formatting date','formatting time']
+  },
+   {
+    id: 438,
+    name: 'graffiti',
+    install: {
+      packager: 'npm',
+      url: 'graffiti'  
+    },
+    source: {
+      domain: 'github',
+      url: 'RisingStack/graffiti'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://risingstack-graffiti.signup.team/'
+    },  
+    framework: 'React',
+    version: '3.3.0',
+    license: 'MIT',
+    details: 'https://github.com/RisingStack/graffiti',
+    keywords: ['sign up','register']
+  },
+   {
+    id: 439,
+    name: 'sql-to-graphql',
+    install: {
+      packager: 'npm',
+      url: 'sql-to-graphql'
+    },
+    source: {
+      domain: 'github',
+      url: 'rexxars/sql-to-graphql'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://facebook.github.io/graphql/October2016/'
+    },  
+    framework: 'React',
+    version: '2.0.9',
+    license: 'MIT',
+    details: 'https://github.com/rexxars/sql-to-graphql',
+    keywords: ['sign up','register']
+  },
+   {
+    id: 440,
+    name: 'graphql-js',
+    install: {
+      packager: 'npm',
+      url: 'graphql-js'
+    },
+    source: {
+      domain: 'github',
+      url: 'graphql/graphql-js'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://graphql.org/graphql-js/'
+    },  
+    framework: 'React',
+    version: '0.11.7',
+    license: 'MIT',
+    details: 'https://github.com/graphql/graphql-js',
+    keywords: ['graphql']
+  },
+   {
+    id: 441,
+    name: 'react-transmit',
+    install: {
+      packager: 'npm',
+      url: 'react-transmit'
+    },
+    source: {
+      domain: 'github',
+      url: 'RickWong/react-transmit'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://edealer.nl/react-transmit/'
+    },  
+    framework: 'React',
+    version: '3.2.0',
+    license: 'MIT',
+    details: 'https://github.com/RickWong/react-transmit',
+    keywords: ['relay','library']
+  },
+   {
+    id: 442,
+    name: 'graphql-ruby',
+    install: {
+      packager: 'npm',
+      url: 'graphql-ruby'
+    },
+    source: {
+      domain: 'github',
+      url: 'rmosolgo/graphql-ruby'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://graphql-ruby.org/'
+    },  
+    framework: 'React',
+    version:  '1.7.3',
+    license: 'MIT',
+    details: 'https://github.com/rmosolgo/graphql-ruby',
+    keywords: ['ruby']
+  },
+  {
+    id: 443,
+    name: 'graphql-php',
+    install: {
+      packager: 'npm',
+      url: 'graphql-php'
+    },
+    source: {
+      domain: 'github',
+      url: 'webonyx/graphql-php'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://graphene-python.org/'
+    },  
+    framework: 'React',
+    version:  '0.11.1',
+    license: 'MIT',
+    details: 'https://github.com/webonyx/graphql-php',
+    keywords: ['php']
+  },
+  {
+    id: 444,
+    name: 'react-stockcharts',
+    install: {
+      packager: 'npm',
+      url: 'react-stockcharts'
+    },
+    source: {
+      domain: 'github',
+      url: 'rrag/react-stockcharts'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://rrag.github.io/stockcharts-demo/'
+    },  
+    framework: 'React',
+    version:  '0.7.0',
+    license: 'MIT',
+    details: 'https://github.com/rrag/react-stockcharts',
+    keywords: ['charts']
+  },
+  {
+    id: 445,
+    name: 'react-d3',
+    install: {
+      packager: 'npm',
+      url: 'react-d3'
+    },
+    source: {
+      domain: 'github',
+      url: 'esbullington/react-d3'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://reactiva.github.io/react-d3-website/'
+    },  
+    framework: 'React',
+    version:  '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/esbullington/react-d3',
+    keywords: ['graphs']
+  },
+  {
+    id: 446,
+    name: 'cortex',
+    install: {
+      packager: 'npm',
+      url: 'cortex'
+    },
+    source: {
+      domain: 'github',
+      url: 'mquan/cortex'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://mquan.github.io/cortex/examples/skyline/'
+    },  
+    framework: 'React',
+    version:  '2.1.1',
+    license: 'MIT',
+    details: 'https://github.com/mquan/cortex',
+    keywords: ['data','storing','structure']
+  },
+  {
+    id: 447,
+    name: 'react-pomodoro',
+    install: {
+      packager: 'npm',
+      url: 'react-pomodoro'
+    },
+    source: {
+      domain: 'github',
+      url: 'afonsopacifer/react-pomodoro'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://afonsopacifer.github.io/react-pomodoro/'
+    },  
+    framework: 'React',
+    version:  '0.4.1',
+    license: 'MIT',
+    details: 'https://github.com/afonsopacifer/react-pomodoro',
+    keywords: ['clock','stop watch']
+  },
+  {
+    id: 448,
+    name: 'react-starter-kit',
+    install: {
+      packager: 'npm',
+      url: 'react-starter-kit'
+    },
+    source: {
+      domain: 'github',
+      url: 'kriasoft/react-starter-kit'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://demo.reactstarter.com/'
+    },  
+    framework: 'React',
+    version:  '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/kriasoft/react-starter-kit',
+    keywords: ['kit']
+  },
+   {
+    id: 449,
+    name: 'react-app',
+    install: {
+      packager: 'npm',
+      url: 'react-app'
+    },
+    source: {
+      domain: 'github',
+      url: 'kriasoft/react-app'
+    },
+    demo: {
+      repl: 'custom',
+      src:'https://rsb.kriasoft.com/'
+    },  
+    framework: 'React',
+    version:  '1.1.2',
+    license: 'MIT',
+    details: 'https://github.com/kriasoft/react-app',
+    keywords: ['authoring']
+  },
+   {
+    id: 450,
+    name: 'react-native-nw-react-calculator',
+    install: {
+      packager: 'npm',
+      url: 'react-native-nw-react-calculator'
+    },
+    source: {
+      domain: 'github',
+      url: 'benoitvallon/react-native-nw-react-calculator'
+    },
+    demo: {
+      repl: 'custom',
+      src:'http://blog.benoitvallon.com/react-native-nw-react-calculator/#/?_k=1trxtw'
+    },  
+    framework: 'React',
+    version:  '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/benoitvallon/react-native-nw-react-calculator',
+    keywords: ['calculator']
   }
 ];
+
