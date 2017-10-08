@@ -83,4 +83,7 @@
 .demo-window {
   height: 100%;
   width: 100%;
+  overflow: auto;
+  text-align: center;
+  margin: 5px;
 }

@@ -12,6 +12,7 @@ export class ComponentThumbnailComponent implements OnInit {
   public isJsFiddle: boolean;
   public isPlunker: boolean;
   public isExpo: boolean;
+  public isImg: boolean;
   public isCustom: boolean;
 
 
@@ -24,6 +25,7 @@ export class ComponentThumbnailComponent implements OnInit {
     this.isJsFiddle = false;
     this.isPlunker = false;
     this.isExpo = false;
+    this.isImg = false;
     this.isCustom = false;
 
     this.bowerMouseEnter = this.bowerMouseEnter.bind(this);
@@ -37,6 +39,7 @@ export class ComponentThumbnailComponent implements OnInit {
     this.isJsFiddle = this.component.demo.repl === 'jsfiddle';
     this.isPlunker = this.component.demo.repl === 'plunker';
     this.isExpo = this.component.demo.repl === 'expo';
+    this.isImg = this.component.demo.repl === 'img';
     this.isCustom = this.component.demo.repl === 'custom';
 
     if (this.isCodePen) {
