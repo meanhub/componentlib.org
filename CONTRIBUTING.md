@@ -65,6 +65,10 @@ Please add a JSON object for each component in these files.
       url: <expo.io url>,
       expoUrl: '<expo url to open demo>',
       qrCode: '<name of image file at /src/assets/qr-codes for QR code>'
+    }, | {
+      repl: 'img',
+      url: <demo page url>,
+      imgUrl: '<link to image file>'
     },
     framework: '[React | React Native | Angular 2+ | AngularJS 1.x | Vue | Ember',
     version: '<version from package.json file>',

@@ -25,6 +25,9 @@
       <div class="qr-code-text">Scan QR code with your <a href="https://expo.io/" target="_blank">Expo</a> mobile app</div>
       <img class="qr-code-img" src="../../../assets/qr-codes/{{component.demo.qrCode}}.png">
     </div>
+    <div *ngIf="isImg">
+      <img src="{{ component.demo.imgUrl }}" class="img-demo">
+    </div>
     <iframe *ngIf="isCustom" height='265' scrolling='yes' [src]='component.demo.src | safe' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%; height:100%'><a href='https://codepen.io/sachinchoolur/pen/ogxpOZ/'>Demo Page</a>.
     </iframe>
   </div>
