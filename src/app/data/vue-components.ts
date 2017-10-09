@@ -6199,6 +6199,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://runkit.com/docs/embed',
     keywords: ['runkit','vue']
+  },
+  {
+    id: 280,
+    name: 'vue-youtube',
+    install: {
+      packager: 'npm',
+      url: 'vue-youtube'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'anteriovieira/vue-youtube',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'http://vue-youtube.herokuapp.com'
+  },
+    framework: 'Vue',
+    version: '1.2.1',
+    license: 'MIT',
+    details: 'https://github.com/anteriovieira/vue-youtube#installation',
+    keywords: ['vue-youtube','vue','youtube']
   }
 
 
