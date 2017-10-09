@@ -6178,6 +6178,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://blog2.edgardleal.com/require-vuejs/',
     keywords: ['javascript','vuejs','requirejs']
+  },
+  {
+    id: 279,
+    name: 'vue-runkit',
+    install: {
+      packager: 'npm',
+      url: 'vue-runkit'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'maple3142/vue-runkit',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://runkit.com/docs/embed'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://runkit.com/docs/embed',
+    keywords: ['runkit','vue']
   }
 
 
