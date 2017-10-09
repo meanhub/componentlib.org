@@ -6325,6 +6325,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/justinkames/vuejs-logger',
     keywords: ['vue','vuejs-logger']
+  },
+  {
+    id: 286,
+    name: 'vue-markdown-loader',
+    install: {
+      packager: 'npm',
+      url: 'vue-markdown-loader'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'QingWei-Li/vue-markdown-loader',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vue-markdown.glitch.me'
+  },
+    framework: 'Vue',
+    version: '2.2.1',
+    license: 'MIT',
+    details: 'https://github.com/QingWei-Li/vue-markdown-loader',
+    keywords: ['vue','markdown','webpack','loader']
   }
 
 
