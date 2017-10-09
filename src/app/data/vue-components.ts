@@ -5898,6 +5898,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/c01nd01r/vue-bem-cn',
     keywords: ['vue','vuejs','vue.js','bem','bem-cn','class','classname']
+  },
+  {
+    id: 266,
+    name: 'poi',
+    install: {
+      packager: 'npm',
+      url: 'poi'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'egoist/poi',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://poi.js.org/#/'
+  },
+    framework: 'Vue',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://poi.js.org/#/home',
+    keywords: ['poi']
   }
   
 
