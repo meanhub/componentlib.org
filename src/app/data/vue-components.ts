@@ -5961,6 +5961,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/samturrell/vue-breadcrumbs',
     keywords: ['breadcrumbs','plugin','vue','vuejs']
+  },
+  {
+    id: 269,
+    name: 'pieces',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/NxtChg/pieces/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'NxtChg/pieces/tree/master/js/vue/vs-crumbs',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nxtchg.github.io/pieces/vue/vs-crumbs/#/foo/bar'
+  },
+    framework: 'Vue',
+    version: '',
+    license: 'Unlicense',
+    details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs',
+    keywords: ['breadcrumbs','plugin','vue','vuejs']
   }
   
 
