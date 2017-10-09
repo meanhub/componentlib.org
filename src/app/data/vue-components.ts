@@ -6367,6 +6367,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-play/vue-play',
     keywords: ['vue','storybook','component','play','ui']
+  },
+  {
+    id: 288,
+    name: 'vue-styleguide-generator',
+    install: {
+      packager: 'npm',
+      url: 'vue-styleguide-generator'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'shershen08/vue-styleguide-generator',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://shershen08.github.io/vue-plugins-demo-static/Keen-UI-demo.html'
+  },
+    framework: 'Vue',
+    version: '0.9.18',
+    license: 'MIT',
+    details: 'https://shershen08.github.io/vue-plugins-demo-static/Keen-UI-demo.html',
+    keywords: ['vue','vuejs','generator','library','styleguide','components']
   }
 
 
