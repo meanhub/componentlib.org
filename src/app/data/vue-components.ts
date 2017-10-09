@@ -6072,7 +6072,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://nicolasbeauvais.github.io/vue-add-to-calendar/',
     keywords: ['plugin','vue','vuejs','calendar','share','add']
+  },
+  {
+    id: 274,
+    name: 'vue-apollo',
+    install:  {
+      packager: 'npm',
+      url: 'vue-apollo'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'Akryum/vue-apollo',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://slides.com/akryum/graphql#/'
+  },
+    framework: 'Vue',
+    version: '2.1.0-rc.5',
+    license: 'ISC',
+    details: 'https://github.com/Akryum/vue-apollo',
+    keywords: ['graphql','vue','apollo']
   }
-  
+
 
 ];
