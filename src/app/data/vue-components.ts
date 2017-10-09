@@ -6220,6 +6220,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/anteriovieira/vue-youtube#installation',
     keywords: ['vue-youtube','vue','youtube']
+  },
+  {
+    id: 281,
+    name: 'vue-analytics',
+    install: {
+      packager: 'npm',
+      url: 'vue-analytics'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MatteoGabriele/vue-analytics',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://matteogabriele.gitbooks.io/vue-analytics/content/'
+  },
+    framework: 'Vue',
+    version: '0.0.0-development',
+    license: 'MIT',
+    details: 'https://matteogabriele.gitbooks.io/vue-analytics/content/',
+    keywords: ['vue','analytics','vue-analytics']
   }
 
 
