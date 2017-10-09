@@ -6114,6 +6114,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/HerringtonDarkholme/av-ts',
     keywords: ['vue','av-ts']
+  },
+  {
+    id: 276,
+    name: 'vue-custom-element',
+    install: {
+      packager: 'npm',
+      url: 'vue-custom-element'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'karol-f/vue-custom-element',
+    },
+    demo: {
+     repl: 'custom',
+     src: 'https://karol-f.github.io/vue-custom-element/#/'
+  },
+    framework: 'Vue',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://karol-f.github.io/vue-custom-element/#/',
+    keywords: ['vue','custom-elements']
   }
 
 
