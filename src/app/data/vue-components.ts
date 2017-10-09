@@ -6006,6 +6006,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/lucaperret/gaspard/blob/master/docs/API.md#srccollectionjs',
     keywords: ['vue','plugin','jquery','dom','helper','document','selector','attribute','position','selector']
+  },
+  {
+    id: 271,
+    name: 'vue-backbone',
+    install:  {
+      packager: 'npm',
+      url: 'vue-backbone'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'mikeapr4/vue-backbone',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mikeapr4.gitbooks.io/vue-backbone/'
+  },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://mikeapr4.gitbooks.io/vue-backbone/',
+    keywords: ['vue','backbone']
   }
   
 
