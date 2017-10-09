@@ -6451,6 +6451,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://rafaelescala.com/vue-styleguide/',
     keywords: ['vue','styleguide','style guide','documentation','docs','generator','component','components']
+  },
+  {
+    id: 292,
+    name: 'avoriaz',
+    install: {
+      packager: 'npm',
+      url: 'avoriaz'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vue-styleguidist/vue-styleguidist',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://eddyerburgh.gitbooks.io/avoriaz/content/'
+  },
+    framework: 'Vue',
+    version: '6.0.0',
+    license: 'MIT',
+    details: 'https://eddyerburgh.gitbooks.io/avoriaz/content/',
+    keywords: ['test vue','vue.js','vue.js 2','vue','vue test','vue.js test','vue.js 2 test','vue 2 test','vue testing utils','vue.js testing utils','vue 2 testing utils','vue.js 2 testing utils','vue testing utilities','vue.js testing utilities','vue 2 testing utilities','vue.js 2 testing utilities']
   }
 
 
