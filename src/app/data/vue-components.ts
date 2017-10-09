@@ -5940,6 +5940,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/zack24q/vue-navigation',
     keywords: ['navigation','vue','vue-router']
+  },
+  {
+    id: 268,
+    name: 'vue-breadcrumbs',
+    install: {
+      packager: 'npm',
+      url: 'vue-breadcrumbs'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'samturrell/vue-breadcrumbs',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://samturrell.github.io/vue-breadcrumbs/example/#/'
+  },
+    framework: 'Vue',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'https://github.com/samturrell/vue-breadcrumbs',
+    keywords: ['breadcrumbs','plugin','vue','vuejs']
   }
   
 
