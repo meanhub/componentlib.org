@@ -5855,6 +5855,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/biluochun/vuex-localState',
     keywords: ['vuex','vuex-local-state','localstorage']
+  },
+  {
+    id: 264,
+    name: 'vue-factory',
+    install: {
+      packager: 'npm',
+      url: 'vue-factory'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ye-will/vue-factory',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/ye_well/dcmxfcz3/show/'
+  },
+    framework: 'Vue',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'https://github.com/ye-will/vue-factory',
+    keywords: ['vuex','vue-factory','vue']
   }
   
 
