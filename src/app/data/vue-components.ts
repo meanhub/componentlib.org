@@ -5982,6 +5982,30 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Unlicense',
     details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs',
     keywords: ['breadcrumbs','plugin','vue','vuejs']
+  },
+  {
+    id: 270,
+    name: 'vue-gaspard',
+    install:  [{
+      packager: 'npm',
+      url: 'vue-gaspard'
+    },{
+      packager: 'bower',
+      url: 'vue-gaspard'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'lucaperret/vue-gaspard',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://lucaperret.github.io/gaspard/'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/lucaperret/gaspard/blob/master/docs/API.md#srccollectionjs',
+    keywords: ['vue','plugin','jquery','dom','helper','document','selector','attribute','position','selector']
   }
   
 
