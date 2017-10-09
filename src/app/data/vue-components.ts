@@ -5792,6 +5792,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/keuller/vuelm',
     keywords: ['vuelm','vue','state management','elm']
+  },
+  {
+    id: 261,
+    name: 'vuex-persistedstate',
+    install: {
+      packager: 'npm',
+      url: 'vuex-persistedstate'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'robinvdvleuten/vuex-persistedstate',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://jsfiddle.net/robinvdvleuten/wmf8zvf8/show/'
+  },
+    framework: 'Vue',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/robinvdvleuten/vuex-persistedstate',
+    keywords: ['vuex','vue','plugin']
   }
+  
 
 ];
