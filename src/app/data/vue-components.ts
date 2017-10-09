@@ -6156,6 +6156,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://kartsims.github.io/vue-cordova/',
     keywords: ['vuejs','cordova','plugin']
+  },
+  {
+    id: 278,
+    name: 'require-vuejs',
+    install: {
+      packager: 'npm',
+      url: 'require-vuejs'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'edgardleal/require-vuejs',
+    },
+    demo: {
+     repl: 'codepen',
+      user: 'edgardleal',
+      id: 'XMaeNP'
+  },
+    framework: 'Vue',
+    version: '1.0.9',
+    license: 'MIT',
+    details: 'http://blog2.edgardleal.com/require-vuejs/',
+    keywords: ['javascript','vuejs','requirejs']
   }
 
 
