@@ -5834,6 +5834,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://championswimmer.in/vuex-persist/',
     keywords: ['vuex','vue','persist','localstorage']
+  },
+  {
+    id: 263,
+    name: 'vuex-local-state',
+    install: {
+      packager: 'npm',
+      url: 'vuex-local-state'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'biluochun/vuex-localState',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://biluochun.github.io/vuex-localState/test/index.html'
+  },
+    framework: 'Vue',
+    version: '1.1.2',
+    license: 'ISC',
+    details: 'https://github.com/biluochun/vuex-localState',
+    keywords: ['vuex','vuex-local-state','localstorage']
   }
   
 
