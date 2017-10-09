@@ -6135,6 +6135,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://karol-f.github.io/vue-custom-element/#/',
     keywords: ['vue','custom-elements']
+  },
+  {
+    id: 277,
+    name: 'vue-cordova',
+    install: {
+      packager: 'npm',
+      url: 'vue-cordova'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'kartsims/vue-cordova',
+    },
+    demo: {
+     repl: 'custom',
+     src: 'http://kartsims.github.io/vue-cordova/#documentationdemo'
+  },
+    framework: 'Vue',
+    version: '0.1.2',
+    license: 'MIT',
+    details: 'http://kartsims.github.io/vue-cordova/',
+    keywords: ['vuejs','cordova','plugin']
   }
 
 
