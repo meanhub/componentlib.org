@@ -6472,6 +6472,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://eddyerburgh.gitbooks.io/avoriaz/content/',
     keywords: ['test vue','vue.js','vue.js 2','vue','vue test','vue.js test','vue.js 2 test','vue 2 test','vue testing utils','vue.js testing utils','vue 2 testing utils','vue.js 2 testing utils','vue testing utilities','vue.js testing utilities','vue 2 testing utilities','vue.js 2 testing utilities']
+  },
+  {
+    id: 293,
+    name: 'vuenit',
+    install: {
+      packager: 'npm',
+      url: 'vuenit'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'jackmellis/vuenit',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://jackmellis.gitbooks.io/vuenit/content/'
+  },
+    framework: 'Vue',
+    version: '1.1.1',
+    license: 'ISC',
+    details: 'https://jackmellis.gitbooks.io/vuenit/content/',
+    keywords: ['vue','vuenit']
   }
 
 
