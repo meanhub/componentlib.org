@@ -6346,6 +6346,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/QingWei-Li/vue-markdown-loader',
     keywords: ['vue','markdown','webpack','loader']
+  },
+  {
+    id: 287,
+    name: 'vue-play',
+    install: {
+      packager: 'npm',
+      url: 'vue-play'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vue-play/vue-play',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'http://vue-play-button.surge.sh'
+  },
+    framework: 'Vue',
+    version: '3.2.1',
+    license: 'MIT',
+    details: 'https://github.com/vue-play/vue-play',
+    keywords: ['vue','storybook','component','play','ui']
   }
 
 
