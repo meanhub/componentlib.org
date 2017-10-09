@@ -6262,6 +6262,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'Unlicense',
     details: 'http://vuepack.org',
     keywords: ['vue','vuepack']
+  },
+  {
+    id: 283,
+    name: 'storybook',
+    install: {
+      packager: 'npm',
+      url: '@storybook/cli'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'storybooks/storybook',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://storybook.js.org'
+  },
+    framework: 'Vue',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://storybook.js.org',
+    keywords: ['vue','storybook']
   }
 
 
