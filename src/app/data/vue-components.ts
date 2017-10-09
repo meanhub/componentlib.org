@@ -6430,6 +6430,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuejs-tips.github.io/vuex-cheatsheet/',
     keywords: ['vue','vuejs','vuex-cheatsheet']
+  },
+  {
+    id: 291,
+    name: 'Vue Styleguidist',
+    install: {
+      packager: 'npm',
+      url: 'vue-styleguidist'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vue-styleguidist/vue-styleguidist',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'http://rafaelescala.com/vue-styleguide/'
+  },
+    framework: 'Vue',
+    version: '1.2.9',
+    license: 'MIT',
+    details: 'http://rafaelescala.com/vue-styleguide/',
+    keywords: ['vue','styleguide','style guide','documentation','docs','generator','component','components']
   }
 
 
