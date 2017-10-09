@@ -6093,6 +6093,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://github.com/Akryum/vue-apollo',
     keywords: ['graphql','vue','apollo']
+  },
+  {
+    id: 275,
+    name: 'Awesome Vue TS',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/HerringtonDarkholme/av-ts/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'HerringtonDarkholme/av-ts',
+    },
+    demo: {
+     repl: 'plunker',
+      id: 'KHhs7KDye3kwUvM8SNyZ'
+  },
+    framework: 'Vue',
+    version: '0.9.0',
+    license: 'MIT',
+    details: 'https://github.com/HerringtonDarkholme/av-ts',
+    keywords: ['vue','av-ts']
   }
 
 
