@@ -6283,6 +6283,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://storybook.js.org',
     keywords: ['vue','storybook']
+  },
+  {
+    id: 284,
+    name: 'DejaVue',
+    install: {
+      packager: 'download',
+      url: 'https://chrome.google.com/webstore/detail/dejavue/jpigngmphmclcmikmcbcfplgnhlnefbp?hl=en'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MiCottOn/DejaVue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'http://dejavue.co'
+  },
+    framework: 'Vue',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/MiCottOn/DejaVue/blob/master/documentation.md',
+    keywords: ['vue','dejavue']
   }
 
 
