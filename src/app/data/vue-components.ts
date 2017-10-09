@@ -5813,6 +5813,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/robinvdvleuten/vuex-persistedstate',
     keywords: ['vuex','vue','plugin']
+  },
+  {
+    id: 262,
+    name: 'vuex-persist',
+    install: {
+      packager: 'npm',
+      url: 'vuex-persist'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'championswimmer/vuex-persist',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://championswimmer.in/vuex-persist/'
+  },
+    framework: 'Vue',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'http://championswimmer.in/vuex-persist/',
+    keywords: ['vuex','vue','persist','localstorage']
   }
   
 
