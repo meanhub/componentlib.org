@@ -6388,6 +6388,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://shershen08.github.io/vue-plugins-demo-static/Keen-UI-demo.html',
     keywords: ['vue','vuejs','generator','library','styleguide','components']
+  },
+  {
+    id: 289,
+    name: 'cheatsheet',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/vuejs-tips/cheatsheet/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs-tips/cheatsheet',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vuejs-tips.github.io/cheatsheet/'
+  },
+    framework: 'Vue',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://vuejs-tips.github.io/cheatsheet/',
+    keywords: ['vue','vuejs','cheatsheet']
   }
 
 
