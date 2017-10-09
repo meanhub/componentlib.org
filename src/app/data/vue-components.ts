@@ -6304,6 +6304,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MiCottOn/DejaVue/blob/master/documentation.md',
     keywords: ['vue','dejavue']
+  },
+  {
+    id: 285,
+    name: 'vuejs-logger',
+    install: {
+      packager: 'npm',
+      url: 'vuejs-logger'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'justinkames/vuejs-logger',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://www.webpackbin.com/bins/-KpB0UbGiG2PeFDmqjwi'
+  },
+    framework: 'Vue',
+    version: '1.1.4',
+    license: 'MIT',
+    details: 'https://github.com/justinkames/vuejs-logger',
+    keywords: ['vue','vuejs-logger']
   }
 
 
