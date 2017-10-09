@@ -6409,6 +6409,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuejs-tips.github.io/cheatsheet/',
     keywords: ['vue','vuejs','cheatsheet']
+  },
+  {
+    id: 290,
+    name: 'vuex-cheatsheet',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/vuejs-tips/vuex-cheatsheet/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs-tips/vuex-cheatsheet/',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vuejs-tips.github.io/vuex-cheatsheet/'
+  },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://vuejs-tips.github.io/vuex-cheatsheet/',
+    keywords: ['vue','vuejs','vuex-cheatsheet']
   }
 
 
