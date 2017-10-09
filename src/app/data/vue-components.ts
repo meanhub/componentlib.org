@@ -6048,6 +6048,30 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/MetinSeylan/Vue-Socket.io',
     keywords: ['vuejs','socket','vue','socket.io','websocket','socket.io-client','realtime','flux','vuex','redux']
+  },
+  {
+    id: 273,
+    name: 'vue-add-to-calendar',
+    install:  [{
+      packager: 'npm',
+      url: 'vue-add-to-calendar'
+    },{
+      packager: 'bower',
+      url: 'vue-add-to-calendar'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'nicolasbeauvais/vue-add-to-calendar',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://nicolasbeauvais.github.io/vue-add-to-calendar/'
+  },
+    framework: 'Vue',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://nicolasbeauvais.github.io/vue-add-to-calendar/',
+    keywords: ['plugin','vue','vuejs','calendar','share','add']
   }
   
 
