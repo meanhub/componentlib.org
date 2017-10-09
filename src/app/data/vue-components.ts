@@ -6027,6 +6027,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://mikeapr4.gitbooks.io/vue-backbone/',
     keywords: ['vue','backbone']
+  },
+  {
+    id: 272,
+    name: 'Vue-Socket.io',
+    install:  {
+      packager: 'npm',
+      url: 'vue-socket.io'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'MetinSeylan/Vue-Socket.io',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://metinseylan.com/vuesocketio/'
+  },
+    framework: 'Vue',
+    version: '2.1.1-a',
+    license: 'MIT',
+    details: 'https://github.com/MetinSeylan/Vue-Socket.io',
+    keywords: ['vuejs','socket','vue','socket.io','websocket','socket.io-client','realtime','flux','vuex','redux']
   }
   
 
