@@ -5919,6 +5919,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://poi.js.org/#/home',
     keywords: ['poi']
+  },
+  {
+    id: 267,
+    name: 'vue-navigation',
+    install: {
+      packager: 'npm',
+      url: 'vue-navigation'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'zack24q/vue-navigation',
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://zack24q.github.io/vue-navigation/examples/#/?VNK=59622f12'
+  },
+    framework: 'Vue',
+    version: '1.1.2',
+    license: 'MIT',
+    details: 'https://github.com/zack24q/vue-navigation',
+    keywords: ['navigation','vue','vue-router']
   }
   
 
