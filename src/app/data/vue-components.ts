@@ -6493,6 +6493,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'ISC',
     details: 'https://jackmellis.gitbooks.io/vuenit/content/',
     keywords: ['vue','vuenit']
+  },
+  {
+    id: 294,
+    name: 'vue-test-utils',
+    install: {
+      packager: 'npm',
+      url: 'vue-test-utils@1.0.0-beta.1'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vue-test-utils',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vue-test-utils.vuejs.org/en/'
+  },
+    framework: 'Vue',
+    version: '1.0.0-beta.1',
+    license: 'MIT',
+    details: 'https://vue-test-utils.vuejs.org/en/',
+    keywords: ['vue','vue-test-utils']
   }
 
 
