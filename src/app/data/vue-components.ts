@@ -6241,6 +6241,27 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://matteogabriele.gitbooks.io/vue-analytics/content/',
     keywords: ['vue','analytics','vue-analytics']
+  },
+  {
+    id: 282,
+    name: 'vuepack',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/NxtChg/vuepack/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'NxtChg/vuepack',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'http://vuepack.org'
+  },
+    framework: 'Vue',
+    version: '',
+    license: 'Unlicense',
+    details: 'http://vuepack.org',
+    keywords: ['vue','vuepack']
   }
 
 
