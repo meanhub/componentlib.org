@@ -5876,6 +5876,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ye-will/vue-factory',
     keywords: ['vuex','vue-factory','vue']
+  },
+  {
+    id: 265,
+    name: 'vue-bem-cn',
+    install: {
+      packager: 'npm',
+      url: 'vue-bem-cn'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'c01nd01r/vue-bem-cn',
+    },
+    demo: {
+      repl: 'codepen',
+      user: 'c01nd01r',
+      id: 'Qdeovv'
+  },
+    framework: 'Vue',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/c01nd01r/vue-bem-cn',
+    keywords: ['vue','vuejs','vue.js','bem','bem-cn','class','classname']
   }
   
 
