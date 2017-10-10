@@ -6536,6 +6536,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/posva/vuexfire',
     keywords: ['vuex','fire','vue','firebase','redux','store','bind','opinionated']
+  },
+  {
+    id: 296,
+    name: 'vuefire',
+    install: {
+      packager: 'npm',
+      url: 'vuefire'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vuefire',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://htmlpreview.github.io/?https://github.com/vuejs/vuefire/blob/master/examples/todo-app/index.html'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '1.4.4',
+    license: 'MIT',
+    details: 'https://github.com/vuejs/vuefire',
+    keywords: ['vue','firebase','realtime','mixin']
   }
 
 
