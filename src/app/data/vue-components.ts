@@ -6514,6 +6514,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vue-test-utils.vuejs.org/en/',
     keywords: ['vue','vue-test-utils']
+  },
+  {
+    id: 295,
+    name: 'vuexfire',
+    install: {
+      packager: 'npm',
+      url: 'vuexfire'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'posva/vuexfire',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://jsfiddle.net/posva/6w3ks04x/show/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '2.3.0',
+    license: 'MIT',
+    details: 'https://github.com/posva/vuexfire',
+    keywords: ['vuex','fire','vue','firebase','redux','store','bind','opinionated']
   }
 
 
