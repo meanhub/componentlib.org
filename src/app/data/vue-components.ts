@@ -6629,6 +6629,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://posva.net/vue-motion/#/home',
     keywords: ['vue-motion','vue','motion']
+  },
+  {
+    id: 300,
+    name: 'vue-table',
+    install: {
+      packager: 'npm',
+      url: 'vuetable'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ratiw/vue-table',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vuetable.ratiw.net/examples/bootstrap.html'
+  },
+    framework: 'Vue',
+    frameworkVersion: '1',
+    version: '1.5.12',
+    license: 'MIT',
+    details: 'https://github.com/ratiw/vue-table',
+    keywords: ['vue','vuejs','table','component','json','pagination']
   }
 
 
