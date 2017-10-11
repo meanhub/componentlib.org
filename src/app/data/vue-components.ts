@@ -6720,6 +6720,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://www.ag-grid.com/best-vuejs-data-grid/#gsc.tab=0',
     keywords: ['grid','data','table','vue','vuejs']
+  },
+  {
+    id: 302,
+    name: 'Vue.js Grid',
+    install: {
+      packager: 'npm',
+      url: 'vue-js-grid'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ag-grid/ag-grid-vue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://euvl.github.io/vue-js-grid/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/euvl/vue-js-grid',
+    keywords: ['grid','vue','vuejs']
   }
 
 
