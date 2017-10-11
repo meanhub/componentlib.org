@@ -6896,6 +6896,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ganl/vue-icon-font',
     keywords: ['vue','icons','iconfont']
+  },
+  {
+    id: 310,
+    name: 'vue-slideout',
+    install: {
+      packager: 'npm',
+      url: 'vue-slideout'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vouill/vue-slideout',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://k3q1zjjml5.codesandbox.io'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'https://github.com/vouill/vue-slideout',
+    keywords: ['vue','slideout','vue-slideout','menu']
   }
 
 
