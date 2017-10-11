@@ -109,6 +109,7 @@ export const VUE_COMPONENTS: any[] = [{
       id: 'woQzpa'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '0.1.0',
   license: 'MIT',
   details: 'https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable',
@@ -131,9 +132,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://xaksis.github.io/vue-good-demos/#/simple-table'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '1.13.0',
   license: 'MIT',
-  details: 'https://github.com/xaksis/vue-good-table',
+  details: 'https://xaksis.github.io/vue-good-demos/#/',
   keywords: ['vue', 'vuejs', 'table', 'datatable']
 },
 {
@@ -153,6 +155,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://dzwillia.github.io/vue-grid/#/interactions'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '0.2.9',
   license: 'MIT',
   details: 'https://github.com/dzwillia/vue-grid',
@@ -175,9 +178,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://doc.huangsw.com/vue-easytable/app.html#/start'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '1.1.4',
   license: 'MIT',
-  details: 'https://github.com/huangshuwei/vue-easytable',
+  details: 'http://doc.huangsw.com/vue-easytable/app.html#/start',
   keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
 },
 {
@@ -197,9 +201,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://onewaytech.github.io/vue2-datatable/examples/dist/'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '2.1.13',
   license: 'MIT',
-  details: 'https://github.com/OneWayTech/vue2-datatable',
+  details: 'https://onewaytech.github.io/vue2-datatable/doc/#/',
   keywords: ['vue', 'vuejs', 'table', 'datatable', 'grid', 'easetable']
 },
 {
@@ -224,9 +229,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://se-panfilov.github.io/vue-notifications/#/'
     },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '0.8.2',
     license: 'MIT',
-    details: 'https://github.com/se-panfilov/vue-notifications',
+    details: 'https://se-panfilov.github.io/vue-notifications/docs/html/index.html',
     keywords: ['vue', 'toastr', 'toast', 'non-blocking', 'notifications', 'notification', 'vuejs', 'vue.js', 'messages', 'errors']
   },
   {
@@ -245,6 +251,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://noru.github.io/vue-easy-toast/example/index.html'
     },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '1.0.2',
     license: 'MIT',
     details: 'https://github.com/noru/vue-easy-toast',
@@ -267,7 +274,8 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://vue-notification.yev.io'
     },
     framework: 'Vue',
-    version: '1.1.0',
+    frameworkVersion: '2',
+    version: '1.3.5',
     license: 'MIT',
     details: 'https://github.com/euvl/vue-notification',
     keywords: ['vue', 'notifications', 'notification', 'vue2js', 'vue2.js', 'vuejs', 'vue.js','messages', 'errors']
@@ -289,6 +297,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://nxtchg.github.io/pieces/vue/vs-notify/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0',
     license: 'The Unlicense',
     details: 'https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify',
@@ -311,6 +320,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://jsfiddle.net/z11fe07p/2248/show'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/cristijora/vue-notifyjs',
@@ -333,6 +343,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://chryb.github.io/vueup/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.5',
     license: 'MIT',
     details: 'https://github.com/chryb/vueup',
@@ -355,6 +366,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://ahmed-dinar.github.io/vuex-flash/#/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/ahmed-dinar/vuex-flash',
@@ -377,9 +389,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://artemsky.github.io/vue-snotify/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.0.1',
     license: 'MIT',
-    details: 'https://github.com/artemsky/vue-snotify',
+    details: 'https://artemsky.github.io/vue-snotify/documentation/index.html',
     keywords: ['vue', 'vuejs', 'vuejs 2', 'vue 2',  'library', 'notifications', 'notification', 'toast', 'toasts', 'toaster', 'promt', 'async', 'confirmation', 'notify', 'notie', 'notification-center', 'snotify', 'vue-snotify', 'vue2-snotify', 'vuejs notifications', 'vue notifications', 'vue toater']
   },
   {
@@ -399,6 +412,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://wyzant-dev.github.io/vue-radial-progress/'
     },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '0.2.10',
     license: 'MIT',
     details: 'https://github.com/wyzant-dev/vue-radial-progress',
@@ -421,6 +435,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://dzwillia.github.io/vue-simple-spinner/examples/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.2.8',
     license: 'MIT',
     details: 'https://github.com/dzwillia/vue-simple-spinner',
@@ -443,6 +458,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://f.github.io/vuex-loading/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.1.14',
     license: 'MIT',
     details: 'https://github.com/f/vuex-loading',
@@ -470,6 +486,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://sergeyloysha.github.io/vue-spinner-component/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.2',
     license: 'MIT',
     details: 'https://github.com/sergeyloysha/vue-spinner-component',
@@ -492,9 +509,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://hilongjw.github.io/vue-progressbar/index.html'
     },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '0.7.3',
     license: 'MIT',
-    details: 'https://github.com/hilongjw/vue-progressbar',
+    details: 'http://hilongjw.github.io/vue-progressbar/',
     keywords: ['vue', 'vue-progressbar', 'vue loading progress', 'vue progressbar', 'progressbar']
   },
   {
@@ -517,6 +535,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://bosnaufal.github.io/vue2-loading-bar/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/BosNaufal/vue2-loading-bar',
@@ -538,6 +557,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://dalphyx.github.io/vue-top-progress/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.6.0',
     license: 'MIT',
     details: 'https://github.com/dalphyx/vue-top-progress',
@@ -560,6 +580,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://tympanus.net/Development/ProgressButtonStyles/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.0',
     license: 'MIT',
     details: 'https://github.com/websmurf/vue-progress-button',
@@ -582,6 +603,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://akryum.github.io/v-tooltip/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.0.0-beta.12',
     license: 'ISC',
     details: 'https://github.com/Akryum/v-tooltip',
@@ -604,6 +626,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://antongorodezkiy.github.io/vue-popper-component/'
     },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '0.1.0',
     license: 'MIT',
     details: 'https://github.com/antongorodezkiy/vue-popper-component',
@@ -626,9 +649,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://hekigan.github.io/vue-directive-tooltip/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.4.0',
     license: 'MIT',
-    details: 'https://github.com/hekigan/vue-directive-tooltip',
+    details: 'https://hekigan.github.io/vue-directive-tooltip/',
     keywords: ['vue','vuejs', 'tooltip', 'component','directive-tooltip']
   },
   {
@@ -651,9 +675,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://jsfiddle.net/Robin_ck/1espngy1/show'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.6',
     license: 'MIT',
-    details: 'https://github.com/RobinCK/vue-popper',
+    details: 'https://robinck.github.io/vue-popper/',
     keywords: ['vue','vuejs', 'vue-popper.js', 'vue-popover','vuejs-popper.js','vuejs-popover','vue-plugin','vue-component']
   },
   {
@@ -673,6 +698,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://jsfiddle.net/ackqudv7/19/show'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.6.2',
     license: 'MIT',
     details: 'https://github.com/javisperez/vuedals',
@@ -695,9 +721,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://sweet-modal-vue.adepto.as'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.2.0',
     license: 'GPL-2.0',
-    details: 'https://github.com/adeptoas/sweet-modal-vue',
+    details: 'http://sweet-modal-vue.adepto.as',
     keywords: ['vue','vuejs', 'sweetmodal', 'modal', 'library']
   },
   {
@@ -717,7 +744,8 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://vue-js-modal.yev.io'
     },
     framework: 'Vue',
-    version: '1.2.12',
+    frameworkVersion: '2',
+    version: '1.3.1',
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-modal',
     keywords: ['vue','vuejs', 'vue-js-modal', 'modal']
@@ -739,6 +767,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://pexea12.github.io/vue-image-lightbox/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '5.5.3',
     license: 'MIT',
     details: 'https://github.com/pexea12/vue-image-lightbox',
@@ -764,9 +793,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://mazipan.github.io/vue2-simplert/'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.5.5',
     license: 'MIT',
-    details: 'https://github.com/mazipan/vue2-simplert',
+    details: 'https://github.com/mazipan/vue2-simplert/wiki',
     keywords: ['vue2 alert','vue2 sweet alert','vue2 popup','vue alert','vue sweet alert','vue popup']
   },
   {
@@ -808,7 +838,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://emiliorizzo.github.io/vue-dialog-drag/'
     },
     framework: 'Vue',
-    version: '0.1.18',
+    version: '0.1.27',
     license: 'MIT',
     details: 'https://github.com/emiliorizzo/vue-dialog-drag',
     keywords: ['vue', 'drag-and-drop', 'modal', 'custom', 'dialog','modal-dialog']
@@ -830,6 +860,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'http://vue-ya-semantic.netlify.com/#/modal'
     },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.0.3',
     license: 'MIT',
     details: 'https://github.com/qgp9/vue-ya-semantic-modal',
@@ -853,6 +884,7 @@ export const VUE_COMPONENTS: any[] = [{
       id: 'rzOErW'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.1.4',
     license: 'MIT',
     details: 'https://github.com/DCzajkowski/vue-pure-lightbox',
@@ -875,6 +907,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'http://mirari.cc/v-viewer/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/mirari/v-viewer',
@@ -897,6 +930,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://zhangxiang958.github.io/vue-messageBox/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/zhangxiang958/vue-messageBox',
@@ -919,6 +953,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://godofbrowser.github.io/vuejs-dialog/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.3.4',
     license: 'MIT',
     details: 'https://github.com/Godofbrowser/vuejs-dialog',
@@ -941,6 +976,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://michitaro.github.io/vue-window/?Sample5'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.1',
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-window',
@@ -963,6 +999,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://fiddle.jshell.net/Robin_ck/LffrLb2k/show/light/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.5',
     license: 'MIT',
     details: 'https://github.com/RobinCK/vue-gallery',
@@ -988,6 +1025,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://vue-comps.github.io/vue-parallax/#/basic'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.1.3',
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-parallax',
@@ -1010,6 +1048,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://apertureless.github.io/vue-parallax/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.3',
     license: 'MIT',
     details: 'https://github.com/apertureless/vue-parallax',
@@ -1038,6 +1077,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://justineo.github.io/vue-awesome/demo/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.3.3',
     license: 'MIT',
     details: 'https://github.com/Justineo/vue-awesome',
@@ -1060,6 +1100,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://vue-comps.github.io/vue-side-nav/#/basic'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.0.0',
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-side-nav',
@@ -1104,6 +1145,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'http://vue-js-dropdown.yev.io'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.4',
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-popover',
@@ -1126,9 +1168,10 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://ashleylv.github.io/vue-quick-menu/index.html'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.6',
     license: 'MIT',
-    details: 'https://github.com/AshleyLv/vue-quick-menu',
+    details: 'https://ashleylv.github.io/vue-quick-menu/index.html',
     keywords: ['vue', 'menu', 'style', 'vue.js', 'button']
   },
   {
@@ -1148,6 +1191,7 @@ export const VUE_COMPONENTS: any[] = [{
       src:  'https://michitaro.github.io/vue-menu/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.0',
     license: 'MIT',
     details: 'https://github.com/michitaro/vue-menu',
@@ -6679,6 +6723,6 @@ export const VUE_COMPONENTS: any[] = [{
   }
 
 
-  
+
 
 ];
