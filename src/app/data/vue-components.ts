@@ -6874,6 +6874,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/hjkcai/vue-modal-dialogs',
     keywords: ['vue','modal','dialogs','dialog','promise']
+  },
+  {
+    id: 309,
+    name: 'vue-icon-font',
+    install: {
+      packager: 'npm',
+      url: 'vue-icon-font'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ganl/vue-icon-font',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://ganl.github.io/vue-icon-font/demo/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://github.com/ganl/vue-icon-font',
+    keywords: ['vue','icons','iconfont']
   }
 
 
