@@ -6852,6 +6852,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/anteriovieira/vue-swal#vueswal',
     keywords: ['vue','modal','vue-swal','dialog']
+  },
+  {
+    id: 308,
+    name: 'vue-modal-dialogs',
+    install: {
+      packager: 'npm',
+      url: 'vue-modal-dialogs'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'hjkcai/vue-modal-dialogs',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://hjkcai.github.io/vue-modal-dialogs/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'https://github.com/hjkcai/vue-modal-dialogs',
+    keywords: ['vue','modal','dialogs','dialog','promise']
   }
 
 
