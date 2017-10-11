@@ -39,6 +39,7 @@ export const VUE_COMPONENTS: any[] = [{
       id: 'GmJayw'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '1.6.6',
   license: 'MIT',
   details: 'https://github.com/ratiw/vuetable-2',
@@ -61,6 +62,7 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://jsfiddle.net/matfish2/823jzuzc/show/'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '0.6.73',
   license: 'MIT',
   details: 'https://github.com/matfish2/vue-tables-2',
@@ -83,9 +85,10 @@ export const VUE_COMPONENTS: any[] = [{
       src: 'https://njleonzhang.github.io/vue-data-tables/#/'
   },
   framework: 'Vue',
+  frameworkVersion: '2',
   version: '2.1.0',
   license: 'MIT',
-  details: 'https://github.com/njleonzhang/vue-data-tables',
+  details: 'https://njleonzhang.github.io/vue-data-tables/#/?id=vue-data-tables',
   keywords: ['vue-data-tables', 'data', 'grid', 'data-tables', 'vue', 'vue2', 'pagination']
 },
 {
@@ -2716,9 +2719,10 @@ export const VUE_COMPONENTS: any[] = [{
     },
     demo: {
       repl: 'custom',
-      src:  'http://monterail.github.io/vue-multiselect/#sub-multiple-select'
+      src:  'https://monterail.github.io/vue-multiselect/'
   },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '2.0.2',
     license: 'MIT',
     details: 'http://monterail.github.io/vue-multiselect/#sub-getting-started',
@@ -6086,9 +6090,10 @@ export const VUE_COMPONENTS: any[] = [{
     },
     demo: {
       repl: 'custom',
-      src: 'http://slides.com/akryum/graphql#/'
+      src: 'https://jsfiddle.net/Akryum/oyejk2qL/show/'
   },
     framework: 'Vue',
+    frameworkVersion: ['1','2'],
     version: '2.1.0-rc.5',
     license: 'ISC',
     details: 'https://github.com/Akryum/vue-apollo',
@@ -6560,5 +6565,7 @@ export const VUE_COMPONENTS: any[] = [{
     keywords: ['vue','firebase','realtime','mixin']
   }
 
+
+  
 
 ];
