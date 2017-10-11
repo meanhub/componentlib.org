@@ -6786,6 +6786,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/Akryum/vue-progress-path',
     keywords: ['vue','progress','path','vue-progress-path']
+  },
+  {
+    id: 305,
+    name: 'vue-simple-progress',
+    install: {
+      packager: 'npm',
+      url: 'vue-simple-progress'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'dzwillia/vue-simple-progress/',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://dzwillia.github.io/vue-simple-progress/examples/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/dzwillia/vue-simple-progress/',
+    keywords: ['vue','vuejs','ui','components','progress','progressbar']
   }
 
 
