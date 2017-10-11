@@ -6651,6 +6651,31 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/ratiw/vue-table',
     keywords: ['vue','vuejs','table','component','json','pagination']
+  },
+  {
+    id: 301,
+    name: 'ag-Grid Vue',
+    install: [{
+      packager: 'npm',
+      url: 'ag-grid-vue'
+    },{
+      packager: 'bower',
+      url: 'ag-grid-vue'
+    }], 
+    source: {
+      domain: 'github',
+      url: 'ag-grid/ag-grid-vue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://www.ag-grid.com/framework-examples/vue-examples/#/'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '13.3.0',
+    license: 'MIT',
+    details: 'https://www.ag-grid.com/best-vuejs-data-grid/#gsc.tab=0',
+    keywords: ['grid','data','table','vue','vuejs']
   }
 
 
