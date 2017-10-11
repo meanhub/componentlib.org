@@ -6607,6 +6607,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://vuejs.org/v2/guide/',
     keywords: ['vue']
+  },
+  {
+    id: 299,
+    name: 'vue-motion',
+    install: {
+      packager: 'npm',
+      url: 'vue-motion'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://posva.net/vue-motion/#/'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://posva.net/vue-motion/#/home',
+    keywords: ['vue-motion','vue','motion']
   }
 
 
