@@ -6563,6 +6563,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vuejs/vuefire',
     keywords: ['vue','firebase','realtime','mixin']
+  },
+  {
+    id: 297,
+    name: 'vue V1',
+    install: {
+      packager: 'npm',
+      url: 'vue'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://v1.vuejs.org/examples/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '1',
+    version: '2.4.4',
+    license: 'MIT',
+    details: 'https://v1.vuejs.org/guide/',
+    keywords: ['vue']
   }
 
 
