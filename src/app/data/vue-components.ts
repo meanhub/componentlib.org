@@ -6830,6 +6830,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/chenjiahan/vodal',
     keywords: ['vue','modal','animation','dialog']
+  },
+  {
+    id: 307,
+    name: 'VueSwal',
+    install: {
+      packager: 'npm',
+      url: 'vue-swal'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'anteriovieira/vue-swal',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/show/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '0.0.4',
+    license: 'MIT',
+    details: 'https://github.com/anteriovieira/vue-swal#vueswal',
+    keywords: ['vue','modal','vue-swal','dialog']
   }
 
 
