@@ -6808,6 +6808,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/dzwillia/vue-simple-progress/',
     keywords: ['vue','vuejs','ui','components','progress','progressbar']
+  },
+  {
+    id: 306,
+    name: 'vodal',
+    install: {
+      packager: 'npm',
+      url: 'vodal'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'chenjiahan/vodal',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://chenjiahan.github.io/vodal/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '2.3.2',
+    license: 'MIT',
+    details: 'https://github.com/chenjiahan/vodal',
+    keywords: ['vue','modal','animation','dialog']
   }
 
 
