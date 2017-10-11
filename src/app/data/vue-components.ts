@@ -6764,6 +6764,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/PygmySlowLoris/vue-notify-me',
     keywords: ['vue','notify','notification','notify me','alert']
+  },
+  {
+    id: 304,
+    name: 'vue-progress-path',
+    install: {
+      packager: 'npm',
+      url: 'vue-progress-path'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'Akryum/vue-progress-path',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://akryum.github.io/vue-progress-path/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'https://github.com/Akryum/vue-progress-path',
+    keywords: ['vue','progress','path','vue-progress-path']
   }
 
 
