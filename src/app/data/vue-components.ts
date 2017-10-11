@@ -6742,6 +6742,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/euvl/vue-js-grid',
     keywords: ['grid','vue','vuejs']
+  },
+  {
+    id: 303,
+    name: 'vue-notify-me',
+    install: {
+      packager: 'npm',
+      url: 'vue-notify-me'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'PygmySlowLoris/vue-notify-me',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://pygmyslowloris.github.io/vue-notify-me/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.0.6',
+    license: 'MIT',
+    details: 'https://github.com/PygmySlowLoris/vue-notify-me',
+    keywords: ['vue','notify','notification','notify me','alert']
   }
 
 
