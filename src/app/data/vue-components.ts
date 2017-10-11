@@ -6585,6 +6585,28 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://v1.vuejs.org/guide/',
     keywords: ['vue']
+  },
+  {
+    id: 298,
+    name: 'vue V2',
+    install: {
+      packager: 'npm',
+      url: 'vue'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vuejs/vue',
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://vuejs.org/v2/examples/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '2.4.4',
+    license: 'MIT',
+    details: 'https://vuejs.org/v2/guide/',
+    keywords: ['vue']
   }
 
 
