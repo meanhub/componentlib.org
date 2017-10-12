@@ -7009,6 +7009,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://chenz24.github.io/vue-blu/#/en',
     keywords: ['vue','vue component','vue-blu','blu']
+  },
+  {
+    id: 314,
+    name: 'vue-paper-dashboard',
+    install: {
+      packager: 'download',
+      url: 'https://github.com/cristijora/vue-paper-dashboard/archive/master.zip'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'cristijora/vue-paper-dashboard',
+      stars: 748
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://cristijora.github.io/vue-paper-dashboard/#/admin/overview'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://cristijora.github.io/vue-paper-dashboard-docs/#/',
+    keywords: ['vue','vue-paper-dashboard','paper-dashboard','dashboard']
   }
 
 
