@@ -6940,6 +6940,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vouill/vue-slideout',
     keywords: ['vue','slideout','vue-slideout','menu']
+  },
+  {
+    id: 311,
+    name: 'vue2-admin-lte',
+    install: {
+      packager: 'npm',
+      url: 'vue2-admin-lte'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'devjin0617/vue2-admin-lte',
+      stars: 315
+    },
+    demo: {
+     repl: 'custom',
+      src: 'https://devjin0617.github.io/vue2-admin-lte/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '0.4.2',
+    license: 'MIT',
+    details: 'https://github.com/devjin0617/vue2-admin-lte',
+    keywords: ['admin-lte','vue2-admin-lte','vue-admin-lte','vuejs','vue.js','jquery','bootstrap','vue-jquery','vue-bootstrap','front-end']
   }
 
 
