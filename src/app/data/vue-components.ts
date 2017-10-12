@@ -5066,6 +5066,7 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'heavyy/vue-intersect',
+      stars: 50
     },
     demo: {
       repl: 'custom',
@@ -5087,6 +5088,7 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'AlexandreBonaventure/vue-scrollmonitor',
+      stars: 6
     },
     demo: {
       repl: 'custom',
@@ -5108,12 +5110,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'jeneser/vue-scroll-behavior',
+      stars: 44
     },
     demo: {
       repl: 'custom',
       src: 'https://jeneser.github.io/vue-scroll-behavior/#/movie'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.1.6',
     license: 'MIT',
     details: 'https://github.com/jeneser/vue-scroll-behavior',
@@ -5129,12 +5133,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'vuejs/vue-router',
+      stars: 7268
     },
     demo: {
       repl: 'custom',
       src: 'http://jsfiddle.net/yyx990803/L7hscd8h/show/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.7.0',
     license: 'MIT',
     details: 'https://router.vuejs.org',
@@ -5150,12 +5156,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'hilongjw/vue-lazyload',
+      stars: 1903
     },
     demo: {
       repl: 'custom',
       src: 'http://hilongjw.github.io/vue-lazyload/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.1.3',
     license: 'MIT',
     details: 'https://github.com/hilongjw/vue-lazyload',
@@ -5163,7 +5171,7 @@ export const VUE_COMPONENTS: any[] = [{
   },
   {
     id: 229,
-    name: 'vue-lazyload-img',
+    name: 'vue-lazyload-img (Vue V2.x)',
     install: {
       packager: 'npm',
       url: 'vue-lazyload-img'
@@ -5171,12 +5179,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'JALBAA/vue-lazyload-img',
+      stars: 175
     },
     demo: {
       repl: 'custom',
       src: 'http://docs.gomeminus.com/vue-lazyload-img/test/bundle.html'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '2.0.3',
     license: 'MIT',
     details: 'https://github.com/JALBAA/vue-lazyload-img',
@@ -5192,12 +5202,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'matheusgrieger/vue-clazy-load',
+      stars:23
     },
     demo: {
       repl: 'custom',
       src: 'https://matheusgrieger.github.io/vue-clazy-load/example/index.html'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/matheusgrieger/vue-clazy-load',
@@ -5213,12 +5225,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'TahaSh/vue-paginate',
+      stars: 319
     },
     demo: {
       repl: 'custom',
       src: 'https://jsfiddle.net/taha_sh/hmapx482/show/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '3.5.1',
     license: 'MIT',
     details: 'https://github.com/TahaSh/vue-paginate',
@@ -5234,12 +5248,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'sant123/vuejs-uib-pagination',
+      stars: 30
     },
     demo: {
       repl: 'plunker',
       id: 'hcfYWCTaQ7GnlO7AitGM'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.3',
     license: 'MIT',
     details: 'https://github.com/sant123/vuejs-uib-pagination',
@@ -5255,12 +5271,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'lokyoung/vuejs-paginate',
+      stars: 159
     },
     demo: {
       repl: 'custom',
       src: 'https://jsfiddle.net/lokyoung/u3u3nzns/show/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.3.0',
     license: 'MIT',
     details: 'https://github.com/lokyoung/vuejs-paginate',
@@ -5276,12 +5294,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'vinayakkulkarni/laravel-vue-semantic-ui-pagination',
+      stars: 5
     },
     demo: {
       repl: 'custom',
       src: 'https://www.webpackbin.com/bins/-KvgUPDeZsUyfDjnK9-Z'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.3',
     license: 'MIT',
     details: 'https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination',
@@ -5297,12 +5317,14 @@ export const VUE_COMPONENTS: any[] = [{
     source: {
       domain: 'github',
       url: 'asika32764/vue2-animate',
+      stars: 319
     },
     demo: {
       repl: 'custom',
       src: 'http://about.asika.tw/vue2-animate/'
   },
     framework: 'Vue',
+    frameworkVersion: '2',
     version: '1.0.5',
     license: 'MIT',
     details: 'https://github.com/asika32764/vue2-animate',
