@@ -61,5 +61,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/',
 		keywords:['ember-addon','bootstrap']
+	},{
+		id:3,
+		name:'ui-icon',
+		install:{
+			packager:'npm',
+			url:'ui-icon'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-icon',
+			stars: 11
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-icon.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.11.12',
+		license:'MIT',
+		details:'https://ui-icon.firebaseapp.com',
+		keywords:['ember-addon','ui','icon','fontawesome']
 	}
 ];
