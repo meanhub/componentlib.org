@@ -6963,6 +6963,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/devjin0617/vue2-admin-lte',
     keywords: ['admin-lte','vue2-admin-lte','vue-admin-lte','vuejs','vue.js','jquery','bootstrap','vue-jquery','vue-bootstrap','front-end']
+  },
+  {
+    id: 312,
+    name: 'vue-lazyload-img (Vue V1.x)',
+    install: {
+      packager: 'npm',
+      url: 'vue-lazyload-img@1'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'JALBAA/vue-lazyload-img',
+      stars: 175
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://docs.gomeminus.com/vue-lazyload-img/test/bundle.html'
+  },
+    framework: 'Vue',
+    frameworkVersion: '1',
+    version: '2.0.3',
+    license: 'MIT',
+    details: 'https://github.com/JALBAA/vue-lazyload-img',
+    keywords: ['vue', 'lazyload']
   }
 
 
