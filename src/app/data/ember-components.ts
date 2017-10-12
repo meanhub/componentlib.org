@@ -40,5 +40,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-bootstrap-4.firebaseapp.com',
 		keywords:['ember-addon']
+	},{
+		id:2,
+		name:'ember-bootstrap',
+		install:{
+			packager:'npm',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 309
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.3',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/',
+		keywords:['ember-addon','bootstrap']
 	}
 ];
