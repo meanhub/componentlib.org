@@ -6986,6 +6986,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/JALBAA/vue-lazyload-img',
     keywords: ['vue', 'lazyload']
+  },
+  {
+    id: 313,
+    name: 'vue-blu',
+    install: {
+      packager: 'npm',
+      url: 'vue-blu'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'chenz24/vue-blu',
+      stars: 1080
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chenz24.github.io/vue-blu/#/en'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '0.1.9',
+    license: 'MIT',
+    details: 'https://chenz24.github.io/vue-blu/#/en',
+    keywords: ['vue','vue component','vue-blu','blu']
   }
 
 
