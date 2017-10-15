@@ -169,5 +169,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/yapplabs/ember-wormhole',
 		keywords:['ember-addon','ember-wormhole','switch','rendering']
+	},{
+		id:8,
+		name:'ember-page-title',
+		install: {
+			packager:'ember',
+			url:'ember-page-title'
+		},
+		source:{
+			domain:'github',
+			url:'tim-evans/ember-page-title',
+			stars: 139
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tim-evans.github.io/ember-page-title/#playground'
+		},
+		framework:'Ember',
+		version:'3.2.2',
+		license:'MIT',
+		details:'http://tim-evans.github.io/ember-page-title/',
+		keywords:['ember-addon','page-title','title','separator']
 	}
 ];
