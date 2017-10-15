@@ -188,5 +188,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/lavinjj/angularjs-gravatardirective',
     keywords: ['avatar', 'image','tag']
+  },
+  {
+    id: 9,
+    name: 'angular-slider',
+    install: {
+      packager: 'npm',
+      url: 'angular-slider'
+    },
+    source: {
+      domain: 'github',
+      url: 'Venturocket/angular-slider'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://venturocket.github.io/angular-slider/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.2',
+    license: 'MIT',
+    details: 'https://venturocket.github.io/angular-slider/',
+    keywords: ['slider']
   }
 ];
