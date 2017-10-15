@@ -146,5 +146,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://textangular.com/',
     keywords: ['text', 'editor','angular']
+  },
+  {
+    id: 7,
+    name: 'angular-busy ',
+    install: {
+      packager: 'npm',
+      url: 'angular-busy '
+    },
+    source: {
+      domain: 'github',
+      url: 'cgross/angular-busy'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://cgross.github.io/angular-busy/demo/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.1.1',
+    license: 'MIT',
+    details: 'http://cgross.github.io/angular-busy/demo/',
+    keywords: ['busy', 'loading','indicator']
+  },
+  {
+    id: 8,
+    name: 'angularjs-gravatardirective',
+    install: {
+      packager: 'npm',
+      url: 'angularjs-gravatardirective'
+    },
+    source: {
+      domain: 'github',
+      url: 'lavinjj/angularjs-gravatardirective'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://codingsmackdown.tv/blog/2012/12/14/creating-a-simple-angularjs-directive/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.2',
+    license: 'MIT',
+    details: 'https://github.com/lavinjj/angularjs-gravatardirective',
+    keywords: ['avatar', 'image','tag']
   }
 ];
