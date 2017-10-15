@@ -337,5 +337,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/jgwhite/ember-sortable',
 		keywords:['ember-addon','sortable','scrollable','sort']
+	},{
+		id:16,
+		name:'ember-steps',
+		install: {
+			packager:'ember',
+			url:'ember-steps'
+		},
+		source:{
+			domain:'github',
+			url:'alexlafroscia/ember-steps',
+			stars: 23
+		},
+		demo:{
+			repl:'custom',
+			src:'http://alexlafroscia.com/ember-steps/'
+		},
+		framework:'Ember',
+		version:'2.2.1',
+		license:'MIT',
+		details:'http://alexlafroscia.com/ember-steps/',
+		keywords:['steps','ember-steps','named-steps','step-links']
 	}
 ];
