@@ -106,5 +106,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-image.firebaseapp.com',
 		keywords:['ember-addon','ui-image','image wrapper','mask','clip']
+	},{
+		id:5,
+		name:'ui-input',
+		install: {
+			packager:'ember',
+			url:'ui-input'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-input',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-input.firebaseapp.com/demo-other-inputs'
+		},
+		framework:'Ember',
+		version:'0.15.1',
+		license:'MIT',
+		details:'https://ui-input.firebaseapp.com',
+		keywords:['ember-addon','ui-input','text-input','number-input','other-inputs']
 	}
 ];
