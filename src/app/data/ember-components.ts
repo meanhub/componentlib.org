@@ -148,5 +148,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/yapplabs/ember-tether',
 		keywords:['ember-addon','tether','switch','target-attachment']
+	},{
+		id:7,
+		name:'ember-wormhole',
+		install: {
+			packager:'ember',
+			url:'ember-wormhole'
+		},
+		source:{
+			domain:'github',
+			url:'yapplabs/ember-wormhole',
+			stars: 246
+		},
+		demo:{
+			repl:'custom',
+			src:'http://yapplabs.github.io/ember-wormhole/'
+		},
+		framework:'Ember',
+		version:'0.5.2',
+		license:'MIT',
+		details:'https://github.com/yapplabs/ember-wormhole',
+		keywords:['ember-addon','ember-wormhole','switch','rendering']
 	}
 ];
