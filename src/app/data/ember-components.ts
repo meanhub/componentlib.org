@@ -442,5 +442,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://crodriguez1a.github.io/ember-themed-syntax/',
 		keywords:['ember-addon','syntax highlighting','highlightjs']
+	},{
+		id:21,
+		name:'ember-cli-gisty',
+		install: {
+			packager:'ember',
+			url:'ember-cli-gisty'
+		},
+		source:{
+			domain:'github',
+			url:'shak/ember-cli-gisty',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://shak.github.io/ember-cli-gisty/#/examples/simple'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://shak.github.io/ember-cli-gisty/#/examples/simple',
+		keywords:['ember-addon','gisty','github','gist','ember-cli']
 	}
 ];
