@@ -7032,6 +7032,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://cristijora.github.io/vue-paper-dashboard-docs/#/',
     keywords: ['vue','vue-paper-dashboard','paper-dashboard','dashboard']
+  },
+  {
+    id: 315,
+    name: 'vc-progress',
+    install: {
+      packager: 'npm',
+      url: 'vc-progress'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'iwaimai-bi-fe/vc-progress',
+      stars: 1
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://iwaimai-bi-fe.github.io/vc-progress/examples/'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/iwaimai-bi-fe/vc-progress',
+    keywords: ['progress','component','vue','bootstrap']
   }
 
 
