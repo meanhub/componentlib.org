@@ -125,5 +125,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://sroze.github.io/ngInfiniteScroll/',
     keywords: ['scroll', 'repeat','infinite']
+  },
+  {
+    id: 6,
+    name: 'textAngular',
+    install: {
+      packager: 'npm',
+      url: 'textAngular'
+    },
+    source: {
+      domain: 'github',
+      url: 'textAngular/textAngular'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://textangular.com/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.16',
+    license: 'MIT',
+    details: 'http://textangular.com/',
+    keywords: ['text', 'editor','angular']
   }
 ];
