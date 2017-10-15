@@ -358,5 +358,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://alexlafroscia.com/ember-steps/',
 		keywords:['steps','ember-steps','named-steps','step-links']
+	},{
+		id:17,
+		name:'ember-frost-sort',
+		install: {
+			packager:'ember',
+			url:'ember-frost-sort'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-sort',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-sort/'
+		},
+		framework:'Ember',
+		version:'7.2.9',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-sort/',
+		keywords:['ember-addon','frost','sort']
 	}
 ];
