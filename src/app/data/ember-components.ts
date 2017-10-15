@@ -400,5 +400,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ramybenaroya/ember-cli-lightbox',
 		keywords:['ember-addon','lightbox','image']
+	},{
+		id:19,
+		name:'ember-frost-object-browser',
+		install: {
+			packager:'ember',
+			url:'ember-frost-object-browser'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-object-browser',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-object-browser/#/client'
+		},
+		framework:'Ember',
+		version:'17.1.3',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-object-browser/#/',
+		keywords:['ember-addon','frost','sort','client','server','object-browser','object']
 	}
 ];
