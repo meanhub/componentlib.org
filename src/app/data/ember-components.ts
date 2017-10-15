@@ -211,5 +211,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-bunsen/#/tutorial/introduction',
 		keywords:['ember-addon','frost','forms','data','dynamic','json','schema']
+	},{
+		id:10,
+		name:'ember-block-slots',
+		install: {
+			packager:'ember',
+			url:'ember-block-slots'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-blueplanet/ember-block-slots',
+			stars: 54
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-blueplanet.github.io/ember-block-slots/'
+		},
+		framework:'Ember',
+		version:'1.1.11',
+		license:'MIT',
+		details:'https://github.com/ciena-blueplanet/ember-block-slots',
+		keywords:['ember-addon','named yields','slots','ember','addon','component']
 	}
 ];
