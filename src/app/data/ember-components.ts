@@ -274,5 +274,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/salsify/ember-exclaim',
 		keywords:['ember-addon','ember-exclaim']
+	},{
+		id:13,
+		name:'ember-cli-clipboard',
+		install: {
+			packager:'ember',
+			url:'ember-cli-clipboard'
+		},
+		source:{
+			domain:'github',
+			url:'jkusa/ember-cli-clipboard',
+			stars: 40
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jkusa.github.io/ember-cli-clipboard/'
+		},
+		framework:'Ember',
+		version:'0.8.0',
+		license:'MIT',
+		details:'https://github.com/jkusa/ember-cli-clipboard',
+		keywords:['ember-addon','ember-cli','clipboard']
 	}
 ];
