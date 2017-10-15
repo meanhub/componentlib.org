@@ -316,5 +316,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://swastik.github.io/ember-inline-edit/',
 		keywords:['ember-addon','ember','inline edit','ember.js','inline editing']
+	},{
+		id:15,
+		name:'ember-sortable',
+		install: {
+			packager:'ember',
+			url:'ember-sortable'
+		},
+		source:{
+			domain:'github',
+			url:'jgwhite/ember-sortable',
+			stars: 213
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jgwhite.co.uk/ember-sortable/demo/'
+		},
+		framework:'Ember',
+		version:'1.9.1',
+		license:'MIT',
+		details:'https://github.com/jgwhite/ember-sortable',
+		keywords:['ember-addon','sortable','scrollable','sort']
 	}
 ];
