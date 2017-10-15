@@ -37,9 +37,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src: 'http://johannesjo.github.io/angular-promise-buttons/#!#demo'
     },
     framework: 'AngularJS 1.x',
-    version: '1.0.1',
+    version: '0.1.21',
     license: 'MIT',
     details: 'http://johannesjo.github.io/angular-promise-buttons/',
     keywords: ['button', 'submit', 'promise']
+  },
+  {
+    id: 2,
+    name: 'ng-tasty',
+    install: {
+      packager: 'npm',
+      url: 'zizzamia/ng-tasty'
+    },
+    source: {
+      domain: 'github',
+      url: 'johannesjo/angular-promise-buttons'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'AWA0HE'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.1',
+    license: 'MIT',
+    details: 'https://github.com/Zizzamia/ng-tasty',
+    keywords: ['ui', 'design']
   }
 ];
