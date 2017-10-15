@@ -505,5 +505,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/IvyApp/ivy-codemirror',
 		keywords:['ember-addon','codemirror']
+	},{
+		id:24,
+		name:'perfect-scrollbar',
+		install: [{
+			packager:'npm',
+			url:'perfect-scrollbar'
+		},{
+			packager:'download',
+			url:'https://github.com/utatti/perfect-scrollbar/archive/1.0.3.zip'
+		}],
+		source:{
+			domain:'github',
+			url:'utatti/perfect-scrollbar',
+			stars: 5155
+		},
+		demo:{
+			repl:'custom',
+			src:'http://utatti.github.io/perfect-scrollbar/'
+		},
+		framework:'Ember',
+		version:'1.0.3',
+		license:'MIT',
+		details:'https://github.com/utatti/perfect-scrollbar',
+		keywords:['frontend','scroll','scrollbar']
 	}
 ];
