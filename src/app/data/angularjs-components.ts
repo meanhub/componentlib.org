@@ -83,5 +83,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://tombatossals.github.io/angular-leaflet-directive',
     keywords: ['leaflet', 'directive']
+  },
+  {
+    id: 4,
+    name: 'angular-social',
+    install: {
+      packager: 'npm',
+      url: 'angular-social'
+    },
+    source: {
+      domain: 'github',
+      url: 'esvit/angular-social'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ww31.bazalt-cms.com/ng-table/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.2',
+    license: 'MIT',
+    details: 'https://github.com/esvit/angular-social',
+    keywords: ['social', 'buttons']
   }
 ];
