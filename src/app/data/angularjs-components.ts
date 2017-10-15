@@ -47,11 +47,11 @@ export const ANGULARJS_COMPONENTS: any[] = [
     name: 'ng-tasty',
     install: {
       packager: 'npm',
-      url: 'zizzamia/ng-tasty'
+      url: 'ng-tasty'
     },
     source: {
       domain: 'github',
-      url: 'johannesjo/angular-promise-buttons'
+      url: 'zizzamia/ng-tasty'
     },
     demo: {
       repl: 'plunker',
@@ -62,5 +62,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Zizzamia/ng-tasty',
     keywords: ['ui', 'design']
+  },
+  {
+    id: 3,
+    name: 'angular-leaflet-directive',
+    install: {
+      packager: 'npm',
+      url: 'angular-leaflet-directive'
+    },
+    source: {
+      domain: 'github',
+      url: 'tombatossals/angular-leaflet-directive'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://tombatossals.github.io/angular-leaflet-directive/#!/examples/simple-map'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.10.0',
+    license: 'MIT',
+    details: 'http://tombatossals.github.io/angular-leaflet-directive',
+    keywords: ['leaflet', 'directive']
   }
 ];
