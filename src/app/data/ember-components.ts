@@ -23,7 +23,7 @@ export const EMBER_COMPONENTS: any[] = [
 		id:1,
 		name:'ui-bootstrap',
 		install:{
-			packager:'npm',
+			packager:'ember',
 			url:'ui-bootstrap'
 		},
 		source:{
@@ -44,7 +44,7 @@ export const EMBER_COMPONENTS: any[] = [
 		id:2,
 		name:'ember-bootstrap',
 		install:{
-			packager:'npm',
+			packager:'ember',
 			url:'ember-bootstrap'
 		},
 		source:{
@@ -65,7 +65,7 @@ export const EMBER_COMPONENTS: any[] = [
 		id:3,
 		name:'ui-icon',
 		install:{
-			packager:'npm',
+			packager:'ember',
 			url:'ui-icon'
 		},
 		source:{
