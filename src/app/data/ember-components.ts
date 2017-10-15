@@ -295,5 +295,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/jkusa/ember-cli-clipboard',
 		keywords:['ember-addon','ember-cli','clipboard']
+	},{
+		id:14,
+		name:'ember-inline-edit',
+		install: {
+			packager:'ember',
+			url:'ember-inline-edit'
+		},
+		source:{
+			domain:'github',
+			url:'swastik/ember-inline-edit',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://swastik.github.io/ember-inline-edit/'
+		},
+		framework:'Ember',
+		version:'1.0.0-beta.2',
+		license:'MIT',
+		details:'http://swastik.github.io/ember-inline-edit/',
+		keywords:['ember-addon','ember','inline edit','ember.js','inline editing']
 	}
 ];
