@@ -232,5 +232,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-blueplanet/ember-block-slots',
 		keywords:['ember-addon','named yields','slots','ember','addon','component']
+	},{
+		id:11,
+		name:'ember-3d-nav',
+		install: {
+			packager:'ember',
+			url:'ember-3d-nav'
+		},
+		source:{
+			domain:'github',
+			url:'shipshapecode/ember-3d-nav',
+			stars: 16
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-3d-nav.shipshape.io'
+		},
+		framework:'Ember',
+		version:'1.6.2',
+		license:'MIT',
+		details:'https://github.com/shipshapecode/ember-3d-nav',
+		keywords:['ember-addon','navbar','nav','3d nav','navigation']
 	}
 ];
