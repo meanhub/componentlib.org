@@ -127,5 +127,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-input.firebaseapp.com',
 		keywords:['ember-addon','ui-input','text-input','number-input','other-inputs']
+	},{
+		id:6,
+		name:'ember-tether',
+		install: {
+			packager:'ember',
+			url:'ember-tether'
+		},
+		source:{
+			domain:'github',
+			url:'yapplabs/ember-tether',
+			stars: 108
+		},
+		demo:{
+			repl:'custom',
+			src:'http://yapplabs.github.io/ember-tether/'
+		},
+		framework:'Ember',
+		version:'1.0.0-beta.0',
+		license:'MIT',
+		details:'https://github.com/yapplabs/ember-tether',
+		keywords:['ember-addon','tether','switch','target-attachment']
 	}
 ];
