@@ -7055,6 +7055,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/iwaimai-bi-fe/vc-progress',
     keywords: ['progress','component','vue','bootstrap']
+  },
+  {
+    id: 316,
+    name: 'vc-toast',
+    install: {
+      packager: 'npm',
+      url: 'vc-toast'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'iwaimai-bi-fe/vc-toast',
+      stars: 1
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://iwaimai-bi-fe.github.io/vc-toast/examples/'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/iwaimai-bi-fe/vc-toast',
+    keywords: ['toast','component','vue','bootstrap']
   }
 
 
