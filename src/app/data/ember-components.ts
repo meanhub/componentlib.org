@@ -421,5 +421,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-object-browser/#/',
 		keywords:['ember-addon','frost','sort','client','server','object-browser','object']
+	},{
+		id:20,
+		name:'ember-themed-syntax',
+		install: {
+			packager:'ember',
+			url:'ember-themed-syntax'
+		},
+		source:{
+			domain:'github',
+			url:'crodriguez1a/ember-themed-syntax',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'http://demos.evolutionaryapps.com/EmberThemedSyntax/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'http://crodriguez1a.github.io/ember-themed-syntax/',
+		keywords:['ember-addon','syntax highlighting','highlightjs']
 	}
 ];
