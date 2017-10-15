@@ -484,5 +484,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/arenoir/ember-credit-cards',
 		keywords:['ember-addon','credit-cards','credit','ccard','visa','discover','american express']
+	},{
+		id:23,
+		name:'ivy-codemirror',
+		install: {
+			packager:'ember',
+			url:'ivy-codemirror'
+		},
+		source:{
+			domain:'github',
+			url:'IvyApp/ivy-codemirror',
+			stars: 35
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ivyapp.github.io/ivy-codemirror/'
+		},
+		framework:'Ember',
+		version:'2.1.0',
+		license:'MIT',
+		details:'https://github.com/IvyApp/ivy-codemirror',
+		keywords:['ember-addon','codemirror']
 	}
 ];
