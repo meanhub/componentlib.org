@@ -82,5 +82,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-icon.firebaseapp.com',
 		keywords:['ember-addon','ui','icon','fontawesome']
+	},{
+		id:4,
+		name:'ui-image',
+		install:[{
+			packager:'ember',
+			url:'ui-image'
+		},{
+			packager:'npm',
+			url:'ui-image'
+		}],
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-image',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-image.firebaseapp.com/#demo'
+		},
+		framework:'Ember',
+		version:'0.1.10',
+		license:'MIT',
+		details:'https://ui-image.firebaseapp.com',
+		keywords:['ember-addon','ui-image','image wrapper','mask','clip']
 	}
 ];
