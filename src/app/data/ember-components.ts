@@ -253,5 +253,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/shipshapecode/ember-3d-nav',
 		keywords:['ember-addon','navbar','nav','3d nav','navigation']
+	},{
+		id:12,
+		name:'ember-exclaim',
+		install: {
+			packager:'ember',
+			url:'ember-exclaim'
+		},
+		source:{
+			domain:'github',
+			url:'salsify/ember-exclaim',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'https://salsify.github.io/ember-exclaim/'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'https://github.com/salsify/ember-exclaim',
+		keywords:['ember-addon','ember-exclaim']
 	}
 ];
