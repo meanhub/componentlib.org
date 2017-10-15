@@ -226,9 +226,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src: 'https://passy.github.io/angular-masonry/'
     },
     framework: 'AngularJS 1.x',
-    version: '0.17.0'
+    version: '0.17.0',
     license: 'MIT',
     details: 'https://passy.github.io/angular-masonry/',
     keywords: ['masonry']
+  },
+  {
+    id: 11,
+    name: 'angular-timer',
+    install: {
+      packager: 'npm',
+      url: 'angular-timer'
+    },
+    source: {
+      domain: 'github',
+      url: 'siddii/angular-timer'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://siddii.github.io/angular-timer/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.5',
+    license: 'MIT',
+    details: 'http://siddii.github.io/angular-timer/',
+    keywords: ['timer','time']
   }
 ];
