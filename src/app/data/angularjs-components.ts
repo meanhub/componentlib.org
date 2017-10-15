@@ -209,5 +209,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://venturocket.github.io/angular-slider/',
     keywords: ['slider']
+  },
+  {
+    id: 10,
+    name: 'angular-masonry',
+    install: {
+      packager: 'npm',
+      url: 'angular-masonry'
+    },
+    source: {
+      domain: 'github',
+      url: 'passy/angular-masonry'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://passy.github.io/angular-masonry/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.17.0'
+    license: 'MIT',
+    details: 'https://passy.github.io/angular-masonry/',
+    keywords: ['masonry']
   }
 ];
