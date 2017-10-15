@@ -190,5 +190,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://tim-evans.github.io/ember-page-title/',
 		keywords:['ember-addon','page-title','title','separator']
+	},{
+		id:9,
+		name:'ember-frost-bunsen',
+		install: {
+			packager:'ember',
+			url:'ember-frost-bunsen'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-bunsen',
+			stars: 18
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-bunsen/#/examples'
+		},
+		framework:'Ember',
+		version:'15.0.8',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-bunsen/#/tutorial/introduction',
+		keywords:['ember-addon','frost','forms','data','dynamic','json','schema']
 	}
 ];
