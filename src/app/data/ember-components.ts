@@ -529,5 +529,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/utatti/perfect-scrollbar',
 		keywords:['frontend','scroll','scrollbar']
+	},{
+		id:25,
+		name:'ember-scrollable',
+		install: {
+			packager:'ember',
+			url:'ember-scrollable'
+		},
+		source:{
+			domain:'github',
+			url:'alphasights/ember-scrollable',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'https://alphasights.github.io/ember-scrollable/'
+		},
+		framework:'Ember',
+		version:'0.4.9',
+		license:'MIT',
+		details:'https://alphasights.github.io/ember-scrollable/#/',
+		keywords:['ember-addon','scroll','scrollbar']
 	}
 ];
