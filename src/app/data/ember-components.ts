@@ -463,5 +463,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://shak.github.io/ember-cli-gisty/#/examples/simple',
 		keywords:['ember-addon','gisty','github','gist','ember-cli']
+	},{
+		id:22,
+		name:'ember-credit-cards',
+		install: {
+			packager:'ember',
+			url:'ember-credit-cards'
+		},
+		source:{
+			domain:'github',
+			url:'arenoir/ember-credit-cards',
+			stars: 24
+		},
+		demo:{
+			repl:'custom',
+			src:'http://arenoir.github.io/ember-credit-cards/'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'https://github.com/arenoir/ember-credit-cards',
+		keywords:['ember-addon','credit-cards','credit','ccard','visa','discover','american express']
 	}
 ];
