@@ -379,5 +379,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-sort/',
 		keywords:['ember-addon','frost','sort']
+	},{
+		id:18,
+		name:'ember-cli-lightbox',
+		install: {
+			packager:'ember',
+			url:'ember-cli-lightbox'
+		},
+		source:{
+			domain:'github',
+			url:'ramybenaroya/ember-cli-lightbox',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ramybenaroya.github.io/ember-cli-lightbox/'
+		},
+		framework:'Ember',
+		version:'2.0.0',
+		license:'MIT',
+		details:'https://github.com/ramybenaroya/ember-cli-lightbox',
+		keywords:['ember-addon','lightbox','image']
 	}
 ];
