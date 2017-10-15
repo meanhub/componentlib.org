@@ -104,5 +104,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/esvit/angular-social',
     keywords: ['social', 'buttons']
+  },
+  {
+    id: 5,
+    name: 'ng-infinite-scroll',
+    install: {
+      packager: 'npm',
+      url: 'ng-infinite-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'sroze/ngInfiniteScroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://sroze.github.io/ngInfiniteScroll/demo_basic.html'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.8',
+    license: 'MIT',
+    details: 'http://sroze.github.io/ngInfiniteScroll/',
+    keywords: ['scroll', 'repeat','infinite']
   }
 ];
