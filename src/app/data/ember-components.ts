@@ -592,5 +592,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/asross/dynamic-link',
 		keywords:['ember-addon','dynamic','link','link-to']
+	},{
+		id:28,
+		name:'ember-inplace-edit',
+		install: {
+			packager:'ember',
+			url:'ember-inplace-edit'
+		},
+		source:{
+			domain:'github',
+			url:'anilmaurya/ember-inplace-edit',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://anilmaurya.github.io/ember-inplace-edit/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'http://anilmaurya.github.io/ember-inplace-edit/',
+		keywords:['ember-addon','inplace','editing']
 	}
 ];
