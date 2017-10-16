@@ -7193,6 +7193,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://mint-ui.github.io/docs/#/',
     keywords: ['component','vue','mobile','eleme']
+  },
+  {
+    id: 322,
+    name: 'vue2-leaflet',
+    install: {
+      packager: 'npm',
+      url: 'vue2-leaflet'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'KoRiGaN/Vue2Leaflet',
+      stars: 97
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://korigan.github.io/Vue2Leaflet/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '0.0.55',
+    license: 'MIT',
+    details: 'https://github.com/KoRiGaN/Vue2Leaflet',
+    keywords: ['leaflet','vue']
   }
 
 
