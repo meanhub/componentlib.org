@@ -1015,5 +1015,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://onechiporenko.github.io/ember-models-table/v.2/#/examples',
 		keywords:['common table','custom actions','custom messages','custom column classes','grouped headers','route cells','expandable rows','display data changed action','select rows with checkboxes','column sets','sort by filter by','filtering']
+	},{
+		id:48,
+		name:'ember-loading-button',
+		install: {
+			packager:'ember',
+			url:'ember-loading-button'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-loading-button',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-loading-button/'
+		},
+		framework:'Ember',
+		version:'0.1.7',
+		license:'MIT',
+		details:'https://rajasegar.github.io/ember-loading-button/docs/',
+		keywords:['loading-button','loading','button','ember-loading-button']
 	}
 ];
