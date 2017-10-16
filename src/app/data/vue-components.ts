@@ -1284,7 +1284,7 @@ export const VUE_COMPONENTS: any[] = [{
     framework: 'Vue',
     version: '2.6.4',
     license: 'MIT',
-    details: 'https://github.com/lsycxyj/vue-l-carousel',
+    details: 'https://surmon-china.github.io/vue-awesome-swiper/',
     keywords: ['vue-awesome-swiper','vue awesome swiper','awesome-swiper','vue carrousel','vue swiper','vue slide','carrousel','swiper']
   },
   {
