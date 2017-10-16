@@ -700,5 +700,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rodrigo-morais/ember-json-pretty',
 		keywords:['ember-addon','pretty','json']
+	},{
+		id:33,
+		name:'ember-frost-modal',
+		install: {
+			packager:'ember',
+			url:'ember-frost-modal'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-modal',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-modal/'
+		},
+		framework:'Ember',
+		version:'6.2.13',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-modal/',
+		keywords:['ember-addon','frost','modal']
 	}
 ];
