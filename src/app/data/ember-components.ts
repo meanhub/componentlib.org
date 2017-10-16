@@ -742,5 +742,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Crabar/ember-social-share',
 		keywords:['ember-addon','social','share','ui','buttons']
+	},{
+		id:35,
+		name:'Ember Off Canvas Components',
+		install: {
+			packager:'ember',
+			url:'ember-off-canvas-components'
+		},
+		source:{
+			domain:'github',
+			url:'pixelhandler/ember-off-canvas-components',
+			stars: 44
+		},
+		demo:{
+			repl:'custom',
+			src:'http://pixelhandler.github.io/ember-off-canvas-components/'
+		},
+		framework:'Ember',
+		version:'0.2.1',
+		license:'MIT',
+		details:'http://pixelhandler.github.io/ember-off-canvas-components/',
+		keywords:['ember-addon','emberjs','components','off-canvas']
 	}
 ];
