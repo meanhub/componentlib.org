@@ -613,5 +613,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://anilmaurya.github.io/ember-inplace-edit/',
 		keywords:['ember-addon','inplace','editing']
+	},{
+		id:29,
+		name:'ember-chimp',
+		install: {
+			packager:'ember',
+			url:'ember-chimp'
+		},
+		source:{
+			domain:'github',
+			url:'hhff/ember-chimp',
+			stars: 11
+		},
+		demo:{
+			repl:'custom',
+			src:'http://hhff.github.io/ember-chimp/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/hhff/ember-chimp',
+		keywords:['ember-addon','chimp','email','mailchimp','ajax']
 	}
 ];
