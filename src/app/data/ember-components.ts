@@ -847,5 +847,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ef4/memory-scroll',
 		keywords:['component','deep','deep-link','deeplink','ember','ember-addon','ember-cli','embercli','emberjs','link','jump','jump-to']
+	},{
+		id:40,
+		name:'ember-social',
+		install: {
+			packager:'ember',
+			url:'ember-social'
+		},
+		source:{
+			domain:'github',
+			url:'plyfe/ember-social',
+			stars: 51
+		},
+		demo:{
+			repl:'custom',
+			src:'https://plyfe.github.io/ember-social/'
+		},
+		framework:'Ember',
+		version:'0.3.0',
+		license:'MIT',
+		details:'https://plyfe.github.io/ember-social/',
+		keywords:['ember-addon','social media','facebook','twitter','linkedin']
 	}
 ];
