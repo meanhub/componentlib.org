@@ -679,5 +679,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/knownasilya/ember-highlight',
 		keywords:['ember-addon','jquery-highlight','highlight','terms','keywords','search']
+	},{
+		id:32,
+		name:'ember-json-pretty',
+		install: {
+			packager:'ember',
+			url:'ember-json-pretty'
+		},
+		source:{
+			domain:'github',
+			url:'rodrigo-morais/ember-json-pretty',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://rodrigo-morais.github.io/ember-json-pretty/'
+		},
+		framework:'Ember',
+		version:'0.1.2',
+		license:'MIT',
+		details:'https://github.com/rodrigo-morais/ember-json-pretty',
+		keywords:['ember-addon','pretty','json']
 	}
 ];
