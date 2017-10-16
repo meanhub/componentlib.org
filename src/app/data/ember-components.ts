@@ -550,5 +550,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://alphasights.github.io/ember-scrollable/#/',
 		keywords:['ember-addon','scroll','scrollbar']
+	},{
+		id:26,
+		name:'ember-tri-state',
+		install: {
+			packager:'ember',
+			url:'ember-tri-state'
+		},
+		source:{
+			domain:'github',
+			url:'jwlawrence/ember-tri-state',
+			stars: 20
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-twiddle.com/0334972688d8ccf699b820d783f1b624?fileTreeShown=false&numColumns=0'
+		},
+		framework:'Ember',
+		version:'1.0.2',
+		license:'BSD-2-Clause',
+		details:'https://github.com/jwlawrence/ember-tri-state',
+		keywords:['ember-addon','ember-tri-state','tri-state']
 	}
 ];
