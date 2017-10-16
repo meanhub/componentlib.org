@@ -721,5 +721,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-modal/',
 		keywords:['ember-addon','frost','modal']
+	},{
+		id:34,
+		name:'ember-social-share',
+		install: {
+			packager:'ember',
+			url:'ember-social-share'
+		},
+		source:{
+			domain:'github',
+			url:'Crabar/ember-social-share',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'https://crabar.github.io/ember-social-share/'
+		},
+		framework:'Ember',
+		version:'0.2.9',
+		license:'MIT',
+		details:'https://github.com/Crabar/ember-social-share',
+		keywords:['ember-addon','social','share','ui','buttons']
 	}
 ];
