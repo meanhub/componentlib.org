@@ -1036,5 +1036,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://rajasegar.github.io/ember-loading-button/docs/',
 		keywords:['loading-button','loading','button','ember-loading-button']
+	},{
+		id:49,
+		name:'sl-ember-translate',
+		install: {
+			packager:'ember',
+			url:'sl-ember-translate'
+		},
+		source:{
+			domain:'github',
+			url:'softlayer/sl-ember-translate',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://softlayer.github.io/sl-ember-translate/#/demo'
+		},
+		framework:'Ember',
+		version:'1.12.0',
+		license:'MIT',
+		details:'http://softlayer.github.io/sl-ember-translate/docs/',
+		keywords:['ember-addon','dictionary','translation','translate']
 	}
 ];
