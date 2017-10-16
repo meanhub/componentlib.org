@@ -931,5 +931,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/poetic/ember-cli-photoswipe',
 		keywords:['ember-addon','photoswipe','gallery','ember','lightbox','photo','image','touch','swipe','zoom']
+	},{
+		id:44,
+		name:'ember-swagger-ui',
+		install: {
+			packager:'ember',
+			url:'ember-swagger-ui'
+		},
+		source:{
+			domain:'github',
+			url:'rynam0/ember-swagger-ui',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://rynam0.github.io/ember-swagger-ui/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'http://rynam0.github.io/ember-swagger-ui/',
+		keywords:['ember-addon','swagger-ui','swaggerui','swagger']
 	}
 ];
