@@ -805,5 +805,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/zakmac/ember-cli-filter-component',
 		keywords:['component','ember','ember-addon','ember-cli','embercli','emberjs','filter','inline','search','simple']
+	},{
+		id:38,
+		name:'ember-cli-deeplink-component',
+		install: {
+			packager:'ember',
+			url:'ember-cli-deeplink-component'
+		},
+		source:{
+			domain:'github',
+			url:'zakmac/ember-cli-deeplink-component',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.zak.xxx/ember-demos/deeplink-component'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://github.com/zakmac/ember-cli-deeplink-component',
+		keywords:['component','deep','deep-link','deeplink','ember','ember-addon','ember-cli','embercli','emberjs','link','jump','jump-to']
 	}
 ];
