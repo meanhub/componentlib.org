@@ -1057,5 +1057,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://softlayer.github.io/sl-ember-translate/docs/',
 		keywords:['ember-addon','dictionary','translation','translate']
+	},{
+		id:50,
+		name:'Ember-cli-new-version',
+		install: [{
+			packager:'ember',
+			url:'ember-cli-new-version'
+		},{
+			packager:'download',
+			url:'https://github.com/sethwebster/ember-cli-new-version/zipball/master'
+		}],
+		source:{
+			domain:'github',
+			url:'sethwebster/ember-cli-new-version',
+			stars: 12
+		},
+		demo:{
+			repl:'custom',
+			src:'http://sethwebster.github.io/ember-cli-new-version/'
+		},
+		framework:'Ember',
+		version:'1.1.1',
+		license:'MIT',
+		details:'http://sethwebster.github.io/ember-cli-new-version/',
+		keywords:[ 'ember-addon','version','update','alert','new version']
 	}
 ];
