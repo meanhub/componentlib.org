@@ -889,5 +889,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.affinityengine.org/#/welcome',
 		keywords:['ember-addon','affinity-engine','affinity-engine component']
+	},{
+		id:42,
+		name:'ember-ui-sortable',
+		install: {
+			packager:'ember',
+			url:'ember-ui-sortable'
+		},
+		source:{
+			domain:'github',
+			url:'12StarsMedia/ember-ui-sortable',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'https://12starsmedia.github.io/ember-ui-sortable/'
+		},
+		framework:'Ember',
+		version:'0.3.3',
+		license:'MIT',
+		details:'https://github.com/12StarsMedia/ember-ui-sortable',
+		keywords:['ember-addon','jquery','jquery-ui','sortable','draggable','drag-and-drop']
 	}
 ];
