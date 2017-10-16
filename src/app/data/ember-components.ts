@@ -763,5 +763,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://pixelhandler.github.io/ember-off-canvas-components/',
 		keywords:['ember-addon','emberjs','components','off-canvas']
+	},{
+		id:36,
+		name:'ember-slack-search-input',
+		install: {
+			packager:'ember',
+			url:'ember-slack-search-input'
+		},
+		source:{
+			domain:'github',
+			url:'bekzod/ember-slack-search-input',
+			stars: 46
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-slack-search-input.surge.sh'
+		},
+		framework:'Ember',
+		version:'1.0.6',
+		license:'MIT',
+		details:'https://github.com/bekzod/ember-slack-search-input',
+		keywords:['ember-addon','tag','search','input','slack input']
 	}
 ];
