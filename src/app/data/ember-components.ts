@@ -571,5 +571,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'BSD-2-Clause',
 		details:'https://github.com/jwlawrence/ember-tri-state',
 		keywords:['ember-addon','ember-tri-state','tri-state']
+	},{
+		id:27,
+		name:'dynamic-link',
+		install: {
+			packager:'ember',
+			url:'dynamic-link'
+		},
+		source:{
+			domain:'github',
+			url:'asross/dynamic-link',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://asross.github.io/dynamic-link/#/about'
+		},
+		framework:'Ember',
+		version:'0.2.3',
+		license:'MIT',
+		details:'https://github.com/asross/dynamic-link',
+		keywords:['ember-addon','dynamic','link','link-to']
 	}
 ];
