@@ -910,5 +910,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/12StarsMedia/ember-ui-sortable',
 		keywords:['ember-addon','jquery','jquery-ui','sortable','draggable','drag-and-drop']
+	},{
+		id:43,
+		name:'Ember-cli-photoswipe',
+		install: {
+			packager:'ember',
+			url:'ember-cli-photoswipe'
+		},
+		source:{
+			domain:'github',
+			url:'poetic/ember-cli-photoswipe',
+			stars: 62
+		},
+		demo:{
+			repl:'custom',
+			src:'http://poetic.github.io/ember-cli-photoswipe/'
+		},
+		framework:'Ember',
+		version:'1.2.0',
+		license:'MIT',
+		details:'https://github.com/poetic/ember-cli-photoswipe',
+		keywords:['ember-addon','photoswipe','gallery','ember','lightbox','photo','image','touch','swipe','zoom']
 	}
 ];
