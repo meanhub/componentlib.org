@@ -784,5 +784,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/bekzod/ember-slack-search-input',
 		keywords:['ember-addon','tag','search','input','slack input']
+	},{
+		id:37,
+		name:'ember-cli-filter-component',
+		install: {
+			packager:'ember',
+			url:'ember-cli-filter-component'
+		},
+		source:{
+			domain:'github',
+			url:'zakmac/ember-cli-filter-component',
+			stars: 11
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.zak.xxx/ember-demos/filter-component/airports'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/zakmac/ember-cli-filter-component',
+		keywords:['component','ember','ember-addon','ember-cli','embercli','emberjs','filter','inline','search','simple']
 	}
 ];
