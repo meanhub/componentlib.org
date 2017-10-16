@@ -7147,6 +7147,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://appcomponents.org/material-components/#!/',
     keywords: ['material','materialize','vue-components','web-components','vue']
+  },
+  {
+    id: 320,
+    name: 'mint-ui',
+    install: {
+      packager: 'npm',
+      url: 'mint-ui'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ElemeFE/mint-ui',
+      stars: 7961
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mint-ui.github.io/#!/en'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '2.2.9',
+    license: 'MIT',
+    details: 'http://mint-ui.github.io/docs/#/',
+    keywords: ['component','vue','mobile','eleme']
   }
 
 
