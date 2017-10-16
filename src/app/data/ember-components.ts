@@ -994,5 +994,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://onechiporenko.github.io/ember-models-table/v.1/',
 		keywords:['common table','custom actions','custom messages','custom column classes','grouped headers','route cells','expandable rows','display data changed action','select rows with checkboxes','column sets','sort by filter by','filtering']
+	},{
+		id:47,
+		name:'ember-models-table v2.x',
+		install: {
+			packager:'ember',
+			url:'ember-models-table@2'
+		},
+		source:{
+			domain:'github',
+			url:'onechiporenko/ember-models-table',
+			stars: 142
+		},
+		demo:{
+			repl:'custom',
+			src:'http://onechiporenko.github.io/ember-models-table/v.2/#/examples'
+		},
+		framework:'Ember',
+		version:'2.0.0',
+		license:'MIT',
+		details:'http://onechiporenko.github.io/ember-models-table/v.2/#/examples',
+		keywords:['common table','custom actions','custom messages','custom column classes','grouped headers','route cells','expandable rows','display data changed action','select rows with checkboxes','column sets','sort by filter by','filtering']
 	}
 ];
