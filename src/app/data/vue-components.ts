@@ -7101,6 +7101,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-icons',
     keywords: ['icon','webpack','component','vue']
+  },
+  {
+    id: 318,
+    name: 'vue-icons Vue 1.0^',
+    install: {
+      packager: 'npm',
+      url: 'vue-icons@1'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vue-comps/vue-icons',
+      stars: 76
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vue-comps.github.io/vue-icons/#!/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '1',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vue-comps/vue-icons',
+    keywords: ['icon','webpack','component','vue']
   }
 
 
