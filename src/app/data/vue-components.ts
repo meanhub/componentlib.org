@@ -7124,6 +7124,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/vue-comps/vue-icons',
     keywords: ['icon','webpack','component','vue']
+  },
+  {
+    id: 319,
+    name: 'material-components',
+    install: {
+      packager: 'npm',
+      url: 'vue-material-components'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'appcomponents/material-components',
+      stars: 278
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://appcomponents.org/material-components/#!/'
+  },
+    framework: 'Vue',
+    frameworkVersion: ['1','2'],
+    version: '0.3.4',
+    license: 'MIT',
+    details: 'http://appcomponents.org/material-components/#!/',
+    keywords: ['material','materialize','vue-components','web-components','vue']
   }
 
 
