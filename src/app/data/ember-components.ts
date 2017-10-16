@@ -868,5 +868,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://plyfe.github.io/ember-social/',
 		keywords:['ember-addon','social media','facebook','twitter','linkedin']
+	},{
+		id:41,
+		name:'affinity-engine-curtain',
+		install: {
+			packager:'ember',
+			url:'affinity-engine-curtain'
+		},
+		source:{
+			domain:'github',
+			url:'affinity-engine/affinity-engine-curtain',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.affinityengine.org/#/api/components/curtain'
+		},
+		framework:'Ember',
+		version:'0.2.4',
+		license:'MIT',
+		details:'http://www.affinityengine.org/#/welcome',
+		keywords:['ember-addon','affinity-engine','affinity-engine component']
 	}
 ];
