@@ -973,5 +973,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-power-select.com/docs',
 		keywords:['ember-addon','select','select2','selectize','dropdown']
+	},{
+		id:46,
+		name:'ember-models-table v1.x',
+		install: {
+			packager:'ember',
+			url:'ember-models-table'
+		},
+		source:{
+			domain:'github',
+			url:'onechiporenko/ember-models-table',
+			stars: 142
+		},
+		demo:{
+			repl:'custom',
+			src:'http://onechiporenko.github.io/ember-models-table/v.1/#/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'http://onechiporenko.github.io/ember-models-table/v.1/',
+		keywords:['common table','custom actions','custom messages','custom column classes','grouped headers','route cells','expandable rows','display data changed action','select rows with checkboxes','column sets','sort by filter by','filtering']
 	}
 ];
