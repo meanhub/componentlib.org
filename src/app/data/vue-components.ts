@@ -7170,6 +7170,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'http://mint-ui.github.io/docs/#/',
     keywords: ['component','vue','mobile','eleme']
+  },
+  {
+    id: 321,
+    name: 'mint-ui 4 Vue 1.x^',
+    install: {
+      packager: 'npm',
+      url: 'mint-ui@1'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'ElemeFE/mint-ui',
+      stars: 7961
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://mint-ui.github.io/#!/en'
+  },
+    framework: 'Vue',
+    frameworkVersion: '1',
+    version: '2.2.9',
+    license: 'MIT',
+    details: 'http://mint-ui.github.io/docs/#/',
+    keywords: ['component','vue','mobile','eleme']
   }
 
 
