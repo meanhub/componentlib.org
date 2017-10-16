@@ -634,5 +634,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/hhff/ember-chimp',
 		keywords:['ember-addon','chimp','email','mailchimp','ajax']
+	},{
+		id:30,
+		name:'ember-bug-widget',
+		install: [{
+			packager:'ember',
+			url:'ember-bug-widget'
+		},{
+			packager:'npm',
+			url:'ember-bug-widget'
+		}],
+		source:{
+			domain:'github',
+			url:'elwayman02/ember-bug-widget',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'http://github.jhawk.co/ember-bug-widget/'
+		},
+		framework:'Ember',
+		version:'2.12.0',
+		license:'MIT',
+		details:'https://github.com/elwayman02/ember-bug-widget',
+		keywords:['ember-addon','bug','widget','report']
 	}
 ];
