@@ -658,5 +658,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/elwayman02/ember-bug-widget',
 		keywords:['ember-addon','bug','widget','report']
+	},{
+		id:31,
+		name:'ember-highlight',
+		install: {
+			packager:'ember',
+			url:'ember-highlight'
+		},
+		source:{
+			domain:'github',
+			url:'knownasilya/ember-highlight',
+			stars: 9
+		},
+		demo:{
+			repl:'custom',
+			src:'http://knownasilya.github.io/ember-highlight/'
+		},
+		framework:'Ember',
+		version:'1.2.5',
+		license:'MIT',
+		details:'https://github.com/knownasilya/ember-highlight',
+		keywords:['ember-addon','jquery-highlight','highlight','terms','keywords','search']
 	}
 ];
