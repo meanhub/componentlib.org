@@ -952,5 +952,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://rynam0.github.io/ember-swagger-ui/',
 		keywords:['ember-addon','swagger-ui','swaggerui','swagger']
+	},{
+		id:45,
+		name:'ember-power-select',
+		install: {
+			packager:'ember',
+			url:'ember-power-select'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-power-select',
+			stars: 411
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-power-select.com/docs/the-search'
+		},
+		framework:'Ember',
+		version:'1.9.10',
+		license:'MIT',
+		details:'http://www.ember-power-select.com/docs',
+		keywords:['ember-addon','select','select2','selectize','dropdown']
 	}
 ];
