@@ -826,5 +826,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/zakmac/ember-cli-deeplink-component',
 		keywords:['component','deep','deep-link','deeplink','ember','ember-addon','ember-cli','embercli','emberjs','link','jump','jump-to']
+	},{
+		id:39,
+		name:'memory-scroll',
+		install: {
+			packager:'ember',
+			url:'memory-scroll'
+		},
+		source:{
+			domain:'github',
+			url:'ef4/memory-scroll',
+			stars: 49
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ef4.github.io/memory-scroll/'
+		},
+		framework:'Ember',
+		version:'0.9.0',
+		license:'MIT',
+		details:'https://github.com/ef4/memory-scroll',
+		keywords:['component','deep','deep-link','deeplink','ember','ember-addon','ember-cli','embercli','emberjs','link','jump','jump-to']
 	}
 ];
