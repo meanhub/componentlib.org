@@ -7078,6 +7078,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://github.com/iwaimai-bi-fe/vc-toast',
     keywords: ['toast','component','vue','bootstrap']
+  },
+  {
+    id: 317,
+    name: 'vue-icons',
+    install: {
+      packager: 'npm',
+      url: 'vue-icons'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'vue-comps/vue-icons',
+      stars: 76
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vue-comps.github.io/vue-icons/#!/'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vue-comps/vue-icons',
+    keywords: ['icon','webpack','component','vue']
   }
 
 
