@@ -1144,5 +1144,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.sipple.io/ember-divider-dots/',
 		keywords:['ember-addon','ember svg','ember dividers','svg dividers']
+	},{
+		id:54,
+		name:'ember-cli-offscreen-nav',
+		install: {
+			packager:'ember',
+			url:'ember-cli-offscreen-nav'
+		},
+		source:{
+			domain:'github',
+			url:'flemse/ember-cli-offscreen-nav',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://flemse.github.io/ember-cli-offscreen-nav/'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'https://github.com/flemse/ember-cli-offscreen-nav',
+		keywords:['ember-addon','offscreen','nav','navigation']
 	}
 ];
