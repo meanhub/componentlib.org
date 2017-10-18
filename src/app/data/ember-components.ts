@@ -1375,5 +1375,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/shripathee/ember-expand-on-focus',
 		keywords:['ui', 'focus', 'expand']
+	},{
+		id:65,
+		name:'ember-cli-scrolling-content',
+		install: [{
+			packager:'npm',
+			url:'ember-cli-scrolling-content'
+		},{
+			packager:'ember',
+			url:'ember-cli-scrolling-content'
+		}],
+		source:{
+			domain:'github',
+			url:'lazybensch/ember-cli-scrolling-content',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://lazybensch.github.io/ember-cli-scrolling-content/'
+		},
+		framework:'Ember',
+		version:'1.1.3',
+		license:'MIT',
+		details:'https://lazybensch.github.io/ember-cli-scrolling-content/',
+		keywords:['ember-addon', 'component', 'scroll', 'ember-cli-scrolling-content', 'scrolling']
 	}
 ];
