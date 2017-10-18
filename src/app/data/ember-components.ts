@@ -1762,6 +1762,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://jpadilla.github.io/ember-clipboard/',
 		keywords:['ember-addon','clipboard','copy','cut']
+	},{
+		id:83,
+		name:'ember-cli-jquery-coverflow',
+		install: {
+			packager:'ember',
+			url:'ember-cli-jquery-coverflow'
+		},
+		source:{
+			domain:'github',
+			url:'jessepinho/ember-cli-jquery-coverflow',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.jessepinho.com/ember-cli-jquery-coverflow/'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'http://vanderlee.github.io/coverflow/',
+		keywords:['ember-addon','coverflow','jquery','cli']
 	}
 	
 ];
