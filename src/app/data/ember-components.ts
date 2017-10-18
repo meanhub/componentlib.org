@@ -1333,5 +1333,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/practicefusion/ember-signature-pad',
 		keywords:['ember-addon','signature-pad','signature']
+	},{
+		id:63,
+		name:'ember-jsoneditor',
+		install: {
+			packager:'ember',
+			url:'ember-jsoneditor'
+		},
+		source:{
+			domain:'github',
+			url:'Glavin001/ember-jsoneditor',
+			stars: 14
+		},
+		demo:{
+			repl:'custom',
+			src:'http://blog.glavin.org/ember-jsoneditor/'
+		},
+		framework:'Ember',
+		version:'0.1.2',
+		license:'MIT',
+		details:'https://github.com/Glavin001/ember-jsoneditor',
+		keywords:['json', 'editor', 'viewer', 'json-editor', 'formatter']
 	}
 ];
