@@ -1420,5 +1420,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://crodriguez1a.github.io/ember-quiz/',
 		keywords:['ember-addon', 'quiz']
+	},{
+		id:67,
+		name:'ember-json-editor-for',
+		install: {
+			packager:'ember',
+			url:'ember-json-editor-for'
+		},
+		source:{
+			domain:'github',
+			url:'nucleartide/ember-json-editor',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://nucleartide.github.io/ember-json-editor/'
+		},
+		framework:'Ember',
+		version:'1.1.6',
+		license:'MIT',
+		details:'https://github.com/nucleartide/ember-json-editor',
+		keywords:['ember-addon','json-editor-for','json-editor','editor-for','jsoneditorfor','jsoneditor','editorfor','json','editor','for']
 	}
 ];
