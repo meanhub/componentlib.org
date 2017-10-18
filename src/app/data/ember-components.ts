@@ -1675,6 +1675,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://lifeart.github.io/ember-hell-filters/demo/',
 		keywords:['ember-addon','filters','ember-filters','filter-component','filter','filters','forms','form-builder','interactive-forms']
+	},{
+		id:79,
+		name:'ember-cli-highlightjs',
+		install: {
+			packager:'ember',
+			url:'ember-cli-highlightjs'
+		},
+		source:{
+			domain:'github',
+			url:'shayanypn/ember-cli-highlighjs',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-highlighjs.shayanypn.ir'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'http://ember-cli-highlighjs.shayanypn.ir',
+		keywords:['ember-addon','ember-highlight','highlightjs','ember-cli-highlight-js','highlight-js']
 	}
 	
 ];
