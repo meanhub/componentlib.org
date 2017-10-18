@@ -1633,6 +1633,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-download.firebaseapp.com',
 		keywords:['ui-download','ui','download']
+	},{
+		id:77,
+		name:'ember-creditcard',
+		install: {
+			packager:'ember',
+			url:'ember-creditcard'
+		},
+		source:{
+			domain:'github',
+			url:'mike-north/ember-creditcard',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://mike-north.github.io/ember-creditcard/'
+		},
+		framework:'Ember',
+		version:'0.1.8',
+		license:'MIT',
+		details:'https://github.com/mike-north/ember-creditcard',
+		keywords:['creditcard','ember-addon']
 	}
 	
 ];
