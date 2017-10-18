@@ -1081,5 +1081,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://sethwebster.github.io/ember-cli-new-version/',
 		keywords:[ 'ember-addon','version','update','alert','new version']
+	},{
+		id:51,
+		name:'ember-text-clipper',
+		install: {
+			packager:'ember',
+			url:'ember-text-clipper'
+		},
+		source:{
+			domain:'github',
+			url:'vevix/ember-text-clipper',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://vevix.net/ember-text-clipper/'
+		},
+		framework:'Ember',
+		version:'0.1.4',
+		license:'MIT',
+		details:'https://github.com/vevix/ember-text-clipper',
+		keywords:['ember-addon','truncate','text','clip','clipper']
 	}
 ];
