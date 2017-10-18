@@ -1717,6 +1717,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/san650/ember-confetti',
 		keywords:['ember-addon','confetti','highlightjs','component']
+	},{
+		id:81,
+		name:'ember-cli-timer',
+		install: [{
+			packager:'npm',
+			url:'ember-cli-timer'
+		},{
+			packager:'ember',
+			url:'ember-cli-timer'
+		}],
+		source:{
+			domain:'github',
+			url:'MatrixZ/ember-cli-timer',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://matrixz.github.io/ember-cli-timer/'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://matrixz.github.io/ember-cli-timer/',
+		keywords:['ember-addon','timer']
 	}
 	
 ];
