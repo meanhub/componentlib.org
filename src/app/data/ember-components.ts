@@ -1486,6 +1486,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/BryanHunt/ember-split-view',
 		keywords:['ember-addon','split-view','split', 'view']
+	},{
+		id:70,
+		name:'Ember D3 Components',
+		install: {
+			packager:'ember',
+			url:'ember-d3-components'
+		},
+		source:{
+			domain:'github',
+			url:'BryanHunt/ember-d3-components',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://bryanhunt.github.io/#/d3components'
+		},
+		framework:'Ember',
+		version:'0.0.30',
+		license:'MIT',
+		details:'https://github.com/BryanHunt/ember-d3-components',
+		keywords:['ember-addon','d3','d3-components']
 	}
 	
 ];
