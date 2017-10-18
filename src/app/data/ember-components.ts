@@ -1102,5 +1102,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/vevix/ember-text-clipper',
 		keywords:['ember-addon','truncate','text','clip','clipper']
+	},{
+		id:52,
+		name:'ember-cli-twitter-feed',
+		install: {
+			packager:'ember',
+			url:'ember-cli-twitter-feed'
+		},
+		source:{
+			domain:'github',
+			url:'aethermx/ember-cli-twitter-feed',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://aethermx.github.io/ember-cli-twitter-feed/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'http://aethermx.github.io/ember-cli-twitter-feed/',
+		keywords:['ember-addon','twitter','feed','widget','social media']
 	}
 ];
