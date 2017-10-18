@@ -1207,5 +1207,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://aethermx.github.io/ember-cli-facebook-feed/',
 		keywords:['ember-addon','facebook','feed','social media']
+	},{
+		id:57,
+		name:'ember-speech-to-text',
+		install: {
+			packager:'ember',
+			url:'ember-speech-to-text'
+		},
+		source:{
+			domain:'github',
+			url:'FutoRicky/ember-speech-to-text',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ricardoamercado.com/ember-speech-to-text/'
+		},
+		framework:'Ember',
+		version:'0.1.4',
+		license:'MIT',
+		details:'https://github.com/FutoRicky/ember-speech-to-text',
+		keywords:['ember-addon','speech-to-text','speech','recognition']
 	}
 ];
