@@ -1465,5 +1465,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://yiom.github.io/sketchpad/',
 		keywords:['ember-addon','sketchpad','cli-sketchpad']
+	},{
+		id:69,
+		name:'ember-split-view',
+		install: {
+			packager:'ember',
+			url:'ember-split-view'
+		},
+		source:{
+			domain:'github',
+			url:'BryanHunt/ember-split-view',
+			stars: 31
+		},
+		demo:{
+			repl:'custom',
+			src:'http://bryanhunt.github.io/#/split'
+		},
+		framework:'Ember',
+		version:'1.0.1',
+		license:'MIT',
+		details:'https://github.com/BryanHunt/ember-split-view',
+		keywords:['ember-addon','split-view','split', 'view']
 	}
+	
 ];
