@@ -1741,6 +1741,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://matrixz.github.io/ember-cli-timer/',
 		keywords:['ember-addon','timer']
+	},{
+		id:82,
+		name:'ember-clipboard',
+		install: {
+			packager:'ember',
+			url:'ember-clipboard'
+		},
+		source:{
+			domain:'github',
+			url:'jpadilla/ember-clipboard',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://jpadilla.github.io/ember-clipboard/'
+		},
+		framework:'Ember',
+		version:'1.0.1',
+		license:'MIT',
+		details:'https://jpadilla.github.io/ember-clipboard/',
+		keywords:['ember-addon','clipboard','copy','cut']
 	}
 	
 ];
