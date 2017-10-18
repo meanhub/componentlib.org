@@ -1312,5 +1312,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/lozjackson/ember-clock',
 		keywords:['ember-addon','ember-cli','ember','time','timer','clock','clock-service','hour','minute','second']
+	},{
+		id:62,
+		name:'ember-signature-pad',
+		install: {
+			packager:'ember',
+			url:'ember-signature-pad'
+		},
+		source:{
+			domain:'github',
+			url:'practicefusion/ember-signature-pad',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-signature-pad.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.2.0',
+		license:'MIT',
+		details:'https://github.com/practicefusion/ember-signature-pad',
+		keywords:['ember-addon','signature-pad','signature']
 	}
 ];
