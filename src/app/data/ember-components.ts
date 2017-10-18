@@ -1399,5 +1399,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://lazybensch.github.io/ember-cli-scrolling-content/',
 		keywords:['ember-addon', 'component', 'scroll', 'ember-cli-scrolling-content', 'scrolling']
+	},{
+		id:66,
+		name:'ember-quiz',
+		install: {
+			packager:'ember',
+			url:'ember-quiz'
+		},
+		source:{
+			domain:'github',
+			url:'crodriguez1a/ember-quiz',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://crodriguez1a.github.io/ember-quiz/'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'http://crodriguez1a.github.io/ember-quiz/',
+		keywords:['ember-addon', 'quiz']
 	}
 ];
