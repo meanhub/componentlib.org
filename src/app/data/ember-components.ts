@@ -1612,6 +1612,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/dhruvparmar372/ember-easy-dropdown',
 		keywords:['dropdown','easy-dropdown','drop-down','ember-dropdown']
+	},{
+		id:76,
+		name:'ui-download',
+		install: {
+			packager:'ember',
+			url:'ui-download'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-download',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-download.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.3.6',
+		license:'MIT',
+		details:'https://ui-download.firebaseapp.com',
+		keywords:['ui-download','ui','download']
 	}
 	
 ];
