@@ -1291,5 +1291,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/szimek/signature_pad#options',
 		keywords:['ember-addon','signature']
+	},{
+		id:61,
+		name:'ember-clock',
+		install: {
+			packager:'ember',
+			url:'ember-clock'
+		},
+		source:{
+			domain:'github',
+			url:'lozjackson/ember-clock',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'http://lozjackson.github.io/ember-clock/'
+		},
+		framework:'Ember',
+		version:'1.0.2',
+		license:'MIT',
+		details:'https://github.com/lozjackson/ember-clock',
+		keywords:['ember-addon','ember-cli','ember','time','timer','clock','clock-service','hour','minute','second']
 	}
 ];
