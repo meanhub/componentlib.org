@@ -1696,6 +1696,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-cli-highlighjs.shayanypn.ir',
 		keywords:['ember-addon','ember-highlight','highlightjs','ember-cli-highlight-js','highlight-js']
+	},{
+		id:80,
+		name:'ember-confetti',
+		install: {
+			packager:'ember',
+			url:'ember-confetti'
+		},
+		source:{
+			domain:'github',
+			url:'san650/ember-confetti',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://san650.github.io/ember-confetti/'
+		},
+		framework:'Ember',
+		version:'1.0.3',
+		license:'MIT',
+		details:'https://github.com/san650/ember-confetti',
+		keywords:['ember-addon','confetti','highlightjs','component']
 	}
 	
 ];
