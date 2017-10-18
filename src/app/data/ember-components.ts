@@ -1165,5 +1165,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/flemse/ember-cli-offscreen-nav',
 		keywords:['ember-addon','offscreen','nav','navigation']
+	},{
+		id:55,
+		name:'ember-confirm-extension',
+		install: {
+			packager:'ember',
+			url:'ember-confirm-extension'
+		},
+		source:{
+			domain:'github',
+			url:'advertate/ember-confirm-extension',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://advertate.github.io'
+		},
+		framework:'Ember',
+		version:'0.0.5',
+		license:'MIT',
+		details:'https://github.com/advertate/ember-confirm-extension',
+		keywords:['ember-addon','confirmation','confirm']
 	}
 ];
