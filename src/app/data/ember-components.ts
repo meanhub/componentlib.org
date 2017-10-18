@@ -1507,6 +1507,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/BryanHunt/ember-d3-components',
 		keywords:['ember-addon','d3','d3-components']
+	},{
+		id:71,
+		name:'ember-d3-charts',
+		install: {
+			packager:'ember',
+			url:'ember-d3-charts'
+		},
+		source:{
+			domain:'github',
+			url:'BryanHunt/ember-d3-charts',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://bryanhunt.github.io/#/d3charts'
+		},
+		framework:'Ember',
+		version:'0.0.11',
+		license:'MIT',
+		details:'https://github.com/BryanHunt/ember-d3-charts',
+		keywords:['ember-addon','d3','d3-charts']
 	}
 	
 ];
