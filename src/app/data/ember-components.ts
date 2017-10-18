@@ -1654,6 +1654,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/mike-north/ember-creditcard',
 		keywords:['creditcard','ember-addon']
+	},{
+		id:78,
+		name:'ember-hell-filters',
+		install: {
+			packager:'ember',
+			url:'ember-hell-filters'
+		},
+		source:{
+			domain:'github',
+			url:'lifeart/ember-hell-filters',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://lifeart.github.io/ember-hell-filters/demo/'
+		},
+		framework:'Ember',
+		version:'0.1.22',
+		license:'MIT',
+		details:'https://lifeart.github.io/ember-hell-filters/demo/',
+		keywords:['ember-addon','filters','ember-filters','filter-component','filter','filters','forms','form-builder','interactive-forms']
 	}
 	
 ];
