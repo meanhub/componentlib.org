@@ -1549,6 +1549,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ynnoj/ember-cli-tooled',
 		keywords:['ember-addon','ember','ember-cli','tooltips','hints','popovers']
+	},{
+		id:73,
+		name:'ember-cli-jsconsole',
+		install: {
+			packager:'ember',
+			url:'ember-cli-jsconsole'
+		},
+		source:{
+			domain:'github',
+			url:'hugoruscitti/ember-cli-jsconsole',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://hugoruscitti.github.io/ember-cli-jsconsole/'
+		},
+		framework:'Ember',
+		version:'0.3.3',
+		license:'MIT',
+		details:'https://github.com/hugoruscitti/ember-cli-jsconsole',
+		keywords:['ember-addon','console','jsconsole']
 	}
 	
 ];
