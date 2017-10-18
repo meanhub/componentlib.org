@@ -1591,6 +1591,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/TeknoFiend/ember-live-exec',
 		keywords:['ember-addon','live-exec']
+	},{
+		id:75,
+		name:'ember-easy-dropdown',
+		install: {
+			packager:'ember',
+			url:'ember-easy-dropdown'
+		},
+		source:{
+			domain:'github',
+			url:'dhruvparmar372/ember-easy-dropdown',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://dhruvparmar372.github.io/ember-easy-dropdown/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://github.com/dhruvparmar372/ember-easy-dropdown',
+		keywords:['dropdown','easy-dropdown','drop-down','ember-dropdown']
 	}
 	
 ];
