@@ -1123,5 +1123,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://aethermx.github.io/ember-cli-twitter-feed/',
 		keywords:['ember-addon','twitter','feed','widget','social media']
+	},{
+		id:53,
+		name:'ember-divider-dots',
+		install: {
+			packager:'ember',
+			url:'ember-divider-dots'
+		},
+		source:{
+			domain:'github',
+			url:'BrianSipple/ember-divider-dots',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.sipple.io/ember-divider-dots/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'http://www.sipple.io/ember-divider-dots/',
+		keywords:['ember-addon','ember svg','ember dividers','svg dividers']
 	}
 ];
