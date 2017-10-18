@@ -1228,5 +1228,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/FutoRicky/ember-speech-to-text',
 		keywords:['ember-addon','speech-to-text','speech','recognition']
+	},{
+		id:58,
+		name:'ember-katex',
+		install: {
+			packager:'ember',
+			url:'ember-katex'
+		},
+		source:{
+			domain:'github',
+			url:'firecracker/ember-katex',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://firecracker.github.io/ember-katex/'
+		},
+		framework:'Ember',
+		version:'1.0.0-alpha.4',
+		license:'MIT',
+		details:'https://github.com/firecracker/ember-katex',
+		keywords:['ember-addon','katex','formula']
 	}
 ];
