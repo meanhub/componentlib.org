@@ -1441,5 +1441,29 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/nucleartide/ember-json-editor',
 		keywords:['ember-addon','json-editor-for','json-editor','editor-for','jsoneditorfor','jsoneditor','editorfor','json','editor','for']
+	},{
+		id:68,
+		name:'ember-cli-sketchpad',
+		install: [{
+			packager:'npm',
+			url:'ember-cli-sketchpad'
+		},{
+			packager:'ember',
+			url:'ember-cli-sketchpad'
+		}],
+		source:{
+			domain:'github',
+			url:'yiom/ember-cli-sketchpad',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://yiom.github.io/sketchpad/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'http://yiom.github.io/sketchpad/',
+		keywords:['ember-addon','sketchpad','cli-sketchpad']
 	}
 ];
