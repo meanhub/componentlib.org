@@ -1270,5 +1270,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/tzellman/ember-slide-show',
 		keywords:['ember-addon','slide-show']
+	},{
+		id:60,
+		name:'ember-smoother-signature',
+		install: {
+			packager:'ember',
+			url:'ember-smoother-signature'
+		},
+		source:{
+			domain:'github',
+			url:'synapsemx/ember-smoother-signature',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://szimek.github.io/signature_pad/'
+		},
+		framework:'Ember',
+		version:'0.0.7',
+		license:'MIT',
+		details:'https://github.com/szimek/signature_pad#options',
+		keywords:['ember-addon','signature']
 	}
 ];
