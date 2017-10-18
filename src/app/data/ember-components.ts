@@ -1186,5 +1186,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/advertate/ember-confirm-extension',
 		keywords:['ember-addon','confirmation','confirm']
+	},{
+		id:56,
+		name:'ember-cli-facebook-feed',
+		install: {
+			packager:'ember',
+			url:'ember-cli-facebook-feed'
+		},
+		source:{
+			domain:'github',
+			url:'aethermx/ember-cli-facebook-feed',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://aethermx.github.io/ember-cli-facebook-feed/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'http://aethermx.github.io/ember-cli-facebook-feed/',
+		keywords:['ember-addon','facebook','feed','social media']
 	}
 ];
