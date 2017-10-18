@@ -1354,5 +1354,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Glavin001/ember-jsoneditor',
 		keywords:['json', 'editor', 'viewer', 'json-editor', 'formatter']
+	},{
+		id:64,
+		name:'ember-expand-on-focus',
+		install: {
+			packager:'ember',
+			url:'ember-expand-on-focus'
+		},
+		source:{
+			domain:'github',
+			url:'shripathee/ember-expand-on-focus',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://expand-on-focus-demo.herokuapp.com'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/shripathee/ember-expand-on-focus',
+		keywords:['ui', 'focus', 'expand']
 	}
 ];
