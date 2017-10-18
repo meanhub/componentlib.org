@@ -1570,6 +1570,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/hugoruscitti/ember-cli-jsconsole',
 		keywords:['ember-addon','console','jsconsole']
+	},{
+		id:74,
+		name:'ember-live-exec',
+		install: {
+			packager:'ember',
+			url:'ember-live-exec'
+		},
+		source:{
+			domain:'github',
+			url:'TeknoFiend/ember-live-exec',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://teknofiend.github.io/live-exec-demo/'
+		},
+		framework:'Ember',
+		version:'0.2.1',
+		license:'MIT',
+		details:'https://github.com/TeknoFiend/ember-live-exec',
+		keywords:['ember-addon','live-exec']
 	}
 	
 ];
