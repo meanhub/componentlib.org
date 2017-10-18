@@ -1249,5 +1249,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/firecracker/ember-katex',
 		keywords:['ember-addon','katex','formula']
+	},{
+		id:59,
+		name:'ember-slide-show',
+		install: {
+			packager:'ember',
+			url:'ember-slide-show'
+		},
+		source:{
+			domain:'github',
+			url:'tzellman/ember-slide-show',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tzellman.github.io/ember-slide-show/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://github.com/tzellman/ember-slide-show',
+		keywords:['ember-addon','slide-show']
 	}
 ];
