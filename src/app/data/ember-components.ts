@@ -1783,6 +1783,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://vanderlee.github.io/coverflow/',
 		keywords:['ember-addon','coverflow','jquery','cli']
+	},{
+		id:84,
+		name:'ember-basic-dropdown',
+		install: {
+			packager:'ember',
+			url:'ember-basic-dropdown'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-basic-dropdown',
+			stars: 86
+		},
+		demo:{
+			repl:'custom',
+			src:'https://www.ember-basic-dropdown.com'
+		},
+		framework:'Ember',
+		version:'0.33.6',
+		license:'MIT',
+		details:'https://www.ember-basic-dropdown.com',
+		keywords:['ember-addon','dropdown','basic-dropdown']
 	}
 	
 ];
