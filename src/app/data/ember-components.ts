@@ -1528,6 +1528,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/BryanHunt/ember-d3-charts',
 		keywords:['ember-addon','d3','d3-charts']
+	},{
+		id:72,
+		name:'ember-cli-tooled',
+		install: {
+			packager:'ember',
+			url:'ember-cli-tooled'
+		},
+		source:{
+			domain:'github',
+			url:'ynnoj/ember-cli-tooled',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ynnoj.github.io/ember-cli-tooled/'
+		},
+		framework:'Ember',
+		version:'0.3.1',
+		license:'MIT',
+		details:'https://github.com/ynnoj/ember-cli-tooled',
+		keywords:['ember-addon','ember','ember-cli','tooltips','hints','popovers']
 	}
 	
 ];
