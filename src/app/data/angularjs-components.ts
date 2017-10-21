@@ -524,5 +524,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'angular-ui.github.io/ui-select',
     keywords: ['ui','search','select']
+  },
+  {
+    id: 25,
+    name: 'showdown',
+    install: {
+      packager: 'npm',
+      url: 'showdown'
+    },
+    source: {
+      domain: 'github',
+      url: 'showdownjs/showdown'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://showdownjs.github.io/demo/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.6',
+    license: 'MIT',
+    details: 'angular-ui.github.io/ui-select',
+    keywords: ['showdown','converter','html']
   }
 ];
