@@ -398,5 +398,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/marcorinck/angular-growl',
     keywords: ['growl','notification','alert']
+  },
+  {
+    id: 19,
+    name: 'angular-spinner',
+    install: {
+      packager: 'npm',
+      url: 'angular-spinner'
+    },
+    source: {
+      domain: 'github',
+      url: 'urish/angular-spinner'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'BGLUYcylbIVJRz6ztbhf'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/urish/angular-spinner',
+    keywords: ['spinner','loader','spin']
   }
 ];
