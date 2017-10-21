@@ -461,5 +461,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
     keywords: ['csv']
+  },
+  {
+    id: 22,
+    name: 'angular-jqm',
+    install: {
+      packager: 'npm',
+      url: 'angular-jqm'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-widgets/angular-jqm'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://angular-widgets.github.io/angular-jqm/master/docs/#/api/jqm.directive:jqmButton'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1-SNAPSHOT',
+    license: 'MIT',
+    details: 'http://angular-widgets.github.io/angular-jqm/master/docs/#/api',
+    keywords: ['jqm','jquery']
   }
 ];
