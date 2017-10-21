@@ -306,7 +306,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'fullscale/dangle'
     },
     demo: {
-      repl: 'plunker',
+      repl: 'custom',
       src: 'http://www.fullscale.co/dangle/'
     },
     framework: 'AngularJS 1.x',
@@ -314,5 +314,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/fullscale/dangle',
     keywords: ['visualization','elasticsearch']
+  },
+  {
+    id: 15,
+    name: 'ui-tinymce',
+    install: {
+      packager: 'npm',
+      url: 'ui-tinymce'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-ui/ui-tinymce'
+    },
+    demo: {
+      repl: 'codepen',
+      id: 'NGegZK'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.19',
+    license: 'MIT',
+    details: 'https://www.tinymce.com',
+    keywords: ['tinymce','editor','text']
   }
 ];
