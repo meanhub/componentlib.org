@@ -335,5 +335,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.tinymce.com',
     keywords: ['tinymce','editor','text']
+  },
+  {
+    id: 16,
+    name: 'bootstrap',
+    install: {
+      packager: 'npm',
+      url: 'angular-ui-bootstrap'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-ui/bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://angular-ui.github.io/bootstrap/#!#accordion'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.19',
+    license: 'MIT',
+    details: 'https://angular-ui.github.io/bootstrap',
+    keywords: ['bootstrap','ui','design','components']
   }
 ];
