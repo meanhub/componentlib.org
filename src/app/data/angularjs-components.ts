@@ -608,5 +608,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-sortable/',
     keywords: ['sortable','connectable','items','ui']
+  },
+  {
+    id: 29,
+    name: 'angular-scroll',
+    install: {
+      packager: 'bower',
+      url: 'angular-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'durated/angular-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://oblador.github.io/angular-scroll/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.2',
+    license: 'MIT',
+    details: 'https://github.com/durated/angular-scroll',
+    keywords: ['scroll','sections']
   }
 ];
