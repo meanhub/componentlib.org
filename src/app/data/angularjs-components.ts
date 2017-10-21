@@ -296,23 +296,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 14,
-    name: 'bg-splitter',
+    name: 'dangle',
     install: {
       packager: 'bower',
-      url: 'bg-splitter'
+      url: 'dangle'
     },
     source: {
       domain: 'github',
-      url: 'blackgate/bg-splitter'
+      url: 'fullscale/dangle'
     },
     demo: {
       repl: 'plunker',
-      src: 'http://blackgate.github.io/bg-splitter/'
+      src: 'http://www.fullscale.co/dangle/'
     },
     framework: 'AngularJS 1.x',
-    version: '0.1.0',
+    version: '1.0.0',
     license: 'MIT',
-    details: 'https://github.com/blackgate/bg-splitter',
-    keywords: ['splitter','panes']
+    details: 'https://github.com/fullscale/dangle',
+    keywords: ['visualization','elasticsearch']
   }
 ];
