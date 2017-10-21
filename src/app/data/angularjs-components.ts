@@ -251,5 +251,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://siddii.github.io/angular-timer/',
     keywords: ['timer','time']
+  },
+  {
+    id: 12,
+    name: 'angular-scrolly',
+    install: {
+      packager: 'npm',
+      url: 'angular-scrolly'
+    },
+    source: {
+      domain: 'github',
+      url: 'ajoslin/angular-scrolly'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://ajoslin.com/angular-scrolly/demo/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'http://ajoslin.com/angular-scrolly/#/api',
+    keywords: ['scroll','scrolly']
   }
 ];
