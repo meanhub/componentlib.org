@@ -629,5 +629,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/durated/angular-scroll',
     keywords: ['scroll','sections']
+  },
+  {
+    id: 30,
+    name: 'angular-tether',
+    install: {
+      packager: 'bower',
+      url: 'angular-tether'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-tether'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://nissoh.github.io/angular-tether/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.2',
+    license: 'MIT',
+    details: 'http://nissoh.github.io/angular-tether/',
+    keywords: ['tether','components']
   }
 ];
