@@ -377,5 +377,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://chieffancypants.github.io/angular-hotkeys',
     keywords: ['keys','hotkeys','angular']
+  },
+  {
+    id: 18,
+    name: 'angular-growl',
+    install: {
+      packager: 'npm',
+      url: 'angular-growl'
+    },
+    source: {
+      domain: 'github',
+      url: 'marcorinck/angular-growl'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://github.com/marcorinck/angular-growl/blob/master/doc/screenshot.jpg'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/marcorinck/angular-growl',
+    keywords: ['growl','notification','alert']
   }
 ];
