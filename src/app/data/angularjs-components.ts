@@ -503,5 +503,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://chieffancypants.github.io/angular-loading-bar/#',
     keywords: ['loader','loading','bar']
+  },
+  {
+    id: 24,
+    name: 'ui-select',
+    install: {
+      packager: 'npm',
+      url: 'ui-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-ui/ui-select'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'eTfopguEFTls8oKr8u8V'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.19.8',
+    license: 'MIT',
+    details: 'angular-ui.github.io/ui-select',
+    keywords: ['ui','search','select']
   }
 ];
