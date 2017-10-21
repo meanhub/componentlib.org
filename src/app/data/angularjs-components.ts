@@ -356,5 +356,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-ui.github.io/bootstrap',
     keywords: ['bootstrap','ui','design','components']
+  },
+  {
+    id: 17,
+    name: 'angular-hotkeys',
+    install: {
+      packager: 'npm',
+      url: 'angular-hotkeys'
+    },
+    source: {
+      domain: 'github',
+      url: 'chieffancypants/angular-hotkeys'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://chieffancypants.github.io/angular-hotkeys'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.0',
+    license: 'MIT',
+    details: 'http://chieffancypants.github.io/angular-hotkeys',
+    keywords: ['keys','hotkeys','angular']
   }
 ];
