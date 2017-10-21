@@ -419,5 +419,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/urish/angular-spinner',
     keywords: ['spinner','loader','spin']
+  },
+  {
+    id: 20,
+    name: 'angular-dragdrop',
+    install: {
+      packager: 'bower',
+      url: 'angular-dragdrop'
+    },
+    source: {
+      domain: 'github',
+      url: 'codef0rmer/angular-dragdrop'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'KgDKZSXNBQitLrtT1xpM'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.13',
+    license: 'MIT',
+    details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
+    keywords: ['drag','drop','components']
   }
 ];
