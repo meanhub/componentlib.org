@@ -543,7 +543,28 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '1.7.6',
     license: 'MIT',
-    details: 'angular-ui.github.io/ui-select',
+    details: 'http://showdownjs.github.io',
     keywords: ['showdown','converter','html']
+  },
+  {
+    id: 26,
+    name: 'angular-knob',
+    install: {
+      packager: 'bower',
+      url: 'angular-knob'
+    },
+    source: {
+      domain: 'github',
+      url: 'yunlzheng/angular-knob'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://anthonyterrien.com/demo/knob/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/yunlzheng/angular-knob',
+    keywords: ['canvas','jpg','png','sprites']
   }
 ];
