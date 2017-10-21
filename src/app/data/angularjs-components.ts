@@ -566,5 +566,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/yunlzheng/angular-knob',
     keywords: ['canvas','jpg','png','sprites']
+  },
+  {
+    id: 27,
+    name: 'angular-responsive-images',
+    install: {
+      packager: 'bower',
+      url: 'angular-responsive-images'
+    },
+    source: {
+      domain: 'github',
+      url: 'c0bra/angular-responsive-images'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://c0bra.github.io/angular-responsive-images/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/c0bra/angular-responsive-images',
+    keywords: ['images','jpg','png','responsive']
   }
 ];
