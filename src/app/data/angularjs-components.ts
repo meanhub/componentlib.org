@@ -587,5 +587,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/c0bra/angular-responsive-images',
     keywords: ['images','jpg','png','responsive']
+  },
+  {
+    id: 28,
+    name: 'ui-sortable',
+    install: {
+      packager: 'bower',
+      url: 'ui-sortable'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-ui/ui-sortable'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'http://angular-ui.github.io/ui-sortable/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.17.2',
+    license: 'MIT',
+    details: 'http://angular-ui.github.io/ui-sortable/',
+    keywords: ['sortable','connectable','items','ui']
   }
 ];
