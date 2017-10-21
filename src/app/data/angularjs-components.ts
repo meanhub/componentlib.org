@@ -272,5 +272,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ajoslin.com/angular-scrolly/#/api',
     keywords: ['scroll','scrolly']
+  },
+  {
+    id: 13,
+    name: 'angular-socialshare',
+    install: {
+      packager: 'npm',
+      url: 'angular-socialshare'
+    },
+    source: {
+      domain: 'github',
+      url: 'djds4rce/angular-socialshare'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'Cah9FtwXDrUMQjChdBG2'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5',
+    license: 'MIT',
+    details: 'https://github.com/djds4rce/angular-socialshare',
+    keywords: ['social','share']
   }
 ];
