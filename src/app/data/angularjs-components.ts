@@ -440,5 +440,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
     keywords: ['drag','drop','components']
+  },
+  {
+    id: 21,
+    name: 'ng-csv',
+    install: {
+      packager: 'npm',
+      url: 'ng-csv'
+    },
+    source: {
+      domain: 'github',
+      url: 'asafdav/ng-csv'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://asafdav.github.io/ng-csv/example/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.6',
+    license: 'MIT',
+    details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
+    keywords: ['csv']
   }
 ];
