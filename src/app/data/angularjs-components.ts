@@ -293,5 +293,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/djds4rce/angular-socialshare',
     keywords: ['social','share']
+  },
+  {
+    id: 14,
+    name: 'bg-splitter',
+    install: {
+      packager: 'bower',
+      url: 'bg-splitter'
+    },
+    source: {
+      domain: 'github',
+      url: 'blackgate/bg-splitter'
+    },
+    demo: {
+      repl: 'plunker',
+      src: 'http://blackgate.github.io/bg-splitter/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/blackgate/bg-splitter',
+    keywords: ['splitter','panes']
   }
 ];
