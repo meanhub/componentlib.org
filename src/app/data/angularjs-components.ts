@@ -482,5 +482,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-widgets.github.io/angular-jqm/master/docs/#/api',
     keywords: ['jqm','jquery']
+  },
+  {
+    id: 23,
+    name: 'angular-loading-bar',
+    install: {
+      packager: 'npm',
+      url: 'angular-loading-bar'
+    },
+    source: {
+      domain: 'github',
+      url: 'chieffancypants/angular-loading-bar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chieffancypants.github.io/angular-loading-bar/#'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.1',
+    license: 'MIT',
+    details: 'https://chieffancypants.github.io/angular-loading-bar/#',
+    keywords: ['loader','loading','bar']
   }
 ];
