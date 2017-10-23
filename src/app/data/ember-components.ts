@@ -2269,6 +2269,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-sparks.com/input-spark/',
 		keywords:['ember-addon','input-spark','input','sparks']
+	},{
+		id:107,
+		name:'{{toggle-spark}}',
+		install: {
+			packager:'ember',
+			url:'ember-sparks'
+		},
+		source:{
+			domain:'github',
+			url:'ember-sparks/toggle-spark',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-sparks.com/toggle-spark/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'http://ember-sparks.com/toggle-spark/',
+		keywords:['ember-addon','toggle-spark','toggle','sparks']
 	}
 	
 ];
