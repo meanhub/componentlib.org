@@ -2206,6 +2206,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'ASF2',
 		details:'http://indexiatech.github.io/ember-idx-list/',
 		keywords:['ember-addon','idx-list','list','simple list']
+	},{
+		id:104,
+		name:'{{select-spark}}',
+		install: {
+			packager:'ember',
+			url:'ember-sparks'
+		},
+		source:{
+			domain:'github',
+			url:'ember-sparks/select-spark',
+			stars: 15
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-sparks.com/select-spark/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'http://ember-sparks.com/select-spark/',
+		keywords:['ember-addon','select-spark','select','sparks']
 	}
 	
 ];
