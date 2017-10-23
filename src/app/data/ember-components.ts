@@ -2332,6 +2332,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/aupac/ember-aupac-cascading-select',
 		keywords:['ember-addon','cascading select','dependent select','aupac']
+	},{
+		id:110,
+		name:'ember-hiding-menu',
+		install: {
+			packager:'ember',
+			url:'ember-hiding-menu'
+		},
+		source:{
+			domain:'github',
+			url:'MartinMalinda/ember-hiding-menu',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://martinmalinda.github.io/ember-hiding-menu/'
+		},
+		framework:'Ember',
+		version:'0.2.0',
+		license:'MIT',
+		details:'https://github.com/MartinMalinda/ember-hiding-menu',
+		keywords:['ember-addon','hiding-menu','menu','ember-hiding-menu']
 	}
 	
 ];
