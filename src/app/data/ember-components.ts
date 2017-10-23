@@ -2416,6 +2416,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/checkbox',
 		keywords:['ember-addon','ember-checkbox','checkbox','semantic-ui-checkbox']
+	},{
+		id:114,
+		name:'Semantic-UI-Ember-Dimmer',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/dimmer'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/dimmer',
+		keywords:['ember-addon','ember-dimmer','dimmer','semantic-ui-dimmer']
 	}
 	
 ];
