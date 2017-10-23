@@ -1972,6 +1972,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://sukima.github.io/ember-cli-select-picker/ember-cli-select-picker/',
 		keywords:['ember-addon','bootstrap','ember','select','component']
+	},{
+		id:93,
+		name:'ember-cli-bm-select',
+		install: {
+			packager:'ember',
+			url:'ember-cli-bm-select'
+		},
+		source:{
+			domain:'github',
+			url:'blessenm/ember-cli-bm-select',
+			stars: 14
+		},
+		demo:{
+			repl:'custom',
+			src:'http://blessanmathew.com/ember-cli-bm-select/'
+		},
+		framework:'Ember',
+		version:'0.1.3',
+		license:'MIT',
+		details:'http://blessanmathew.com/ember-cli-bm-select/',
+		keywords:['ember-addon','bm-select','select']
 	}
 	
 ];
