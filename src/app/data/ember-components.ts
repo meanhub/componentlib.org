@@ -2059,6 +2059,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-selectize.firebaseapp.com/shorthand',
 		keywords:['ember-addon','ui','form-control']
+	},{
+		id:97,
+		name:'ember-power-select-typeahead',
+		install: {
+			packager:'ember',
+			url:'ember-power-select-typeahead'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-power-select-typeahead',
+			stars: 28
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-power-select-typeahead.pagefrontapp.com'
+		},
+		framework:'Ember',
+		version:'0.6.0',
+		license:'MIT',
+		details:'https://github.com/cibernox/ember-power-select-typeahead/',
+		keywords:['ember-addon','ember-power-select-addon','ember-power-select','typeahead']
 	}
 	
 ];
