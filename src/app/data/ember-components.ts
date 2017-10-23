@@ -1930,6 +1930,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-custom-select/',
 		keywords:['ember-addon','ember-custom-select','custom-select','select']
+	},{
+		id:91,
+		name:'ember-stylish-buttons',
+		install: {
+			packager:'ember',
+			url:'ember-stylish-buttons'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-stylish-buttons',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-stylish-buttons/'
+		},
+		framework:'Ember',
+		version:'0.0.17',
+		license:'MIT',
+		details:'https://rajasegar.github.io/ember-stylish-buttons/',
+		keywords:['ember-addon','ember-stylish-buttons','stylish-buttons','button','style']
 	}
 	
 ];
