@@ -2374,6 +2374,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/kybishop/ember-attacher',
 		keywords:['ember-addon','tooltips','popovers']
+	},{
+		id:112,
+		name:'Semantic-UI-Ember-Accordion',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/accordion'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/accordion',
+		keywords:['ember-addon','ember-accordion','accordion','semantic-ui-accordion']
 	}
 	
 ];
