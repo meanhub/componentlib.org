@@ -1888,6 +1888,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/amk221/ember-select-box',
 		keywords:['ember-addon','paper-selection-dialog','selection-dialog','dialog']
+	},{
+		id:89,
+		name:'Ember-Chosen',
+		install: {
+			packager:'ember',
+			url:'ember-chosen'
+		},
+		source:{
+			domain:'github',
+			url:'ChrisHonniball/ember-chosen',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'https://chrishonniball.github.io/ember-chosen/'
+		},
+		framework:'Ember',
+		version:'1.2.2',
+		license:'MIT',
+		details:'https://chrishonniball.github.io/ember-chosen/',
+		keywords:['ember-addon','ember-chosen','chosen','select']
 	}
 	
 ];
