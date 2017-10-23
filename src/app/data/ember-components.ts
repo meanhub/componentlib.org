@@ -2521,6 +2521,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/nag',
 		keywords:['ember-addon','ember-nag','nag','semantic-ui-nag']
+	},{
+		id:119,
+		name:'Semantic-UI-Ember-Popup',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/popup'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/popup',
+		keywords:['ember-addon','ember-popup','popup','semantic-ui-popup']
 	}
 	
 ];
