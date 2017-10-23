@@ -2689,6 +2689,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sticky',
 		keywords:['ember-addon','ember-sticky','sticky','semantic-ui-sticky']
+	},{
+		id:127,
+		name:'Semantic-UI-Ember-Transition',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/transition'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/transition',
+		keywords:['ember-addon','ember-transition','transition','semantic-ui-transition']
 	}
 	
 ];
