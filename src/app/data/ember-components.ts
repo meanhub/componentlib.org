@@ -2185,6 +2185,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/tim-evans/ember-single-select',
 		keywords:['ember-addon','single-select','select','dropdown']
+	},{
+		id:103,
+		name:'ember-idx-list',
+		install: {
+			packager:'ember',
+			url:'ember-idx-list'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-list',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-list/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'ASF2',
+		details:'http://indexiatech.github.io/ember-idx-list/',
+		keywords:['ember-addon','idx-list','list','simple list']
 	}
 	
 ];
