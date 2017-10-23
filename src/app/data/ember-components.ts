@@ -2353,6 +2353,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/MartinMalinda/ember-hiding-menu',
 		keywords:['ember-addon','hiding-menu','menu','ember-hiding-menu']
+	},{
+		id:111,
+		name:'ember-attacher',
+		install: {
+			packager:'ember',
+			url:'ember-attacher'
+		},
+		source:{
+			domain:'github',
+			url:'kybishop/ember-attacher',
+			stars: 21
+		},
+		demo:{
+			repl:'custom',
+			src:'https://kybishop.github.io/ember-attacher/'
+		},
+		framework:'Ember',
+		version:'0.11.4',
+		license:'MIT',
+		details:'https://github.com/kybishop/ember-attacher',
+		keywords:['ember-addon','tooltips','popovers']
 	}
 	
 ];
