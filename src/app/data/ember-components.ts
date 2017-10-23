@@ -2038,6 +2038,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/devotox/ember-cli-dropdown-list',
 		keywords:['ember-addon','select','dropown']
+	},{
+		id:96,
+		name:'ui-selectize',
+		install: {
+			packager:'ember',
+			url:'ui-selectize'
+		},
+		source:{
+			domain:'github',
+			url:'dlifegadget/ui-selectize',
+			stars: 20
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-selectize.firebaseapp.com/shorthand'
+		},
+		framework:'Ember',
+		version:'1.0.0-beta.4',
+		license:'MIT',
+		details:'https://ui-selectize.firebaseapp.com/shorthand',
+		keywords:['ember-addon','ui','form-control']
 	}
 	
 ];
