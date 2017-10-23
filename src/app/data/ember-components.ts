@@ -1846,6 +1846,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/amk221/ember-select-box',
 		keywords:['ember-addon','select','select-box','dropdown']
+	},{
+		id:87,
+		name:'Ember-cli-selectize',
+		install: {
+			packager:'ember',
+			url:'ember-cli-selectize'
+		},
+		source:{
+			domain:'github',
+			url:'miguelcobain/ember-cli-selectize',
+			stars: 157
+		},
+		demo:{
+			repl:'custom',
+			src:'http://miguelcobain.github.io/ember-selectize/'
+		},
+		framework:'Ember',
+		version:'0.5.12',
+		license:'MIT',
+		details:'https://github.com/amk221/ember-select-box',
+		keywords:['ember-addon','ember','selectize','combobox']
 	}
 	
 ];
