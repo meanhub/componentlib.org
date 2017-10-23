@@ -1867,6 +1867,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/amk221/ember-select-box',
 		keywords:['ember-addon','ember','selectize','combobox']
+	},{
+		id:88,
+		name:'ember-paper-selection-dialog',
+		install: {
+			packager:'ember',
+			url:'ember-paper-selection-dialog'
+		},
+		source:{
+			domain:'github',
+			url:'CoachLogix/ember-paper-selection-dialog',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'https://coachlogix.github.io/ember-paper-selection-dialog/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://github.com/amk221/ember-select-box',
+		keywords:['ember-addon','paper-selection-dialog','selection-dialog','dialog']
 	}
 	
 ];
