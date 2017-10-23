@@ -2101,6 +2101,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/cibernox/ember-power-select-sortable',
 		keywords:['ember-addon','ember-power-select-addon','ember-power-select','ember-sortable','select','sortable']
+	},{
+		id:99,
+		name:'ember-searchable-select',
+		install: {
+			packager:'ember',
+			url:'ember-searchable-select'
+		},
+		source:{
+			domain:'github',
+			url:'tedconf/ember-searchable-select',
+			stars: 34
+		},
+		demo:{
+			repl:'custom',
+			src:'https://tedconf.github.io/ember-searchable-select/'
+		},
+		framework:'Ember',
+		version:'0.11.0',
+		license:'MIT',
+		details:'https://tedconf.github.io/ember-searchable-select/',
+		keywords:['ember-addon','select','menu','search']
 	}
 	
 ];
