@@ -2017,6 +2017,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://netguru.github.io/ember-select-guru/',
 		keywords:['ember-addon','select','select2']
+	},{
+		id:95,
+		name:'ember-cli-dropdown-list',
+		install: {
+			packager:'ember',
+			url:'ember-cli-dropdown-list'
+		},
+		source:{
+			domain:'github',
+			url:'devotox/ember-cli-dropdown-list',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://devotox.github.io/ember-cli-dropdown-list/'
+		},
+		framework:'Ember',
+		version:'2.0.2',
+		license:'MIT',
+		details:'https://github.com/devotox/ember-cli-dropdown-list',
+		keywords:['ember-addon','select','dropown']
 	}
 	
 ];
