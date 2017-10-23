@@ -1993,6 +1993,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://blessanmathew.com/ember-cli-bm-select/',
 		keywords:['ember-addon','bm-select','select']
+	},{
+		id:94,
+		name:'ember-select-guru',
+		install: [{
+			packager:'npm',
+			url:'ember-select-guru'
+		},{
+			packager:'ember',
+			url:'ember-select-guru'
+		}],
+		source:{
+			domain:'github',
+			url:'netguru/ember-select-guru',
+			stars: 31
+		},
+		demo:{
+			repl:'custom',
+			src:'https://netguru.github.io/ember-select-guru/'
+		},
+		framework:'Ember',
+		version:'1.1.2',
+		license:'MIT',
+		details:'https://netguru.github.io/ember-select-guru/',
+		keywords:['ember-addon','select','select2']
 	}
 	
 ];
