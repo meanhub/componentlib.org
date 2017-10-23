@@ -2668,6 +2668,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sidebar',
 		keywords:['ember-addon','ember-sidebar','sidebar','semantic-ui-sidebar']
+	},{
+		id:126,
+		name:'Semantic-UI-Ember-Sticky',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sticky'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sticky',
+		keywords:['ember-addon','ember-sticky','sticky','semantic-ui-sticky']
 	}
 	
 ];
