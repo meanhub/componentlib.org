@@ -2164,6 +2164,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://green-arrow.github.io/ember-cli-chosen',
 		keywords:['ember-addon','chosen','select','dropdown']
+	},{
+		id:102,
+		name:'ember-single-select',
+		install: {
+			packager:'ember',
+			url:'ember-single-select'
+		},
+		source:{
+			domain:'github',
+			url:'tim-evans/ember-single-select',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'https://tim-evans.github.io/ember-single-select/#demo'
+		},
+		framework:'Ember',
+		version:'0.2.0',
+		license:'MIT',
+		details:'https://github.com/tim-evans/ember-single-select',
+		keywords:['ember-addon','single-select','select','dropdown']
 	}
 	
 ];
