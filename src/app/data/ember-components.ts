@@ -2479,6 +2479,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/embed',
 		keywords:['ember-addon','ember-embed','embed','semantic-ui-embed']
+	},{
+		id:117,
+		name:'Semantic-UI-Ember-Modal',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/modal'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/modal',
+		keywords:['ember-addon','ember-modal','modal','semantic-ui-modal']
 	}
 	
 ];
