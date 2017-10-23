@@ -2080,6 +2080,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/cibernox/ember-power-select-typeahead/',
 		keywords:['ember-addon','ember-power-select-addon','ember-power-select','typeahead']
+	},{
+		id:98,
+		name:'ember-power-select-sortable',
+		install: {
+			packager:'ember',
+			url:'ember-power-select-sortable'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-power-select-sortable',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-power-select-sortable.pagefrontapp.com'
+		},
+		framework:'Ember',
+		version:'0.2.0',
+		license:'MIT',
+		details:'https://github.com/cibernox/ember-power-select-sortable',
+		keywords:['ember-addon','ember-power-select-addon','ember-power-select','ember-sortable','select','sortable']
 	}
 	
 ];
