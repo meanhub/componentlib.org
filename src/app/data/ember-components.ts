@@ -2290,6 +2290,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-sparks.com/toggle-spark/',
 		keywords:['ember-addon','toggle-spark','toggle','sparks']
+	},{
+		id:108,
+		name:'Ember CLI Multiselect Panels',
+		install: {
+			packager:'ember',
+			url:'ember-cli-multiselect-panels'
+		},
+		source:{
+			domain:'github',
+			url:'checkerap/ember-multiselect-panels',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://checkerap.github.io/ember-multiselect-panels/'
+		},
+		framework:'Ember',
+		version:'1.0.2',
+		license:'MIT',
+		details:'https://github.com/checkerap/ember-multiselect-panels',
+		keywords:['ember-addon','cli-multiselect-panels','multiselect-panels','select']
 	}
 	
 ];
