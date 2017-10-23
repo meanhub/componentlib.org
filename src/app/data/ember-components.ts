@@ -2311,6 +2311,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/checkerap/ember-multiselect-panels',
 		keywords:['ember-addon','cli-multiselect-panels','multiselect-panels','select']
+	},{
+		id:109,
+		name:'ember-aupac-cascading-select',
+		install: {
+			packager:'ember',
+			url:'ember-aupac-cascading-select'
+		},
+		source:{
+			domain:'github',
+			url:'aupac/ember-aupac-cascading-select',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://aupac.github.io/ember-aupac-cascading-select/'
+		},
+		framework:'Ember',
+		version:'1.2.2',
+		license:'MIT',
+		details:'https://github.com/aupac/ember-aupac-cascading-select',
+		keywords:['ember-addon','cascading select','dependent select','aupac']
 	}
 	
 ];
