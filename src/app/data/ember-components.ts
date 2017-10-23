@@ -1951,6 +1951,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://rajasegar.github.io/ember-stylish-buttons/',
 		keywords:['ember-addon','ember-stylish-buttons','stylish-buttons','button','style']
+	},{
+		id:92,
+		name:'ember-cli-select-picker',
+		install: {
+			packager:'ember',
+			url:'ember-cli-select-picker'
+		},
+		source:{
+			domain:'github',
+			url:'sukima/ember-cli-select-picker',
+			stars: 24
+		},
+		demo:{
+			repl:'custom',
+			src:'https://sukima.github.io/ember-cli-select-picker/ember-cli-select-picker/'
+		},
+		framework:'Ember',
+		version:'2.3.8',
+		license:'MIT',
+		details:'https://sukima.github.io/ember-cli-select-picker/ember-cli-select-picker/',
+		keywords:['ember-addon','bootstrap','ember','select','component']
 	}
 	
 ];
