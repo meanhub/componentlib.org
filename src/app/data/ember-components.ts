@@ -2563,6 +2563,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/progress',
 		keywords:['ember-addon','ember-progress','progress','semantic-ui-progress']
+	},{
+		id:121,
+		name:'Semantic-UI-Ember-Radio',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/radio'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/radio',
+		keywords:['ember-addon','ember-radio','radio','semantic-ui-radio']
 	}
 	
 ];
