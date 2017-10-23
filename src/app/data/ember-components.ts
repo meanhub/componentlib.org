@@ -1804,6 +1804,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://www.ember-basic-dropdown.com',
 		keywords:['ember-addon','dropdown','basic-dropdown']
+	},{
+		id:85,
+		name:'ember-power-select-with-create',
+		install: {
+			packager:'ember',
+			url:'ember-power-select-with-create'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-power-select-with-create',
+			stars: 86
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-power-select-with-create.pagefrontapp.com'
+		},
+		framework:'Ember',
+		version:'0.4.5',
+		license:'MIT',
+		details:'https://github.com/cibernox/ember-power-select-with-create',
+		keywords:['ember-addon','ember-power-select-addon','create','select']
 	}
 	
 ];
