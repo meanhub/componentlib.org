@@ -1825,6 +1825,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/cibernox/ember-power-select-with-create',
 		keywords:['ember-addon','ember-power-select-addon','create','select']
+	},{
+		id:86,
+		name:'ember-select-box',
+		install: {
+			packager:'ember',
+			url:'ember-select-box'
+		},
+		source:{
+			domain:'github',
+			url:'amk221/ember-select-box',
+			stars: 43
+		},
+		demo:{
+			repl:'custom',
+			src:'https://amk221.github.io/ember-select-box/'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/amk221/ember-select-box',
+		keywords:['ember-addon','select','select-box','dropdown']
 	}
 	
 ];
