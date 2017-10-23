@@ -2248,6 +2248,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-sparks.com/button-spark/',
 		keywords:['ember-addon','button-spark','button','sparks']
+	},{
+		id:106,
+		name:'{{input-spark}}',
+		install: {
+			packager:'ember',
+			url:'ember-sparks'
+		},
+		source:{
+			domain:'github',
+			url:'ember-sparks/input-spark',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-sparks.com/input-spark/'
+		},
+		framework:'Ember',
+		version:'0.1.2',
+		license:'MIT',
+		details:'http://ember-sparks.com/input-spark/',
+		keywords:['ember-addon','input-spark','input','sparks']
 	}
 	
 ];
