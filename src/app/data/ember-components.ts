@@ -2143,6 +2143,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/cibernox/ember-power-select-with-fallback',
 		keywords:['ember-addon','ember-power-select-addon','select','fallback','native','mobile']
+	},{
+		id:101,
+		name:'ember-cli-chosen',
+		install: {
+			packager:'ember',
+			url:'ember-cli-chosen'
+		},
+		source:{
+			domain:'github',
+			url:'green-arrow/ember-cli-chosen',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://green-arrow.github.io/ember-cli-chosen'
+		},
+		framework:'Ember',
+		version:'0.0.5',
+		license:'MIT',
+		details:'http://green-arrow.github.io/ember-cli-chosen',
+		keywords:['ember-addon','chosen','select','dropdown']
 	}
 	
 ];
