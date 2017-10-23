@@ -1909,6 +1909,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://chrishonniball.github.io/ember-chosen/',
 		keywords:['ember-addon','ember-chosen','chosen','select']
+	},{
+		id:90,
+		name:'ember-custom-select',
+		install: {
+			packager:'ember',
+			url:'ember-custom-select'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-custom-select',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-custom-select/'
+		},
+		framework:'Ember',
+		version:'0.1.6',
+		license:'MIT',
+		details:'https://github.com/rajasegar/ember-custom-select/',
+		keywords:['ember-addon','ember-custom-select','custom-select','select']
 	}
 	
 ];
