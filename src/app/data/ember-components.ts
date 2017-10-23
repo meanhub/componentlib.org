@@ -2122,6 +2122,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://tedconf.github.io/ember-searchable-select/',
 		keywords:['ember-addon','select','menu','search']
+	},{
+		id:100,
+		name:'ember-power-select-with-fallback',
+		install: {
+			packager:'ember',
+			url:'ember-power-select-with-fallback'
+		},
+		source:{
+			domain:'github',
+			url:'cibernox/ember-power-select-with-fallback',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-power-select-with-fallback.pagefrontapp.com'
+		},
+		framework:'Ember',
+		version:'0.2.3',
+		license:'MIT',
+		details:'https://github.com/cibernox/ember-power-select-with-fallback',
+		keywords:['ember-addon','ember-power-select-addon','select','fallback','native','mobile']
 	}
 	
 ];
