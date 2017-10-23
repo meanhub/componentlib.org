@@ -2584,6 +2584,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/radio',
 		keywords:['ember-addon','ember-radio','radio','semantic-ui-radio']
+	},{
+		id:122,
+		name:'Semantic-UI-Ember-Rating',
+		install: {
+			packager:'ember',
+			url:'semantic-ui-ember'
+		},
+		source:{
+			domain:'github',
+			url:'Semantic-Org/Semantic-UI-Ember',
+			stars: 306
+		},
+		demo:{
+			repl:'custom',
+			src:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/rating'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/rating',
+		keywords:['ember-addon','ember-rating','rating','semantic-ui-rating']
 	}
 	
 ];
