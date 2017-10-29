@@ -7400,6 +7400,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://storybook.js.org/',
     keywords: ['storybook', 'navbar', 'vue']
+  },
+  {
+    id: 331,
+    name: '@storybook/cli Pagination',
+    install: {
+      packager: 'npm',
+      url: '@storybook/cli'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'storybooks/storybook/tree/master/app/vue',
+      stars: 14829
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bulma-for-vue.surge.sh/?selectedKind=Pagination&selectedStory=default&full=1&down=1&left=1&panelRight=0&downPanel=storybook%2Factions%2Factions-panel'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '3.2.13',
+    license: 'MIT',
+    details: 'https://storybook.js.org/',
+    keywords: ['storybook', 'pagination', 'vue']
   }
 
 
