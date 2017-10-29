@@ -7791,6 +7791,29 @@ export const VUE_COMPONENTS: any[] = [{
     license: 'MIT',
     details: 'https://storybook.js.org/',
     keywords: ['storybook', 'container', 'vue']
+  },
+  {
+    id: 348,
+    name: '@storybook/cli Footer',
+    install: {
+      packager: 'npm',
+      url: '@storybook/cli'
+    }, 
+    source: {
+      domain: 'github',
+      url: 'storybooks/storybook/tree/master/app/vue',
+      stars: 14829
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://bulma-for-vue.surge.sh/?selectedKind=Footer&selectedStory=default&full=1&down=1&left=1&panelRight=0&downPanel=storybook%2Factions%2Factions-panel'
+  },
+    framework: 'Vue',
+    frameworkVersion: '2',
+    version: '3.2.13',
+    license: 'MIT',
+    details: 'https://storybook.js.org/',
+    keywords: ['storybook', 'footer', 'vue']
   }
 
 
