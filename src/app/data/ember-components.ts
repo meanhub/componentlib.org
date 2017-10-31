@@ -3382,6 +3382,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/des75/ember-collapsible-layout',
 		keywords:['ember-addon','collapsible-layout','collaps','layout']
+	},{
+		id:160,
+		name:'ember-popup-menu',
+		install: [{
+			packager:'ember',
+			url:'ember-popup-menu'
+		},{
+			packager:'npm',
+			url:'ember-popup-menu'
+		}],
+		source:{
+			domain:'github',
+			url:'paddle8/ember-popup-menu',
+			stars: 25
+		},
+		demo:{
+			repl:'custom',
+			src:'http://paddle8.github.io/ember-popup-menu/'
+		},
+		framework:'Ember',
+		version:'0.0.11',
+		license:'MIT',
+		details:'https://github.com/paddle8/ember-popup-menu',
+		keywords:['ember-addon','collapsible-layout','collaps','layout']
 	}
 	
 ];
