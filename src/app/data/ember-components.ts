@@ -3340,6 +3340,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/lolmaus/ember-scroll-to-mk2',
 		keywords:['ember-addon','scroll-to','scroll to','scroll','anchor','scrolling','ember']
+	},{
+		id:158,
+		name:'ember-sidebars',
+		install: {
+			packager:'ember',
+			url:'ember-sidebars'
+		},
+		source:{
+			domain:'github',
+			url:'ef4/ember-sidebars',
+			stars: 47
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ef4.github.io/ember-elsewhere/'
+		},
+		framework:'Ember',
+		version:'0.2.2',
+		license:'MIT',
+		details:'https://ef4.github.io/ember-elsewhere/',
+		keywords:['ember-addon','sidebars']
 	}
 	
 ];
