@@ -3406,6 +3406,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/paddle8/ember-popup-menu',
 		keywords:['ember-addon','collapsible-layout','collaps','layout']
+	},{
+		id:161,
+		name:'ember-accordion',
+		install: {
+			packager:'ember',
+			url:'ember-accordion'
+		},
+		source:{
+			domain:'github',
+			url:'khorus/ember-accordion',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'http://khorus.github.io/ember-accordion/'
+		},
+		framework:'Ember',
+		version:'0.4.0',
+		license:'MIT',
+		details:'http://khorus.github.io/ember-accordion/',
+		keywords:['ember-addon','accordion']
 	}
 	
 ];
