@@ -2710,6 +2710,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://semantic-org.github.io/Semantic-UI-Ember/#/modules/transition',
 		keywords:['ember-addon','ember-transition','transition','semantic-ui-transition']
+	},{
+		id:128,
+		name:'ember-aria-switch',
+		install: {
+			packager:'ember',
+			url:'ember-aria-switch'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-aria-switch',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-aria-switch/'
+		},
+		framework:'Ember',
+		version:'0.1.6',
+		license:'MIT',
+		details:'https://github.com/rajasegar/ember-aria-switch',
+		keywords:['ember-addon','aria-switch','toggle','toggle-switch','toggle-button','accessibility','a11y']
 	}
 	
 ];
