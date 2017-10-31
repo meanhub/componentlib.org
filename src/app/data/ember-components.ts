@@ -3319,6 +3319,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ticketfly.github.io/ember-ticketfly-accordion/#usage',
 		keywords:['ember-addon','accordion','ember accordion','accordion a11y','accordion ARIA','ember ticketfly','ember panel']
+	},{
+		id:157,
+		name:'ember-scroll-to-mk2',
+		install: {
+			packager:'ember',
+			url:'ember-scroll-to-mk2'
+		},
+		source:{
+			domain:'github',
+			url:'lolmaus/ember-scroll-to-mk2',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://lolmaus.github.io/ember-scroll-to-mk2/'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'https://github.com/lolmaus/ember-scroll-to-mk2',
+		keywords:['ember-addon','scroll-to','scroll to','scroll','anchor','scrolling','ember']
 	}
 	
 ];
