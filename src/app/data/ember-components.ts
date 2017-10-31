@@ -3361,6 +3361,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ef4.github.io/ember-elsewhere/',
 		keywords:['ember-addon','sidebars']
+	},{
+		id:159,
+		name:'ember-collapsible-layout',
+		install: {
+			packager:'ember',
+			url:'ember-collapsible-layout'
+		},
+		source:{
+			domain:'github',
+			url:'des75/ember-collapsible-layout',
+			stars: 47
+		},
+		demo:{
+			repl:'custom',
+			src:'https://des75.github.io/ember-collapsible-layout-demo/cats'
+		},
+		framework:'Ember',
+		version:'0.0.11',
+		license:'MIT',
+		details:'https://github.com/des75/ember-collapsible-layout',
+		keywords:['ember-addon','collapsible-layout','collaps','layout']
 	}
 	
 ];
