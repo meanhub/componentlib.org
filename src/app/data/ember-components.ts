@@ -3004,6 +3004,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/RSSchermer/Ember-rl-dropdown',
 		keywords:['ember-addon','mixin','component','dropdown','drop-down','drop','down']
+	},{
+		id:142,
+		name:'ember-cli-tooltipster',
+		install: {
+			packager:'ember',
+			url:'ember-cli-tooltipster'
+		},
+		source:{
+			domain:'github',
+			url:'altrim/ember-cli-tooltipster',
+			stars: 31
+		},
+		demo:{
+			repl:'custom',
+			src:'http://altrim.github.io/ember-cli-tooltipster/'
+		},
+		framework:'Ember',
+		version:'0.8.2',
+		license:'MIT',
+		details:'http://altrim.github.io/ember-cli-tooltipster/',
+		keywords:['ember-addon','tooltipster','tooltip','popover']
 	}
 	
 ];
