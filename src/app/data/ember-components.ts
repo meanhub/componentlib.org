@@ -3193,6 +3193,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/kellyselden/ember-fork-me',
 		keywords:['ember-addon','fork-me','github']
+	},{
+		id:151,
+		name:'ember-star-rating',
+		install: {
+			packager:'ember',
+			url:'ember-star-rating'
+		},
+		source:{
+			domain:'github',
+			url:'vevix/ember-star-rating',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://vevix.net/ember-star-rating/'
+		},
+		framework:'Ember',
+		version:'1.1.2',
+		license:'MIT',
+		details:'https://github.com/vevix/ember-star-rating',
+		keywords:['ember-addon','rating','stars']
 	}
 	
 ];
