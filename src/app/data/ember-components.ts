@@ -3214,6 +3214,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/vevix/ember-star-rating',
 		keywords:['ember-addon','rating','stars']
+	},{
+		id:152,
+		name:'ember-cli-unslider',
+		install: {
+			packager:'ember',
+			url:'ember-cli-unslider'
+		},
+		source:{
+			domain:'github',
+			url:'jamiechong/ember-cli-unslider',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jamiechong.github.io/ember-cli-unslider/'
+		},
+		framework:'Ember',
+		version:'0.3.0',
+		license:'MIT',
+		details:'https://github.com/jamiechong/ember-cli-unslider',
+		keywords:['ember-addon','slider','unslider','ember-slider','slides','swipe','slideshow','ember-cli-unslider','jquery-unslider']
 	}
 	
 ];
