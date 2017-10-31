@@ -3046,6 +3046,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-drop.shipshape.io',
 		keywords:['ember-addon','drop','popover','dropdown','popout']
+	},{
+		id:144,
+		name:'ember-cli-jstree',
+		install: {
+			packager:'ember',
+			url:'ember-cli-jstree'
+		},
+		source:{
+			domain:'github',
+			url:'ritesh83/ember-cli-jstree',
+			stars: 32
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ritesh83.github.io/ember-cli-jstree/#/static'
+		},
+		framework:'Ember',
+		version:'1.0.9',
+		license:'MIT',
+		details:'http://ritesh83.github.io/ember-cli-jstree/#/static',
+		keywords:['ember-addon','jstree','tree','jquery']
 	}
 	
 ];
