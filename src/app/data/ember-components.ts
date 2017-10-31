@@ -2920,6 +2920,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/kaliber5/ember-sticky-element',
 		keywords:['ember-addon','sticky','position sticky']
+	},{
+		id:138,
+		name:'ember-burger-menu',
+		install: {
+			packager:'ember',
+			url:'ember-burger-menu'
+		},
+		source:{
+			domain:'github',
+			url:'offirgolan/ember-burger-menu',
+			stars: 222
+		},
+		demo:{
+			repl:'custom',
+			src:'https://offirgolan.github.io/ember-burger-menu/'
+		},
+		framework:'Ember',
+		version:'3.0.0',
+		license:'MIT',
+		details:'https://github.com/offirgolan/ember-burger-menu',
+		keywords:['ember-addon','burger-menu','sidebar']
 	}
 	
 ];
