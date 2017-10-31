@@ -2941,6 +2941,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/offirgolan/ember-burger-menu',
 		keywords:['ember-addon','burger-menu','sidebar']
+	},{
+		id:139,
+		name:'ember-collapsible-panel',
+		install: {
+			packager:'ember',
+			url:'ember-collapsible-panel'
+		},
+		source:{
+			domain:'github',
+			url:'tedconf/ember-collapsible-panel',
+			stars: 34
+		},
+		demo:{
+			repl:'custom',
+			src:'https://tedconf.github.io/ember-collapsible-panel/'
+		},
+		framework:'Ember',
+		version:'2.1.1',
+		license:'MIT',
+		details:'https://tedconf.github.io/ember-collapsible-panel/',
+		keywords:['ember-addon','burger-menu','sidebar']
 	}
 	
 ];
