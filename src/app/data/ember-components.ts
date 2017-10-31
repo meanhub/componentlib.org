@@ -2878,5 +2878,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-popover',
 		keywords:['ember-addon','frost','popover','tooltip']
+	},{
+		id:136,
+		name:'ember-tooltips',
+		install: {
+			packager:'ember',
+			url:'ember-tooltips'
+		},
+		source:{
+			domain:'github',
+			url:'sir-dunxalot/ember-tooltips',
+			stars: 150
+		},
+		demo:{
+			repl:'custom',
+			src:'http://sir-dunxalot.github.io/ember-tooltips/'
+		},
+		framework:'Ember',
+		version:'2.9.2',
+		license:'MIT',
+		details:'http://sir-dunxalot.github.io/ember-tooltips/',
+		keywords:['ember-addon','tooltips','tooltip','popover','popovers','htmlbars']
 	}
 ];
