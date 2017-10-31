@@ -2899,5 +2899,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://sir-dunxalot.github.io/ember-tooltips/',
 		keywords:['ember-addon','tooltips','tooltip','popover','popovers','htmlbars']
+	},{
+		id:137,
+		name:'ember-sticky-element',
+		install: {
+			packager:'ember',
+			url:'ember-sticky-element'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-sticky-element',
+			stars: 16
+		},
+		demo:{
+			repl:'custom',
+			src:'https://kaliber5.github.io/ember-sticky-element/'
+		},
+		framework:'Ember',
+		version:'0.1.5',
+		license:'MIT',
+		details:'https://github.com/kaliber5/ember-sticky-element',
+		keywords:['ember-addon','sticky','position sticky']
 	}
+	
 ];
