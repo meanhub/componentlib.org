@@ -2773,6 +2773,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-slide-push-menu',
 		keywords:['ember-addon','menu','navigation','slide-menu','push-menu','off-canvas']
+	},{
+		id:131,
+		name:'ember-frost-info-bar',
+		install: {
+			packager:'ember',
+			url:'ember-frost-info-bar'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-info-bar',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-info-bar/'
+		},
+		framework:'Ember',
+		version:'9.0.0',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-info-bar/',
+		keywords:['ember-addon','frost','placeholder','toggle','controller','on/off']
 	}
 	
 ];
