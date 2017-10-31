@@ -2836,6 +2836,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ciena-frost.github.io/ember-frost-navigation/',
 		keywords:['ember-addon','frost','navigation']
+	},{
+		id:134,
+		name:'ember-cli-swiper',
+		install: {
+			packager:'ember',
+			url:'ember-cli-swiper'
+		},
+		source:{
+			domain:'github',
+			url:'Suven/ember-cli-swiper',
+			stars: 39
+		},
+		demo:{
+			repl:'custom',
+			src:'http://suven.github.io/ember-cli-swiper/'
+		},
+		framework:'Ember',
+		version:'0.6.4',
+		license:'MIT',
+		details:'http://suven.github.io/ember-cli-swiper/',
+		keywords:['ember-addon','swiper','touch','carousel']
 	}
-	
 ];
