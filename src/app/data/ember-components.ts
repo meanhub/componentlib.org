@@ -2794,6 +2794,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-info-bar/',
 		keywords:['ember-addon','frost','placeholder','toggle','controller','on/off']
+	},{
+		id:132,
+		name:'ember-frost-tabs',
+		install: {
+			packager:'ember',
+			url:'ember-frost-tabs'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-tabs',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-tabs/'
+		},
+		framework:'Ember',
+		version:'5.4.0',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-tabs/',
+		keywords:['ember-addon','frost','tabs','vertical tabs','block tabs']
 	}
 	
 ];
