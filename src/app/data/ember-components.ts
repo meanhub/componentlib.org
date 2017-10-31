@@ -3151,6 +3151,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-responsive-tabs',
 		keywords:['ember-addon','tabs','component','tab component','responsive']
+	},{
+		id:149,
+		name:'ember-async-tooltips',
+		install: {
+			packager:'ember',
+			url:'ember-async-tooltips'
+		},
+		source:{
+			domain:'github',
+			url:'amk221/ember-async-tooltips',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://amk221.github.io/ember-async-tooltips/'
+		},
+		framework:'Ember',
+		version:'1.0.3',
+		license:'MIT',
+		details:'https://github.com/amk221/ember-async-tooltips',
+		keywords:['ember-addon','tooltips','mouseover','hover','async']
 	}
 	
 ];
