@@ -2815,6 +2815,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-tabs/',
 		keywords:['ember-addon','frost','tabs','vertical tabs','block tabs']
+	},{
+		id:133,
+		name:'ember-frost-navigation',
+		install: {
+			packager:'ember',
+			url:'ember-frost-navigation'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-navigation',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ciena-frost.github.io/ember-frost-navigation/'
+		},
+		framework:'Ember',
+		version:'7.5.6',
+		license:'MIT',
+		details:'https://ciena-frost.github.io/ember-frost-navigation/',
+		keywords:['ember-addon','frost','navigation']
 	}
 	
 ];
