@@ -3088,6 +3088,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/echobind/ember-links-with-follower',
 		keywords:['ember-addon','links-with-follower','link']
+	},{
+		id:146,
+		name:'ember-side-menu',
+		install: {
+			packager:'ember',
+			url:'ember-side-menu'
+		},
+		source:{
+			domain:'github',
+			url:'tsubik/ember-side-menu',
+			stars: 52
+		},
+		demo:{
+			repl:'custom',
+			src:'https://tsubik.com/ember-side-menu/'
+		},
+		framework:'Ember',
+		version:'0.0.14',
+		license:'MIT',
+		details:'https://github.com/tsubik/ember-side-menu',
+		keywords:['ember-addon','side-menu','sliding-menu','menu','drawer','sliding','toggle-menu','mobile-menu','drawer-menu','burger-menu']
 	}
 	
 ];
