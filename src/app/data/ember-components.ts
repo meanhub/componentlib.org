@@ -2857,5 +2857,26 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://suven.github.io/ember-cli-swiper/',
 		keywords:['ember-addon','swiper','touch','carousel']
+	},{
+		id:135,
+		name:'ember-frost-popover',
+		install: {
+			packager:'ember',
+			url:'ember-frost-popover'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-popover',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-popover/'
+		},
+		framework:'Ember',
+		version:'5.0.0',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-popover',
+		keywords:['ember-addon','frost','popover','tooltip']
 	}
 ];
