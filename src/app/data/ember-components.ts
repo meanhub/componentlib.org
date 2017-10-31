@@ -3067,6 +3067,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ritesh83.github.io/ember-cli-jstree/#/static',
 		keywords:['ember-addon','jstree','tree','jquery']
+	},{
+		id:145,
+		name:'ember-links-with-follower',
+		install: {
+			packager:'ember',
+			url:'ember-links-with-follower'
+		},
+		source:{
+			domain:'github',
+			url:'echobind/ember-links-with-follower',
+			stars: 39
+		},
+		demo:{
+			repl:'custom',
+			src:'http://echobind.github.io/ember-links-with-follower/#/'
+		},
+		framework:'Ember',
+		version:'1.0.9',
+		license:'MIT',
+		details:'https://github.com/echobind/ember-links-with-follower',
+		keywords:['ember-addon','links-with-follower','link']
 	}
 	
 ];
