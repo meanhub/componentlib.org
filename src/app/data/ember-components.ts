@@ -2731,6 +2731,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-aria-switch',
 		keywords:['ember-addon','aria-switch','toggle','toggle-switch','toggle-button','accessibility','a11y']
+	},{
+		id:129,
+		name:'ember-frost-sidebar',
+		install: {
+			packager:'ember',
+			url:'ember-frost-sidebar'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-sidebar',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-sidebar/'
+		},
+		framework:'Ember',
+		version:'4.0.4',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-sidebar/',
+		keywords:['ember-addon','frost','frost-sidebar','sidebar','content']
 	}
 	
 ];
