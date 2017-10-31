@@ -3172,6 +3172,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/amk221/ember-async-tooltips',
 		keywords:['ember-addon','tooltips','mouseover','hover','async']
+	},{
+		id:150,
+		name:'ember-fork-me',
+		install: {
+			packager:'ember',
+			url:'ember-fork-me'
+		},
+		source:{
+			domain:'github',
+			url:'kellyselden/ember-fork-me',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://kellyselden.github.io/ember-fork-me/'
+		},
+		framework:'Ember',
+		version:'1.0.1',
+		license:'MIT',
+		details:'https://github.com/kellyselden/ember-fork-me',
+		keywords:['ember-addon','fork-me','github']
 	}
 	
 ];
