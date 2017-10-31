@@ -2983,6 +2983,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/shipshapecode/ember-3d-folding-panel',
 		keywords:['ember-addon','folding','panel']
+	},{
+		id:141,
+		name:'ember-rl-dropdown',
+		install: {
+			packager:'ember',
+			url:'ember-rl-dropdown'
+		},
+		source:{
+			domain:'github',
+			url:'rsschermer/ember-rl-dropdown',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://rsschermer.github.io/ember-rl-dropdown/'
+		},
+		framework:'Ember',
+		version:'0.10.1',
+		license:'MIT',
+		details:'https://github.com/RSSchermer/Ember-rl-dropdown',
+		keywords:['ember-addon','mixin','component','dropdown','drop-down','drop','down']
 	}
 	
 ];
