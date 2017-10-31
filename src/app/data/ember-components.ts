@@ -3235,6 +3235,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/jamiechong/ember-cli-unslider',
 		keywords:['ember-addon','slider','unslider','ember-slider','slides','swipe','slideshow','ember-cli-unslider','jquery-unslider']
+	},{
+		id:153,
+		name:'ember-context-menu',
+		install: {
+			packager:'ember',
+			url:'ember-context-menu'
+		},
+		source:{
+			domain:'github',
+			url:'cbroeren/ember-context-menu',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'https://cbroeren.github.io/ember-context-menu/'
+		},
+		framework:'Ember',
+		version:'0.4.0',
+		license:'MIT',
+		details:'https://github.com/cbroeren/ember-context-menu',
+		keywords:['ember-addon','context-menu','rightclick','menu']
 	}
 	
 ];
