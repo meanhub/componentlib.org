@@ -3025,6 +3025,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://altrim.github.io/ember-cli-tooltipster/',
 		keywords:['ember-addon','tooltipster','tooltip','popover']
+	},{
+		id:143,
+		name:'ember-drop',
+		install: {
+			packager:'ember',
+			url:'ember-drop'
+		},
+		source:{
+			domain:'github',
+			url:'shipshapecode/ember-drop',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-drop.shipshape.io'
+		},
+		framework:'Ember',
+		version:'1.2.2',
+		license:'MIT',
+		details:'http://ember-drop.shipshape.io',
+		keywords:['ember-addon','drop','popover','dropdown','popout']
 	}
 	
 ];
