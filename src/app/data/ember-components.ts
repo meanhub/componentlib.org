@@ -3130,6 +3130,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/anilmaurya/ember-favourite-heart',
 		keywords:['ember-addon','favourite','like']
+	},{
+		id:148,
+		name:'ember-responsive-tabs',
+		install: {
+			packager:'ember',
+			url:'ember-responsive-tabs'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-responsive-tabs',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://present-quiet.surge.sh'
+		},
+		framework:'Ember',
+		version:'0.0.14',
+		license:'MIT',
+		details:'https://github.com/rajasegar/ember-responsive-tabs',
+		keywords:['ember-addon','tabs','component','tab component','responsive']
 	}
 	
 ];
