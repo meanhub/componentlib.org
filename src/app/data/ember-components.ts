@@ -3298,6 +3298,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/IvyApp/ivy-tree',
 		keywords:['ember-addon','ivy-tree','tree','ivy']
+	},{
+		id:156,
+		name:'ember-ticketfly-accordion',
+		install: {
+			packager:'ember',
+			url:'ember-ticketfly-accordion'
+		},
+		source:{
+			domain:'github',
+			url:'Ticketfly/ember-ticketfly-accordion',
+			stars: 12
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ticketfly.github.io/ember-ticketfly-accordion/#usage'
+		},
+		framework:'Ember',
+		version:'0.6.2',
+		license:'MIT',
+		details:'https://ticketfly.github.io/ember-ticketfly-accordion/#usage',
+		keywords:['ember-addon','accordion','ember accordion','accordion a11y','accordion ARIA','ember ticketfly','ember panel']
 	}
 	
 ];
