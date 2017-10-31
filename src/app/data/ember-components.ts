@@ -3277,6 +3277,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/IvyApp/ivy-tabs',
 		keywords:['ember-addon','context-menu','rightclick','menu']
+	},{
+		id:155,
+		name:'ivy-tree',
+		install: {
+			packager:'ember',
+			url:'ivy-tree'
+		},
+		source:{
+			domain:'github',
+			url:'IvyApp/ivy-tree',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ivyapp.github.io/ivy-tree/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'https://github.com/IvyApp/ivy-tree',
+		keywords:['ember-addon','ivy-tree','tree','ivy']
 	}
 	
 ];
