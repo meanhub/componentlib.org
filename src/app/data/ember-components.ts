@@ -2962,6 +2962,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://tedconf.github.io/ember-collapsible-panel/',
 		keywords:['ember-addon','burger-menu','sidebar']
+	},{
+		id:140,
+		name:'ember-3d-folding-panel',
+		install: {
+			packager:'ember',
+			url:'ember-3d-folding-panel'
+		},
+		source:{
+			domain:'github',
+			url:'shipshapecode/ember-3d-folding-panel',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://shipshapecode.github.io/ember-3d-folding-panel/'
+		},
+		framework:'Ember',
+		version:'0.2.3',
+		license:'MIT',
+		details:'https://github.com/shipshapecode/ember-3d-folding-panel',
+		keywords:['ember-addon','folding','panel']
 	}
 	
 ];
