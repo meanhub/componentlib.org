@@ -3256,6 +3256,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/cbroeren/ember-context-menu',
 		keywords:['ember-addon','context-menu','rightclick','menu']
+	},{
+		id:154,
+		name:'ivy-tabs',
+		install: {
+			packager:'ember',
+			url:'ivy-tabs'
+		},
+		source:{
+			domain:'github',
+			url:'IvyApp/ivy-tabs',
+			stars: 28
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ivyapp.github.io/ivy-tabs/'
+		},
+		framework:'Ember',
+		version:'0.4.0',
+		license:'MIT',
+		details:'https://github.com/IvyApp/ivy-tabs',
+		keywords:['ember-addon','context-menu','rightclick','menu']
 	}
 	
 ];
