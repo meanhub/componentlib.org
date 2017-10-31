@@ -3109,6 +3109,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/tsubik/ember-side-menu',
 		keywords:['ember-addon','side-menu','sliding-menu','menu','drawer','sliding','toggle-menu','mobile-menu','drawer-menu','burger-menu']
+	},{
+		id:147,
+		name:'ember-favourite-heart',
+		install: {
+			packager:'ember',
+			url:'ember-favourite-heart'
+		},
+		source:{
+			domain:'github',
+			url:'anilmaurya/ember-favourite-heart',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://anilmaurya.github.io/ember-favourite-heart/'
+		},
+		framework:'Ember',
+		version:'0.0.14',
+		license:'MIT',
+		details:'https://github.com/anilmaurya/ember-favourite-heart',
+		keywords:['ember-addon','favourite','like']
 	}
 	
 ];
