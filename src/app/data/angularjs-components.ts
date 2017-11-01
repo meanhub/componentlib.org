@@ -2483,5 +2483,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.anychart.com/ ',
     keywords: ['charts','line','time','area','bar','anychart']
+  },
+  {
+    id: 117,
+    name: 'ngx-restangular',
+    install: {
+      packager: 'bower',
+      url: 'ngx-restangular'
+    },
+    source: {
+      domain: 'github',
+      url: '2muchcoffeecom/ngx-restangular'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'qozGPV2HowzmtKbC9a54'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.13',
+    license: 'MIT',
+    details: 'http://angular-js.in/',
+    keywords: ['restangular']
   }
 ];
