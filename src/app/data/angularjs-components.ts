@@ -2357,5 +2357,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://n3-charts.github.io/line-chart/#/home',
     keywords: ['charts','line','time','area','Interpolation']
+  },
+  {
+    id: 112,
+    name: 'angular-google-chart',
+    install: {
+      packager: 'npm',
+      url: 'angular-google-chart'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-google-chart/angular-google-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-google-chart.github.io/angular-google-chart/docs/latest/examples/annotation/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0-beta.1',
+    license: 'MIT',
+    details: 'http://angular-google-chart.github.io/angular-google-chart/',
+    keywords: ['charts','line','time','area','bar']
   }
 ];
