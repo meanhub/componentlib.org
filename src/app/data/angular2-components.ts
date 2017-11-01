@@ -5295,4 +5295,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/search',
     keywords: ['covalent', 'material', 'teradata', 'search']
   },
+  {
+    id: 251,
+    name: 'covalent syntax-highlighting',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/highlight'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/syntax-highlighting'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/syntax-highlighting',
+    keywords: ['covalent', 'material', 'teradata', 'syntax-highlighting']
+  },
 ];
