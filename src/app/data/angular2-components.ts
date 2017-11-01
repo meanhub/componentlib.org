@@ -4539,4 +4539,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/menubar',
     keywords: ['angular', 'primeng', 'menubar']
   },
+  {
+    id: 215,
+    name: 'primeng slidemenu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/slidemenu'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/slidemenu',
+    keywords: ['angular', 'primeng', 'slidemenu']
+  },
 ];
