@@ -5106,4 +5106,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/chips',
     keywords: ['covalent', 'material', 'teradata', 'chips']
   },
+  {
+    id: 242,
+    name: 'covalent loading',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/loading'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/loading',
+    keywords: ['covalent', 'material', 'teradata', 'loading']
+  },
 ];
