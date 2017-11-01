@@ -2504,5 +2504,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-js.in/',
     keywords: ['restangular']
+  },
+  {
+    id: 118,
+    name: 'angularjs-in-patterns',
+    install: {
+      packager: 'bower',
+      url: 'angularjs-in-patterns'
+    },
+    source: {
+      domain: 'github',
+      url: 'mgechev/angularjs-in-patterns'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'https://mgechev.github.io/angularjs-in-patterns/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://mgechev.github.io/angularjs-in-patterns/',
+    keywords: ['patterns']
   }
 ];
