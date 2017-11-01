@@ -2420,5 +2420,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/gianarb/awesome-angularjs',
     keywords: ['charts','line','time','area','bar']
+  },
+  {
+    id: 115,
+    name: 'angular-morris',
+    install: {
+      packager: 'bower',
+      url: 'angular-morris'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-morris/angular-morris'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-morris.io/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://angular-morris.io/',
+    keywords: ['charts','line','time','area','bar','morris']
   }
 ];
