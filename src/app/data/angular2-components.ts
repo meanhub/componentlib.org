@@ -4455,4 +4455,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/steps',
     keywords: ['angular', 'primeng', 'steps']
   },
+  {
+    id: 211,
+    name: 'primeng tieredmenu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/tieredmenu'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/tieredmenu',
+    keywords: ['angular', 'primeng', 'tieredmenu']
+  },
 ];
