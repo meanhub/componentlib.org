@@ -2441,5 +2441,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-morris.io/',
     keywords: ['charts','line','time','area','bar','morris']
+  },
+  {
+    id: 116,
+    name: 'angular-chart.js',
+    install: {
+      packager: 'bower',
+      url: 'angular-chart.js'
+    },
+    source: {
+      domain: 'github',
+      url: 'jtblin/angular-chart.js'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jtblin.github.io/angular-chart.js/#directives'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'http://jtblin.github.io/angular-chart.js/',
+    keywords: ['charts','line','time','area','bar']
+  },
+  {
+    id: 117,
+    name: 'anychart-angularjs',
+    install: {
+      packager: 'bower',
+      url: 'anychart-angularjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'AnyChart/AnyChart-AngularJS-v1.x'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.anychart.com/products/anychart/gallery/Line_Charts/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://www.anychart.com/ ',
+    keywords: ['charts','line','time','area','bar','anychart']
   }
 ];
