@@ -2294,5 +2294,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://orange-opensource.github.io/angular-swagger-ui/',
     keywords: ['swagger','ui']
+  },
+  {
+    id: 109,
+    name: 'angular-translate',
+    install: {
+      packager: 'npm',
+      url: 'angular-translate'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-translate/angular-translate'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-translate.github.io/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.15.2',
+    license: 'MIT',
+    details: 'https://angular-translate.github.io/',
+    keywords: ['translate','ui']
   }
 ];
