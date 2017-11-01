@@ -4644,4 +4644,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/chart/radar',
     keywords: ['angular', 'primeng', 'radar', 'chart']
   },
+  {
+    id: 220,
+    name: 'primeng bar chart',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/chart/bar'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/chart/bar',
+    keywords: ['angular', 'primeng', 'chart', 'bar']
+  },
 ];
