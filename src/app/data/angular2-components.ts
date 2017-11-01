@@ -4728,4 +4728,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/messages',
     keywords: ['angular', 'primeng', 'messages']
   },
+  {
+    id: 224,
+    name: 'primeng growl',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/growl'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/growl',
+    keywords: ['angular', 'primeng', 'growl']
+  },
 ];
