@@ -2714,5 +2714,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-filemanager.zendelsolutions.com/',
     keywords: ['file','filemanager']
+  },
+  {
+    id: 128,
+    name: 'angular-filemanager',
+    install: {
+      packager: 'npm',
+      url: 'angular-filemanager'
+    },
+    source: {
+      domain: 'github',
+      url: 'joni2back/angular-filemanager'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-filemanager.zendelsolutions.com/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'https://angular-filemanager.zendelsolutions.com/',
+    keywords: ['file','filemanager']
+  },
+  {
+    id: 129,
+    name: 'angular-ui-router-tabs',
+    install: {
+      packager: 'npm',
+      url: 'angular-ui-router-tabs'
+    },
+    source: {
+      domain: 'github',
+      url: 'rpocklin/ui-router-tabs'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://rp.js.org/ui-router-tabs/example/index.html'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://rp.js.org/ui-router-tabs/example/index.html',
+    keywords: ['router','tabs','ui']
   }
 ];
