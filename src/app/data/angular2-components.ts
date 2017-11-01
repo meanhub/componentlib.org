@@ -4392,4 +4392,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/contextmenu',
     keywords: ['angular', 'primeng', 'contextmenu']
   },
+  {
+    id: 208,
+    name: 'primeng menu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/menu'
+    },
+    framework: 'Angular 2+',
+    version: '4.2.1',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/menu',
+    keywords: ['angular', 'primeng', 'menu']
+  },
 ];
