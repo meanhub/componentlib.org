@@ -2517,13 +2517,34 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'mgechev/angularjs-in-patterns'
     },
     demo: {
-      repl: 'plunker',
-      id : 'https://mgechev.github.io/angularjs-in-patterns/'
+      repl: 'custom',
+      src : 'https://mgechev.github.io/angularjs-in-patterns/'
     },
     framework: 'AngularJS 1.x',
     version: '0.0.0',
     license: 'MIT',
     details: 'https://mgechev.github.io/angularjs-in-patterns/',
     keywords: ['patterns']
+  },
+  {
+    id: 119,
+    name: 'angular-bind-notifier',
+    install: {
+      packager: 'bower',
+      url: 'angular-bind-notifier'
+    },
+    source: {
+      domain: 'github',
+      url: 'kasperlewau/angular-bind-notifier'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://kasperlewau.github.io/angular-bind-notifier/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.8',
+    license: 'MIT',
+    details: 'http://kasperlewau.github.io/angular-bind-notifier/',
+    keywords: ['watch','count','notifier']
   }
 ];
