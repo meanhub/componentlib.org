@@ -5211,4 +5211,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/json-formatter',
     keywords: ['covalent', 'material', 'teradata', 'json-formatter']
   },
+  {
+    id: 247,
+    name: 'covalent paging',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/paging'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/paging',
+    keywords: ['covalent', 'material', 'teradata', 'paging']
+  },
 ];
