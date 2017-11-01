@@ -2231,5 +2231,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angulartics.github.io',
     keywords: ['page tracking','event tracking','scroll tracking']
+  },
+  {
+    id: 106,
+    name: 'angular-facebook',
+    install: {
+      packager: 'npm',
+      url: 'angular-facebook'
+    },
+    source: {
+      domain: 'github',
+      url: 'Ciul/angular-facebook'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'mA7dzreUlqqTJZqodAzv'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.3',
+    license: 'MIT',
+    details: 'http://angulartics.github.io',
+    keywords: ['facebook']
   }
 ];
