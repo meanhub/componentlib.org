@@ -4560,4 +4560,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/slidemenu',
     keywords: ['angular', 'primeng', 'slidemenu']
   },
+  {
+    id: 216,
+    name: 'primeng tabmenu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/tabmenu'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/tabmenu',
+    keywords: ['angular', 'primeng', 'tabmenu']
+  },
 ];
