@@ -2147,5 +2147,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Augus/ngAnimate',
     keywords: ['ui','animate','components']
+  },
+  {
+    id: 102,
+    name: 'angular-modal',
+    install: {
+      packager: 'npm',
+      url: 'angular-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'btford/angular-modal'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'lJDNqafSCKdpMI8AjR0B'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://github.com/btford/angular-modal',
+    keywords: ['modal','popup','popover']
   }
 ];
