@@ -2126,5 +2126,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-indeterminate',
     keywords: ['ui','indeterminate']
+  },
+  {
+    id: 101,
+    name: 'ng-animate',
+    install: {
+      packager: 'npm',
+      url: 'ng-animate'
+    },
+    source: {
+      domain: 'github',
+      url: 'Augus/ngAnimate'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://augus.github.io/ngAnimate/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2',
+    license: 'MIT',
+    details: 'https://github.com/Augus/ngAnimate',
+    keywords: ['ui','animate','components']
   }
 ];
