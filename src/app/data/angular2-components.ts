@@ -4413,4 +4413,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/menu',
     keywords: ['angular', 'primeng', 'menu']
   },
+  {
+    id: 209,
+    name: 'primeng panelmenu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/panelmenu'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/panelmenu',
+    keywords: ['angular', 'primeng', 'panelmenu']
+  },
 ];
