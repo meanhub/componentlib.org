@@ -2756,5 +2756,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://rp.js.org/ui-router-tabs/example/index.html',
     keywords: ['router','tabs','ui']
+  },
+  {
+    id: 130,
+    name: 'angular-filter',
+    install: {
+      packager: 'npm',
+      url: 'angular-filter'
+    },
+    source: {
+      domain: 'github',
+      url: 'a8m/angular-filter'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'TahmidTanzim',
+      id : 'N9Vqk'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.17',
+    license: 'MIT',
+    details: 'https://github.com/a8m/angular-filter',
+    keywords: ['filter']
   }
 ];
