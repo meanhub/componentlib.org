@@ -2168,5 +2168,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/btford/angular-modal',
     keywords: ['modal','popup','popover']
+  },
+  {
+    id: 103,
+    name: 'angular-socket-io',
+    install: {
+      packager: 'npm',
+      url: 'angular-socket-io'
+    },
+    source: {
+      domain: 'github',
+      url: 'btford/angular-socket-io'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://socket.io/demos/chat/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://socket.io/',
+    keywords: ['socket','io','input output']
   }
 ];
