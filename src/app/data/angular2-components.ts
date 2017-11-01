@@ -4497,4 +4497,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/breadcrumb',
     keywords: ['angular', 'primeng', 'breadcrumb']
   },
+  {
+    id: 213,
+    name: 'primeng megamenu',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/megamenu'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/megamenu',
+    keywords: ['angular', 'primeng', 'megamenu']
+  },
 ];
