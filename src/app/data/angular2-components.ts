@@ -4980,4 +4980,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/codehighlighter',
     keywords: ['angular', 'primeng', 'codehighlighter']
   },
+  {
+    id: 236,
+    name: 'ngx-img-fallback',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-img-fallback'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ngx-img-fallback'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ngx-img-fallback/'
+    },
+    framework: 'Angular 2+',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ngx-img-fallback',
+    keywords: ['angular-2', 'image', 'fallback', 'image-fallback']
+  },
 ];
