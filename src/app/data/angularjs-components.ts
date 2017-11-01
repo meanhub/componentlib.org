@@ -2273,5 +2273,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pc035860/angular-easyfb',
     keywords: ['easyfb']
+  },
+  {
+    id: 108,
+    name: 'angular-swagger-ui',
+    install: {
+      packager: 'npm',
+      url: 'angular-swagger-ui'
+    },
+    source: {
+      domain: 'github',
+      url: 'Orange-OpenSource/angular-swagger-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://orange-opensource.github.io/angular-swagger-ui/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'http://orange-opensource.github.io/angular-swagger-ui/',
+    keywords: ['swagger','ui']
   }
 ];
