@@ -5148,4 +5148,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/dialogs',
     keywords: ['covalent', 'material', 'teradata', 'dialogs']
   },
+  {
+    id: 244,
+    name: 'covalent data-table',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/data-table'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/data-table',
+    keywords: ['covalent', 'material', 'teradata', 'data-table']
+  },
 ];
