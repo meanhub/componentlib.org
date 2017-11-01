@@ -5190,4 +5190,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/virtual-scroll',
     keywords: ['covalent', 'material', 'teradata', 'virtual-scroll']
   },
+  {
+    id: 246,
+    name: 'covalent json-formatter',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/json-formatter'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/json-formatter',
+    keywords: ['covalent', 'material', 'teradata', 'json-formatter']
+  },
 ];
