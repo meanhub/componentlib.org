@@ -2651,5 +2651,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/danialfarid/ng-file-upload',
     keywords: ['file','upload']
+  },
+  {
+    id: 125,
+    name: 'angular-file-upload',
+    install: {
+      packager: 'npm',
+      url: 'angular-file-upload'
+    },
+    source: {
+      domain: 'github',
+      url: 'nervgh/angular-file-upload'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://nervgh.github.io/pages/angular-file-upload/examples/simple/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'https://github.com/nervgh/angular-file-upload',
+    keywords: ['file','upload']
   }
 ];
