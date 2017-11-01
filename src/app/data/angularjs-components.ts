@@ -2250,7 +2250,28 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '0.2.3',
     license: 'MIT',
-    details: 'http://angulartics.github.io',
+    details: 'https://github.com/Ciul/angular-facebook',
     keywords: ['facebook']
+  },
+  {
+    id: 107,
+    name: 'angular-easyfb',
+    install: {
+      packager: 'npm',
+      url: 'angular-easyfb'
+    },
+    source: {
+      domain: 'github',
+      url: 'pc035860/angular-easyfb'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'mA7dzreUlqqTJZqodAzv'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.2',
+    license: 'MIT',
+    details: 'https://github.com/pc035860/angular-easyfb',
+    keywords: ['easyfb']
   }
 ];
