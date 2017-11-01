@@ -2630,5 +2630,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://aping.readme.io',
     keywords: ['api','module']
+  },
+  {
+    id: 124,
+    name: 'ng-file-upload',
+    install: {
+      packager: 'npm',
+      url: 'ng-file-upload'
+    },
+    source: {
+      domain: 'github',
+      url: 'danialfarid/ng-file-upload'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-file-upload.appspot.com/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '12.2.13',
+    license: 'MIT',
+    details: 'https://github.com/danialfarid/ng-file-upload',
+    keywords: ['file','upload']
   }
 ];
