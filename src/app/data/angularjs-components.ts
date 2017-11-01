@@ -2672,5 +2672,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/nervgh/angular-file-upload',
     keywords: ['file','upload']
+  },
+  {
+    id: 126,
+    name: 'ng-flow',
+    install: {
+      packager: 'npm',
+      url: 'ng-flow'
+    },
+    source: {
+      domain: 'github',
+      url: 'flowjs/ng-flow'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://flowjs.github.io/ng-flow/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.7.7',
+    license: 'MIT',
+    details: 'http://flowjs.github.io/ng-flow/',
+    keywords: ['file','upload','gallery','image']
   }
 ];
