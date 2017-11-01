@@ -2609,5 +2609,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://platanus.github.io/angular-restmod/',
     keywords: ['restmod','Hooks']
+  },
+  {
+    id: 123,
+    name: 'apiNG',
+    install: {
+      packager: 'bower',
+      url: 'apiNG'
+    },
+    source: {
+      domain: 'github',
+      url: 'JohnnyTheTank/apiNG'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'xmflhJ'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.1',
+    license: 'MIT',
+    details: 'https://aping.readme.io',
+    keywords: ['api','module']
   }
 ];
