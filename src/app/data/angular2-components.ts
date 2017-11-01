@@ -4833,4 +4833,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/validation',
     keywords: ['angular', 'primeng', 'validation']
   },
+  {
+    id: 229,
+    name: 'primeng progressspinner',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/progressspinner'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/progressspinner',
+    keywords: ['angular', 'primeng', 'progressspinner']
+  },
 ];
