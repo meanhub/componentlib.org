@@ -2210,5 +2210,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://docs.telerik.com/kendo-ui/AngularJS/introduction',
     keywords: ['kendo','ui','components']
+  },
+  {
+    id: 105,
+    name: 'angulartics',
+    install: {
+      packager: 'npm',
+      url: 'angulartics'
+    },
+    source: {
+      domain: 'github',
+      url: 'angulartics/angulartics'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'YldKruEbVJP1LqOjdZWa'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.1',
+    license: 'MIT',
+    details: 'http://angulartics.github.io',
+    keywords: ['page tracking','event tracking','scroll tracking']
   }
 ];
