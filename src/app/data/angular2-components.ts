@@ -4518,4 +4518,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/megamenu',
     keywords: ['angular', 'primeng', 'megamenu']
   },
+  {
+    id: 214,
+    name: 'primeng menubar',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/menubar'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/menubar',
+    keywords: ['angular', 'primeng', 'menubar']
+  },
 ];
