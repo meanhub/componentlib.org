@@ -4770,4 +4770,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/galleria',
     keywords: ['angular', 'primeng', 'galleria']
   },
+  {
+    id: 226,
+    name: 'primeng dragdrop',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/dragdrop'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/dragdrop',
+    keywords: ['angular', 'primeng', 'dragdrop']
+  },
 ];
