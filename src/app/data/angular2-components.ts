@@ -5043,4 +5043,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/expansion-panel',
     keywords: ['covalent', 'material', 'teradata', 'expansion-panel']
   },
+  {
+    id: 239,
+    name: 'covalent file-input',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/file-input'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/file-input',
+    keywords: ['covalent', 'material', 'teradata', 'file-input']
+  },
 ];
