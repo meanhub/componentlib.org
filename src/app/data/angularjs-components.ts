@@ -2189,5 +2189,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://socket.io/',
     keywords: ['socket','io','input output']
+  },
+  {
+    id: 104,
+    name: 'angular-kendo',
+    install: {
+      packager: 'npm',
+      url: 'angular-kendo'
+    },
+    source: {
+      domain: 'github',
+      url: 'kendo-labs/angular-kendo'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://demos.telerik.com/kendo-ui/grid/index'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://docs.telerik.com/kendo-ui/AngularJS/introduction',
+    keywords: ['kendo','ui','components']
   }
 ];
