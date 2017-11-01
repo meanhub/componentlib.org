@@ -4938,4 +4938,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/inplace',
     keywords: ['angular', 'primeng', 'inplace']
   },
+  {
+    id: 234,
+    name: 'primeng progressbar',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/progressbar'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/progressbar',
+    keywords: ['angular', 'primeng', 'progressbar']
+  },
 ];
