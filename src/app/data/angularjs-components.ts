@@ -2315,5 +2315,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-translate.github.io/',
     keywords: ['translate','ui']
+  },
+  {
+    id: 110,
+    name: 'angular-gettext',
+    install: {
+      packager: 'npm',
+      url: 'angular-gettext'
+    },
+    source: {
+      domain: 'github',
+      url: 'rubenv/angular-gettext'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-gettext.rocketeer.be/dev-guide/getting-started/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.3.10',
+    license: 'MIT',
+    details: 'https://angular-gettext.rocketeer.be/',
+    keywords: ['gettext','utilities']
+  },
+  {
+    id: 111,
+    name: 'n3-charts',
+    install: {
+      packager: 'npm',
+      url: 'n3-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'n3-charts/line-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://n3-charts.github.io/line-chart/#/examples'
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.0-beta.4',
+    license: 'MIT',
+    details: 'http://n3-charts.github.io/line-chart/#/home',
+    keywords: ['charts','line','time','area','Interpolation']
   }
 ];
