@@ -4665,4 +4665,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/chart/bar',
     keywords: ['angular', 'primeng', 'chart', 'bar']
   },
+  {
+    id: 221,
+    name: 'primeng line chart',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/chart/line'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/chart/line',
+    keywords: ['angular', 'primeng', 'chart', 'line']
+  },
 ];
