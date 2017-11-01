@@ -4434,4 +4434,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/panelmenu',
     keywords: ['angular', 'primeng', 'panelmenu']
   },
+  {
+    id: 210,
+    name: 'primeng steps',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/steps'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/steps',
+    keywords: ['angular', 'primeng', 'steps']
+  },
 ];
