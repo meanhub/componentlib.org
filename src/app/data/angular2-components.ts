@@ -5379,4 +5379,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/code-editor',
     keywords: ['covalent', 'material', 'teradata', 'code-editor']
   },
+  {
+    id: 255,
+    name: 'covalent text-editor',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/text-editor'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent-text-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/text-editor'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/text-editor',
+    keywords: ['covalent', 'material', 'teradata', 'text-editor']
+  },
 ];
