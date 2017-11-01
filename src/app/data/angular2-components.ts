@@ -4959,4 +4959,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/progressbar',
     keywords: ['angular', 'primeng', 'progressbar']
   },
+  {
+    id: 235,
+    name: 'primeng codehighlighter',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/codehighlighter'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/codehighlighter',
+    keywords: ['angular', 'primeng', 'codehighlighter']
+  },
 ];
