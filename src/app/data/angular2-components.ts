@@ -5337,4 +5337,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/markdown',
     keywords: ['covalent', 'material', 'teradata', 'markdown']
   },
+  {
+    id: 253,
+    name: 'covalent dynamic-forms',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/dynamic-forms'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/dynamic-forms'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/dynamic-forms',
+    keywords: ['covalent', 'material', 'teradata', 'dynamic-forms']
+  },
 ];
