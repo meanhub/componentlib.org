@@ -4602,4 +4602,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/chart/doughnut',
     keywords: ['angular', 'primeng', 'doughnut', 'chart']
   },
+  {
+    id: 218,
+    name: 'primeng polararea chart',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/chart/polararea'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/chart/polararea',
+    keywords: ['angular', 'primeng', 'polararea', 'chart']
+  },
 ];
