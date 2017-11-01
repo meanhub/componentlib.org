@@ -2546,5 +2546,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://kasperlewau.github.io/angular-bind-notifier/',
     keywords: ['watch','count','notifier']
+  },
+  {
+    id: 120,
+    name: 'angular-mobile-nav',
+    install: {
+      packager: 'bower',
+      url: 'angular-mobile-nav'
+    },
+    source: {
+      domain: 'github',
+      url: 'ajoslin/angular-mobile-nav'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ajoslin.com/angular-mobile-nav/#/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/ajoslin/angular-mobile-nav',
+    keywords: ['mobile','nav']
   }
 ];
