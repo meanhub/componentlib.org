@@ -4623,4 +4623,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/chart/polararea',
     keywords: ['angular', 'primeng', 'polararea', 'chart']
   },
+  {
+    id: 219,
+    name: 'primeng radar chart',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/chart/radar'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/chart/radar',
+    keywords: ['angular', 'primeng', 'radar', 'chart']
+  },
 ];
