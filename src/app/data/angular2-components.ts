@@ -5358,4 +5358,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/dynamic-forms',
     keywords: ['covalent', 'material', 'teradata', 'dynamic-forms']
   },
+  {
+    id: 254,
+    name: 'covalent code-editor',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/code-editor'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent-code-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/code-editor'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/code-editor',
+    keywords: ['covalent', 'material', 'teradata', 'code-editor']
+  },
 ];
