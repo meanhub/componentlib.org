@@ -2362,7 +2362,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 112,
     name: 'angular-google-chart',
     install: {
-      packager: 'npm',
+      packager: 'bower',
       url: 'angular-google-chart'
     },
     source: {
@@ -2377,6 +2377,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0-beta.1',
     license: 'MIT',
     details: 'http://angular-google-chart.github.io/angular-google-chart/',
+    keywords: ['charts','line','time','area','bar']
+  },
+  {
+    id: 113,
+    name: 'angular-nvd3',
+    install: {
+      packager: 'bower',
+      url: 'angular-nvd3'
+    },
+    source: {
+      domain: 'github',
+      url: 'krispo/angular-nvd3'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://krispo.github.io/angular-nvd3/#/lineChart'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.9',
+    license: 'MIT',
+    details: 'http://krispo.github.io/angular-nvd3/#/',
     keywords: ['charts','line','time','area','bar']
   }
 ];
