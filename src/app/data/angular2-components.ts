@@ -5253,4 +5253,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/notifications',
     keywords: ['covalent', 'material', 'teradata', 'notifications']
   },
+  {
+    id: 249,
+    name: 'covalent message',
+    install: [{
+      packager: 'npm',
+      url: '@covalent/core'
+    }],
+    source: {
+      domain: 'github',
+      url: 'Teradata/covalent'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://teradata.github.io/covalent/#/components/message'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.8-1',
+    license: 'MIT',
+    details: 'https://teradata.github.io/covalent/#/components/message',
+    keywords: ['covalent', 'material', 'teradata', 'message']
+  },
 ];
