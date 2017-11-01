@@ -4791,4 +4791,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://www.primefaces.org/primeng/#/dragdrop',
     keywords: ['angular', 'primeng', 'dragdrop']
   },
+  {
+    id: 227,
+    name: 'primeng captcha',
+    install: [{
+      packager: 'npm',
+      url: 'primeng'
+    }],
+    source: {
+      domain: 'github',
+      url: 'primefaces/primeng'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.primefaces.org/primeng/#/captcha'
+    },
+    framework: 'Angular 2+',
+    version: '4.3.0',
+    license: 'MIT',
+    details: 'https://www.primefaces.org/primeng/#/captcha',
+    keywords: ['angular', 'primeng', 'captcha']
+  },
 ];
