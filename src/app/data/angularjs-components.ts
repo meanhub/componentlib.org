@@ -2693,5 +2693,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://flowjs.github.io/ng-flow/',
     keywords: ['file','upload','gallery','image']
+  },
+  {
+    id: 127,
+    name: 'angular-filemanager',
+    install: {
+      packager: 'npm',
+      url: 'angular-filemanager'
+    },
+    source: {
+      domain: 'github',
+      url: 'joni2back/angular-filemanager'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-filemanager.zendelsolutions.com/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'https://angular-filemanager.zendelsolutions.com/',
+    keywords: ['file','filemanager']
   }
 ];
