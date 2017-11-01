@@ -2509,7 +2509,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 118,
     name: 'angularjs-in-patterns',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'angularjs-in-patterns'
     },
     source: {
@@ -2530,7 +2530,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 119,
     name: 'angular-bind-notifier',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'angular-bind-notifier'
     },
     source: {
@@ -2551,7 +2551,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 120,
     name: 'angular-mobile-nav',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'angular-mobile-nav'
     },
     source: {
@@ -2567,5 +2567,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ajoslin/angular-mobile-nav',
     keywords: ['mobile','nav']
+  },
+  {
+    id: 121,
+    name: 'ionic-native',
+    install: {
+      packager: 'npm',
+      url: '@ionic-native/core'
+    },
+    source: {
+      domain: 'github',
+      url: 'ionic-team/ionic-native'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ionicframework.com/products/view'
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.3.3',
+    license: 'MIT',
+    details: 'http://ionicframework.com/',
+    keywords: ['mobile','testing']
+  },
+  {
+    id: 122,
+    name: 'angular-restmod',
+    install: {
+      packager: 'npm',
+      url: 'angular-restmod'
+    },
+    source: {
+      domain: 'github',
+      url: 'platanus/angular-restmod'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://platanus.github.io/angular-restmod/tutorial-hooks.html'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.11',
+    license: 'MIT',
+    details: 'http://platanus.github.io/angular-restmod/',
+    keywords: ['restmod','Hooks']
   }
 ];
