@@ -2399,5 +2399,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://krispo.github.io/angular-nvd3/#/',
     keywords: ['charts','line','time','area','bar']
+  },
+  {
+    id: 114,
+    name: 'angular-charts',
+    install: {
+      packager: 'bower',
+      url: 'angular-charts'
+    },
+    source: {
+      domain: 'github',
+      url: 'chinmaymk/angular-charts'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'T9J7bz'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.6.7',
+    license: 'MIT',
+    details: 'https://github.com/gianarb/awesome-angularjs',
+    keywords: ['charts','line','time','area','bar']
   }
 ];
