@@ -6009,4 +6009,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/tree-view',
     keywords: ['clarity', 'ux', 'ui', 'tree-view']
   },
+  {
+    id: 285,
+    name: 'clarity vertical-nav',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/vertical-nav/basic-structure/charmander#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/vertical-nav/basic-structure/charmander',
+    keywords: ['clarity', 'ux', 'ui', 'vertical-nav']
+  },
 ];
