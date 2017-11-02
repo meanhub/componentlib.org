@@ -5610,4 +5610,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/dropdowns',
     keywords: ['clarity', 'ux', 'ui', 'dropdowns']
   },
+  {
+    id: 266,
+    name: 'clarity forms',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/forms#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/forms',
+    keywords: ['clarity', 'ux', 'ui', 'forms']
+  },
 ];
