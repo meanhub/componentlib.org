@@ -5421,4 +5421,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/JayKan/ng2-swipeable-card',
     keywords: ['card-component', 'material-design', 'swipeable-cards']
   },
+  {
+    id: 257,
+    name: 'clarity alerts',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/alerts#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/alerts',
+    keywords: ['clarity', 'ux', 'ui', 'alerts']
+  },
 ];
