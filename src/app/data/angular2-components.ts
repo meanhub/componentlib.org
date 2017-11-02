@@ -5988,4 +5988,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/tooltips',
     keywords: ['clarity', 'ux', 'ui', 'tooltips']
   },
+  {
+    id: 284,
+    name: 'clarity tree-view',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/tree-view#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/tree-view',
+    keywords: ['clarity', 'ux', 'ui', 'tree-view']
+  },
 ];
