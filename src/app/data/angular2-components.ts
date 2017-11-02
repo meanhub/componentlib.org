@@ -5694,4 +5694,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/labels',
     keywords: ['clarity', 'ux', 'ui', 'labels']
   },
+  {
+    id: 270,
+    name: 'clarity lists',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/lists#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/lists',
+    keywords: ['clarity', 'ux', 'ui', 'lists']
+  },
 ];
