@@ -5400,4 +5400,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://teradata.github.io/covalent/#/components/text-editor',
     keywords: ['covalent', 'material', 'teradata', 'text-editor']
   },
+  {
+    id: 256,
+    name: 'ng2-swipeable-card',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-swipeable-card'
+    }],
+    source: {
+      domain: 'github',
+      url: 'JayKan/ng2-swipeable-card'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng2-swipeable-card.firebaseapp.com/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.3-9',
+    license: 'MIT',
+    details: 'https://github.com/JayKan/ng2-swipeable-card',
+    keywords: ['card-component', 'material-design', 'swipeable-cards']
+  },
 ];
