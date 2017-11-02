@@ -5547,4 +5547,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/checkboxes',
     keywords: ['clarity', 'ux', 'ui', 'checkboxes']
   },
+  {
+    id: 263,
+    name: 'clarity code-highlight',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/code-highlight#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/code-highlight',
+    keywords: ['clarity', 'ux', 'ui', 'code-highlight']
+  },
 ];
