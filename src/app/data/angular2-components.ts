@@ -5463,4 +5463,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/badges',
     keywords: ['clarity', 'ux', 'ui', 'badges']
   },
+  {
+    id: 259,
+    name: 'clarity buttons',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/buttons#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/buttons',
+    keywords: ['clarity', 'ux', 'ui', 'buttons']
+  },
 ];
