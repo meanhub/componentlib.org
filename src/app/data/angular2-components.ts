@@ -5841,4 +5841,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/sidenav',
     keywords: ['clarity', 'ux', 'ui', 'sidenav']
   },
+  {
+    id: 277,
+    name: 'clarity signposts',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/signposts#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/signposts',
+    keywords: ['clarity', 'ux', 'ui', 'signposts']
+  },
 ];
