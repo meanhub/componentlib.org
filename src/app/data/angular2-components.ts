@@ -5778,4 +5778,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/progress',
     keywords: ['clarity', 'ux', 'ui', 'progress', 'bar']
   },
+  {
+    id: 274,
+    name: 'clarity radios',
+    install: [{
+      packager: 'npm',
+      url: 'clarity-angular'
+    }],
+    source: {
+      domain: 'github',
+      url: 'vmware/clarity'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vmware.github.io/clarity/documentation/radios#examples'
+    },
+    framework: 'Angular 2+',
+    version: '0.10.11',
+    license: 'MIT',
+    details: 'https://vmware.github.io/clarity/documentation/radios',
+    keywords: ['clarity', 'ux', 'ui', 'radios']
+  },
 ];
