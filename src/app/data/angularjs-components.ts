@@ -2797,7 +2797,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '1.3.8',
     license: 'MIT',
-    details: 'https://github.com/a8m/angular-filter',
+    details: 'https://github.com/a5hik/ng-sortable/',
     keywords: ['sortable','sorting']
   },
   {
@@ -2813,12 +2813,33 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'plunker',
-      src : '8qrGeE',
+      id : '8qrGeE',
     },
     framework: 'AngularJS 1.x',
     version: '1.6.1',
     license: 'MIT',
-    details: 'https://github.com/a8m/angular-filter',
+    details: 'https://github.com/mgonto/restangular',
     keywords: ['restangular','get','post','put','delete']
+  },
+  {
+    id: 133,
+    name: 'angular-ui-tree',
+    install: {
+      packager: 'bower',
+      url: 'angular-ui-tree'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-ui-tree/angular-ui-tree'
+    },
+    demo: {
+      repl: 'custpm',
+      src : 'http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.22.5',
+    license: 'MIT',
+    details: 'http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example',
+    keywords: ['ui','tree','drag','drop','draggable']
   }
 ];
