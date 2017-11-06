@@ -2841,5 +2841,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example',
     keywords: ['ui','tree','drag','drop','draggable']
+  },
+  {
+    id: 134,
+    name: 'cosmo',
+    source: {
+      domain: 'github',
+      url: 'cosmocms/cosmo'
+    },
+    demo: {
+      repl: 'custpm',
+      src : 'http://www.cosmocms.org/demo/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://www.cosmocms.org/',
+    keywords: ['cms','single page','app']
   }
 ];
