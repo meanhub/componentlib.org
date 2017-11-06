@@ -2880,4 +2880,46 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/witoldsz/angular-http-auth',
     keywords: ['http','auth']
   },
+  {
+    id: 135,
+    name: 'angular-http-auth',
+    install: {
+      packager: 'bower',
+      url: 'angular-http-auth'
+    },
+    source: {
+      domain: 'github',
+      url: 'witoldsz/angular-http-auth'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://witoldsz.github.io/angular-http-auth/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/witoldsz/angular-http-auth',
+    keywords: ['http','auth']
+  },
+  {
+    id: 136,
+    name: 'ng-autocomplete',
+    install: {
+      packager: 'bower',
+      url: 'ng-autocomplete'
+    },
+    source: {
+      domain: 'github',
+      url: 'wpalahnuk/ngAutocomplete'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'GE34ojss9xMGm0024FvM',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.4',
+    license: 'MIT',
+    details: 'https://github.com/witoldsz/angular-http-auth',
+    keywords: ['autocomplete','auto']
+  }
 ];
