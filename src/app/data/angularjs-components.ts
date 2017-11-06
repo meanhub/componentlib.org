@@ -2799,5 +2799,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/a8m/angular-filter',
     keywords: ['sortable','sorting']
+  },
+  {
+    id: 132,
+    name: 'restangular',
+    install: {
+      packager: 'npm',
+      url: 'restangular'
+    },
+    source: {
+      domain: 'github',
+      url: 'mgonto/restangular'
+    },
+    demo: {
+      repl: 'plunker',
+      src : '8qrGeE',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.6.1',
+    license: 'MIT',
+    details: 'https://github.com/a8m/angular-filter',
+    keywords: ['restangular','get','post','put','delete']
   }
 ];
