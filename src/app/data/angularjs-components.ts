@@ -2833,7 +2833,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'angular-ui-tree/angular-ui-tree'
     },
     demo: {
-      repl: 'custpm',
+      repl: 'custom',
       src : 'http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example',
     },
     framework: 'AngularJS 1.x',
@@ -2850,7 +2850,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'cosmocms/cosmo'
     },
     demo: {
-      repl: 'custpm',
+      repl: 'custom',
       src : 'http://www.cosmocms.org/demo/',
     },
     framework: 'AngularJS 1.x',
@@ -2858,5 +2858,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.cosmocms.org/',
     keywords: ['cms','single page','app']
-  }
+  },
+  {
+    id: 135,
+    name: 'angular-http-auth',
+    install: {
+      packager: 'bower',
+      url: 'angular-http-auth'
+    },
+    source: {
+      domain: 'github',
+      url: 'witoldsz/angular-http-auth'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://witoldsz.github.io/angular-http-auth/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/witoldsz/angular-http-auth',
+    keywords: ['http','auth']
+  },
 ];
