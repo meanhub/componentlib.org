@@ -2861,24 +2861,24 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 135,
-    name: 'angular-http-auth',
+    name: 'ng-draggable',
     install: {
-      packager: 'bower',
-      url: 'angular-http-auth'
+      packager: 'npm',
+      url: 'ng-draggable'
     },
     source: {
       domain: 'github',
-      url: 'witoldsz/angular-http-auth'
+      url: 'fatlinesofcode/ngDraggable'
     },
     demo: {
       repl: 'custom',
-      src : 'http://witoldsz.github.io/angular-http-auth/',
+      src : 'http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example.html',
     },
     framework: 'AngularJS 1.x',
-    version: '1.5.0',
+    version: '0.1.12',
     license: 'MIT',
-    details: 'https://github.com/witoldsz/angular-http-auth',
-    keywords: ['http','auth']
+    details: 'https://github.com/fatlinesofcode/ngDraggable',
+    keywords: ['drag','drop','draggable']
   },
   {
     id: 135,
