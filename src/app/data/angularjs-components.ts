@@ -2926,7 +2926,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 137,
     name: 'angularjs-toaster',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'angularjs-toaster'
     },
     source: {
@@ -2947,7 +2947,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 138,
     name: 'ng-dialog',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'ng-dialog'
     },
     source: {
@@ -2963,5 +2963,47 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
     keywords: ['dialog','modal','popup']
+  },
+  {
+    id: 139,
+    name: 'ng-dialog',
+    install: {
+      packager: 'npm',
+      url: 'ng-dialog'
+    },
+    source: {
+      domain: 'github',
+      url: 'likeastore/ngDialog'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://likeastore.github.io/ngDialog/#',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'http://likeastore.github.io/ngDialog/#',
+    keywords: ['dialog','modal','popup']
+  },
+  {
+    id: 140,
+    name: 'ng-tags-input',
+    install: {
+      packager: 'npm',
+      url: 'ng-tags-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'mbenford/ngTagsInput'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'RHm7H2',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.2.0',
+    license: 'MIT',
+    details: 'http://mbenford.github.io/ngTagsInput/',
+    keywords: ['tags','input']
   }
 ];
