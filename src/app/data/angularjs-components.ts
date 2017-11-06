@@ -2942,5 +2942,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
     keywords: ['toaster','notification','message']
+  },
+  {
+    id: 138,
+    name: 'ng-dialog',
+    install: {
+      packager: 'bower',
+      url: 'ng-dialog'
+    },
+    source: {
+      domain: 'github',
+      url: 'likeastore/ngDialog'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://likeastore.github.io/ngDialog/#',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'https://github.com/witoldsz/angular-http-auth',
+    keywords: ['dialog','modal','popup']
   }
 ];
