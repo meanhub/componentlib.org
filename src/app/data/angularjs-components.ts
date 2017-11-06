@@ -2778,5 +2778,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/a8m/angular-filter',
     keywords: ['filter']
+  },
+  {
+    id: 131,
+    name: 'ng-sortable',
+    install: {
+      packager: 'npm',
+      url: 'ng-sortable'
+    },
+    source: {
+      domain: 'github',
+      url: 'a5hik/ng-sortable/'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://a5hik.github.io/ng-sortable/#/sprint',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.8',
+    license: 'MIT',
+    details: 'https://github.com/a8m/angular-filter',
+    keywords: ['sortable','sorting']
   }
 ];
