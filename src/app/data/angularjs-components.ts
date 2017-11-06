@@ -2905,7 +2905,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 136,
     name: 'ng-autocomplete',
     install: {
-      packager: 'bower',
+      packager: 'npm',
       url: 'ng-autocomplete'
     },
     source: {
@@ -2921,5 +2921,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
     keywords: ['autocomplete','auto']
+  },
+  {
+    id: 137,
+    name: 'angularjs-toaster',
+    install: {
+      packager: 'bower',
+      url: 'angularjs-toaster'
+    },
+    source: {
+      domain: 'github',
+      url: 'jirikavi/AngularJS-Toaster'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'Esrdbl5S6hcmhiVmSjiF',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://github.com/witoldsz/angular-http-auth',
+    keywords: ['toaster','notification','message']
   }
 ];
