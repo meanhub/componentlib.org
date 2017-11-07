@@ -3046,6 +3046,24 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://revolunet.github.io/angular-carousel/',
-    keywords: ['autocomplete','dropdown']
+    keywords: ['carousel','slider']
+  },
+  {
+    id: 143,
+    name: 'angular.treeview',
+    source: {
+      domain: 'github',
+      url: 'eu81273/angular.treeview'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'eu81273',
+      id : '8LWUc'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/eu81273/angular.treeview#angular-treeview',
+    keywords: ['treeview','tree']
   }
 ];
