@@ -3637,6 +3637,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/wecatch/ember-format-json',
 		keywords:['ember-addon','formatter','json','format-json']
+	},{
+		id:172,
+		name:'ember-scroll-to-top',
+		install: {
+			packager:'ember',
+			url:'ember-scroll-to-top'
+		},
+		source:{
+			domain:'github',
+			url:'zhujy8833/ember-scroll-to-top',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://zhujy8833.github.io/ember-scroll-to-top/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/zhujy8833/ember-scroll-to-top',
+		keywords:['ember-addon','ember-scroll-to-top','scroll-to-top']
 	}
 	
 ];
