@@ -3448,6 +3448,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'ASF2',
 		details:'http://indexiatech.github.io/ember-idx-tree/',
 		keywords:['ember-addon','idx-tree','tree']
+	},{
+		id:163,
+		name:'ember-scroll-progress',
+		install: {
+			packager:'ember',
+			url:'ember-scroll-progress'
+		},
+		source:{
+			domain:'github',
+			url:'gowthamrm/ember-scroll-progress',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'https://gowthamrm.github.io/ember-scroll-progress/'
+		},
+		framework:'Ember',
+		version:'0.5.0',
+		license:'MIT',
+		details:'https://gowthamrm.github.io/ember-scroll-progress/',
+		keywords:['ember-addon','scroll-progress','scroll','progress']
 	}
 	
 ];
