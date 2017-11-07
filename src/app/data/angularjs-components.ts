@@ -3087,5 +3087,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pablojim/highcharts-ng',
     keywords: ['charts','highcharts']
+  },
+  {
+    id: 145,
+    name: 'angucomplete-alt',
+    install: {
+      packager: 'npm',
+      url: 'angucomplete-alt'
+    },
+    source: {
+      domain: 'github',
+      url: 'ghiden/angucomplete-alt'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ghiden.github.io/angucomplete-alt/#example1',
+      id : 'Cp73s'
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'http://ghiden.github.io/angucomplete-alt/',
+    keywords: ['autocomplete','dropdown']
   }
 ];
