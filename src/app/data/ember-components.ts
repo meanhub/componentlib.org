@@ -4186,6 +4186,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-core/#/helpers',
 		keywords:['ember-addon','frost-helpers','helpers','frost']
+	},{
+		id:198,
+		name:'ember-one-way-controls',
+		install: {
+			packager:'ember',
+			url:'ember-one-way-controls'
+		},
+		source:{
+			domain:'github',
+			url:'dockyard/ember-one-way-controls',
+			stars: 181
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-twiddle.com/2d7246875098d0dbb4a4'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ember-twiddle.com/2d7246875098d0dbb4a4',
+		keywords:['ember-addon','ember-one-way-controls','one-way']
 	}
 	
 ];
