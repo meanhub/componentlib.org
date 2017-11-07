@@ -3913,6 +3913,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-css.md',
 		keywords:['ember-addon','frost-theme','theme','frost','palette']
+	},{
+		id:185,
+		name:'ember-frost-core-icon',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/icons'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-icons.md',
+		keywords:['ember-addon','frost-icon','icon','frost']
 	}
 	
 ];
