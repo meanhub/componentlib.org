@@ -3168,5 +3168,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://hackedbychinese.github.io/ng-idle/',
     keywords: ['idle','timeout','delay']
+  },
+  {
+    id: 149,
+    name: 'angular-dialog-service',
+    install: {
+      packager: 'npm',
+      url: 'angular-dialog-service'
+    },
+    source: {
+      domain: 'github',
+      url: 'm-e-conroy/angular-dialog-service'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://codepen.io/m-e-conroy/full/rkIqv/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '5.3.0',
+    license: 'MIT',
+    details: 'http://hackedbychinese.github.io/ng-idle/',
+    keywords: ['dialog','popup','notification','service']
   }
 ];
