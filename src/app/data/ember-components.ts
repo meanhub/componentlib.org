@@ -3787,6 +3787,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://foxnewsnetwork.github.io/ember-pricing-table/',
 		keywords:['ember-addon','pricing-table','pricing','table']
+	},{
+		id:179,
+		name:'ember-card-stacks',
+		install: {
+			packager:'ember',
+			url:'ember-card-stacks'
+		},
+		source:{
+			domain:'github',
+			url:'addons/ember-card-stacks',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://n1ru4l.github.io/ember-card-stacks/'
+		},
+		framework:'Ember',
+		version:'0.3.0',
+		license:'MIT',
+		details:'https://n1ru4l.github.io/ember-card-stacks/',
+		keywords:['ember-addon','card-stacks','card','animation','ember']
 	}
 	
 ];
