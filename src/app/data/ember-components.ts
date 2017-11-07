@@ -3955,6 +3955,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-core/#/link',
 		keywords:['ember-addon','frost-link','link','frost']
+	},{
+		id:187,
+		name:'ember-frost-core-loading',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/loading'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/loading',
+		keywords:['ember-addon','frost-loading','loading','frost']
 	}
 	
 ];
