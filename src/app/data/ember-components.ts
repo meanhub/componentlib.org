@@ -3490,6 +3490,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Subtletree/ember-paper-link',
 		keywords:['ember-addon','ember-paper','material design']
+	},{
+		id:165,
+		name:'ember-paper-stepper',
+		install: {
+			packager:'ember',
+			url:'ember-paper-stepper'
+		},
+		source:{
+			domain:'github',
+			url:'CoachLogix/ember-paper-stepper',
+			stars: 18
+		},
+		demo:{
+			repl:'custom',
+			src:'https://coachlogix.github.io/ember-paper-stepper/'
+		},
+		framework:'Ember',
+		version:'0.0.5',
+		license:'MIT',
+		details:'https://github.com/CoachLogix/ember-paper-stepper',
+		keywords:['ember-addon','ember-paper','ember-paper-stepper','material design']
 	}
 	
 ];
