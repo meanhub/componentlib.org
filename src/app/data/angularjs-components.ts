@@ -3057,7 +3057,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'jsfiddle',
-      src : 'eu81273',
+      user : 'eu81273',
       id : '8LWUc'
     },
     framework: 'AngularJS 1.x',
@@ -3065,5 +3065,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/eu81273/angular.treeview#angular-treeview',
     keywords: ['treeview','tree']
+  },
+  {
+    id: 144,
+    name: 'highcharts-ng',
+    install: {
+      packager: 'npm',
+      url: 'highcharts-ng'
+    },
+    source: {
+      domain: 'github',
+      url: 'pablojim/highcharts-ng'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'pablojim',
+      id : 'Cp73s'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/pablojim/highcharts-ng',
+    keywords: ['charts','highcharts']
   }
 ];
