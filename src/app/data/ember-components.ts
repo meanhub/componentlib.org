@@ -3574,6 +3574,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://mattmazzola.github.io/ember-fuzzy-shim/',
 		keywords:['ember-addon','fuzzy','search','matching']
+	},{
+		id:169,
+		name:'ember-image-slider',
+		install: {
+			packager:'ember',
+			url:'ember-image-slider'
+		},
+		source:{
+			domain:'github',
+			url:'MartinMalinda/ember-image-slider',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://martinmalinda.github.io/ember-image-slider/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://github.com/MartinMalinda/ember-image-slider',
+		keywords:['ember-addon','ember-image-slider','image-slider','slider']
 	}
 	
 ];
