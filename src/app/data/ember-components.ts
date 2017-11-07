@@ -3679,6 +3679,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/minutebase/mb-menu',
 		keywords:['ember-addon','menu','multiple selection','single selection']
+	},{
+		id:174,
+		name:'ember-cli-tooltipster',
+		install: {
+			packager:'ember',
+			url:'ember-cli-tooltipster'
+		},
+		source:{
+			domain:'github',
+			url:'cprussin/ember-cli-tooltipster',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://altrim.github.io/ember-cli-tooltipster/'
+		},
+		framework:'Ember',
+		version:'0.1.4',
+		license:'MIT',
+		details:'http://altrim.github.io/ember-cli-tooltipster/',
+		keywords:['ember-addon','tooltipster','tooltip','popover']
 	}
 	
 ];
