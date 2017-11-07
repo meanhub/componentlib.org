@@ -3126,5 +3126,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/iameugenejo/ngScrollTo',
     keywords: ['scroll','pagescroll']
+  },
+  {
+    id: 147,
+    name: 'ngUpload',
+    install: {
+      packager: 'bower',
+      url: 'ngUpload'
+    },
+    source: {
+      domain: 'github',
+      url: 'twilson63/ngUpload'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://twilson63.github.io/ngUpload/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.7',
+    license: 'MIT',
+    details: 'http://twilson63.github.io/ngUpload/',
+    keywords: ['upload','image','file']
   }
 ];
