@@ -4081,6 +4081,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-core/#/area',
 		keywords:['ember-addon','frost-textarea','textarea','frost']
+	},{
+		id:193,
+		name:'ember-frost-core-textfield',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/field'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/field',
+		keywords:['ember-addon','frost-text','text','frost']
 	}
 	
 ];
