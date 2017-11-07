@@ -3766,6 +3766,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Deveo/ember-sliding-sticky',
 		keywords:['ember-addon','sticky','position-sticky','position']
+	},{
+		id:178,
+		name:'ember-pricing-table',
+		install: {
+			packager:'ember',
+			url:'ember-pricing-table'
+		},
+		source:{
+			domain:'github',
+			url:'foxnewsnetwork/ember-pricing-table',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://foxnewsnetwork.github.io/ember-pricing-table/'
+		},
+		framework:'Ember',
+		version:'0.2.1',
+		license:'MIT',
+		details:'https://foxnewsnetwork.github.io/ember-pricing-table/',
+		keywords:['ember-addon','pricing-table','pricing','table']
 	}
 	
 ];
