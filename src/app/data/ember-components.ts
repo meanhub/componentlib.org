@@ -3616,6 +3616,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/nucleartide/ember-outside-click',
 		keywords:['ember-addon','ember-outside-click','outside-click','click','outside']
+	},{
+		id:171,
+		name:'ember-format-json',
+		install: {
+			packager:'ember',
+			url:'ember-format-json'
+		},
+		source:{
+			domain:'github',
+			url:'wecatch/ember-format-json',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://wecatch.me/ember-format-json'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'https://github.com/wecatch/ember-format-json',
+		keywords:['ember-addon','formatter','json','format-json']
 	}
 	
 ];
