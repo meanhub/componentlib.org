@@ -3189,5 +3189,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://hackedbychinese.github.io/ng-idle/',
     keywords: ['dialog','popup','notification','service']
+  },
+  {
+    id: 150,
+    name: 'ionic',
+    source: {
+      domain: 'github',
+      url: 'ionic-team/ionic'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ionicframework.com/docs/components/#cards',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.8.0',
+    license: 'MIT',
+    details: 'http://ionicframework.com/',
+    keywords: ['ionic','mobile','iphone','framework']
   }
 ];
