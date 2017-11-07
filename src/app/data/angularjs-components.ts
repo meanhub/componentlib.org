@@ -3102,12 +3102,29 @@ export const ANGULARJS_COMPONENTS: any[] = [
     demo: {
       repl: 'custom',
       src : 'http://ghiden.github.io/angucomplete-alt/#example1',
-      id : 'Cp73s'
     },
     framework: 'AngularJS 1.x',
     version: '3.0.0',
     license: 'MIT',
     details: 'http://ghiden.github.io/angucomplete-alt/',
     keywords: ['autocomplete','dropdown']
+  },
+  {
+    id: 146,
+    name: 'ngScrollTo',
+    source: {
+      domain: 'github',
+      url: 'iameugenejo/ngScrollTo'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : '8Mtxc',
+      id : '86'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.7',
+    license: 'MIT',
+    details: 'https://github.com/iameugenejo/ngScrollTo',
+    keywords: ['scroll','pagescroll']
   }
 ];
