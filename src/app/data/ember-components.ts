@@ -3469,6 +3469,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://gowthamrm.github.io/ember-scroll-progress/',
 		keywords:['ember-addon','scroll-progress','scroll','progress']
+	},{
+		id:164,
+		name:'ember-paper-link',
+		install: {
+			packager:'ember',
+			url:'ember-paper-link'
+		},
+		source:{
+			domain:'github',
+			url:'Subtletree/ember-paper-link',
+			stars: 9
+		},
+		demo:{
+			repl:'custom',
+			src:'https://subtletree.github.io/ember-paper-link/#/third-route'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://github.com/Subtletree/ember-paper-link',
+		keywords:['ember-addon','ember-paper','material design']
 	}
 	
 ];
