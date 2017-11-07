@@ -4228,6 +4228,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://tim-evans.github.io/ember-autoresize/',
 		keywords:['ember-addon','autoresize']
+	},{
+		id:200,
+		name:'ember-cli-nouislider',
+		install: {
+			packager:'ember',
+			url:'ember-cli-nouislider'
+		},
+		source:{
+			domain:'github',
+			url:'kennethkalmer/ember-cli-nouislider',
+			stars: 26
+		},
+		demo:{
+			repl:'custom',
+			src:'http://kennethkalmer.github.io/ember-cli-nouislider/'
+		},
+		framework:'Ember',
+		version:'0.14.1',
+		license:'MIT',
+		details:'http://kennethkalmer.github.io/ember-cli-nouislider/',
+		keywords:['ember-addon','nouislider','slider','range slider','jquery range slider','ember-component']
 	}
 	
 ];
