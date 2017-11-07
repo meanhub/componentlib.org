@@ -4207,6 +4207,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-twiddle.com/2d7246875098d0dbb4a4',
 		keywords:['ember-addon','ember-one-way-controls','one-way']
+	},{
+		id:199,
+		name:'ember-autoresize',
+		install: {
+			packager:'ember',
+			url:'ember-autoresize'
+		},
+		source:{
+			domain:'github',
+			url:'tim-evans/ember-autoresize',
+			stars: 77
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tim-evans.github.io/ember-autoresize/'
+		},
+		framework:'Ember',
+		version:'0.6.1',
+		license:'MIT',
+		details:'http://tim-evans.github.io/ember-autoresize/',
+		keywords:['ember-addon','autoresize']
 	}
 	
 ];
