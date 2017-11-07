@@ -3532,6 +3532,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://tedconf.github.io/ember-ted-gear/',
 		keywords:['ember-addon','ted-gear','gear']
+	},{
+		id:167,
+		name:'ember-frost-login',
+		install: {
+			packager:'ember',
+			url:'ember-frost-login'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-attic/ember-frost-login',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-attic.github.io/ember-frost-login/'
+		},
+		framework:'Ember',
+		version:'2.0.3',
+		license:'MIT',
+		details:'https://github.com/ciena-attic/ember-frost-login',
+		keywords:['ember-addon','frost','login']
 	}
 	
 ];
