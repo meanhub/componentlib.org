@@ -3871,6 +3871,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-button.md',
 		keywords:['ember-addon','frost-button','button','frost']
+	},{
+		id:183,
+		name:'ember-frost-core-checkbox',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/checkbox'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-checkbox.md',
+		keywords:['ember-addon','frost-checkbox','checkbox','frost']
 	}
 	
 ];
