@@ -3850,6 +3850,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-bookends.md',
 		keywords:['ember-addon','bookends','frost-bookends','hook','frost']
+	},{
+		id:182,
+		name:'ember-frost-core-button',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/button'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-button.md',
+		keywords:['ember-addon','frost-button','button','frost']
 	}
 	
 ];
