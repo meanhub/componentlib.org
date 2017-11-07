@@ -3143,9 +3143,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src : 'http://twilson63.github.io/ngUpload/',
     },
     framework: 'AngularJS 1.x',
-    version: '0.0.7',
+    version: '0.5.21',
     license: 'MIT',
     details: 'http://twilson63.github.io/ngUpload/',
     keywords: ['upload','image','file']
+  },
+  {
+    id: 148,
+    name: 'ng-idle',
+    install: {
+      packager: 'npm',
+      url: 'ng-idle'
+    },
+    source: {
+      domain: 'github',
+      url: 'hackedbychinese/ng-idle'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://hackedbychinese.github.io/ng-idle/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.2',
+    license: 'MIT',
+    details: 'http://hackedbychinese.github.io/ng-idle/',
+    keywords: ['idle','timeout','delay']
   }
 ];
