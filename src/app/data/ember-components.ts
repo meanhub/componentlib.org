@@ -3808,6 +3808,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://n1ru4l.github.io/ember-card-stacks/',
 		keywords:['ember-addon','card-stacks','card','animation','ember']
+	},{
+		id:180,
+		name:'ember-idx-accordion',
+		install: {
+			packager:'ember',
+			url:'ember-idx-accordion'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-accordion',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-accordion'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'ASF2',
+		details:'http://indexiatech.github.io/ember-idx-accordion',
+		keywords:['ember-addon','idx-accordion','accordion','ember']
 	}
 	
 ];
