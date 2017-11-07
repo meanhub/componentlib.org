@@ -3595,6 +3595,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/MartinMalinda/ember-image-slider',
 		keywords:['ember-addon','ember-image-slider','image-slider','slider']
+	},{
+		id:170,
+		name:'ember-outside-click',
+		install: {
+			packager:'ember',
+			url:'ember-outside-click'
+		},
+		source:{
+			domain:'github',
+			url:'nucleartide/ember-outside-click',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://nucleartide.github.io/ember-outside-click'
+		},
+		framework:'Ember',
+		version:'1.1.1',
+		license:'MIT',
+		details:'https://github.com/nucleartide/ember-outside-click',
+		keywords:['ember-addon','ember-outside-click','outside-click','click','outside']
 	}
 	
 ];
