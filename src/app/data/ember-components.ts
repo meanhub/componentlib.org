@@ -3658,6 +3658,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/zhujy8833/ember-scroll-to-top',
 		keywords:['ember-addon','ember-scroll-to-top','scroll-to-top']
+	},{
+		id:173,
+		name:'ember-mb-menu',
+		install: {
+			packager:'ember',
+			url:'ember-mb-menu'
+		},
+		source:{
+			domain:'github',
+			url:'minutebase/mb-menu',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://minutebase.github.io/mb-menu/'
+		},
+		framework:'Ember',
+		version:'0.1.3',
+		license:'MIT',
+		details:'https://github.com/minutebase/mb-menu',
+		keywords:['ember-addon','menu','multiple selection','single selection']
 	}
 	
 ];
