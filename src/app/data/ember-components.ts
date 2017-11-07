@@ -3745,6 +3745,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-tag.firebaseapp.com',
 		keywords:['ember-addon','ui','ui-tag']
+	},{
+		id:177,
+		name:'ember-sticky-container',
+		install: {
+			packager:'ember',
+			url:'ember-sticky-container'
+		},
+		source:{
+			domain:'github',
+			url:'Deveo/ember-sliding-sticky',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://deveo.github.io/ember-sliding-sticky/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'https://github.com/Deveo/ember-sliding-sticky',
+		keywords:['ember-addon','sticky','position-sticky','position']
 	}
 	
 ];
