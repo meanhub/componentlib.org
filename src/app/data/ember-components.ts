@@ -3511,6 +3511,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/CoachLogix/ember-paper-stepper',
 		keywords:['ember-addon','ember-paper','ember-paper-stepper','material design']
+	},{
+		id:166,
+		name:'ember-ted-gear',
+		install: {
+			packager:'ember',
+			url:'ember-ted-gear'
+		},
+		source:{
+			domain:'github',
+			url:'tedconf/ember-ted-gear',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tedconf.github.io/ember-ted-gear/'
+		},
+		framework:'Ember',
+		version:'0.0.0',
+		license:'MIT',
+		details:'http://tedconf.github.io/ember-ted-gear/',
+		keywords:['ember-addon','ted-gear','gear']
 	}
 	
 ];
