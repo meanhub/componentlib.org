@@ -3024,7 +3024,28 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '1.0.0',
     license: 'MIT',
-    details: 'http://mbenford.github.io/ngTagsInput/',
+    details: 'http://github.com/darylrowland/angucomplete/',
+    keywords: ['autocomplete','dropdown']
+  },
+  {
+    id: 142,
+    name: 'angular-carousel',
+    install: {
+      packager: 'npm',
+      url: 'angular-carousel'
+    },
+    source: {
+      domain: 'github',
+      url: 'revolunet/angular-carousel'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://revolunet.github.io/angular-carousel/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'http://revolunet.github.io/angular-carousel/',
     keywords: ['autocomplete','dropdown']
   }
 ];
