@@ -3427,6 +3427,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://khorus.github.io/ember-accordion/',
 		keywords:['ember-addon','accordion']
+	},{
+		id:162,
+		name:'ember-idx-tree',
+		install: {
+			packager:'npm',
+			url:'ember-idx-tree'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-tree',
+			stars: 26
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-tree/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'ASF2',
+		details:'http://indexiatech.github.io/ember-idx-tree/',
+		keywords:['ember-addon','idx-tree','tree']
 	}
 	
 ];
