@@ -3553,6 +3553,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-attic/ember-frost-login',
 		keywords:['ember-addon','frost','login']
+	},{
+		id:168,
+		name:'Ember-fuzzy-shim',
+		install: {
+			packager:'download',
+			url:'https://github.com/mattmazzola/ember-fuzzy-shim/archive/master.zip'
+		},
+		source:{
+			domain:'github',
+			url:'mattmazzola/ember-fuzzy-shim',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://mattmazzola.github.io/ember-fuzzy-shim/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'http://mattmazzola.github.io/ember-fuzzy-shim/',
+		keywords:['ember-addon','fuzzy','search','matching']
 	}
 	
 ];
