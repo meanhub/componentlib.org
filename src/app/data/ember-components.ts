@@ -3700,6 +3700,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://altrim.github.io/ember-cli-tooltipster/',
 		keywords:['ember-addon','tooltipster','tooltip','popover']
+	},{
+		id:175,
+		name:'ui-knob',
+		install: [{
+			packager:'ember',
+			url:'ui-knob'
+		},{
+			packager:'npm',
+			url:'ui-knob'
+		}],
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-knob',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-knob-2.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.3.1',
+		license:'MIT',
+		details:'https://ui-knob-2.firebaseapp.com',
+		keywords:['ember-addon','ui','knob']
 	}
 	
 ];
