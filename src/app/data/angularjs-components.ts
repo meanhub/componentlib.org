@@ -3005,5 +3005,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://mbenford.github.io/ngTagsInput/',
     keywords: ['tags','input']
+  },
+  {
+    id: 141,
+    name: 'angucomplete',
+    install: {
+      packager: 'bower',
+      url: 'angucomplete'
+    },
+    source: {
+      domain: 'github',
+      url: 'darylrowland/angucomplete'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://darylrowland.github.io/angucomplete/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://mbenford.github.io/ngTagsInput/',
+    keywords: ['autocomplete','dropdown']
   }
 ];
