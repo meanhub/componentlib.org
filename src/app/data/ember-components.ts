@@ -4144,6 +4144,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-core/#/expand',
 		keywords:['ember-addon','frost-expand','expand','frost']
+	},{
+		id:196,
+		name:'ember-frost-core-ajax-error-page',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/ajax-error-page'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/ajax-error-page',
+		keywords:['ember-addon','frost-ajax-error-page','ajax-error-page','frost']
 	}
 	
 ];
