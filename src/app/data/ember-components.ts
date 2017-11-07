@@ -3724,6 +3724,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-knob-2.firebaseapp.com',
 		keywords:['ember-addon','ui','knob']
+	},{
+		id:176,
+		name:'ui-tag',
+		install: {
+			packager:'ember',
+			url:'ui-tag'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-tag',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-tag.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.1.7',
+		license:'MIT',
+		details:'https://ui-tag.firebaseapp.com',
+		keywords:['ember-addon','ui','ui-tag']
 	}
 	
 ];
