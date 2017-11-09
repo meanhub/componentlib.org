@@ -3427,6 +3427,828 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://khorus.github.io/ember-accordion/',
 		keywords:['ember-addon','accordion']
+	},{
+		id:162,
+		name:'ember-idx-tree',
+		install: {
+			packager:'npm',
+			url:'ember-idx-tree'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-tree',
+			stars: 26
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-tree/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'ASF2',
+		details:'http://indexiatech.github.io/ember-idx-tree/',
+		keywords:['ember-addon','idx-tree','tree']
+	},{
+		id:163,
+		name:'ember-scroll-progress',
+		install: {
+			packager:'ember',
+			url:'ember-scroll-progress'
+		},
+		source:{
+			domain:'github',
+			url:'gowthamrm/ember-scroll-progress',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'https://gowthamrm.github.io/ember-scroll-progress/'
+		},
+		framework:'Ember',
+		version:'0.5.0',
+		license:'MIT',
+		details:'https://gowthamrm.github.io/ember-scroll-progress/',
+		keywords:['ember-addon','scroll-progress','scroll','progress']
+	},{
+		id:164,
+		name:'ember-paper-link',
+		install: {
+			packager:'ember',
+			url:'ember-paper-link'
+		},
+		source:{
+			domain:'github',
+			url:'Subtletree/ember-paper-link',
+			stars: 9
+		},
+		demo:{
+			repl:'custom',
+			src:'https://subtletree.github.io/ember-paper-link/#/third-route'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://github.com/Subtletree/ember-paper-link',
+		keywords:['ember-addon','ember-paper','material design']
+	},{
+		id:165,
+		name:'ember-paper-stepper',
+		install: {
+			packager:'ember',
+			url:'ember-paper-stepper'
+		},
+		source:{
+			domain:'github',
+			url:'CoachLogix/ember-paper-stepper',
+			stars: 18
+		},
+		demo:{
+			repl:'custom',
+			src:'https://coachlogix.github.io/ember-paper-stepper/'
+		},
+		framework:'Ember',
+		version:'0.0.5',
+		license:'MIT',
+		details:'https://github.com/CoachLogix/ember-paper-stepper',
+		keywords:['ember-addon','ember-paper','ember-paper-stepper','material design']
+	},{
+		id:166,
+		name:'ember-ted-gear',
+		install: {
+			packager:'ember',
+			url:'ember-ted-gear'
+		},
+		source:{
+			domain:'github',
+			url:'tedconf/ember-ted-gear',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tedconf.github.io/ember-ted-gear/'
+		},
+		framework:'Ember',
+		version:'0.0.0',
+		license:'MIT',
+		details:'http://tedconf.github.io/ember-ted-gear/',
+		keywords:['ember-addon','ted-gear','gear']
+	},{
+		id:167,
+		name:'ember-frost-login',
+		install: {
+			packager:'ember',
+			url:'ember-frost-login'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-attic/ember-frost-login',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-attic.github.io/ember-frost-login/'
+		},
+		framework:'Ember',
+		version:'2.0.3',
+		license:'MIT',
+		details:'https://github.com/ciena-attic/ember-frost-login',
+		keywords:['ember-addon','frost','login']
+	},{
+		id:168,
+		name:'Ember-fuzzy-shim',
+		install: {
+			packager:'download',
+			url:'https://github.com/mattmazzola/ember-fuzzy-shim/archive/master.zip'
+		},
+		source:{
+			domain:'github',
+			url:'mattmazzola/ember-fuzzy-shim',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://mattmazzola.github.io/ember-fuzzy-shim/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'http://mattmazzola.github.io/ember-fuzzy-shim/',
+		keywords:['ember-addon','fuzzy','search','matching']
+	},{
+		id:169,
+		name:'ember-image-slider',
+		install: {
+			packager:'ember',
+			url:'ember-image-slider'
+		},
+		source:{
+			domain:'github',
+			url:'MartinMalinda/ember-image-slider',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://martinmalinda.github.io/ember-image-slider/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://github.com/MartinMalinda/ember-image-slider',
+		keywords:['ember-addon','ember-image-slider','image-slider','slider']
+	},{
+		id:170,
+		name:'ember-outside-click',
+		install: {
+			packager:'ember',
+			url:'ember-outside-click'
+		},
+		source:{
+			domain:'github',
+			url:'nucleartide/ember-outside-click',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://nucleartide.github.io/ember-outside-click'
+		},
+		framework:'Ember',
+		version:'1.1.1',
+		license:'MIT',
+		details:'https://github.com/nucleartide/ember-outside-click',
+		keywords:['ember-addon','ember-outside-click','outside-click','click','outside']
+	},{
+		id:171,
+		name:'ember-format-json',
+		install: {
+			packager:'ember',
+			url:'ember-format-json'
+		},
+		source:{
+			domain:'github',
+			url:'wecatch/ember-format-json',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://wecatch.me/ember-format-json'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'https://github.com/wecatch/ember-format-json',
+		keywords:['ember-addon','formatter','json','format-json']
+	},{
+		id:172,
+		name:'ember-scroll-to-top',
+		install: {
+			packager:'ember',
+			url:'ember-scroll-to-top'
+		},
+		source:{
+			domain:'github',
+			url:'zhujy8833/ember-scroll-to-top',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://zhujy8833.github.io/ember-scroll-to-top/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/zhujy8833/ember-scroll-to-top',
+		keywords:['ember-addon','ember-scroll-to-top','scroll-to-top']
+	},{
+		id:173,
+		name:'ember-mb-menu',
+		install: {
+			packager:'ember',
+			url:'ember-mb-menu'
+		},
+		source:{
+			domain:'github',
+			url:'minutebase/mb-menu',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://minutebase.github.io/mb-menu/'
+		},
+		framework:'Ember',
+		version:'0.1.3',
+		license:'MIT',
+		details:'https://github.com/minutebase/mb-menu',
+		keywords:['ember-addon','menu','multiple selection','single selection']
+	},{
+		id:174,
+		name:'ember-cli-tooltipster',
+		install: {
+			packager:'ember',
+			url:'ember-cli-tooltipster'
+		},
+		source:{
+			domain:'github',
+			url:'cprussin/ember-cli-tooltipster',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://altrim.github.io/ember-cli-tooltipster/'
+		},
+		framework:'Ember',
+		version:'0.1.4',
+		license:'MIT',
+		details:'http://altrim.github.io/ember-cli-tooltipster/',
+		keywords:['ember-addon','tooltipster','tooltip','popover']
+	},{
+		id:175,
+		name:'ui-knob',
+		install: [{
+			packager:'ember',
+			url:'ui-knob'
+		},{
+			packager:'npm',
+			url:'ui-knob'
+		}],
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-knob',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-knob-2.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.3.1',
+		license:'MIT',
+		details:'https://ui-knob-2.firebaseapp.com',
+		keywords:['ember-addon','ui','knob']
+	},{
+		id:176,
+		name:'ui-tag',
+		install: {
+			packager:'ember',
+			url:'ui-tag'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-tag',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-tag.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.1.7',
+		license:'MIT',
+		details:'https://ui-tag.firebaseapp.com',
+		keywords:['ember-addon','ui','ui-tag']
+	},{
+		id:177,
+		name:'ember-sticky-container',
+		install: {
+			packager:'ember',
+			url:'ember-sticky-container'
+		},
+		source:{
+			domain:'github',
+			url:'Deveo/ember-sliding-sticky',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://deveo.github.io/ember-sliding-sticky/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'https://github.com/Deveo/ember-sliding-sticky',
+		keywords:['ember-addon','sticky','position-sticky','position']
+	},{
+		id:178,
+		name:'ember-pricing-table',
+		install: {
+			packager:'ember',
+			url:'ember-pricing-table'
+		},
+		source:{
+			domain:'github',
+			url:'foxnewsnetwork/ember-pricing-table',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://foxnewsnetwork.github.io/ember-pricing-table/'
+		},
+		framework:'Ember',
+		version:'0.2.1',
+		license:'MIT',
+		details:'https://foxnewsnetwork.github.io/ember-pricing-table/',
+		keywords:['ember-addon','pricing-table','pricing','table']
+	},{
+		id:179,
+		name:'ember-card-stacks',
+		install: {
+			packager:'ember',
+			url:'ember-card-stacks'
+		},
+		source:{
+			domain:'github',
+			url:'addons/ember-card-stacks',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://n1ru4l.github.io/ember-card-stacks/'
+		},
+		framework:'Ember',
+		version:'0.3.0',
+		license:'MIT',
+		details:'https://n1ru4l.github.io/ember-card-stacks/',
+		keywords:['ember-addon','card-stacks','card','animation','ember']
+	},{
+		id:180,
+		name:'ember-idx-accordion',
+		install: {
+			packager:'ember',
+			url:'ember-idx-accordion'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-accordion',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-accordion'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'ASF2',
+		details:'http://indexiatech.github.io/ember-idx-accordion',
+		keywords:['ember-addon','idx-accordion','accordion','ember']
+	},{
+		id:181,
+		name:'ember-frost-core-bookends',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/bookends'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-bookends.md',
+		keywords:['ember-addon','bookends','frost-bookends','hook','frost']
+	},{
+		id:182,
+		name:'ember-frost-core-button',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/button'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-button.md',
+		keywords:['ember-addon','frost-button','button','frost']
+	},{
+		id:183,
+		name:'ember-frost-core-checkbox',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/checkbox'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-checkbox.md',
+		keywords:['ember-addon','frost-checkbox','checkbox','frost']
+	},{
+		id:184,
+		name:'ember-frost-core-theme',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/palette'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-css.md',
+		keywords:['ember-addon','frost-theme','theme','frost','palette']
+	},{
+		id:185,
+		name:'ember-frost-core-icon',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/icons'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-icons.md',
+		keywords:['ember-addon','frost-icon','icon','frost']
+	},{
+		id:186,
+		name:'ember-frost-core-link',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/link'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/link',
+		keywords:['ember-addon','frost-link','link','frost']
+	},{
+		id:187,
+		name:'ember-frost-core-loading',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/loading'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/loading',
+		keywords:['ember-addon','frost-loading','loading','frost']
+	},{
+		id:188,
+		name:'ember-frost-core-password',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/password'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/password',
+		keywords:['ember-addon','frost-password','password','frost']
+	},{
+		id:189,
+		name:'ember-frost-core-radio-group',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/radio'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/radio',
+		keywords:['ember-addon','frost-radio-group','radio-group','frost']
+	},{
+		id:190,
+		name:'ember-frost-core-scroll',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/scroll'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/scroll',
+		keywords:['ember-addon','frost-scroll','scroll','frost']
+	},{
+		id:191,
+		name:'ember-frost-core-select',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/select'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/select',
+		keywords:['ember-addon','frost-select','select','frost']
+	},{
+		id:192,
+		name:'ember-frost-core-textarea',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/area'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/area',
+		keywords:['ember-addon','frost-textarea','textarea','frost']
+	},{
+		id:193,
+		name:'ember-frost-core-textfield',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/field'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/field',
+		keywords:['ember-addon','frost-text','text','frost']
+	},{
+		id:194,
+		name:'ember-frost-core-toggle',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/toggle'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/toggle',
+		keywords:['ember-addon','frost-toggle','toggle','frost']
+	},{
+		id:195,
+		name:'ember-frost-core-expand',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/expand'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/expand',
+		keywords:['ember-addon','frost-expand','expand','frost']
+	},{
+		id:196,
+		name:'ember-frost-core-ajax-error-page',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/ajax-error-page'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/ajax-error-page',
+		keywords:['ember-addon','frost-ajax-error-page','ajax-error-page','frost']
+	},{
+		id:197,
+		name:'ember-frost-core-helpers',
+		install: {
+			packager:'ember',
+			url:'ember-frost-core'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-core',
+			stars: 19
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-core/#/helpers'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-core/#/helpers',
+		keywords:['ember-addon','frost-helpers','helpers','frost']
+	},{
+		id:198,
+		name:'ember-one-way-controls',
+		install: {
+			packager:'ember',
+			url:'ember-one-way-controls'
+		},
+		source:{
+			domain:'github',
+			url:'dockyard/ember-one-way-controls',
+			stars: 181
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-twiddle.com/2d7246875098d0dbb4a4'
+		},
+		framework:'Ember',
+		version:'3.0.1',
+		license:'MIT',
+		details:'http://ember-twiddle.com/2d7246875098d0dbb4a4',
+		keywords:['ember-addon','ember-one-way-controls','one-way']
+	},{
+		id:199,
+		name:'ember-autoresize',
+		install: {
+			packager:'ember',
+			url:'ember-autoresize'
+		},
+		source:{
+			domain:'github',
+			url:'tim-evans/ember-autoresize',
+			stars: 77
+		},
+		demo:{
+			repl:'custom',
+			src:'http://tim-evans.github.io/ember-autoresize/'
+		},
+		framework:'Ember',
+		version:'0.6.1',
+		license:'MIT',
+		details:'http://tim-evans.github.io/ember-autoresize/',
+		keywords:['ember-addon','autoresize']
+	},{
+		id:200,
+		name:'ember-cli-nouislider',
+		install: {
+			packager:'ember',
+			url:'ember-cli-nouislider'
+		},
+		source:{
+			domain:'github',
+			url:'kennethkalmer/ember-cli-nouislider',
+			stars: 26
+		},
+		demo:{
+			repl:'custom',
+			src:'http://kennethkalmer.github.io/ember-cli-nouislider/'
+		},
+		framework:'Ember',
+		version:'0.14.1',
+		license:'MIT',
+		details:'http://kennethkalmer.github.io/ember-cli-nouislider/',
+		keywords:['ember-addon','nouislider','slider','range slider','jquery range slider','ember-component']
 	}
 	
 ];
