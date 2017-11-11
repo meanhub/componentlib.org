@@ -972,5 +972,622 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox',
     keywords: ['checkbox']
+  },
+  {
+    id:44,
+    name: 'react-native-circular-action-menu',
+    install: {
+      packager: 'npm',
+      url: 'react-native-circular-action-menu'
+    },
+    source: {
+      domain: 'github',
+      url: 'geremih/react-native-circular-action-menu'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/geremih/react-native-circular-action-menu#react-native-circular-action-menu',
+      imgUrl: 'https://camo.githubusercontent.com/cfcf06aedd8f8ede4830a06e3809d0f9d39677b5/687474703a2f2f692e67697068792e636f6d2f336f365a7436684e484f64336b56783461592e676966'
+    },
+    framework: 'React Native',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/geremih/react-native-circular-action-menu',
+    keywords: ['button','circular']
+  },
+  {
+    id:45,
+    name: 'react-native-circular-progress',
+    install: {
+      packager: 'npm',
+      url: 'react-native-circular-progress'
+    },
+    source: {
+      domain: 'github',
+      url: 'bgryszko/react-native-circular-progress'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/bgryszko/react-native-circular-progress#example-app',
+      imgUrl: 'https://github.com/bgryszko/react-native-circular-progress/blob/master/screenshot.gif'
+    },
+    framework: 'React Native',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'https://github.com/bgryszko/react-native-circular-progress',
+    keywords: ['progress','loader']
+  },
+  {
+    id:46,
+    name: 'react-native-collapsible',
+    install: {
+      packager: 'npm',
+      url: 'react-native-collapsible'
+    },
+    source: {
+      domain: 'github',
+      url: 'oblador/react-native-collapsible'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/oblador/react-native-collapsible#demo',
+      imgUrl: 'https://cloud.githubusercontent.com/assets/378279/8047315/0237ca2c-0e44-11e5-9a16-1da052406eb0.gif'
+    },
+    framework: 'React Native',
+    version: '0.9.0',
+    license: 'MIT',
+    details: 'https://github.com/oblador/react-native-collapsible',
+    keywords: ['toggles']
+  },
+  {
+    id:47,
+    name: 'react-native-collapsing-toolbar',
+    install: {
+      packager: 'npm',
+      url: 'react-native-collapsing-toolbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'cesardeazevedo/react-native-collapsing-toolbar'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/cesardeazevedo/react-native-collapsing-toolbar#react-native-collapsing-toolbar',
+      imgUrl: 'https://cloud.githubusercontent.com/assets/5366959/26673566/b68a1a1e-4693-11e7-9a7b-41227dde0ff3.gif'
+    },
+    framework: 'React Native',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/cesardeazevedo/react-native-collapsing-toolbar',
+    keywords: ['toolbar','flatlist']
+  },
+  {
+    id:48,
+    name: 'react-native-country-picker-modal',
+    install: {
+      packager: 'npm',
+      url: 'react-native-country-picker-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'xcarpentier/react-native-country-picker-modal'
+    },
+    demo: {
+      repl: 'expo',
+      url: 'https://expo.io/@xcarpentier/react-native-country-picker-demo',
+      expoUrl: 'exp://exp.host/@xcarpentier/react-native-country-picker-demo',
+      qrCode: 'react-native-country-picker-modal'
+    },
+    framework: 'React Native',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/xcarpentier/react-native-country-picker-modal',
+    keywords: ['country','modal']
+  },
+  {
+    id:49,
+    name: 'react-native-credit-card-input',
+    install: {
+      packager: 'npm',
+      url: 'react-native-credit-card-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'sbycrosz/react-native-credit-card-input'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/sbycrosz/react-native-credit-card-input#react-native-credit-card-input',
+      imgUrl: 'https://github.com/sbycrosz/react-native-credit-card-input/blob/master/preview-ios.gif?raw=true'
+    },
+    framework: 'React Native',
+    version: '0.3.3',
+    license: 'MIT',
+    details: 'https://github.com/sbycrosz/react-native-credit-card-input',
+    keywords: ['creditcard','input']
+  },
+  {
+    id:49,
+    name: 'react-native-custom-actsheet',
+    install: {
+      packager: 'npm',
+      url: 'react-native-custom-actsheet'
+    },
+    source: {
+      domain: 'github',
+      url: 'guodong000/react-native-custom-actsheet'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/guodong000/react-native-custom-actsheet#screenshot',
+      imgUrl: 'https://camo.githubusercontent.com/8a08f89ac810a2ce03952b94afb5df5be72c0433/68747470733a2f2f7261772e6769746875622e636f6d2f67756f646f6e673030302f72656163742d6e61746976652d637573746f6d2d61637473686565742f6d61737465722f50696374757265732f7374616e646172642e706e67'
+    },
+    framework: 'React Native',
+    version: '0.15.0',
+    license: 'MIT',
+    details: 'https://github.com/guodong000/react-native-custom-actsheet',
+    keywords: ['ActionSheet']
+  },
+  {
+    id:50,
+    name: 'react-native-custom-checkbox',
+    install: {
+      packager: 'npm',
+      url: 'react-native-custom-checkbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'caroaguilar/react-native-custom-checkbox'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/caroaguilar/react-native-custom-checkbox#custom-checkbox-react-native',
+      imgUrl: 'https://raw.githubusercontent.com/caroaguilar/images-gifs/master/react-native-custom-checkbox/demo.gif'
+    },
+    framework: 'React Native',
+    version: '1.5.0',
+    license: 'MIT',
+    details: 'https://github.com/caroaguilar/react-native-custom-checkbox',
+    keywords: ['checkbox']
+  },
+  {
+    id:50,
+    name: 'react-native-dashed-border',
+    install: {
+      packager: 'npm',
+      url: 'react-native-dashed-border'
+    },
+    source: {
+      domain: 'github',
+      url: 'chirag04/react-native-dashed-border'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/chirag04/react-native-dashed-border#example',
+      imgUrl: 'https://raw.githubusercontent.com/brentvatne/react-native-dashed-border-example/master/example.png'
+    },
+    framework: 'React Native',
+    version: '2.1.1',
+    license: 'MIT',
+    details: 'https://github.com/chirag04/react-native-dashed-border',
+    keywords: ['border','dash border']
+  },
+  {
+    id:51,
+    name: 'react-native-timepicker',
+    install: {
+      packager: 'npm',
+      url: 'react-native-timepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'milasevicius/react-native-timepicker'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/milasevicius/react-native-timepicker#react-native-timepicker-for-ios',
+      imgUrl: 'https://cloud.githubusercontent.com/assets/1790265/12737599/9714fd66-c962-11e5-8995-544b82da6f2c.png'
+    },
+    framework: 'React Native',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'https://github.com/milasevicius/react-native-timepicker',
+    keywords: ['timer','clock']
+  },
+  {
+    id:51,
+    name: 'react-native-device-display',
+    install: {
+      packager: 'npm',
+      url: 'react-native-device-display'
+    },
+    source: {
+      domain: 'github',
+      url: 'kkjdaniel/react-native-device-display'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/kkjdaniel/react-native-device-display#-react-native-device-display',
+      imgUrl: 'https://camo.githubusercontent.com/512307cc2141910f383dc5ac16a414f6977f44f4/687474703a2f2f692e696d6775722e636f6d2f524b595a6633692e676966'
+    },
+    framework: 'React Native',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://github.com/kkjdaniel/react-native-device-display',
+    keywords: ['display']
+  },
+  {
+    id:52,
+    name: 'react-native-dial',
+    install: {
+      packager: 'npm',
+      url: 'react-native-dial'
+    },
+    source: {
+      domain: 'github',
+      url: 'netbeast/react-native-dial'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/netbeast/react-native-dial#react-native-dial',
+      imgUrl: 'https://github.com/netbeast/react-native-dial/blob/master/screenshot.png'
+    },
+    framework: 'React Native',
+    version: '1.0.11',
+    license: 'MIT',
+    details: 'https://github.com/netbeast/react-native-dial',
+    keywords: ['dialer','nobe']
+  },
+  {
+    id:53,
+    name: 'react-native-dialogs',
+    install: {
+      packager: 'npm',
+      url: 'react-native-dialogs'
+    },
+    source: {
+      domain: 'github',
+      url: 'aakashns/react-native-dialogs'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/aakashns/react-native-dialogs#react-native-dialogs',
+      imgUrl: 'https://camo.githubusercontent.com/4aef3aacdbe5e7fba835f5d4711439fa34266424/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43537777356c6855414141453438372e706e67'
+    },
+    framework: 'React Native',
+    version: '0.0.20',
+    license: 'MIT',
+    details: 'https://github.com/aakashns/react-native-dialogs',
+    keywords: ['dialog']
+  },
+  {
+    id:54,
+    name: 'react-native-draggable-drawer',
+    install: {
+      packager: 'npm',
+      url: 'react-native-draggable-drawer'
+    },
+    source: {
+      domain: 'github',
+      url: 'llanox/react-native-draggable-drawer'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/aakashns/react-native-dialogs#react-native-dialogs',
+      imgUrl: 'https://camo.githubusercontent.com/4aef3aacdbe5e7fba835f5d4711439fa34266424/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43537777356c6855414141453438372e706e67'
+    },
+    framework: 'React Native',
+    version: '0.0.20',
+    license: 'MIT',
+    details: 'https://github.com/llanox/react-native-draggable-drawer',
+    keywords: ['dialog']
+  },
+  {
+    id:55,
+    name: 'react-native-drawer',
+    install: {
+      packager: 'npm',
+      url: 'react-native-drawer'
+    },
+    source: {
+      domain: 'github',
+      url: 'root-two/react-native-drawer'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/root-two/react-native-drawer#react-native-drawer',
+      imgUrl: 'https://raw.githubusercontent.com/rt2zz/react-native-drawer/master/examples/rn-drawer.gif'
+    },
+    framework: 'React Native',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'https://github.com/root-two/react-native-drawer',
+    keywords: ['drawer']
+  },
+  {
+    id:56,
+    name: 'ReactNativeDropdownAndroid',
+    install: {
+      packager: 'npm',
+      url: 'ReactNativeDropdownAndroid'
+    },
+    source: {
+      domain: 'github',
+      url: 'chymtt/ReactNativeDropdownAndroid'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/Tinysymphony/react-native-drawer-menu#ios-platform',
+      imgUrl: 'https://raw.githubusercontent.com/rt2zz/react-native-drawer/master/examples/rn-drawer.gif'
+    },
+    framework: 'React Native',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'https://github.com/chymtt/ReactNativeDropdownAndroid',
+    keywords: ['drawer']
+  },
+  {
+    id:57,
+    name: 'react-native-drop-refresh',
+    install: {
+      packager: 'npm',
+      url: 'react-native-drop-refresh'
+    },
+    source: {
+      domain: 'github',
+      url: 'react-native-china/react-native-drop-refresh'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/react-native-china/react-native-drop-refresh#screen-shot',
+      imgUrl: 'https://github.com/react-native-china/react-native-drop-refresh/blob/master/screen-shot.gif'
+    },
+    framework: 'React Native',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://github.com/react-native-china/react-native-drop-refresh',
+    keywords: ['drop','slider']
+  },
+  {
+    id:58,
+    name: 'react-native-dropdownalert',
+    install: {
+      packager: 'npm',
+      url: 'react-native-dropdownalert'
+    },
+    source: {
+      domain: 'github',
+      url: 'testshallpass/react-native-dropdownalert'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/testshallpass/react-native-dropdownalert#demo',
+      imgUrl: 'https://camo.githubusercontent.com/2a5dcd1d344b51d58ac8a1c7294b4e9dcb0d8ed9/68747470733a2f2f7261772e6769746875622e636f6d2f746573747368616c6c706173732f72656163742d6e61746976652d64726f70646f776e616c6572742f6d61737465722f73637265656e73686f74732f64656d6f2e676966'
+    },
+    framework: 'React Native',
+    version: '3.1.2',
+    license: 'MIT',
+    details: 'https://github.com/testshallpass/react-native-dropdownalert',
+    keywords: ['dropdown','alert']
+  },
+  {
+    id:59,
+    name: 'react-native-egg',
+    install: {
+      packager: 'npm',
+      url: 'react-native-egg'
+    },
+    source: {
+      domain: 'github',
+      url: 'FuYaoDe/react-native-egg'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/FuYaoDe/react-native-egg#just-for-fun-',
+      imgUrl: 'https://camo.githubusercontent.com/5df2052c9f2e452fc5447fcdef69121d86e7e040/687474703a2f2f67696679752e636f6d2f696d616765732f5333692e676966'
+    },
+    frcamework: 'React Native',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/Tinysymphony/react-native-drawer-menu',
+    keywords: ['easter egg','gestures']
+  },
+  {
+    id:60,
+    name: 'react-native-emoji',
+    install: {
+      packager: 'npm',
+      url: 'react-native-emoji'
+    },
+    source: {
+      domain: 'github',
+      url: 'jorilallo/react-native-emoji'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/jorilallo/react-native-emoji#react-native-emoji',
+      imgUrl: 'https://camo.githubusercontent.com/7a9f73e4668eac613676bf3be291e5da7efd889b/687474703a2f2f6935392e74696e797069632e636f6d2f666533726c792e706e67'
+    },
+    frcamework: 'React Native',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/jorilallo/react-native-emoji',
+    keywords: ['emoji']
+  },
+  {
+    id:61,
+    name: 'react-native-emoji-picker',
+    install: {
+      packager: 'npm',
+      url: 'react-native-emoji-picker'
+    },
+    source: {
+      domain: 'github',
+      url: 'yonahforst/react-native-emoji-picker'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/yonahforst/react-native-emoji-picker#emoji-picker-for-react-native',
+      imgUrl: 'https://github.com/yonahforst/react-native-emoji-picker/blob/master/animated-example.gif'
+    },
+    frcamework: 'React Native',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://github.com/yonahforst/react-native-emoji-picker',
+    keywords: ['emoji']
+  },
+  {
+    id:62,
+    name: 'react-native-fading-slides',
+    install: {
+      packager: 'npm',
+      url: 'react-native-fading-slides'
+    },
+    source: {
+      domain: 'github',
+      url: 'chagasaway/react-native-fading-slides'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/chagasaway/react-native-fading-slides#react-native-fadingslides-component',
+      imgUrl: 'https://camo.githubusercontent.com/0ccb3bd2c868cdb2586c1c05a7c84e3f0a574a5e/687474703a2f2f692e67697068792e636f6d2f6c34316c52323457674577595461487a572e676966'
+    },
+    frcamework: 'React Native',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/chagasaway/react-native-fading-slides',
+    keywords: ['slides']
+  },
+  {
+    id:63,
+    name: 'react-native-fit-image',
+    install: {
+      packager: 'npm',
+      url: 'react-native-fit-image'
+    },
+    source: {
+      domain: 'github',
+      url: 'huiseoul/react-native-fit-image'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/huiseoul/react-native-fit-image#example',
+      imgUrl: 'https://raw.githubusercontent.com/originerd/react-native-fit-image-example/master/fit_image_example_portrait.gif'
+    },
+    frcamework: 'React Native',
+    version: '1.5.3',
+    license: 'MIT',
+    details: 'https://github.com/huiseoul/react-native-fit-image',
+    keywords: ['fit images','images']
+  },
+  {
+    id:64,
+    name: 'react-native-flexi-radio-button',
+    install: {
+      packager: 'npm',
+      url: 'react-native-flexi-radio-button'
+    },
+    source: {
+      domain: 'github',
+      url: 'thegamenicorus/react-native-flexi-radio-button'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/thegamenicorus/react-native-flexi-radio-button#usage',
+      imgUrl: 'https://cloud.githubusercontent.com/assets/21040043/18545904/67b5476e-7b65-11e6-8fc4-8160b39a4ab0.gif'
+    },
+    frcamework: 'React Native',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://github.com/thegamenicorus/react-native-flexi-radio-button',
+    keywords: ['radio button']
+  },
+  {
+    id:65,
+    name: 'react-native-floating-labels',
+    install: {
+      packager: 'npm',
+      url: 'react-native-floating-labels'
+    },
+    source: {
+      domain: 'github',
+      url: 'mayank-patel/react-native-floating-labels'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/mayank-patel/react-native-floating-labels#react-native-floating-labels----',
+      imgUrl: 'https://raw.githubusercontent.com/mayank-patel/react-native-floating-labels/master/demo.gif'
+    },
+    frcamework: 'React Native',
+    version: '1.1.6',
+    license: 'MIT',
+    details: 'https://github.com/mayank-patel/react-native-floating-labels',
+    keywords: ['floating labels']
+  },
+  {
+    id:66,
+    name: 'react-native-focus-scroll',
+    install: {
+      packager: 'npm',
+      url: 'react-native-focus-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'c-bata/react-native-focus-scroll'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/c-bata/react-native-focus-scroll#react-native-focus-scroll',
+      imgUrl: 'https://github.com/c-bata/react-native-focus-scroll/raw/master/example/anim.gif'
+    },
+    frcamework: 'React Native',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/c-bata/react-native-focus-scroll',
+    keywords: ['scroll']
+  },
+  {
+    id:67,
+    name: 'react-native-foldview',
+    install: {
+      packager: 'npm',
+      url: 'react-native-foldview'
+    },
+    source: {
+      domain: 'github',
+      url: 'jmurzy/react-native-foldview'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/jmurzy/react-native-foldview#react-native-foldview----',
+      imgUrl: 'https://raw.githubusercontent.com/jmurzy/react-native-foldview/master/.github/screenshot.gif'
+    },
+    frcamework: 'React Native',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'https://github.com/jmurzy/react-native-foldview',
+    keywords: ['foldview']
+  },
+  {
+    id:68,
+    name: 'react-native-gesture-recognizers',
+    install: {
+      packager: 'npm',
+      url: 'react-native-gesture-recognizers'
+    },
+    source: {
+      domain: 'github',
+      url: 'johanneslumpe/react-native-gesture-recognizers'
+    },
+    demo: {
+      repl: 'img',  
+      url: 'https://github.com/johanneslumpe/react-native-gesture-recognizers#basic-panning-example',
+      imgUrl: 'https://camo.githubusercontent.com/b819f79724731abd59988bc5eb91272e682e5eb5/687474703a2f2f6c756d2e70652f72656163742d6e61746976652d676573747572652d7265636f676e697a6572732d70616e6e696e672e676966'
+    },
+    frcamework: 'React Native',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/johanneslumpe/react-native-gesture-recognizers',
+    keywords: ['pans','swipes']
   }
 ];
