@@ -3329,5 +3329,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vasyabigi/angular-slick',
     keywords: ['slick','carousel','html']
+  },
+  {
+    id: 157,
+    name: 'angular-truncate',    
+    source: {
+      domain: 'github',
+      url: 'sparkalow/angular-truncate'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://sparkalow.github.io/angular-truncate/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.2',
+    license: 'MIT',
+    details: 'https://github.com/vasyabigi/angular-slick',
+    keywords: ['filter','text','strings','truncate']
   }
 ];
