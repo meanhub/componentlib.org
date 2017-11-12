@@ -3519,7 +3519,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     id: 166,
     name: 'angular-flash',
     install: {
-      packager: 'npm',
+      packager: 'bower',
       url: 'angular-flash'
     },
     source: {
@@ -3531,9 +3531,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
       id : 'y1INk36bPbW7GaX15QbQ',
     },
     framework: 'AngularJS 1.x',
-    version: '2.1.3',
+    version: '1.2.0',
     license: 'MIT',
     details: 'https://github.com/gtramontina/angular-flash',
     keywords: ['flash','messages']
+  },  
+  {
+    id: 167,
+    name: 'bindonce',
+    source: {
+      domain: 'github',
+      url: 'pasvaz/bindonce'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'jwrHVb',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.3',
+    license: 'MIT',
+    details: 'https://github.com/pasvaz/bindonce',
+    keywords: ['high performance','bindonce']
   },  
 ];
