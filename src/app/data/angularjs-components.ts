@@ -3856,4 +3856,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://w11k.github.io/w11k-select/',
     keywords: ['select','element']
   }, 
+  {
+    id: 182,
+    name: 'Angular paging',
+    install: {
+      packager: 'bower',
+      url: 'bw.paging'
+    },
+    source: {
+      domain: 'github',
+      url: 'brantwills/Angular-Paging'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://brantwills.github.io/Angular-Paging/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.2.2',
+    license: 'MIT',
+    details: 'http://brantwills.github.io/Angular-Paging/',
+    keywords: ['paging','datasets']
+  }, 
 ];
