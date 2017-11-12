@@ -3389,4 +3389,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/AlmogBaku/ngFacebook',
     keywords: ['facebook','sdk']
   },  
+  {
+    id: 160,
+    name: 'angular-elastic',
+    install: {
+      packager: 'npm',
+      url: 'angular-elastic'
+    },
+    source: {
+      domain: 'github',
+      url: 'monospaced/angular-elastic'
+    },
+    demo: {
+      repl: 'custom',
+      id : 'http://monospaced.github.io/angular-elastic/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.5.1',
+    license: 'MIT',
+    details: 'https://github.com/monospaced/angular-elastic',
+    keywords: ['textareas','Elastic','autosize']
+  },  
 ];
