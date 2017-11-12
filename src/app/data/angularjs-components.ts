@@ -4110,4 +4110,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://radonyizsolt.github.io/anguloader/',
     keywords: ['maps','google','native']
   }, 
+  {
+    id: 195,
+    name: 'onsenui',
+    install: {
+      packager: 'npm',
+      url: 'onsenui'
+    },
+    source: {
+      domain: 'github',
+      url: 'OnsenUI/OnsenUI'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://onsen.io/v2/api/angular1/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://onsen.io/',
+    keywords: ['hybrid app']
+  }, 
 ];
