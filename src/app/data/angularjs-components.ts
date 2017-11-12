@@ -3897,6 +3897,29 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.9',
     license: 'MIT',
     details: 'https://github.com/svileng/ng-simplePagination',
-    keywords: ['paging','datasets']
+    key
+    words: ['paging','datasets']
+  }, 
+  {
+    id: 184,
+    name: 'angular-multi-select-tree',
+    install: {
+      packager: 'bower',
+      url: 'angular-multi-select-tree'
+    },
+    source: {
+      domain: 'github',
+      url: 'a5hik/angular-multi-select-tree'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://a5hik.github.io/angular-multi-select-tree/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/a5hik/angular-multi-select-tree',
+    key
+    words: ['multi select','dropdown','tree']
   }, 
 ];
