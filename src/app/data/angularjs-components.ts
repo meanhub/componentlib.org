@@ -3940,4 +3940,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     key
     words: ['multi select','dropdown','tree']
   }, 
+  {
+    id: 186,
+    name: 'angular-breadcrumb',
+    source: {
+      domain: 'github',
+      url: 'ncuillery/angular-breadcrumb'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ncuillery.github.io/angular-breadcrumb/#/room',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'http://ncuillery.github.io/angular-breadcrumb/#/home',
+    key
+    words: ['breadcrumb','menu','navigation']
+  }, 
 ];
