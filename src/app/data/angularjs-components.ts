@@ -4051,4 +4051,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/petermelias/angular-chartjs',
     keywords: ['chartjs','charts','line','area','pie']
   }, 
+  {
+    id: 192,
+    name: 'ngprogress',
+    install: {
+      packager: 'bower',
+      url: 'ngprogress'
+    },
+    source: {
+      domain: 'github',
+      url: 'victorbjelkholm/ngprogress'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://victorbjelkholm.github.io/ngProgress/#demo',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'http://victorbjelkholm.github.io/ngProgress/',
+    keywords: ['proress','loading status']
+  }, 
 ];
