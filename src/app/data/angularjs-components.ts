@@ -4072,4 +4072,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://victorbjelkholm.github.io/ngProgress/',
     keywords: ['proress','loading status']
   }, 
+  {
+    id: 193,
+    name: 'anguloader',
+    install: {
+      packager: 'bower',
+      url: 'anguloader'
+    },
+    source: {
+      domain: 'github',
+      url: 'radonyizsolt/anguloader'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://radonyizsolt.github.io/anguloader/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'http://radonyizsolt.github.io/anguloader/',
+    keywords: ['loader','spinner']
+  }, 
 ];
