@@ -3897,8 +3897,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.9',
     license: 'MIT',
     details: 'https://github.com/svileng/ng-simplePagination',
-    key
-    words: ['paging','datasets']
+    keywords: ['paging','datasets']
   }, 
   {
     id: 184,
@@ -3919,8 +3918,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.0',
     license: 'MIT',
     details: 'https://github.com/a5hik/angular-multi-select-tree',
-    key
-    words: ['multi select','dropdown','tree']
+    keywords: ['multi select','dropdown','tree']
   }, 
   {
     id: 185,
@@ -3937,8 +3935,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'http://dotansimha.github.io/angularjs-dropdown-multiselect/docs/#/main',
-    key
-    words: ['multi select','dropdown','tree']
+    keywords: ['multi select','dropdown','tree']
   }, 
   {
     id: 186,
@@ -3955,8 +3952,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'http://ncuillery.github.io/angular-breadcrumb/#/home',
-    key
-    words: ['breadcrumb','menu','navigation']
+    keywords: ['breadcrumb','menu','navigation']
   }, 
   {
     id: 187,
@@ -3973,8 +3969,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.9',
     license: 'MIT',
     details: 'http://janstevens.github.io/angular-growl-2/',
-    key
-    words: ['notifications','message','alert']
+    keywords: ['notifications','message','alert']
   }, 
   {
     id: 188,
@@ -3995,7 +3990,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/dcohenb/angular-img-fallback',
-    key
-    words: ['fallback','img']
+    keywords: ['fallback','img']
+  }, 
+  {
+    id: 189,
+    name: 'angular-marked',
+    install: {
+      packager: 'bower',
+      url: 'angular-marked'
+    },
+    source: {
+      domain: 'github',
+      url: 'Hypercubed/angular-marked'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'qY9EAy8VVRURra6KlxR2',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.2',
+    license: 'MIT',
+    details: 'http://hypercubed.github.io/angular-marked/#/api',
+    keywords: ['marked','markdown','sanitization']
   }, 
 ];
