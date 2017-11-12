@@ -3671,4 +3671,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
     keywords: ['Mongolab','adapter','promises']
   },  
+  {
+    id: 173,
+    name: 'ngMask',
+    install: {
+      packager: 'bower',
+      url: 'angular-mask'
+    },
+    source: {
+      domain: 'github',
+      url: 'candreoliveira/ngMask'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://candreoliveira.github.io/bower_components/angular-mask/examples/index.html#/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.16',
+    license: 'MIT',
+    details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
+    keywords: ['mask']
+  },  
 ];
