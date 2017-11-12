@@ -3922,4 +3922,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     key
     words: ['multi select','dropdown','tree']
   }, 
+  {
+    id: 185,
+    name: 'angularjs-dropdown-multiselect',
+    source: {
+      domain: 'github',
+      url: 'dotansimha/angularjs-dropdown-multiselect'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://dotansimha.github.io/angularjs-dropdown-multiselect/docs/#/main',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://dotansimha.github.io/angularjs-dropdown-multiselect/docs/#/main',
+    key
+    words: ['multi select','dropdown','tree']
+  }, 
 ];
