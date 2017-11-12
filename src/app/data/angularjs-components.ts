@@ -4190,4 +4190,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://ngmap.github.io/',
     keywords: ['spinner','loader']
   }, 
+  {
+    id: 199,
+    name: 'ngWig',
+    install: {
+      packager: 'npm',
+      url: 'ng-wig'
+    },
+    source: {
+      domain: 'github',
+      url: 'stevermeister/ngWig'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ng-wig.js.org/demo/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.16',
+    license: 'MIT',
+    details: 'http://ng-wig.js.org/demo/',
+    keywords: ['ngWig']
+  }, 
 ];
