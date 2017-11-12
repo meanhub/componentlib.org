@@ -3348,7 +3348,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     keywords: ['filter','text','strings','truncate']
   },
   {
-    id: 157,
+    id: 158,
     name: 'satellizer',
     install: {
       packager: 'npm',
@@ -3367,5 +3367,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sahat/satellizer',
     keywords: ['tocken','authentication']
+  },  
+  {
+    id: 159,
+    name: 'ng-facebook',
+    install: {
+      packager: 'npm',
+      url: 'ng-facebook'
+    },
+    source: {
+      domain: 'github',
+      url: 'AlmogBaku/ngFacebook'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'HcYBFKbqFcgQGhyCGQMw',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.6',
+    license: 'MIT',
+    details: 'https://github.com/AlmogBaku/ngFacebook',
+    keywords: ['facebook','sdk']
   },  
 ];
