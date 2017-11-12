@@ -4131,4 +4131,46 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://onsen.io/',
     keywords: ['hybrid app']
   }, 
+  {
+    id: 196,
+    name: 'onsenui',
+    install: {
+      packager: 'npm',
+      url: 'onsenui'
+    },
+    source: {
+      domain: 'github',
+      url: 'OnsenUI/OnsenUI'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://onsen.io/v2/api/angular1/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://onsen.io/',
+    keywords: ['hybrid app']
+  }, 
+  {
+    id: 197,
+    name: 'ngmap',
+    install: {
+      packager: 'npm',
+      url: 'ngmap'
+    },
+    source: {
+      domain: 'github',
+      url: 'allenhwkim/angularjs-google-maps'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://ngmap.github.io/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://ngmap.github.io/',
+    keywords: ['map',google map]
+  }, 
 ];
