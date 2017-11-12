@@ -4211,4 +4211,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://ng-wig.js.org/demo/',
     keywords: ['ngWig']
   }, 
+  {
+    id: 200,
+    name: 'angular-bootstrap-checkbox',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-checkbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'sebastianha/angular-bootstrap-checkbox'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://raw.githubusercontent.com/sebastianha/angular-bootstrap-checkbox/master/styles.png',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://github.com/sebastianha/angular-bootstrap-checkbox/',
+    keywords: ['bootstrap','checkbox']
+  }
 ];
