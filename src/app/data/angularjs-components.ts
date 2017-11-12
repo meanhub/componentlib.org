@@ -3607,9 +3607,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src : 'https://www.angular-gantt.com/demo/',
     },
     framework: 'AngularJS 1.x',
-    version: 2.0.0-rc.1',
+    version: '2.0.0-rc.1',
     license: 'MIT',
     details: 'https://www.angular-gantt.com/',
     keywords: ['gantt','spinner','loader']
+  },  
+  {
+    id: 171,
+    name: 'nsPopover',
+    install: {
+      packager: 'bower',
+      url: 'nsPopover'
+    },
+    source: {
+      domain: 'github',
+      url: 'nohros/nsPopover'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://nohros.com/nsPopover/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.8',
+    license: 'MIT',
+    details: 'https://github.com/nohros/nsPopover',
+    keywords: ['overlays','dependency']
   },  
 ];
