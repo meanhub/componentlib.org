@@ -3835,4 +3835,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/khan4019/tree-grid-directive',
     keywords: ['bootstrap','tree','grid']
   }, 
+  {
+    id: 181,
+    name: 'w11k-select',
+    install: {
+      packager: 'bower',
+      url: 'w11k-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'w11k/w11k-select'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://w11k.github.io/w11k-select/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.11.1',
+    license: 'MIT',
+    details: 'http://w11k.github.io/w11k-select/',
+    keywords: ['select','element']
+  }, 
 ];
