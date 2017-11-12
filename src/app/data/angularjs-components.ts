@@ -3308,5 +3308,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://wix.github.io/angular-tree-control/',
     keywords: ['tree','strcuture','control']
+  },
+  {
+    id: 156,
+    name: 'angular-slick',
+    install: {
+      packager: 'npm',
+      url: 'angular-slick'
+    },
+    source: {
+      domain: 'github',
+      url: 'vasyabigi/angular-slick'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://vasyabigi.github.io/angular-slick/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.7',
+    license: 'MIT',
+    details: 'https://github.com/vasyabigi/angular-slick',
+    keywords: ['slick','carousel','html']
   }
 ];
