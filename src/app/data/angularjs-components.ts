@@ -3228,5 +3228,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/TheSharpieOne/angular-validation-match',
     keywords: ['validation','match']
+  },
+  {
+    id: 152,
+    name: 'angularjs-nvd3-directives',
+    install: {
+      packager: 'npm',
+      url: 'angularjs-nvd3-directives'
+    },
+    source: {
+      domain: 'github',
+      url: 'angularjs-nvd3-directives/angularjs-nvd3-directives'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://cmaurer.github.io/angularjs-nvd3-directives/line.chart.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'https://github.com/TheSharpieOne/angular-validation-match',
+    keywords: ['charts','nvd3','line','area']
   }
 ];
