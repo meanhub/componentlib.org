@@ -3654,4 +3654,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/flowjs/ng-flow',
     keywords: ['flow']
   },  
+  {
+    id: 172,
+    name: 'angularjs-mongolab',
+    source: {
+      domain: 'github',
+      url: 'pkozlowski-opensource/angularjs-mongolab'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'Bb8GSA',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0-RC1',
+    license: 'MIT',
+    details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
+    keywords: ['Mongolab','adapter','promises']
+  },  
 ];
