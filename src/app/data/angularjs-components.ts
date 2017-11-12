@@ -4013,4 +4013,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://hypercubed.github.io/angular-marked/#/api',
     keywords: ['marked','markdown','sanitization']
   }, 
+  {
+    id: 190,
+    name: 'ng-pdfviewer',
+    source: {
+      domain: 'github',
+      url: 'akrennmair/ng-pdfviewer'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mozilla.github.io/pdf.js/web/viewer.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://mozilla.github.io/pdf.js/',
+    keywords: ['pdfviewer','pdf']
+  }, 
 ];
