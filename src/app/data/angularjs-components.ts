@@ -3270,5 +3270,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/dylanfprice/angular-gm',
     keywords: ['google map','map']
+  },
+  {
+    id: 154,
+    name: 'goangular',
+    source: {
+      domain: 'github',
+      url: 'goinstant/goangular'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://developers.goinstant.com/v1/GoAngular/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.3.6',
+    license: 'MIT',
+    details: 'https://github.com/dylanfprice/angular-gm',
+    keywords: ['goInstant']
   }
 ];
