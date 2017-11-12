@@ -3410,4 +3410,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/monospaced/angular-elastic',
     keywords: ['textareas','Elastic','autosize']
   },  
+  {
+    id: 161,
+    name: 'angular-multi-select',
+    install: {
+      packager: 'npm',
+      url: 'angular-multi-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'isteven/angular-multi-select'
+    },
+    demo: {
+      repl: 'custom',
+      id : 'https://isteven.github.io/angular-multi-select/#/demo-minimum',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.0.0',
+    license: 'MIT',
+    details: 'https://github.com/isteven/angular-multi-select',
+    keywords: ['multi','select','dropdown','selections']
+  },  
 ];
