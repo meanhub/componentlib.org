@@ -3553,4 +3553,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/pasvaz/bindonce',
     keywords: ['high performance','bindonce']
   },  
+  {
+    id: 168,
+    name: 'acute-select',
+    source: {
+      domain: 'github',
+      url: 'john-oc/acute-select'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://john-oc.github.io/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/gtramontina/angular-flash',
+    keywords: ['select','acute']
+  },  
 ];
