@@ -3713,4 +3713,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://aguirrel.github.io/ng-currency/',
     keywords: ['currency']
   },  
+  {
+    id: 175,
+    name: 'angular-foundation',
+    install: {
+      packager: 'npm',
+      url: 'angular-foundation'
+    },
+    source: {
+      domain: 'github',
+      url: 'yalabot/angular-foundation'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://pineconellc.github.io/angular-foundation/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.9.0-SNAPSHOT',
+    license: 'MIT',
+    details: 'https://github.com/yalabot/angular-foundation',
+    keywords: ['foundation','angularUI']
+  },  
 ];
