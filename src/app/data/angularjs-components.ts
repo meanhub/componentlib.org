@@ -3206,5 +3206,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ionicframework.com/',
     keywords: ['ionic','mobile','iphone','framework']
+  },
+  {
+    id: 151,
+    name: 'angular-validation-match',
+    install: {
+      packager: 'npm',
+      url: 'angular-validation-match'
+    },
+    source: {
+      domain: 'github',
+      url: 'TheSharpieOne/angular-validation-match'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'TheSharpieOne',
+      id : 'r6Ltru6c'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.6.0',
+    license: 'MIT',
+    details: 'https://github.com/TheSharpieOne/angular-validation-match',
+    keywords: ['validation','match']
   }
 ];
