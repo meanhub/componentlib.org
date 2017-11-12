@@ -4093,4 +4093,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://radonyizsolt.github.io/anguloader/',
     keywords: ['loader','spinner']
   }, 
+  {
+    id: 194,
+    name: 'angular-google-maps-native',
+    source: {
+      domain: 'github',
+      url: 'jbdemonte/angular-google-maps-native'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jbdemonte.github.io/angular-google-maps-native/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://radonyizsolt.github.io/anguloader/',
+    keywords: ['maps','google','native']
+  }, 
 ];
