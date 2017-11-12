@@ -3402,7 +3402,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      id : 'http://monospaced.github.io/angular-elastic/',
+      src : 'http://monospaced.github.io/angular-elastic/',
     },
     framework: 'AngularJS 1.x',
     version: '2.5.1',
@@ -3423,7 +3423,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      id : 'https://isteven.github.io/angular-multi-select/#/demo-minimum',
+      src : 'https://isteven.github.io/angular-multi-select/#/demo-minimum',
     },
     framework: 'AngularJS 1.x',
     version: '4.0.0',
@@ -3444,12 +3444,33 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'custom',
-      id : 'http://netceteragroup.github.io/valdr/#name',
+      src : 'http://netceteragroup.github.io/valdr/#name',
     },
     framework: 'AngularJS 1.x',
     version: '1.1.6',
     license: 'MIT',
     details: 'http://netceteragroup.github.io/valdr',
     keywords: ['centric','validation']
+  },  
+  {
+    id: 163,
+    name: 'angular-gettext',
+    install: {
+      packager: 'npm',
+      url: 'angular-gettext'
+    },
+    source: {
+      domain: 'github',
+      url: 'rubenv/angular-gettext'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-gettext.rocketeer.be/dev-guide/getting-started/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.3.10',
+    license: 'MIT',
+    details: 'https://angular-gettext.rocketeer.be/',
+    keywords: ['gettext','translation']
   },  
 ];
