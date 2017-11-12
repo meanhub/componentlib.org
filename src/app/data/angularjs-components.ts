@@ -3247,7 +3247,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '0.0.8',
     license: 'MIT',
-    details: 'https://github.com/TheSharpieOne/angular-validation-match',
+    details: 'https://github.com/angularjs-nvd3-directives/angularjs-nvd3-directives',
     keywords: ['charts','nvd3','line','area']
   },
   {
@@ -3285,7 +3285,28 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '3.3.6',
     license: 'MIT',
-    details: 'https://github.com/dylanfprice/angular-gm',
+    details: 'https://github.com/goinstant/goangular',
     keywords: ['goInstant']
+  },
+  {
+    id: 155,
+    name: 'angular-tree-control',
+    install: {
+      packager: 'npm',
+      url: 'angular-tree-control'
+    },
+    source: {
+      domain: 'github',
+      url: 'wix/angular-tree-control'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://wix.github.io/angular-tree-control/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.28',
+    license: 'MIT',
+    details: 'http://wix.github.io/angular-tree-control/',
+    keywords: ['tree','strcuture','control']
   }
 ];
