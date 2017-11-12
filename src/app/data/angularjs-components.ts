@@ -4171,6 +4171,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'https://ngmap.github.io/',
-    keywords: ['map',google map]
+    keywords: ['map','google map']
+  }, 
+  {
+    id: 198,
+    name: 'angular-loading-spinner',
+    source: {
+      domain: 'github',
+      url: 'adonespitogo/angular-loading-spinner'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'PUjrEIt0YLTwr0rUInv8',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://ngmap.github.io/',
+    keywords: ['spinner','loader']
   }, 
 ];
