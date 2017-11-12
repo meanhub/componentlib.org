@@ -3958,4 +3958,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     key
     words: ['breadcrumb','menu','navigation']
   }, 
+  {
+    id: 187,
+    name: 'angular-growl-2',
+    source: {
+      domain: 'github',
+      url: 'JanStevens/angular-growl-2'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://codepen.io/JanStevens/full/inxDw/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.9',
+    license: 'MIT',
+    details: 'http://janstevens.github.io/angular-growl-2/',
+    key
+    words: ['notifications','message','alert']
+  }, 
 ];
