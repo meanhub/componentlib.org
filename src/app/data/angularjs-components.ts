@@ -3591,4 +3591,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/urigo/angular-spinkit',
     keywords: ['spinkit','spinner','loader']
   },  
+  {
+    id: 170,
+    name: 'angular-gantt',
+    install: {
+      packager: 'bower',
+      url: 'angular-gantt'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-gantt/angular-gantt'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.angular-gantt.com/demo/',
+    },
+    framework: 'AngularJS 1.x',
+    version: 2.0.0-rc.1',
+    license: 'MIT',
+    details: 'https://www.angular-gantt.com/',
+    keywords: ['gantt','spinner','loader']
+  },  
 ];
