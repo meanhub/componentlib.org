@@ -3734,4 +3734,46 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/yalabot/angular-foundation',
     keywords: ['foundation','angularUI']
   },  
+  {
+    id: 176,
+    name: 'angular-foundation',
+    install: {
+      packager: 'npm',
+      url: 'angular-foundation'
+    },
+    source: {
+      domain: 'github',
+      url: 'yalabot/angular-foundation'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://pineconellc.github.io/angular-foundation/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.9.0-SNAPSHOT',
+    license: 'MIT',
+    details: 'https://github.com/yalabot/angular-foundation',
+    keywords: ['foundation','angularUI']
+  }, 
+  {
+    id: 177,
+    name: 'angular-bootstrap-switch',
+    install: {
+      packager: 'npm',
+      url: 'angular-bootstrap-switch'
+    },
+    source: {
+      domain: 'github',
+      url: 'frapontillo/angular-bootstrap-switch'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bootstrapswitch.com/examples.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.2',
+    license: 'MIT',
+    details: 'https://github.com/frapontillo/angular-bootstrap-switch',
+    keywords: ['bootstrap','switch']
+  }, 
 ];
