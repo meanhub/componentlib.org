@@ -3494,4 +3494,46 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://angular-route-segment.com/',
     keywords: ['route','segment','nested views']
   },  
+  {
+    id: 165,
+    name: 'angular-datepicker',
+    install: {
+      packager: 'npm',
+      url: 'angular-datepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'g00fy-/angular-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://rawgit.com/g00fy-/angular-datepicker/master/app/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.1.3',
+    license: 'MIT',
+    details: 'https://github.com/g00fy-/angular-datepicker',
+    keywords: ['datepicker']
+  },  
+  {
+    id: 166,
+    name: 'angular-flash',
+    install: {
+      packager: 'npm',
+      url: 'angular-flash'
+    },
+    source: {
+      domain: 'github',
+      url: 'gtramontina/angular-flash'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'y1INk36bPbW7GaX15QbQ',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.1.3',
+    license: 'MIT',
+    details: 'https://github.com/gtramontina/angular-flash',
+    keywords: ['flash','messages']
+  },  
 ];
