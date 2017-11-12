@@ -3570,4 +3570,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/gtramontina/angular-flash',
     keywords: ['select','acute']
   },  
+  {
+    id: 169,
+    name: 'angular-spinkit',
+    install: {
+      packager: 'bower',
+      url: 'angular-spinkit'
+    },
+    source: {
+      domain: 'github',
+      url: 'urigo/angular-spinkit'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tobiasahlin.com/spinkit/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'https://github.com/urigo/angular-spinkit',
+    keywords: ['spinkit','spinner','loader']
+  },  
 ];
