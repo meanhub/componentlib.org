@@ -3692,4 +3692,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
     keywords: ['mask']
   },  
+  {
+    id: 174,
+    name: 'ng-currency',
+    install: {
+      packager: 'npm',
+      url: 'ng-currency'
+    },
+    source: {
+      domain: 'github',
+      url: 'aguirrel/ng-currency'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'u9mJqDH8UpwxDnOv8gZL',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'http://aguirrel.github.io/ng-currency/',
+    keywords: ['currency']
+  },  
 ];
