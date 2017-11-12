@@ -3633,4 +3633,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/nohros/nsPopover',
     keywords: ['overlays','dependency']
   },  
+  {
+    id: 172,
+    name: 'ng-flow',
+    install: {
+      packager: 'bower',
+      url: 'ng-flow#~2'
+    },
+    source: {
+      domain: 'github',
+      url: 'flowjs/ng-flow'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://flowjs.github.io/ng-flow/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.7.7',
+    license: 'MIT',
+    details: 'https://github.com/flowjs/ng-flow',
+    keywords: ['flow']
+  },  
 ];
