@@ -3776,4 +3776,63 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/frapontillo/angular-bootstrap-switch',
     keywords: ['bootstrap','switch']
   }, 
+  {
+    id: 178,
+    name: 'angular-bootstrap-switch',
+    install: {
+      packager: 'npm',
+      url: 'angular-bootstrap-switch'
+    },
+    source: {
+      domain: 'github',
+      url: 'frapontillo/angular-bootstrap-switch'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bootstrapswitch.com/examples.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.2',
+    license: 'MIT',
+    details: 'https://github.com/frapontillo/angular-bootstrap-switch',
+    keywords: ['bootstrap','switch']
+  }, 
+  {
+    id: 179,
+    name: 'stormpath-sdk-angularjs',
+    source: {
+      domain: 'github',
+      url: 'stormpath/stormpath-sdk-angularjs'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://stormpath.com/blog/stormpaths-new-path?utm_source=github&utm_medium=readme&utm-campaign=okta-announcement',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/stormpath/stormpath-sdk-angularjs',
+    keywords: ['sdk','stormpath']
+  }, 
+  {
+    id: 180,
+    name: 'angular-bootstrap-grid-tree',
+    install: {
+      packager: 'npm',
+      url: 'angular-bootstrap-grid-tree'
+    },
+    source: {
+      domain: 'github',
+      url: 'khan4019/tree-grid-directive'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://khan4019.github.io/tree-grid-directive/test/treeGrid.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/khan4019/tree-grid-directive',
+    keywords: ['bootstrap','tree','grid']
+  }, 
 ];
