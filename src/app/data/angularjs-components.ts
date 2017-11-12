@@ -3877,4 +3877,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://brantwills.github.io/Angular-Paging/',
     keywords: ['paging','datasets']
   }, 
+  {
+    id: 183,
+    name: 'ng-simplePagination',
+    install: {
+      packager: 'bower',
+      url: 'ng-simplePagination'
+    },
+    source: {
+      domain: 'github',
+      url: 'svileng/ng-simplePagination'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : '2ZzZB',
+      id : '56'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.9',
+    license: 'MIT',
+    details: 'https://github.com/svileng/ng-simplePagination',
+    keywords: ['paging','datasets']
+  }, 
 ];
