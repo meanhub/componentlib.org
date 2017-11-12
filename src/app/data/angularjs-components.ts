@@ -3976,4 +3976,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     key
     words: ['notifications','message','alert']
   }, 
+  {
+    id: 188,
+    name: 'angular-img-fallback',
+    install: {
+      packager: 'bower',
+      url: 'angular-img-fallback'
+    },
+    source: {
+      domain: 'github',
+      url: 'dcohenb/angular-img-fallback'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://dcb.co.il/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/dcohenb/angular-img-fallback',
+    key
+    words: ['fallback','img']
+  }, 
 ];
