@@ -4133,24 +4133,24 @@ export const ANGULARJS_COMPONENTS: any[] = [
   }, 
   {
     id: 196,
-    name: 'onsenui',
+    name: 'angular-ui-notification',
     install: {
       packager: 'npm',
-      url: 'onsenui'
+      url: 'angular-ui-notification'
     },
     source: {
       domain: 'github',
-      url: 'OnsenUI/OnsenUI'
+      url: 'alexcrack/angular-ui-notification'
     },
     demo: {
-      repl: 'custom',
-      src : 'https://onsen.io/v2/api/angular1/',
+      repl: 'plunker',
+      id : '5Gk8UVvzUsjyof7Gxsua',
     },
     framework: 'AngularJS 1.x',
-    version: '2.0.0',
+    version: '0.3.6',
     license: 'MIT',
-    details: 'https://onsen.io/',
-    keywords: ['hybrid app']
+    details: 'https://github.com/alexcrack/angular-ui-notification',
+    keywords: ['notification,'message','alert']
   }, 
   {
     id: 197,
