@@ -3249,5 +3249,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/TheSharpieOne/angular-validation-match',
     keywords: ['charts','nvd3','line','area']
+  },
+  {
+    id: 153,
+    name: 'angular-gm',
+    install: {
+      packager: 'npm',
+      url: 'angular-gm'
+    },
+    source: {
+      domain: 'github',
+      url: 'dylanfprice/angular-gm'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'PYDYjVuRHaJpdntoJtqL',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/dylanfprice/angular-gm',
+    keywords: ['google map','map']
   }
 ];
