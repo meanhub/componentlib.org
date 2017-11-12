@@ -3346,5 +3346,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vasyabigi/angular-slick',
     keywords: ['filter','text','strings','truncate']
-  }
+  },
+  {
+    id: 157,
+    name: 'satellizer',
+    install: {
+      packager: 'npm',
+      url: 'satellizer'
+    },
+    source: {
+      domain: 'github',
+      url: 'sahat/satellizer'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://satellizer-sahat.rhcloud.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '7.0.0',
+    license: 'MIT',
+    details: 'https://github.com/sahat/satellizer',
+    keywords: ['tocken','authentication']
+  },  
 ];
