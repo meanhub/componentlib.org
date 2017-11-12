@@ -4030,4 +4030,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://mozilla.github.io/pdf.js/',
     keywords: ['pdfviewer','pdf']
   }, 
+  {
+    id: 191,
+    name: 'angular-chartjs',
+    install: {
+      packager: 'bower',
+      url: 'angular-chartjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'petermelias/angular-chartjs'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'pC7gJ7',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.5',
+    license: 'MIT',
+    details: 'https://github.com/petermelias/angular-chartjs',
+    keywords: ['chartjs','charts','line','area','pie']
+  }, 
 ];
