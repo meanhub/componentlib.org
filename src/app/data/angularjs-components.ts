@@ -4150,7 +4150,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.6',
     license: 'MIT',
     details: 'https://github.com/alexcrack/angular-ui-notification',
-    keywords: ['notification,'message','alert']
+    keywords: ['notification','message','alert']
   }, 
   {
     id: 197,
