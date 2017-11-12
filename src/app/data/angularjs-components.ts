@@ -3473,4 +3473,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://angular-gettext.rocketeer.be/',
     keywords: ['gettext','translation']
   },  
+  {
+    id: 164,
+    name: 'angular-route-segment',
+    install: {
+      packager: 'npm',
+      url: 'angular-route-segment'
+    },
+    source: {
+      domain: 'github',
+      url: 'artch/angular-route-segment'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-route-segment.com/src/example/#/section1/1',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'http://angular-route-segment.com/',
+    keywords: ['route','segment','nested views']
+  },  
 ];
