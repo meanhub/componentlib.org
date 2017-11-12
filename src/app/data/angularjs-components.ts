@@ -3431,4 +3431,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/isteven/angular-multi-select',
     keywords: ['multi','select','dropdown','selections']
   },  
+  {
+    id: 162,
+    name: 'valdr',
+    install: {
+      packager: 'npm',
+      url: 'valdr'
+    },
+    source: {
+      domain: 'github',
+      url: 'netceteragroup/valdr'
+    },
+    demo: {
+      repl: 'custom',
+      id : 'http://netceteragroup.github.io/valdr/#name',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.6',
+    license: 'MIT',
+    details: 'http://netceteragroup.github.io/valdr',
+    keywords: ['centric','validation']
+  },  
 ];
