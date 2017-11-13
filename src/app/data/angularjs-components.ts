@@ -4273,5 +4273,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://akoenig.github.io/angular-deckgrid/#/',
     keywords: ['deckgrid','grid']
+  },
+  {
+    id: 203,
+    name: 'angular-pouchdb',
+    install: {
+      packager: 'bower',
+      url: 'angular-pouchdb'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-pouchdb/angular-pouchdb'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-pouchdb.github.io/angular-pouchdb/#/examples/live',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://angular-pouchdb.github.io/angular-pouchdb/#/',
+    keywords: ['pouchdb','service','db']
   }
 ];
