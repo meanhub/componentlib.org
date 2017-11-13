@@ -4252,5 +4252,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://srfrnk.github.io/ng-device-detector/',
     keywords: ['device','detector']
+  },
+  {
+    id: 202,
+    name: 'angular-deckgrid',
+    install: {
+      packager: 'npm',
+      url: 'angular-deckgrid'
+    },
+    source: {
+      domain: 'github',
+      url: 'akoenig/angular-deckgrid'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://akoenig.github.io/angular-deckgrid/#/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'http://akoenig.github.io/angular-deckgrid/#/',
+    keywords: ['deckgrid','grid']
   }
 ];
