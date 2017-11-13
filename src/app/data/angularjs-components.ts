@@ -4231,5 +4231,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sebastianha/angular-bootstrap-checkbox/',
     keywords: ['bootstrap','checkbox']
+  },
+  {
+    id: 201,
+    name: 'ng-device-detector',
+    install: {
+      packager: 'bower',
+      url: 'ng-device-detector'
+    },
+    source: {
+      domain: 'github',
+      url: 'srfrnk/ng-device-detector'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'urqMI1',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.0.3',
+    license: 'MIT',
+    details: 'http://srfrnk.github.io/ng-device-detector/',
+    keywords: ['device','detector']
   }
 ];
