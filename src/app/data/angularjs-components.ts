@@ -5777,5 +5777,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://commangular.org/get-started/',
     keywords: ['comma']
+  },
+  {
+    id: 279,
+    name: 'ng-ScrollSpy',
+    install: {
+      packager: 'bower',
+      url: 'ng-ScrollSpy.js'
+    },
+    source: {
+      domain: 'github',
+      url: 'patrickmarabeas/ng-ScrollSpy.js'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://patrickmarabeas.github.io/ng-ScrollSpy.js/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.2.2',
+    license: 'MIT',
+    details: 'https://github.com/patrickmarabeas/ng-ScrollSpy.js',
+    keywords: ['scroll','pagescroll','spy']
   }
 ];
