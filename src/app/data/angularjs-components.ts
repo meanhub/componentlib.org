@@ -5587,5 +5587,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/jordanburke/angular-help-overlay',
     keywords: ['overlay','help']
+  },
+  {
+    id: 269,
+    name: 'xpull',
+    install: {
+      packager: 'bower',
+      url: 'xpull'
+    },
+    source: {
+      domain: 'github',
+      url: 'sjovanovic/xpull'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://sjovanovic.github.io/xpull/demo.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/sjovanovic/xpull',
+    keywords: ['pull']
   }
 ];
