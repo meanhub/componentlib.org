@@ -5145,4 +5145,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/TerryMooreII/angular-wysiwyg',
     keywords: ['wysiwyg']
   },
+  {
+    id: 247,
+    name: 'angular-texteditor',
+    source: {
+      domain: 'github',
+      url: 'vitconte/angulartexteditor'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'vitconte',
+      id : 'N93pg'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vitconte/angulartexteditor',
+    keywords: ['text','editor']
+  },
 ];
