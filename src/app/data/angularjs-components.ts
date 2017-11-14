@@ -5570,5 +5570,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://adaptv.github.io/adapt-strap/',
     keywords: ['strap','adapt']
+  },
+  {
+    id: 268,
+    name: 'angular-help-overlay',
+    source: {
+      domain: 'github',
+      url: 'jordanburke/angular-help-overlay'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://heelhook.github.io/chardin.js/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.3',
+    license: 'MIT',
+    details: 'https://github.com/jordanburke/angular-help-overlay',
+    keywords: ['overlay','help']
   }
 ];
