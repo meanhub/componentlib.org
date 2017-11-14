@@ -6013,5 +6013,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://swimlane.github.io/angular-model-factory/',
     keywords: ['model','factory']
+  },
+  {
+    id: 291,
+    name: 'angular-material-dashboard',
+    source: {
+      domain: 'github',
+      url: 'flatlogic/angular-material-dashboard'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://flatlogic.github.io/angular-material-dashboard/#/dashboard',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://github.com/flatlogic/angular-material-dashboard',
+    keywords: ['material','dashboard','layout']
   }
 ];
