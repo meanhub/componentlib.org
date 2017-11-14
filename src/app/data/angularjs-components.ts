@@ -5659,5 +5659,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/tchatel/angular-treeRepeat',
     keywords: ['tree','repeat']
+  },
+  {
+    id: 273,
+    name: 'angular-audio',
+    install: {
+      packager: 'bower',
+      url: 'angular-audio'
+    },
+    source: {
+      domain: 'github',
+      url: 'danielstern/ngAudio'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://danielstern.github.io/ngAudio/#/audio/audio%7Csong1.mp3',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.4',
+    license: 'MIT',
+    details: 'http://danielstern.github.io/ngAudio/#/',
+    keywords: ['audio','play','pause','songs']
   }
 ];
