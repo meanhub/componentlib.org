@@ -4433,5 +4433,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jonsamwell.github.io/angular-auto-validate/',
     keywords: ['validate','validattion','auto']
+  },
+  {
+    id: 211,
+    name: 'angular-paginate-anything',
+    install: {
+      packager: 'bower',
+      url: 'angular-paginate-anything'
+    },
+    sourc
+    source: {
+      domain: 'github',
+      url: 'begriffs/angular-paginate-anything'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://begriffs.github.io/angular-paginate-anything/?page=0&perPage=5',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.2.0',
+    license: 'MIT',
+    details: 'https://github.com/begriffs/angular-paginate-anything',
+    keywords: ['paginate','anything','pagination']
   }
 ];
