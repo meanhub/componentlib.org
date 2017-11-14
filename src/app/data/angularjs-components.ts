@@ -4315,5 +4315,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
     keywords: ['date','daterange','datepicker']
+  },
+  {
+    id: 205,
+    name: 'angular-macgyver',
+    install: {
+      packager: 'npm',
+      url: 'angular-macgyver'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-macgyver/MacGyver'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
+    keywords: ['components','directives']
   }
 ];
