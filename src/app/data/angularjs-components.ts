@@ -5360,9 +5360,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src : 'http://johannesjo.github.io/ng-fab-form/demos.html##simple',
     },
     framework: 'AngularJS 1.x',
-    version: '0.6.0',
+    version: '1.2.20',
     license: 'MIT',
     details: 'http://johannesjo.github.io/ng-fab-form/',
     keywords: ['form','fab']
+  },
+  {
+    id: 258,
+    name: 'angular-google-gapi',
+    install: {
+      packager: 'bower',
+      url: 'angular-google-gapi'
+    },
+    source: {
+      domain: 'github',
+      url: 'maximepvrt/angular-google-gapi'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://maximepvrt.github.io/angular-google-gapi/#/login',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/maximepvrt/angular-google-gapi',
+    keywords: ['google','gapi']
   }
 ];
