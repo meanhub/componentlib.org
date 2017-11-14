@@ -4687,5 +4687,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://uttesh.com/ngtimeago/',
     keywords: ['timeago','static data','time']
+  },
+  {
+    id: 224,
+    name: 'angular-progress-arc',
+    install: {
+      packager: 'bower',
+      url: 'angular-progress-arc'
+    },
+    source: {
+      domain: 'github',
+      url: 'mathewbyrne/angular-progress-arc'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mathewbyrne.github.io/angular-progress-arc/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://mathewbyrne.github.io/angular-progress-arc/',
+    keywords: ['progress','arc']
   }
 ];
