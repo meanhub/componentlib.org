@@ -5756,5 +5756,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jtrussell.github.io/angular-snap.js/',
     keywords: ['snap','shelves']
+  },
+  {
+    id: 278,
+    name: 'commangular',
+    install: {
+      packager: 'bower',
+      url: 'commangular'
+    },
+    source: {
+      domain: 'github',
+      url: 'yukatan/commangular'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://commangular.org/get-started/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.9.0',
+    license: 'MIT',
+    details: 'http://commangular.org/get-started/',
+    keywords: ['comma']
   }
 ];
