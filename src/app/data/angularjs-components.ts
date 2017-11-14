@@ -5163,4 +5163,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/vitconte/angulartexteditor',
     keywords: ['text','editor']
   },
+  {
+    id: 248,
+    name: 'ngprogress-lite',
+    install: {
+      packager: 'npm',
+      url: 'ngprogress-lite'
+    },
+    source: {
+      domain: 'github',
+      url: 'voronianski/ngprogress-lite'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://labs.voronianski.com/ngprogress-lite.js/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.8',
+    license: 'MIT',
+    details: 'https://github.com/voronianski/ngprogress-lite',
+    keywords: ['progress','lite']
+  },
 ];
