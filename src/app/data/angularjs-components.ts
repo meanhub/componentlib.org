@@ -4788,7 +4788,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/fabiobiondi/angular-fullscreen',
     keywords: ['fullscreen']
-  }
+  },
   {
     id: 229,
     name: 'checklist-model',
@@ -5205,4 +5205,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/jseppi/angular-dropdowns',
     keywords: ['dropdowns','select']
   },
+  {
+    id: 250,
+    name: 'ng-mobile-menu',
+    source: {
+      domain: 'github',
+      url: 'shoppinpal/ng-mobile-menu'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://shoppinpal.github.io/ng-mobile-menu/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'https://github.com/shoppinpal/ng-mobile-menu',
+    keywords: ['mobile','menu']
+  }
 ];
