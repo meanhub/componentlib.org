@@ -5954,5 +5954,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/dtagdev1/json-export-excel',
     keywords: ['export','json','excel']
+  },
+  {
+    id: 288,
+    name: 'angular-loading-overlay',
+    install: {
+      packager: 'bower',
+      url: 'angular-loading-overlay'
+    },
+    source: {
+      domain: 'github',
+      url: 'bsalex/angular-loading-overlay'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bsalex.github.io/angular-loading-overlay/_site/#examples',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'http://bsalex.github.io/angular-loading-overlay/_site/',
+    keywords: ['loading','loader','overlay']
   }
 ];
