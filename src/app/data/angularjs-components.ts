@@ -4477,5 +4477,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://mgonto.github.io/angular-wizard/',
     keywords: ['wizard']
+  },
+  {
+    id: 213,
+    name: 'angular-dashboard-framework',
+    sourc
+    source: {
+      domain: 'github',
+      url: 'angular-dashboard-framework/angular-dashboard-framework'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-dashboard-framework.github.io/angular-dashboard-framework/#/sample/01',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.13.0-SNAPSHOT',
+    license: 'MIT',
+    details: 'https://github.com/angular-dashboard-framework/angular-dashboard-framework',
+    keywords: ['dashboard','framework']
   }
 ];
