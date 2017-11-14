@@ -4922,4 +4922,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://www.fusioncharts.com/',
     keywords: ['fusioncharts','charts','fusion','line','3d','pie','area']
   },
+  {
+    id: 236,
+    name: 'v-accordion',
+    source: {
+      domain: 'github',
+      url: 'LukaszWatroba/v-accordion'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://lukaszwatroba.github.io/v-accordion/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.6.0',
+    license: 'MIT',
+    details: 'http://lukaszwatroba.github.io/v-accordion/',
+    keywords: ['accordion','sections']
+  },
 ];
