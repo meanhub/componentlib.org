@@ -5642,5 +5642,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://gilbox.github.io/kinetic-slider/',
     keywords: ['slider','kinetic']
+  },
+  {
+    id: 272,
+    name: 'angular-treeRepeat',
+    source: {
+      domain: 'github',
+      url: 'tchatel/angular-treeRepeat'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tchatel.github.io/angular-treeRepeat/#/0',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/tchatel/angular-treeRepeat',
+    keywords: ['tree','repeat']
   }
 ];
