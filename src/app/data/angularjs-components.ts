@@ -5002,4 +5002,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://emmaguo.github.io/angular-poller/',
     keywords: ['poller']
   },
+  {
+    id: 240,
+    name: 'angular-bootstrap-calendar',
+    install: {
+      packager: 'npm',
+      url: 'angular-bootstrap-calendar'
+    },
+    source: {
+      domain: 'github',
+      url: 'mattlewis92/angular-bootstrap-calendar'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://mattlewis92.github.io/angular-bootstrap-calendar/#!?example=kitchen-sink',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.30.0',
+    license: 'MIT',
+    details: 'https://mattlewis92.github.io/angular-bootstrap-calendar/#!?example=kitchen-sink',
+    keywords: ['bootstrap','calender','event','drag','drop']
+  },
 ];
