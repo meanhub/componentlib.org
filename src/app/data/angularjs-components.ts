@@ -4357,5 +4357,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://pc035860.github.io/angular-highlightjs/example/#/hljs',
     keywords: ['highlightjs','highlight','syntax']
+  },
+  {
+    id: 207,
+    name: 'angular-cache',
+    install: {
+      packager: 'npm',
+      url: 'angular-cache'
+    },
+    source: {
+      domain: 'github',
+      url: 'jmdobry/angular-cache'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.pseudobry.com/angular-cache/#working-with-a-cache',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.6.0',
+    license: 'MIT',
+    details: 'http://www.pseudobry.com/angular-cache/',
+    keywords: ['cache','memory']
   }
 ];
