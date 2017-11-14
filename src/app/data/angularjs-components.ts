@@ -6051,5 +6051,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://sydev.github.io/sytabs/',
     keywords: ['tabs','toggle','scroll']
+  },
+  {
+    id: 293,
+    name: 'angular-odata-resources',
+    install: {
+      packager: 'bower',
+      url: 'angular-odata-resources'
+    },
+    source: {
+      domain: 'github',
+      url: 'devnixs/ODataAngularResources'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'sain_anky',
+      id : 'h22f7596'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.25',
+    license: 'MIT',
+    details: 'https://github.com/devnixs/ODataAngularResources',
+    keywords: ['odata','resources']
   }
 ];
