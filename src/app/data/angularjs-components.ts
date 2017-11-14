@@ -5490,5 +5490,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/dbtek/angular-aside',
     keywords: ['aside','menu']
+  },
+  {
+    id: 264,
+    name: 'ng-lazy-image',
+    install: {
+      packager: 'bower',
+      url: 'ng-lazy-image'
+    },
+    source: {
+      domain: 'github',
+      url: 'afklm/ng-lazy-image'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://afklm.github.io/ng-lazy-image/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/afklm/ng-lazy-image',
+    keywords: ['lazy','image']
   }
 ];
