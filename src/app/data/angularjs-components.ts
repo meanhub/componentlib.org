@@ -4831,5 +4831,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/iameugenejo/angular-centered',
     keywords: ['centered','text center','div center']
+  },
+  {
+    id: 231,
+    name: 'bootstrap-tagsinput',
+    source: {
+      domain: 'github',
+      url: 'bootstrap-tagsinput/bootstrap-tagsinput'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/',
+    keywords: ['tagsinput','bootstrap','input','tag']
   }
 ];
