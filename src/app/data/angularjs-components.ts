@@ -6136,5 +6136,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/tameraydin/ng-inline-edit',
     keywords: ['inline','edit','text','input']
+  },
+  {
+    id: 297,
+    name: 'angular-scroll-complete',
+    install: {
+      packager: 'bower',
+      url: 'angular-scroll-complete'
+    },
+    source: {
+      domain: 'github',
+      url: 'tushariscoolster/angular-scroll-complete'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tushariscoolster.github.io/angular-scroll-complete/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'https://github.com/tushariscoolster/angular-scroll-complete',
+    keywords: ['complete','scroll']
   }
 ];
