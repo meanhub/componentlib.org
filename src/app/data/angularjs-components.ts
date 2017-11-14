@@ -4645,5 +4645,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/nobitagit/ng-material-floating-button',
     keywords: ['material','floating','button']
+  },
+  {
+    id: 222,
+    name: 'ng-password-strength',
+    install: {
+      packager: 'bower',
+      url: 'ng-password-strength'
+    },
+    source: {
+      domain: 'github',
+      url: 'subarroca/ng-password-strength'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://subarroca.github.io/ng-password-strength/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/subarroca/ng-password-strength',
+    keywords: ['password','strength','valid']
   }
 ];
