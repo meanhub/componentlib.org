@@ -5469,5 +5469,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/Wildhoney/ngContextMenu',
     keywords: ['context','menu']
+  },
+  {
+    id: 263,
+    name: 'angular-aside',
+    install: {
+      packager: 'bower',
+      url: 'angular-aside'
+    },
+    source: {
+      domain: 'github',
+      url: 'dbtek/angular-aside'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'w8Clzab6jJf6fPMHEXpP',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.0',
+    license: 'MIT',
+    details: 'https://github.com/dbtek/angular-aside',
+    keywords: ['aside','menu']
   }
 ];
