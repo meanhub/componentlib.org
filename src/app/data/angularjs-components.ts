@@ -4513,5 +4513,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/restorando/angular-pickadate',
     keywords: ['pickadate','datepicker','date']
+  },
+  {
+    id: 215,
+    name: 'psResponsive',
+    sourc
+    source: {
+      domain: 'github',
+      url: 'randallmeeker/psResponsive'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'yoQAbpFiCUzHQFruRyA8',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/restorando/angular-pickadate',
+    keywords: ['responsive']
   }
 ];
