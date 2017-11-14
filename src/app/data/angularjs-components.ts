@@ -6195,5 +6195,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/itslenny/angular-slidezilla',
     keywords: ['slide','zilla','slider']
+  },
+  {
+    id: 300,
+    name: 'angular-morris',
+    install: {
+      packager: 'bower',
+      url: 'angular-morris'
+    },
+    source: {
+      domain: 'github',
+      url: 'angular-morris/angular-morris'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://angular-morris.io/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.0',
+    license: 'MIT',
+    details: 'https://angular-morris.io/',
+    keywords: ['morris','chart','line','area','line']
   }
 ];
