@@ -4960,4 +4960,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://rubaxa.github.io/Sortable/#ng',
     keywords: ['sorting','sortable']
   },
+  {
+    id: 238,
+    name: 'angular-advanced-searchbox',
+    install: {
+      packager: 'bower',
+      url: 'angular-advanced-searchbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'dnauck/angular-advanced-searchbox'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://dnauck.github.io/angular-advanced-searchbox/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'http://dnauck.github.io/angular-advanced-searchbox/',
+    keywords: ['searchbox','advanced','search']
+  },
 ];
