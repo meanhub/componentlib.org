@@ -5895,5 +5895,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jeradbitner.com/angular-directive.g-signin/',
     keywords: ['directive','signin','google','login']
+  },
+  {
+    id: 285,
+    name: 'angular-l10n',
+    source: {
+      domain: 'github',
+      url: '4vanger/angular-l10n'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://4vanger.github.io/angular-l10n/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'http://4vanger.github.io/angular-l10n/',
+    keywords: ['localization','resources']
   }
 ];
