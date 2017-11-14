@@ -5912,5 +5912,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://4vanger.github.io/angular-l10n/',
     keywords: ['localization','resources']
+  },
+  {
+    id: 286,
+    name: 'angular-virtual-scroll',
+    install: {
+      packager: 'bower',
+      url: 'angular-virtual-scroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'stackfull/angular-virtual-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://demo.stackfull.com/virtual-scroll/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.2',
+    license: 'MIT',
+    details: 'https://github.com/stackfull/angular-virtual-scroll',
+    keywords: ['virtual','scroll']
   }
 ];
