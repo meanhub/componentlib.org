@@ -5697,5 +5697,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ocombe/ocModal',
     keywords: ['modal','popup','popover']
+  },
+  {
+    id: 275,
+    name: 'xtform',
+    source: {
+      domain: 'github',
+      url: 'refactorthis/xtform'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.brentmckendrick.com/code/xtform/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0-beta.3',
+    license: 'MIT',
+    details: 'http://www.brentmckendrick.com/code/xtform/',
+    keywords: ['form','html']
   }
 ];
