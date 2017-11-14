@@ -5023,4 +5023,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://mattlewis92.github.io/angular-bootstrap-calendar/#!?example=kitchen-sink',
     keywords: ['bootstrap','calender','event','drag','drop']
   },
+  {
+    id: 241,
+    name: 'angular-ui-switch',
+    install: {
+      packager: 'npm',
+      url: 'angular-ui-switch'
+    },
+    source: {
+      domain: 'github',
+      url: 'xpepermint/angular-ui-switch'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://abpetkov.github.io/switchery/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.30.0',
+    license: 'MIT',
+    details: 'https://github.com/xpepermint/angular-ui-switch',
+    keywords: ['switch','ui','radio button']
+  },
 ];
