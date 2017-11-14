@@ -4789,4 +4789,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/fabiobiondi/angular-fullscreen',
     keywords: ['fullscreen']
   }
+  {
+    id: 229,
+    name: 'checklist-model',
+    install: {
+      packager: 'bower',
+      url: 'checklist-model'
+    },
+    source: {
+      domain: 'github',
+      url: 'vitalets/checklist-model'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://vitalets.github.io/checklist-model/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.11.0',
+    license: 'MIT',
+    details: 'http://vitalets.github.io/checklist-model/',
+    keywords: ['model','checklist','checkbox']
+  }
 ];
