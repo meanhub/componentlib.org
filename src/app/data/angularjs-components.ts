@@ -5284,5 +5284,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-cycle-gallery.rademade.com/',
     keywords: ['gallery','cycle']
+  },
+  {
+    id: 254,
+    name: 'bootstrap-ui-datetime-picker ',
+    install: {
+      packager: 'bower',
+      url: 'bootstrap-ui-datetime-picker  '
+    },
+    source: {
+      domain: 'github',
+      url: 'Gillardo/bootstrap-ui-datetime-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://rawgit.com/Gillardo/bootstrap-ui-datetime-picker/master/example/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.6.0',
+    license: 'MIT',
+    details: 'https://rawgit.com/Gillardo/bootstrap-ui-datetime-picker/master/example/index.html',
+    keywords: ['datetime','picker','ui','datepicker','timepicker','range']
   }
 ];
