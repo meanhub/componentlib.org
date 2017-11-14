@@ -5849,9 +5849,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       id : 'Y1mrNVRkInCItqvZXtto',
     },
     framework: 'AngularJS 1.x',
-    version: '0.1.1',
+    version: '0.3.1',
     license: 'MIT',
     details: 'https://github.com/agrublev/angularLocalStorage',
     keywords: ['localstorage','storage','memory']
+  },
+  {
+    id: 283,
+    name: 'angular-chosen-localytics',
+    install: {
+      packager: 'bower',
+      url: 'angular-chosen-localytics'
+    },
+    source: {
+      domain: 'github',
+      url: 'leocaseiro/angular-chosen'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'fawiXh',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.8.0',
+    license: 'MIT',
+    details: 'http://leocaseiro.github.io/angular-chosen/',
+    keywords: ['localytics','chosen','select']
   }
 ];
