@@ -5103,4 +5103,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://tamerayd.in/ngToast/',
     keywords: ['toast','alert','message','notification']
   },
+  {
+    id: 245,
+    name: 'angular-widget',
+    install: {
+      packager: 'bower',
+      url: 'angular-widget'
+    },
+    source: {
+      domain: 'github',
+      url: 'wix/angular-widget'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://shahata.github.io/angular-widget/#/app1/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/wix/angular-widget',
+    keywords: ['widget','sections']
+  },
 ];
