@@ -4495,5 +4495,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/angular-dashboard-framework/angular-dashboard-framework',
     keywords: ['dashboard','framework']
+  },
+  {
+    id: 214,
+    name: 'angular-pickadate',
+    sourc
+    source: {
+      domain: 'github',
+      url: 'restorando/angular-pickadate'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'gXP8xdsdP9nJIr0fi1RQ',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.2',
+    license: 'MIT',
+    details: 'https://github.com/restorando/angular-pickadate',
+    keywords: ['pickadate','datepicker','date']
   }
 ];
