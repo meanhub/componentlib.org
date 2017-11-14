@@ -4416,5 +4416,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://oitozero.github.io/ngSweetAlert/#/home',
     keywords: ['sweetalert','notification','alert','popup']
+  },
+  {
+    id: 210,
+    name: 'angular-auto-validate',
+    source: {
+      domain: 'github',
+      url: 'angular-auto-validate'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'R4vGhrSYvKJREMV7Q4rC',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.19.6',
+    license: 'MIT',
+    details: 'http://jonsamwell.github.io/angular-auto-validate/',
+    keywords: ['validate','validattion','auto']
   }
 ];
