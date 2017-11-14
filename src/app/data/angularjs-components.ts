@@ -4581,5 +4581,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
     keywords: ['dashboard','seed']
+  },
+  {
+    id: 219,
+    name: 'zingchart-angularjs',
+    install: {
+      packager: 'bower',
+      url: 'zingchart-angularjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'zingchart/ZingChart-AngularJS'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'sain_anky',
+      id : 'LOLgEX'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://www.zingchart.com/',
+    keywords: ['zingchart','charts','area','pie','line']
   }
 ];
