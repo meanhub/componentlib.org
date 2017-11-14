@@ -4809,5 +4809,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://vitalets.github.io/checklist-model/',
     keywords: ['model','checklist','checkbox']
+  },
+  {
+    id: 230,
+    name: 'angular-centered',
+    install: {
+      packager: 'npm',
+      url: 'angular-centered'
+    },
+    source: {
+      domain: 'github',
+      url: 'iameugenejo/angular-centered'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'vCL9P',
+      id : '2'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/iameugenejo/angular-centered',
+    keywords: ['centered','text center','div center']
   }
 ];
