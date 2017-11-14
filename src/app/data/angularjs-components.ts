@@ -4564,5 +4564,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
     keywords: ['rtcomm','communication','realtime']
+  },
+  {
+    id: 218,
+    name: 'angular-dashboard-seed',
+    source: {
+      domain: 'github',
+      url: 'flatlogic/angular-dashboard-seed'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-dashboard-seed.flatlogic.com/#/login',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0-beta',
+    license: 'MIT',
+    details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
+    keywords: ['dashboard','seed']
   }
 ];
