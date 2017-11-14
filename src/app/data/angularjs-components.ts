@@ -5815,5 +5815,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sarath2/ngEkathuwa',
     keywords: ['responsive','custom sizes','templates']
+  },
+  {
+    id: 281,
+    name: 'angular-count-to',
+    source: {
+      domain: 'github',
+      url: 'sparkalow/angular-count-to'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://sparkalow.github.io/angular-count-to/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'https://github.com/sparkalow/angular-count-to',
+    keywords: ['count','counter','number']
   }
 ];
