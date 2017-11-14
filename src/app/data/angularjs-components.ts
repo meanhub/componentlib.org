@@ -5263,5 +5263,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ng-pros.github.io/np-autocomplete/index.html',
     keywords: ['autocomplete','auto','input']
+  },
+  {
+    id: 253,
+    name: 'angular-cycle-gallery',
+    install: {
+      packager: 'bower',
+      url: 'angular-cycle-gallery'
+    },
+    source: {
+      domain: 'github',
+      url: 'Rademade/angular-cycle-gallery'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-cycle-gallery.rademade.com/fix',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'http://angular-cycle-gallery.rademade.com/',
+    keywords: ['gallery','cycle']
   }
 ];
