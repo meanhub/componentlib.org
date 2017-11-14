@@ -4666,5 +4666,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/subarroca/ng-password-strength',
     keywords: ['password','strength','valid']
+  },
+  {
+    id: 223,
+    name: 'ng-timeago',
+    install: {
+      packager: 'bower',
+      url: 'ng-timeago'
+    },
+    source: {
+      domain: 'github',
+      url: 'uttesh/ngtimeago'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://uttesh.com/ngtimeago/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'http://uttesh.com/ngtimeago/',
+    keywords: ['timeago','static data','time']
   }
 ];
