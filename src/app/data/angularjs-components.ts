@@ -4624,5 +4624,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/rpocklin/angular-timeline',
     keywords: ['timeline','profile']
+  },
+  {
+    id: 221,
+    name: 'ng-material-floating-button',
+    install: {
+      packager: 'bower',
+      url: 'ng-material-floating-button'
+    },
+    source: {
+      domain: 'github',
+      url: 'nobitagit/ng-material-floating-button'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://nobitagit.github.io/ng-material-floating-button/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.2',
+    license: 'MIT',
+    details: 'https://github.com/nobitagit/ng-material-floating-button',
+    keywords: ['material','floating','button']
   }
 ];
