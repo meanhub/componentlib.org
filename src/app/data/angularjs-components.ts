@@ -5553,5 +5553,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/buberdds/angular-bootstrap-colorpicker',
     keywords: ['bootstrap','colorpicker','color']
+  },
+  {
+    id: 267,
+    name: 'adapt-strap',
+    source: {
+      domain: 'github',
+      url: 'adaptv/adapt-strap'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://adaptv.github.io/adapt-strap/##alerts',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.6.1',
+    license: 'MIT',
+    details: 'http://adaptv.github.io/adapt-strap/',
+    keywords: ['strap','adapt']
   }
 ];
