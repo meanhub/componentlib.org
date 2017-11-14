@@ -4848,5 +4848,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/',
     keywords: ['tagsinput','bootstrap','input','tag']
-  }
+  },
+  {
+    id: 232,
+    name: 'ng-select',
+    install: {
+      packager: 'bower',
+      url: 'ng-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'pc035860/ngSelect'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'RNZepQ'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://pc035860.github.io/ngSelect/example/#/ng-select',
+    keywords: ['select','dropdown','select box']
+  },
 ];
