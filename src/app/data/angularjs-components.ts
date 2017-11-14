@@ -6073,5 +6073,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/devnixs/ODataAngularResources',
     keywords: ['odata','resources']
+  },
+  {
+    id: 294,
+    name: 'ngGallery',
+    install: {
+      packager: 'bower',
+      url: 'ngGallery'
+    },
+    source: {
+      domain: 'github',
+      url: 'SchwarzwaldFalke/ngGallery'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://demo.jankuri.com/ngGallery/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/devnixs/ODataAngularResources',
+    keywords: ['gallery','images','photo']
   }
 ];
