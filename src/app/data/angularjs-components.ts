@@ -5221,5 +5221,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/shoppinpal/ng-mobile-menu',
     keywords: ['mobile','menu']
+  },
+  {
+    id: 251,
+    name: 'angular-recaptcha',
+    install: {
+      packager: 'npm',
+      url: 'angular-recaptcha'
+    },
+    source: {
+      domain: 'github',
+      url: 'VividCortex/angular-recaptcha'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://vividcortex.github.io/angular-recaptcha/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.1.1',
+    license: 'MIT',
+    details: 'http://vividcortex.github.io/angular-recaptcha/',
+    keywords: ['recaptcha','captcha']
   }
 ];
