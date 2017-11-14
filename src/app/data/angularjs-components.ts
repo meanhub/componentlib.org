@@ -4729,5 +4729,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ngcordova.com/docs/plugins/',
     keywords: ['cordova','plugin']
+  },
+  {
+    id: 226,
+    name: 'angular-block-ui',
+    install: {
+      packager: 'bower',
+      url: 'angular-block-ui'
+    },
+    source: {
+      domain: 'github',
+      url: 'McNull/angular-block-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-block-ui.nullest.com/#!/examples/element-blocking-examples',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'http://angular-block-ui.nullest.com/#!/',
+    keywords: ['block','ui']
   }
 ];
