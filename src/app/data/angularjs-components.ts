@@ -5427,5 +5427,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://jacek-pulit.github.io/angular-elastic-input/',
     keywords: ['elastic','input']
+  },
+  {
+    id: 261,
+    name: 'angularjs-datepicker',
+    install: {
+      packager: 'bower',
+      url: 'angularjs-datepicker'
+    },
+    source: {
+      domain: 'github',
+      url: '720kb/angular-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://720kb.github.io/angular-datepicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.1.23',
+    license: 'MIT',
+    details: 'https://github.com/720kb/angular-datepicker',
+    keywords: ['datepicker','date']
   }
 ];
