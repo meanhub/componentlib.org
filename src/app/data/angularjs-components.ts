@@ -5714,5 +5714,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.brentmckendrick.com/code/xtform/',
     keywords: ['form','html']
+  },
+  {
+    id: 276,
+    name: 'angular-cropme',
+    install: {
+      packager: 'bower',
+      url: 'angular-cropme'
+    },
+    source: {
+      domain: 'github',
+      url: 'standup75/cropme'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://standupweb.net/cropmedemo/#/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.5',
+    license: 'MIT',
+    details: 'https://github.com/standup75/cropme',
+    keywords: ['cropme','crop','image','photo']
   }
 ];
