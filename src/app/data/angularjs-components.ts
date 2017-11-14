@@ -4708,5 +4708,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://mathewbyrne.github.io/angular-progress-arc/',
     keywords: ['progress','arc']
+  },
+  {
+    id: 225,
+    name: 'ngCordova',
+    install: {
+      packager: 'bower',
+      url: 'ngCordova'
+    },
+    source: {
+      domain: 'github',
+      url: 'ionic-team/ng-cordova'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ngcordova.com/docs/plugins/progressIndicator/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.27',
+    license: 'MIT',
+    details: 'http://ngcordova.com/docs/plugins/',
+    keywords: ['cordova','plugin']
   }
 ];
