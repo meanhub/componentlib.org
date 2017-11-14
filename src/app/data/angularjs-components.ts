@@ -5124,4 +5124,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/wix/angular-widget',
     keywords: ['widget','sections']
   },
+  {
+    id: 246,
+    name: 'angular-wysiwyg',
+    install: {
+      packager: 'npm',
+      url: 'angular-wysiwyg'
+    },
+    source: {
+      domain: 'github',
+      url: 'TerryMooreII/angular-wysiwyg'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://raw.githubusercontent.com/TerryMooreII/angular-wysiwyg/master/screenshots/screenshot.png',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/TerryMooreII/angular-wysiwyg',
+    keywords: ['wysiwyg']
+  },
 ];
