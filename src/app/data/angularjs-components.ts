@@ -6115,5 +6115,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://nverba.github.io/pikaday-angular/',
     keywords: ['pikaday','directive']
+  },
+  {
+    id: 296,
+    name: 'ng-inline-edit',
+    install: {
+      packager: 'bower',
+      url: 'ng-inline-edit'
+    },
+    source: {
+      domain: 'github',
+      url: 'tameraydin/ng-inline-edit'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'erayd.in/ng-inline-edit/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://github.com/tameraydin/ng-inline-edit',
+    keywords: ['inline','edit','text','input']
   }
 ];
