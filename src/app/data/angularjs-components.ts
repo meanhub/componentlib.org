@@ -4771,5 +4771,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/joujiahe/ng-color-picker',
     keywords: ['color','picker']
+  },
+  {
+    id: 228,
+    name: 'angular-fullscreen',
+    source: {
+      domain: 'github',
+      url: 'fabiobiondi/angular-fullscreen'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.fabiobiondi.com/demo/github/angular-fullscreen/demo/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/fabiobiondi/angular-fullscreen',
+    keywords: ['fullscreen']
   }
 ];
