@@ -4378,5 +4378,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.pseudobry.com/angular-cache/',
     keywords: ['cache','memory']
+  },
+  {
+    id: 208,
+    name: 'angular-underscore',
+    source: {
+      domain: 'github',
+      url: 'floydwch/angular-underscore'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://underscorejs.org/#each',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'http://underscorejs.org/',
+    keywords: ['underscore','script','library']
   }
 ];
