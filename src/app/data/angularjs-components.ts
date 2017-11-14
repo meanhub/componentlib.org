@@ -5044,4 +5044,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/xpepermint/angular-ui-switch',
     keywords: ['switch','ui','radio button']
   },
+  {
+    id: 242,
+    name: 'ng-polymer-elements',
+    install: {
+      packager: 'bower',
+      url: 'ng-polymer-elements'
+    },
+    source: {
+      domain: 'github',
+      url: 'GabiAxel/ng-polymer-elements'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://gabiaxel.github.io/ng-polymer-elements/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://gabiaxel.github.io/ng-polymer-elements/',
+    keywords: ['polymer','elements']
+  },
 ];
