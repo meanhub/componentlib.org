@@ -5532,5 +5532,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/adonespitogo/angular-base64-upload',
     keywords: ['base64','upload','file']
+  },
+  {
+    id: 266,
+    name: 'angular-bootstrap-colorpicker',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-colorpicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'buberdds/angular-bootstrap-colorpicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://codepen.io/buberdds/full/fBAsr',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.0.31',
+    license: 'MIT',
+    details: 'https://github.com/buberdds/angular-bootstrap-colorpicker',
+    keywords: ['bootstrap','colorpicker','color']
   }
 ];
