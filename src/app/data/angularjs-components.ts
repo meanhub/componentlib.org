@@ -4395,5 +4395,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://underscorejs.org/',
     keywords: ['underscore','script','library']
+  },
+  {
+    id: 209,
+    name: 'angular-sweetalert',
+    install: {
+      packager: 'bower',
+      url: 'angular-sweetalert'
+    },
+    source: {
+      domain: 'github',
+      url: 'oitozero/ngSweetAlert'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://oitozero.github.io/ngSweetAlert/#/home',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.2',
+    license: 'MIT',
+    details: 'http://oitozero.github.io/ngSweetAlert/#/home',
+    keywords: ['sweetalert','notification','alert','popup']
   }
 ];
