@@ -5326,5 +5326,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/GraFiddle/angular-chart',
     keywords: ['chart','line','area','bar','pie','3d']
+  },
+  {
+    id: 256,
+    name: 'mass-autocomplete',
+    source: {
+      domain: 'github',
+      url: 'hakib/MassAutocomplete'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://hakib.github.io/MassAutocomplete/#examples',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'http://hakib.github.io/MassAutocomplete/',
+    keywords: ['autocomplete','mass']
   }
 ];
