@@ -5406,5 +5406,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/kstam/ng-scroll-repeat',
     keywords: ['scroll','repeat']
+  },
+  {
+    id: 260,
+    name: 'angular-elastic-input',
+    install: {
+      packager: 'bower',
+      url: 'angular-elastic-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'jacek-pulit/angular-elastic-input'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jacek-pulit.github.io/angular-elastic-input/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.4.0',
+    license: 'MIT',
+    details: 'http://jacek-pulit.github.io/angular-elastic-input/',
+    keywords: ['elastic','input']
   }
 ];
