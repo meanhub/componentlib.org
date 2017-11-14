@@ -5385,5 +5385,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/maximepvrt/angular-google-gapi',
     keywords: ['google','gapi']
+  },
+  {
+    id: 259,
+    name: 'ng-scroll-repeat',
+    install: {
+      packager: 'bower',
+      url: 'ng-scroll-repeat'
+    },
+    source: {
+      domain: 'github',
+      url: 'kstam/ng-scroll-repeat'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://rawgit.com/kstam/ng-scroll-repeat/master/example/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.5',
+    license: 'MIT',
+    details: 'https://github.com/kstam/ng-scroll-repeat',
+    keywords: ['scroll','repeat']
   }
 ];
