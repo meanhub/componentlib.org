@@ -5933,5 +5933,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/stackfull/angular-virtual-scroll',
     keywords: ['virtual','scroll']
+  },
+  {
+    id: 287,
+    name: 'ng-json-export-excel',
+    install: {
+      packager: 'bower',
+      url: 'ng-json-export-excel'
+    },
+    source: {
+      domain: 'github',
+      url: 'dtagdev1/json-export-excel'
+    },
+    demo: {
+      repl: 'plunker',
+      id : '6ieuJ1khmKFds9VYHoDv',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.2',
+    license: 'MIT',
+    details: 'https://github.com/dtagdev1/json-export-excel',
+    keywords: ['export','json','excel']
   }
 ];
