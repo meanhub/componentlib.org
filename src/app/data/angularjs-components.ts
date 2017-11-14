@@ -5874,5 +5874,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://leocaseiro.github.io/angular-chosen/',
     keywords: ['localytics','chosen','select']
+  },
+  {
+    id: 284,
+    name: 'angular-directive.g-signin',
+    install: {
+      packager: 'bower',
+      url: 'angular-directive.g-signin'
+    },
+    source: {
+      domain: 'github',
+      url: 'sirkitree/angular-directive.g-signin'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jeradbitner.com/angular-directive.g-signin/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://jeradbitner.com/angular-directive.g-signin/',
+    keywords: ['directive','signin','google','login']
   }
 ];
