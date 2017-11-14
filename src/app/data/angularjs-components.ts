@@ -4547,5 +4547,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/danielepiccone/ng-pageslide',
     keywords: ['pageslide','directive']
+  },
+  {
+    id: 217,
+    name: 'angular-rtcomm',
+    source: {
+      domain: 'github',
+      url: 'WASdev/lib.angular-rtcomm'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.danielepiccone.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
+    keywords: ['rtcomm','communication','realtime']
   }
 ];
