@@ -4870,4 +4870,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://pc035860.github.io/ngSelect/example/#/ng-select',
     keywords: ['select','dropdown','select box']
   },
+  {
+    id: 233,
+    name: 'angular-highcharts-directive',
+    source: {
+      domain: 'github',
+      url: 'rootux/angular-highcharts-directive'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'sain_anky',
+      id : 'hv6ob4Lq'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://www.highcharts.com/',
+    keywords: ['highcharts','heatmap','stock','charts','area','line','pie','bar']
+  },
 ];
