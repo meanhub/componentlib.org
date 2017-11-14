@@ -5511,5 +5511,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/afklm/ng-lazy-image',
     keywords: ['lazy','image']
+  },
+  {
+    id: 265,
+    name: 'angular-base64-upload',
+    install: {
+      packager: 'bower',
+      url: 'angular-base64-upload'
+    },
+    source: {
+      domain: 'github',
+      url: 'adonespitogo/angular-base64-upload'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'MTzfQASN8ZVeocAq7VcM',
+    },
+    framework: 'AngularJS 1.x',
+    version: 'v0.1.23',
+    license: 'MIT',
+    details: 'https://github.com/adonespitogo/angular-base64-upload',
+    keywords: ['base64','upload','file']
   }
 ];
