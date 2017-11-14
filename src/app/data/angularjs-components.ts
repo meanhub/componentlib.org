@@ -4939,4 +4939,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://lukaszwatroba.github.io/v-accordion/',
     keywords: ['accordion','sections']
   },
+  {
+    id: 237,
+    name: 'sortablejs',
+    install: {
+      packager: 'npm',
+      url: 'sortablejs'
+    },
+    source: {
+      domain: 'github',
+      url: 'RubaXa/Sortable'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://rubaxa.github.io/Sortable/#ng',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.0',
+    license: 'MIT',
+    details: 'http://rubaxa.github.io/Sortable/#ng',
+    keywords: ['sorting','sortable']
+  },
 ];
