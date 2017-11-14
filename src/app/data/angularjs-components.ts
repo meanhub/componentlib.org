@@ -4441,7 +4441,6 @@ export const ANGULARJS_COMPONENTS: any[] = [
       packager: 'bower',
       url: 'angular-paginate-anything'
     },
-    sourc
     source: {
       domain: 'github',
       url: 'begriffs/angular-paginate-anything'
@@ -4463,7 +4462,6 @@ export const ANGULARJS_COMPONENTS: any[] = [
       packager: 'bower',
       url: 'angular-wizard'
     },
-    sourc
     source: {
       domain: 'github',
       url: 'angular-wizard/angular-wizard'
@@ -4481,7 +4479,6 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 213,
     name: 'angular-dashboard-framework',
-    sourc
     source: {
       domain: 'github',
       url: 'angular-dashboard-framework/angular-dashboard-framework'
@@ -4499,7 +4496,6 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 214,
     name: 'angular-pickadate',
-    sourc
     source: {
       domain: 'github',
       url: 'restorando/angular-pickadate'
@@ -4517,7 +4513,6 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 215,
     name: 'psResponsive',
-    sourc
     source: {
       domain: 'github',
       url: 'randallmeeker/psResponsive'
@@ -4531,5 +4526,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/restorando/angular-pickadate',
     keywords: ['responsive']
+  },
+  {
+    id: 216,
+    name: 'angular-pageslide-directive',
+    install: {
+      packager: 'npm',
+      url: 'angular-pageslide-directive'
+    },
+    source: {
+      domain: 'github',
+      url: 'danielepiccone/ng-pageslide'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.danielepiccone.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.1.4',
+    license: 'MIT',
+    details: 'https://github.com/danielepiccone/ng-pageslide',
+    keywords: ['pageslide','directive']
   }
 ];
