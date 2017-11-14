@@ -4603,5 +4603,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.zingchart.com/',
     keywords: ['zingchart','charts','area','pie','line']
+  },
+  {
+    id: 220,
+    name: 'angular-timeline',
+    install: {
+      packager: 'bower',
+      url: 'angular-timeline'
+    },
+    source: {
+      domain: 'github',
+      url: 'rpocklin/angular-timeline'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://rp.js.org/angular-timeline/example/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.0',
+    license: 'MIT',
+    details: 'https://github.com/rpocklin/angular-timeline',
+    keywords: ['timeline','profile']
   }
 ];
