@@ -5798,5 +5798,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/asafdav/ng-clip',
     keywords: ['clip','crop']
+  },
+  {
+    id: 280,
+    name: 'ng-ekathuw',
+    source: {
+      domain: 'github',
+      url: 'sarath2/ngEkathuwa'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'ebDtSMw6w0IZquaglEMe',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'https://github.com/sarath2/ngEkathuwa',
+    keywords: ['responsive','custom sizes','templates']
   }
 ];
