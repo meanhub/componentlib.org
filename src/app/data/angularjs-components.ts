@@ -5780,23 +5780,23 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 279,
-    name: 'ng-ScrollSpy',
+    name: 'ng-clip',
     install: {
       packager: 'bower',
-      url: 'ng-ScrollSpy.js'
+      url: 'zeroclipboard ng-clip'
     },
     source: {
       domain: 'github',
-      url: 'patrickmarabeas/ng-ScrollSpy.js'
+      url: 'asafdav/ng-clip'
     },
     demo: {
-      repl: 'custom',
-      src : 'http://patrickmarabeas.github.io/ng-ScrollSpy.js/',
+      repl: 'plunker',
+      id : 'xwV5Yn',
     },
     framework: 'AngularJS 1.x',
-    version: '3.2.2',
+    version: '0.2.6',
     license: 'MIT',
-    details: 'https://github.com/patrickmarabeas/ng-ScrollSpy.js',
-    keywords: ['scroll','pagescroll','spy']
+    details: 'https://github.com/asafdav/ng-clip',
+    keywords: ['clip','crop']
   }
 ];
