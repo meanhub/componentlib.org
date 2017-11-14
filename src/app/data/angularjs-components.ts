@@ -6030,5 +6030,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/flatlogic/angular-material-dashboard',
     keywords: ['material','dashboard','layout']
+  },
+  {
+    id: 292,
+    name: 'sytabs',
+    install: {
+      packager: 'bower',
+      url: 'sytabs'
+    },
+    source: {
+      domain: 'github',
+      url: 'sydev/sytabs'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://sydev.github.io/sytabs/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://sydev.github.io/sytabs/',
+    keywords: ['tabs','toggle','scroll']
   }
 ];
