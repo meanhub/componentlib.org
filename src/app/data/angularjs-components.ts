@@ -4294,5 +4294,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-pouchdb.github.io/angular-pouchdb/#/',
     keywords: ['pouchdb','service','db']
+  },
+  {
+    id: 204,
+    name: 'ng-bs-daterangepicker',
+    install: {
+      packager: 'bower',
+      url: 'ng-bs-daterangepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'luisfarzati/ng-bs-daterangepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.6',
+    license: 'MIT',
+    details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
+    keywords: ['date','daterange','datepicker']
   }
 ];
