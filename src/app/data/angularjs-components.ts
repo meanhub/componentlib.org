@@ -5608,5 +5608,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sjovanovic/xpull',
     keywords: ['pull']
+  },
+  {
+    id: 270,
+    name: 'angular-event-aggregator',
+    source: {
+      domain: 'github',
+      url: 'vladgurovich/angular-event-aggregator'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://vlad.io/digest-free-event-aggregation-in-angularjs/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/vladgurovich/angular-event-aggregator',
+    keywords: ['aggregator','event']
   }
 ];
