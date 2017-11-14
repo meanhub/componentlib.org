@@ -6094,5 +6094,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/devnixs/ODataAngularResources',
     keywords: ['gallery','images','photo']
+  },
+  {
+    id: 295,
+    name: 'pikaday-angular',
+    install: {
+      packager: 'bower',
+      url: 'pikaday-angular'
+    },
+    source: {
+      domain: 'github',
+      url: 'nverba/pikaday-angular'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://nverba.github.io/pikaday-angular/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://nverba.github.io/pikaday-angular/',
+    keywords: ['pikaday','directive']
   }
 ];
