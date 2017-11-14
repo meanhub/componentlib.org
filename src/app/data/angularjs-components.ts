@@ -5832,5 +5832,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sparkalow/angular-count-to',
     keywords: ['count','counter','number']
+  },
+  {
+    id: 282,
+    name: 'angularLocalStorage',
+    install: {
+      packager: 'bower',
+      url: 'angularLocalStorage'
+    },
+    source: {
+      domain: 'github',
+      url: 'agrublev/angularLocalStorage'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'Y1mrNVRkInCItqvZXtto',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'https://github.com/agrublev/angularLocalStorage',
+    keywords: ['localstorage','storage','memory']
   }
 ];
