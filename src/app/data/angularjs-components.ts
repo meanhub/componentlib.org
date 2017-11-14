@@ -4750,5 +4750,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-block-ui.nullest.com/#!/',
     keywords: ['block','ui']
+  },
+  {
+    id: 227,
+    name: 'ng-color-picker',
+    install: {
+      packager: 'bower',
+      url: 'ng-color-picker'
+    },
+    source: {
+      domain: 'github',
+      url: 'joujiahe/ng-color-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ng-color-picker.herokuapp.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/joujiahe/ng-color-picker',
+    keywords: ['color','picker']
   }
 ];
