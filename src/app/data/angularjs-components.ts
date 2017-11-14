@@ -5680,5 +5680,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://danielstern.github.io/ngAudio/#/',
     keywords: ['audio','play','pause','songs']
+  },
+  {
+    id: 274,
+    name: 'oc-modal',
+    source: {
+      domain: 'github',
+      url: 'ocombe/ocModal'
+    },
+    demo: {
+      repl: 'plunker',
+      id : '8QBKgw779g6jT6lmhXS5',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.12',
+    license: 'MIT',
+    details: 'https://github.com/ocombe/ocModal',
+    keywords: ['modal','popup','popover']
   }
 ];
