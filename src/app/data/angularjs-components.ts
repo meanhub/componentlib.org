@@ -4336,5 +4336,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
     keywords: ['components','directives']
+  },
+  {
+    id: 206,
+    name: 'angular-highlightjs',
+    install: {
+      packager: 'npm',
+      url: 'angular-highlightjs'
+    },
+    source: {
+      domain: 'github',
+      url: 'pc035860/angular-highlightjs'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'OPxzDu',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.1',
+    license: 'MIT',
+    details: 'http://pc035860.github.io/angular-highlightjs/example/#/hljs',
+    keywords: ['highlightjs','highlight','syntax']
   }
 ];
