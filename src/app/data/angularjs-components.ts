@@ -5975,5 +5975,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://bsalex.github.io/angular-loading-overlay/_site/',
     keywords: ['loading','loader','overlay']
+  },
+  {
+    id: 289,
+    name: 'lazy-scroll',
+    source: {
+      domain: 'github',
+      url: 'shabeeb/lazy-scroll'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://shabeebk.com/blog/demo/lazy-scroll/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://shabeebk.com/blog/lazy-scroll-infinite-scrolling-angularjs-plugin/',
+    keywords: ['scroll','lazy']
   }
 ];
