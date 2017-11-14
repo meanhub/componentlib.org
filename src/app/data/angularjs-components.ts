@@ -5448,5 +5448,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/720kb/angular-datepicker',
     keywords: ['datepicker','date']
+  },
+  {
+    id: 262,
+    name: 'ng-contextmenu',
+    install: {
+      packager: 'bower',
+      url: 'ng-contextmenu'
+    },
+    source: {
+      domain: 'github',
+      url: 'Wildhoney/ngContextMenu'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ng-contextmenu.herokuapp.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.8.0',
+    license: 'MIT',
+    details: 'https://github.com/Wildhoney/ngContextMenu',
+    keywords: ['context','menu']
   }
 ];
