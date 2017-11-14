@@ -6174,5 +6174,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://quantumui.org',
     keywords: ['quantam','ui']
+  },
+  {
+    id: 299,
+    name: 'angular-slidezilla',
+    install: {
+      packager: 'bower',
+      url: 'angular-slidezilla'
+    },
+    source: {
+      domain: 'github',
+      url: 'itslenny/angular-slidezilla'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://itslenny.github.io/angular-slidezilla/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/itslenny/angular-slidezilla',
+    keywords: ['slide','zilla','slider']
   }
 ];
