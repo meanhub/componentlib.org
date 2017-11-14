@@ -5343,5 +5343,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://hakib.github.io/MassAutocomplete/',
     keywords: ['autocomplete','mass']
+  },
+  {
+    id: 257,
+    name: 'ng-fab-form',
+    install: {
+      packager: 'bower',
+      url: 'ng-fab-form'
+    },
+    source: {
+      domain: 'github',
+      url: 'johannesjo/ng-fab-form'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://johannesjo.github.io/ng-fab-form/demos.html##simple',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'http://johannesjo.github.io/ng-fab-form/',
+    keywords: ['form','fab']
   }
 ];
