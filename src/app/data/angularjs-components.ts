@@ -5625,5 +5625,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vladgurovich/angular-event-aggregator',
     keywords: ['aggregator','event']
+  },
+  {
+    id: 271,
+    name: 'kinetic-slider',
+    source: {
+      domain: 'github',
+      url: 'gilbox/kinetic-slider'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://gilbox.github.io/kinetic-slider/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://gilbox.github.io/kinetic-slider/',
+    keywords: ['slider','kinetic']
   }
 ];
