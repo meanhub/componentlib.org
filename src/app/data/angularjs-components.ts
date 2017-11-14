@@ -6157,5 +6157,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/tushariscoolster/angular-scroll-complete',
     keywords: ['complete','scroll']
+  },
+  {
+    id: 298,
+    name: 'quantumui',
+    source: {
+      domain: 'github',
+      url: 'quantumui/quantumui'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://quantumui.org/ui/pageable',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'http://quantumui.org',
+    keywords: ['quantam','ui']
   }
 ];
