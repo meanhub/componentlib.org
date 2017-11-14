@@ -5184,4 +5184,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/voronianski/ngprogress-lite',
     keywords: ['progress','lite']
   },
+  {
+    id: 249,
+    name: 'angular-dropdowns',
+    install: {
+      packager: 'npm',
+      url: 'angular-dropdowns'
+    },
+    source: {
+      domain: 'github',
+      url: 'jseppi/angular-dropdowns'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jseppi.github.io/angular-dropdowns/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'https://github.com/jseppi/angular-dropdowns',
+    keywords: ['dropdowns','select']
+  },
 ];
