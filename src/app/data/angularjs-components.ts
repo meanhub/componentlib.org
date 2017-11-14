@@ -4905,4 +4905,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://joshdmiller.github.io/angular-placeholders/',
     keywords: ['placeholders']
   },
+  {
+    id: 235,
+    name: 'angular-fusioncharts',
+    source: {
+      domain: 'github',
+      url: 'fusioncharts/angular-fusioncharts'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.fusioncharts.com/angularjs-charts/#/demos/ex1',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.1.0',
+    license: 'MIT',
+    details: 'https://www.fusioncharts.com/',
+    keywords: ['fusioncharts','charts','fusion','line','3d','pie','area']
+  },
 ];
