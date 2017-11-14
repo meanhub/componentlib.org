@@ -5065,4 +5065,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://gabiaxel.github.io/ng-polymer-elements/',
     keywords: ['polymer','elements']
   },
+  {
+    id: 243,
+    name: 'angular-query-builder',
+    source: {
+      domain: 'github',
+      url: 'mfauveau/angular-query-builder'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mfauveau.github.io/angular-query-builder/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/mfauveau/angular-query-builder',
+    keywords: ['query','builder']
+  },
 ];
