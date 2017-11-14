@@ -5242,5 +5242,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://vividcortex.github.io/angular-recaptcha/',
     keywords: ['recaptcha','captcha']
+  },
+  {
+    id: 252,
+    name: 'np-autocomplete',
+    install: {
+      packager: 'bower',
+      url: 'np-autocomplete'
+    },
+    source: {
+      domain: 'github',
+      url: 'ng-pros/np-autocomplete'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ng-pros.github.io/np-autocomplete/demos.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.3',
+    license: 'MIT',
+    details: 'http://ng-pros.github.io/np-autocomplete/index.html',
+    keywords: ['autocomplete','auto','input']
   }
 ];
