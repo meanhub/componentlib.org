@@ -4888,4 +4888,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://www.highcharts.com/',
     keywords: ['highcharts','heatmap','stock','charts','area','line','pie','bar']
   },
+  {
+    id: 234,
+    name: 'angular-placeholders',
+    source: {
+      domain: 'github',
+      url: 'joshdmiller/angular-placeholders'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://joshdmiller.github.io/angular-placeholders/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1-SNAPSHOT',
+    license: 'MIT',
+    details: 'http://joshdmiller.github.io/angular-placeholders/',
+    keywords: ['placeholders']
+  },
 ];
