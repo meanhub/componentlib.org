@@ -4981,4 +4981,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://dnauck.github.io/angular-advanced-searchbox/',
     keywords: ['searchbox','advanced','search']
   },
+  {
+    id: 239,
+    name: 'angular-poller',
+    install: {
+      packager: 'npm',
+      url: 'angular-poller'
+    },
+    source: {
+      domain: 'github',
+      url: 'emmaguo/angular-poller'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://emmaguo.github.io/angular-poller/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.5',
+    license: 'MIT',
+    details: 'http://emmaguo.github.io/angular-poller/',
+    keywords: ['poller']
+  },
 ];
