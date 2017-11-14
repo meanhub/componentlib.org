@@ -4455,5 +4455,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/begriffs/angular-paginate-anything',
     keywords: ['paginate','anything','pagination']
+  },
+  {
+    id: 212,
+    name: 'angular-wizard',
+    install: {
+      packager: 'bower',
+      url: 'angular-wizard'
+    },
+    sourc
+    source: {
+      domain: 'github',
+      url: 'angular-wizard/angular-wizard'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mgonto.github.io/angular-wizard/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'http://mgonto.github.io/angular-wizard/',
+    keywords: ['wizard']
   }
 ];
