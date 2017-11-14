@@ -5287,10 +5287,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 254,
-    name: 'bootstrap-ui-datetime-picker ',
+    name: 'bootstrap-ui-datetime-picker',
     install: {
       packager: 'bower',
-      url: 'bootstrap-ui-datetime-picker  '
+      url: 'bootstrap-ui-datetime-picker'
     },
     source: {
       domain: 'github',
@@ -5305,5 +5305,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://rawgit.com/Gillardo/bootstrap-ui-datetime-picker/master/example/index.html',
     keywords: ['datetime','picker','ui','datepicker','timepicker','range']
+  },
+  {
+    id: 255,
+    name: 'angular-chart',
+    install: {
+      packager: 'bower',
+      url: 'angular-chart'
+    },
+    source: {
+      domain: 'github',
+      url: 'GraFiddle/angular-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://github.com/GraFiddle/angular-chart/blob/master/debug/angular-chart.gif',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.3',
+    license: 'MIT',
+    details: 'https://github.com/GraFiddle/angular-chart',
+    keywords: ['chart','line','area','bar','pie','3d']
   }
 ];
