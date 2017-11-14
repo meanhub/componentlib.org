@@ -5735,5 +5735,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/standup75/cropme',
     keywords: ['cropme','crop','image','photo']
+  },
+  {
+    id: 277,
+    name: 'angular-snap',
+    install: {
+      packager: 'bower',
+      url: 'angular-snap'
+    },
+    source: {
+      domain: 'github',
+      url: 'jtrussell/angular-snap.js'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jtrussell.github.io/angular-snap.js/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.8.6',
+    license: 'MIT',
+    details: 'http://jtrussell.github.io/angular-snap.js/',
+    keywords: ['snap','shelves']
   }
 ];
