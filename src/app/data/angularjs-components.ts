@@ -5082,4 +5082,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/mfauveau/angular-query-builder',
     keywords: ['query','builder']
   },
+  {
+    id: 244,
+    name: 'ngtoast',
+    install: {
+      packager: 'npm',
+      url: 'ngtoast'
+    },
+    source: {
+      domain: 'github',
+      url: 'tameraydin/ngToast'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tamerayd.in/ngToast/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'http://tamerayd.in/ngToast/',
+    keywords: ['toast','alert','message','notification']
+  },
 ];
