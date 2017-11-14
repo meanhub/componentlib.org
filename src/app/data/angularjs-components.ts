@@ -5992,5 +5992,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://shabeebk.com/blog/lazy-scroll-infinite-scrolling-angularjs-plugin/',
     keywords: ['scroll','lazy']
+  },
+  {
+    id: 290,
+    name: 'angular-model-factory',
+    install: {
+      packager: 'bower',
+      url: 'angular-model-factory'
+    },
+    source: {
+      domain: 'github',
+      url: 'Swimlane/angular-model-factory'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://swimlane.github.io/angular-model-factory/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.3',
+    license: 'MIT',
+    details: 'http://swimlane.github.io/angular-model-factory/',
+    keywords: ['model','factory']
   }
 ];
