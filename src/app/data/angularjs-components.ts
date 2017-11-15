@@ -6269,7 +6269,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     source: {
       domain: 'github',
-      url: 'gm.datepickerMultiSelect'
+      url: 'spongessuck/gm.datepickerMultiSelect'
     },
     demo: {
       repl: 'plunker',
@@ -6280,5 +6280,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/spongessuck/gm.datepickerMultiSelect',
     keywords: ['multi','select','datepicker','date']
+  },
+  {
+    id: 304,
+    name: 'angular-form-validation',
+    install: {
+      packager: 'bower',
+      url: 'angular-form-validation'
+    },
+    source: {
+      domain: 'github',
+      url: 'betsol/angular-form-validation'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'dJs5Wye2WEy7T6gEEfIj',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.3',
+    license: 'MIT',
+    details: 'https://github.com/betsol/angular-form-validation',
+    keywords: ['validation','valid','form']
   }
 ];
