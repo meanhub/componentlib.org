@@ -6612,4 +6612,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://ngcart.snapjay.com/',
     keywords: ['cart','shopping']
   },
+  {
+    id: 319,
+    name: 'angular-localization',
+    install: {
+      packager: 'bower',
+      url: 'angular-localization'
+    },
+    source: {
+      domain: 'github',
+      url: 'doshprompt/angular-localization'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://doshprompt.github.io/angular-localization/##i18nDirective-basic',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.5.1',
+    license: 'MIT',
+    details: 'http://doshprompt.github.io/angular-localization/',
+    keywords: ['localization','local']
+  },
 ];
