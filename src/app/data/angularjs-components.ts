@@ -6765,4 +6765,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://andyshora.com/wallop-slider-angularjs-css.html',
     keywords: ['slider','wallop']
   },
+  {
+    id: 327,
+    name: 'fireuser',
+    install: {
+      packager: 'bower',
+      url: 'fireuser'
+    },
+    source: {
+      domain: 'github',
+      url: 'Jon-Biz/FireUser'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://fireuser.firebaseapp.com/#/login',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://fireuser.firebaseapp.com/#/login',
+    keywords: ['fire','form','user','management']
+  },
 ];
