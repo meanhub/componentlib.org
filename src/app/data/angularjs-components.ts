@@ -7444,4 +7444,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/imshaikot/ngToast',
     keywords: ['toast','message','alert']
   },
+  {
+    id: 362,
+    name: 'angular-flip-clock',
+    install: {
+      packager: 'bower',
+      url: 'angular-flip-clock'
+    },
+    source: {
+      domain: 'github',
+      url: 'dmytroyarmak/angular-flip-clock'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://dmytroyarmak.github.io/angular-flip-clock/example/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/dmytroyarmak/angular-flip-clock',
+    keywords: ['flip','clock','time','watch']
+  },
 ];
