@@ -6504,4 +6504,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://oboejs.com/',
     keywords: ['objects','oboe','json','strings','numbers']
   },
+  {
+    id: 314,
+    name: 'angular-uploadcare',
+    install: {
+      packager: 'bower',
+      url: 'angular-uploadcare'
+    },
+    source: {
+      domain: 'github',
+      url: 'uploadcare/angular-uploadcare'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://uploadcare.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.1',
+    license: 'MIT',
+    details: 'https://uploadcare.com/',
+    keywords: ['uploadcare','upload','file','image']
+  },
 ];
