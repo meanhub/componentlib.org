@@ -7737,4 +7737,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/wasilak/angular-c3-simple',
     keywords: ['c3','simple','video','player']
   },
+  {
+    id: 376,
+    name: 'angular-trustpass',
+    install: {
+      packager: 'bower',
+      url: 'angular-trustpass'
+    },
+    source: {
+      domain: 'github',
+      url: 'Trustroots/trustpass'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://trustroots.github.io/trustpass/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/Trustroots/trustpass',
+    keywords: ['password','security','trusty','trustpass']
+  },
 ];
