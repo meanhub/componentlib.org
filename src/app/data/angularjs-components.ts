@@ -6445,4 +6445,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://ktstowell.github.io/ng-repeat-while/#/',
     keywords: ['repeat','while']
   },
+  {
+    id: 311,
+    name: 'angular-froala',
+    install: {
+      packager: 'bower',
+      url: 'angular-froala'
+    },
+    source: {
+      domain: 'github',
+      url: 'froala/angular-froala'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://www.froala.com/wysiwyg-editor/examples/custom-image-button',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.7.1',
+    license: 'MIT',
+    details: 'https://www.froala.com/wysiwyg-editor',
+    keywords: ['froala','editor']
+  },
 ];
