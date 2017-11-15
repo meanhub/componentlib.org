@@ -7927,4 +7927,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://thienhung1989.github.io/angular-tree-dnd/demo/#/basic',
     keywords: ['tree','table','datatable','treeview']
   },
+  {
+    id: 385,
+    name: 'angular-bootstrap-plus',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-plus'
+    },
+    source: {
+      domain: 'github',
+      url: 'jrief/angular-bootstrap-plus'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jrief.github.io/angular-bootstrap-plus/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'http://jrief.github.io/angular-bootstrap-plus/',
+    keywords: ['plus','processbar','scrollpanel','magnify','select']
+  },
 ];
