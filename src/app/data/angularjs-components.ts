@@ -6828,4 +6828,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/SparrowJang/ngImageEditor',
     keywords: ['editor','image','photo','crop','capture']
   },
+  {
+    id: 330,
+    name: 'ng-scrollbar',
+    install: {
+      packager: 'bower',
+      url: 'ng-scrollbar'
+    },
+    source: {
+      domain: 'github',
+      url: 'asafdav/ng-scrollbar'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://htmlpreview.github.io/?https://github.com/asafdav/ng-scrollbar/blob/master/example/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.8',
+    license: 'MIT',
+    details: 'https://github.com/asafdav/ng-scrollbar',
+    keywords: ['scrollbar','scroll','sections','scrollable']
+  },
 ];
