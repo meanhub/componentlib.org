@@ -7225,7 +7225,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'cotag/condo_example'
     },
     demo: {
-      repl: 'jsfiddle',
+      repl: 'custom',
       src : 'http://cotag.github.io/Condominios/',
     },
     framework: 'AngularJS 1.x',
@@ -7233,5 +7233,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://cotag.github.io/Condominios/',
     keywords: ['condo','uploading files','upload','file','cloud','storage']
+  },
+  {
+    id: 352,
+    name: 'ngx-aside',
+    install: {
+      packager: 'npm',
+      url: 'ngx-aside'
+    },
+    source: {
+      domain: 'github',
+      url: 'passenger6/ngx-aside'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'yEIYsIGLIf8MGYOC2h25',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.2',
+    license: 'MIT',
+    details: 'https://github.com/passenger6/ngx-aside',
+    keywords: ['aside','Sidebar','Panel']
   },
 ];
