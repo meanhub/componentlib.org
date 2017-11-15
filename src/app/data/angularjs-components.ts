@@ -8028,4 +8028,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://myplanet.github.io/angular-date-picker/',
     keywords: ['date','picker','datepicker']
   },
+  {
+    id: 390,
+    name: 'angular-hamburger-toggle',
+    install: {
+      packager: 'bower',
+      url: 'angular-hamburger-toggle'
+    },
+    source: {
+      domain: 'github',
+      url: 'dbtek/angular-hamburger-toggle'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://dbtek.github.io/angular-hamburger-toggle/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'http://dbtek.github.io/angular-hamburger-toggle/',
+    keywords: ['hamburger','toggle','ui']
+  },
 ];
