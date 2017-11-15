@@ -8155,4 +8155,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/marco64bit/Angular-Transaction-manager',
     keywords: ['transaction','manager','snapshots','restore snapshot']
   },
+  {
+    id: 396,
+    name: 'angulargrid',
+    install: {
+      packager: 'bower',
+      url: 'angulargrid'
+    },
+    source: {
+      domain: 'github',
+      url: 's-yadav/angulargrid'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ignitersworld.com/lab/angulargrid/demo1.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.5',
+    license: 'MIT',
+    details: 'https://github.com/s-yadav/angulargrid',
+    keywords: ['grid','box','image','gallery', 'div']
+  },
 ];
