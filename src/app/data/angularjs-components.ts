@@ -6959,9 +6959,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       src : 'http://janantala.github.io/angular-qr/demo/'
     },
     framework: 'AngularJS 1.x',
-    version: '0.2.0',
+    version: '0.1.5',
     license: 'MIT',
     details: 'http://janantala.github.io/angular-qr/demo/',
     keywords: ['qrcode','code']
+  },
+  {
+    id: 338,
+    name: 'angular-d3',
+    install: {
+      packager: 'npm',
+      url: 'angular_d3'
+    },
+    source: {
+      domain: 'github',
+      url: 'wealthbar/angular-d3'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://wealthbar.github.io/angular-d3/#graphs'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'http://wealthbar.github.io/angular-d3/',
+    keywords: ['d3','charts','line','area','pie','stacked','basic']
   },
 ];
