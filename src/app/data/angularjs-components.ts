@@ -6483,4 +6483,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://bootboxjs.com/',
     keywords: ['bootbox','alert','success','message']
   },
+  {
+    id: 313,
+    name: 'angular-oboe',
+    install: {
+      packager: 'bower',
+      url: 'angular-oboe'
+    },
+    source: {
+      domain: 'github',
+      url: 'RonB/angular-oboe'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://oboejs.com/examples',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.0',
+    license: 'MIT',
+    details: 'http://oboejs.com/',
+    keywords: ['objects','oboe','json','strings','numbers']
+  },
 ];
