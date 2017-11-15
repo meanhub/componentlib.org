@@ -6238,5 +6238,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/angular-flash/',
     keywords: ['flash','alert','message','success','notification']
+  },
+  {
+    id: 302,
+    name: 'ng-backstretch',
+    install: {
+      packager: 'bower',
+      url: 'ng-backstretch'
+    },
+    source: {
+      domain: 'github',
+      url: 'rprovost/ng-backstretch'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.jquery-backstretch.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: 'v0.1.4-beta',
+    license: 'MIT',
+    details: 'http://www.jquery-backstretch.com/',
+    keywords: ['backstretch','dynamically','resized','slideshow','background image']
   }
 ];
