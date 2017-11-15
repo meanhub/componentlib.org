@@ -6696,4 +6696,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/btford/angular-socket-io',
     keywords: ['socket','io','chat']
   },
+  {
+    id: 323,
+    name: 'oci.treeview',
+    source: {
+      domain: 'github',
+      url: 'oci-labs/oci.treeview'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'LMFinney',
+      id : 'zstU3'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/oci-labs/oci.treeview',
+    keywords: ['treeview','tree','structure']
+  },
 ];
