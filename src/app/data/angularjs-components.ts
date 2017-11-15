@@ -7061,4 +7061,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/angular-ui/ui-chart',
     keywords: ['chart','charts','line','area','pie','stacked','basic']
   },
+  {
+    id: 343,
+    name: 'angular-adaptive-speech',
+    source: {
+      domain: 'github',
+      url: 'janantala/angular-adaptive-speech'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angular-adaptive.github.io/adaptive-speech/demo/#/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.0',
+    license: 'MIT',
+    details: 'http://angular-adaptive.github.io/adaptive-speech/demo/#/',
+    keywords: ['adaptive','speech']
+  },
 ];
