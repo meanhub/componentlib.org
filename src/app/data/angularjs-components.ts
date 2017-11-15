@@ -6904,4 +6904,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://monterail.github.io/angular-mighty-datepicker/',
     keywords: ['mighty','datepicker','date']
   },
+  {
+    id: 335,
+    name: 'angular-masonry-directive',
+    install: {
+      packager: 'npm',
+      url: 'angular-masonry-directive'
+    },
+    source: {
+      domain: 'github',
+      url: 'klederson/angular-masonry-directive'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'desandro',
+      id : 'osFxj'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://masonry.desandro.com/',
+    keywords: ['masonry','directive','layout','events']
+  },
 ];
