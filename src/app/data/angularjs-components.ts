@@ -7151,4 +7151,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/ibspoof/ng-iScroll',
     keywords: ['scroll','grid','scrollable']
   },
+  {
+    id: 348,
+    name: 'angular-appBusy',
+    install: {
+      packager: 'bower',
+      url: 'angular-appBusy'
+    },
+    source: {
+      domain: 'github',
+      url: 'kalitte/angular-appBusy'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'tansu',
+      id : '7xnNU'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/kalitte/angular-appBusy',
+    keywords: ['app','busy','loading']
+  },
 ];
