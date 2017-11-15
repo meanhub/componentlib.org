@@ -8007,4 +8007,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://myplanet.github.io/angular-deep-blur/',
     keywords: ['deep','blur','toggle']
   },
+  {
+    id: 389,
+    name: 'angular-date-picker',
+    install: {
+      packager: 'bower',
+      url: 'angular-date-picker'
+    },
+    source: {
+      domain: 'github',
+      url: 'myplanet/angular-date-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://myplanet.github.io/angular-date-picker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.5',
+    license: 'MIT',
+    details: 'http://myplanet.github.io/angular-date-picker/',
+    keywords: ['date','picker','datepicker']
+  },
 ];
