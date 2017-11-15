@@ -7486,4 +7486,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/iamisti/mdDataTable',
     keywords: ['table','datatable','data']
   },
+  {
+    id: 364,
+    name: 'adm-dtp',
+    install: {
+      packager: 'bower',
+      url: 'adm-dtp'
+    },
+    source: {
+      domain: 'github',
+      url: 'AmirkabirDataMiners/ADM-dateTimePicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://amirkabirdataminers.github.io/ADM-dateTimePicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'http://amirkabirdataminers.github.io/ADM-dateTimePicker/',
+    keywords: ['date','time','datetimepicker','datepicker','timepicker']
+  },
 ];
