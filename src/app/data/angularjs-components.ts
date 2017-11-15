@@ -7673,4 +7673,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/connecta-solutions/angular-amchart',
     keywords: ['amchart','charts','line','time','area','Interpolation']
   },
+  {
+    id: 373,
+    name: 'angular-snippets',
+    install: {
+      packager: 'bower',
+      url: 'angular-snippets'
+    },
+    source: {
+      domain: 'github',
+      url: 'jbdemonte/angular-snippets'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://jbdemonte.github.io/angular-snippets/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'http://jbdemonte.github.io/angular-snippets/',
+    keywords: ['snippets','display code']
+  },
 ];
