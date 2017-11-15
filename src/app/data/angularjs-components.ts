@@ -6633,4 +6633,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://doshprompt.github.io/angular-localization/',
     keywords: ['localization','local']
   },
+  {
+    id: 320,
+    name: 'angular-image-crop',
+    install: {
+      packager: 'bower',
+      url: 'angular-image-crop'
+    },
+    source: {
+      domain: 'github',
+      url: 'andyshora/angular-image-crop'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://andyshora.com/angular-image-cropper.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://andyshora.com/angular-image-cropper.html',
+    keywords: ['image','crop']
+  },
 ];
