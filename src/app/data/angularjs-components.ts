@@ -7630,4 +7630,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://bcabanes.github.io/ng-camera/',
     keywords: ['camera','webcam']
   },
+  {
+    id: 371,
+    name: 'angular-materialize',
+    install: {
+      packager: 'bower',
+      url: 'angular-materialize'
+    },
+    source: {
+      domain: 'github',
+      url: 'krescruz/angular-materialize'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://materializecss.com/badges.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'http://materializecss.com/',
+    keywords: ['material','components']
+  },
 ];
