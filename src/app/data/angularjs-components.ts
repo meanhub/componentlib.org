@@ -6656,10 +6656,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 321,
-    name: 'angular-semantic-ui  ',
+    name: 'angular-semantic-ui',
     install: {
       packager: 'bower',
-      url: 'angular-semantic-ui '
+      url: 'angular-semantic-ui'
     },
     source: {
       domain: 'github',
@@ -6674,5 +6674,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angularify.github.io/angular-semantic-ui/templates/overview.html',
     keywords: ['checkbox','accordion','dimmer','dropdown','modal','popup','rating','wizard','rating']
+  },
+  {
+    id: 322,
+    name: 'angular-socket-io',
+    install: {
+      packager: 'bower',
+      url: 'angular-socket-io '
+    },
+    source: {
+      domain: 'github',
+      url: 'btford/angular-socket-io'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://socket.io/demos/chat/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.7.0',
+    license: 'MIT',
+    details: 'https://github.com/btford/angular-socket-io',
+    keywords: ['socket','io','chat']
   },
 ];
