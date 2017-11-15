@@ -7965,4 +7965,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://awesomeui.herokuapp.com/',
     keywords: ['awesome','ui','components']
   },
+  {
+    id: 387,
+    name: 'angular-auto-focus',
+    install: {
+      packager: 'bower',
+      url: 'angular-auto-focus'
+    },
+    source: {
+      domain: 'github',
+      url: 'myplanet/angular-auto-focus'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://myplanet.github.io/angular-auto-focus/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'http://myplanet.github.io/angular-auto-focus/',
+    keywords: ['auto','toggle','focus']
+  },
 ];
