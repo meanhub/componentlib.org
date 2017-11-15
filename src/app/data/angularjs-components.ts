@@ -7779,4 +7779,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/duychinhnguyenvn/angular-animated-modal',
     keywords: ['animated','modal','popover','popup']
   },
+  {
+    id: 378,
+    name: 'vs-google-autocomplete',
+    install: {
+      packager: 'bower',
+      url: 'vs-google-autocomplete'
+    },
+    source: {
+      domain: 'github',
+      url: 'vskosp/vsGoogleAutocomplete'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'sdcIaQ',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.5.0',
+    license: 'MIT',
+    details: 'https://github.com/vskosp/vsGoogleAutocomplete',
+    keywords: ['autocomplete','auto','input','select','google']
+  },
 ];
