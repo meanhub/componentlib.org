@@ -6926,4 +6926,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://masonry.desandro.com/',
     keywords: ['masonry','directive','layout','events']
   },
+  {
+    id: 336,
+    name: 'ez-table',
+    source: {
+      domain: 'github',
+      url: 'jdewit/ez-table'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'npSZGD'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.5',
+    license: 'MIT',
+    details: 'https://github.com/jdewit/ez-table',
+    keywords: ['table','datatable','checkboxes','sorting','filtering']
+  },
 ];
