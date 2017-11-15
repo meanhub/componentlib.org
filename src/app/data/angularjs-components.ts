@@ -7339,4 +7339,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://indrimuska.github.io/angular-selector/',
     keywords: ['selector','tags','search','input select']
   },
+  {
+    id: 357,
+    name: 'angular-component-router-active',
+    install: {
+      packager: 'bower',
+      url: 'angular-component-router-active'
+    },
+    source: {
+      domain: 'github',
+      url: 'Wapweb/angular-component-router-active'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'l9xdUfcEULLhfwJMBuzS',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.6',
+    license: 'MIT',
+    details: 'https://github.com/Wapweb/angular-component-router-active',
+    keywords: ['component','router','active']
+  },
 ];
