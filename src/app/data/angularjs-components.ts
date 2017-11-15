@@ -7465,4 +7465,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/dmytroyarmak/angular-flip-clock',
     keywords: ['flip','clock','time','watch']
   },
+  {
+    id: 363,
+    name: 'md-data-table',
+    install: {
+      packager: 'bower',
+      url: 'md-data-table'
+    },
+    source: {
+      domain: 'github',
+      url: 'iamisti/mdDataTable'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://iamisti.github.io/mdDataTable/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.2.0',
+    license: 'MIT',
+    details: 'https://github.com/iamisti/mdDataTable',
+    keywords: ['table','datatable','data']
+  },
 ];
