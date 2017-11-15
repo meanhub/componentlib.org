@@ -7423,4 +7423,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/ndelvalle/ng-cooltip',
     keywords: ['cooltip','tooltip']
   },
+  {
+    id: 361,
+    name: 'ng-toast',
+    install: {
+      packager: 'bower',
+      url: 'ng-toast'
+    },
+    source: {
+      domain: 'github',
+      url: 'imshaikot/ngToast'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://imshaikot.github.io/ngToast/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/imshaikot/ngToast',
+    keywords: ['toast','message','alert']
+  },
 ];
