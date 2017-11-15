@@ -8218,4 +8218,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/Matesign/material-wizard',
     keywords: ['material','wizard','ui','components']
   },
+  {
+    id: 399,
+    name: 'angular-bootstrap-file-field',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-file-field'
+    },
+    source: {
+      domain: 'github',
+      url: 'itslenny/angular-bootstrap-file-field'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://itslenny.github.io/angular-bootstrap-file-field/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/itslenny/angular-bootstrap-file-field',
+    keywords: ['bootstrap','file','field','classes']
+  },
 ];
