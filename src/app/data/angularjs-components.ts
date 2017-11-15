@@ -8049,4 +8049,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://dbtek.github.io/angular-hamburger-toggle/',
     keywords: ['hamburger','toggle','ui']
   },
+  {
+    id: 391,
+    name: 'carouselar',
+    install: {
+      packager: 'bower',
+      url: 'carouselar --production'
+    },
+    source: {
+      domain: 'github',
+      url: 'tameraydin/carouselar'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tamerayd.in/carouselar/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/tameraydin/carouselar',
+    keywords: ['carousel','slider','gallery','image']
+  },
 ];
