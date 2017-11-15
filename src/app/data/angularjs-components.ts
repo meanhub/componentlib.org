@@ -7318,4 +7318,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://tybeck.github.io/pure-angular-advanced-searchbox/',
     keywords: ['advanced','searchbox','search','input search']
   },
+  {
+    id: 356,
+    name: 'angular-selector',
+    install: {
+      packager: 'bower',
+      url: 'angular-selector'
+    },
+    source: {
+      domain: 'github',
+      url: 'indrimuska/angular-selector'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://indrimuska.github.io/angular-selector/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.6.1',
+    license: 'MIT',
+    details: 'http://indrimuska.github.io/angular-selector/',
+    keywords: ['selector','tags','search','input select']
+  },
 ];
