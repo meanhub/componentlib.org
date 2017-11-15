@@ -7694,4 +7694,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://jbdemonte.github.io/angular-snippets/',
     keywords: ['snippets','display code']
   },
+  {
+    id: 374,
+    name: 'ng-youtube-embed',
+    install: {
+      packager: 'bower',
+      url: 'ng-youtube-embed'
+    },
+    source: {
+      domain: 'github',
+      url: 'ArunMichaelDsouza/ng-youtube-embed'
+    },
+    demo: {
+      repl: 'codepen',
+      src : 'amdsouza92',
+      id : 'yNxyJV',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.7.11',
+    license: 'MIT',
+    details: 'https://github.com/ArunMichaelDsouza/ng-youtube-embed',
+    keywords: ['youtube','embed','video','player']
+  },
 ];
