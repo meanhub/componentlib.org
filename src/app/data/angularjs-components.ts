@@ -6786,4 +6786,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://fireuser.firebaseapp.com/#/login',
     keywords: ['fire','form','user','management']
   },
+  {
+    id: 328,
+    name: 'angular-flipsnap',
+    install: {
+      packager: 'bower',
+      url: 'angular-flipsnap'
+    },
+    source: {
+      domain: 'github',
+      url: 'ninjatronic/angular-flipsnap'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ninjatronic.github.io/angular-flipsnap/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://ninjatronic.github.io/angular-flipsnap/',
+    keywords: ['flip','snap']
+  },
 ];
