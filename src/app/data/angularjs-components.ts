@@ -8133,4 +8133,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://trackduck.com/',
     keywords: ['morphing','modal','ui','designs']
   },
+  {
+    id: 395,
+    name: 'angular-transaction-manager',
+    install: {
+      packager: 'bower',
+      url: 'angular-transaction-manager'
+    },
+    source: {
+      domain: 'github',
+      url: 'marco64bit/Angular-Transaction-manager'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'marco_pretelli',
+      id : '3t9agkqy'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/marco64bit/Angular-Transaction-manager',
+    keywords: ['transaction','manager','snapshots','restore snapshot']
+  },
 ];
