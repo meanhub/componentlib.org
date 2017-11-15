@@ -7112,4 +7112,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://mpriour.github.io/azimuthjs/#',
     keywords: ['layers','map','marker','leaflet']
   },
+  {
+    id: 346,
+    name: 'typeahead',
+    source: {
+      domain: 'github',
+      url: 'igreulich/igTypeahead'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://igreulich.github.io/igTypeahead/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.1',
+    license: 'MIT',
+    details: 'http://igreulich.github.io/igTypeahead/',
+    keywords: ['typeahead','text']
+  },
 ];
