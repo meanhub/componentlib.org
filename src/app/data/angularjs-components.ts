@@ -7986,4 +7986,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://myplanet.github.io/angular-auto-focus/',
     keywords: ['auto','toggle','focus']
   },
+  {
+    id: 388,
+    name: 'angular-deep-blur',
+    install: {
+      packager: 'bower',
+      url: 'angular-deep-blur'
+    },
+    source: {
+      domain: 'github',
+      url: 'myplanet/angular-deep-blur'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://myplanet.github.io/angular-deep-blur/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.10',
+    license: 'MIT',
+    details: 'http://myplanet.github.io/angular-deep-blur/',
+    keywords: ['deep','blur','toggle']
+  },
 ];
