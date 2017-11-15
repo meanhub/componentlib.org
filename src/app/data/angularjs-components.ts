@@ -8197,4 +8197,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/beevelop/ng-stomp',
     keywords: ['stomp','destination','end point','start point']
   },
+  {
+    id: 398,
+    name: 'material-wizard',
+    install: {
+      packager: 'bower',
+      url: 'material-wizard'
+    },
+    source: {
+      domain: 'github',
+      url: 'Matesign/material-wizard'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'rp5qJykW2DD1A7EvaVZP',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.2',
+    license: 'MIT',
+    details: 'https://github.com/Matesign/material-wizard',
+    keywords: ['material','wizard','ui','components']
+  },
 ];
