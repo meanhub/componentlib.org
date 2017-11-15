@@ -8070,4 +8070,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/tameraydin/carouselar',
     keywords: ['carousel','slider','gallery','image']
   },
+  {
+    id: 392,
+    name: 'angular-flip-card',
+    install: {
+      packager: 'bower',
+      url: 'angular-flip-card'
+    },
+    source: {
+      domain: 'github',
+      url: 'souly1/angular-flip-card'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'sTqc9fk4EPjEoEpkCCBX',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/souly1/angular-flip-card',
+    keywords: ['flip','card','html','ui']
+  },
 ];
