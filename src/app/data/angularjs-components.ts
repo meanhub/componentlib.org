@@ -7588,4 +7588,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/RatanPaul/Angular-RN-Table',
     keywords: ['table','datatable','data']
   },
+  {
+    id: 369,
+    name: 'angular-imagefit',
+    install: {
+      packager: 'bower',
+      url: 'angular-imagefit'
+    },
+    source: {
+      domain: 'github',
+      url: 'tushariscoolster/angular-imagefit'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tushariscoolster.github.io/angular-imagefit/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.4',
+    license: 'MIT',
+    details: 'http://tushariscoolster.github.io/angular-imagefit/',
+    keywords: ['imagefit','image','fit']
+  },
 ];
