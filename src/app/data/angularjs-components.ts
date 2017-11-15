@@ -7528,4 +7528,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://deltreey.github.io/angular-simple-focus/',
     keywords: ['simple','focus','input','textbox']
   },
+  {
+    id: 366,
+    name: 'logicify-gmap',
+    install: {
+      packager: 'bower',
+      url: 'logicify-gmap'
+    },
+    source: {
+      domain: 'github',
+      url: 'Logicify/angular-gmap'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'sain_anky',
+      id : 's6s4mbc5'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/Logicify/angular-gmap',
+    keywords: ['gmap','google','map','logicify']
+  },
 ];
