@@ -7402,4 +7402,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/betsol/ng-intl-tel-input',
     keywords: ['input','integration','text']
   },
+  {
+    id: 360,
+    name: 'ng-cooltip',
+    install: {
+      packager: 'bower',
+      url: 'ng-cooltip'
+    },
+    source: {
+      domain: 'github',
+      url: 'ndelvalle/ng-cooltip'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ndelvalle.github.io/ng-cooltip/#/classic',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.7',
+    license: 'MIT',
+    details: 'https://github.com/ndelvalle/ng-cooltip',
+    keywords: ['cooltip','tooltip']
+  },
 ];
