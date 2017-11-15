@@ -7035,13 +7035,30 @@ export const ANGULARJS_COMPONENTS: any[] = [
       url: 'igreulich/angular-truncate'
     },
     demo: {
-      repl: 'plunker',
-      id : 'http://igreulich.github.io/angular-truncate/'
+      repl: 'custom',
+      src : 'http://igreulich.github.io/angular-truncate/'
     },
     framework: 'AngularJS 1.x',
     version: '0.1.4',
     license: 'MIT',
     details: 'http://igreulich.github.io/angular-truncate/',
     keywords: ['truncate','filter']
+  },
+  {
+    id: 342,
+    name: 'ui-chart',
+    source: {
+      domain: 'github',
+      url: 'angular-ui/ui-chart'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.jqplot.com/examples/kcp_area.php'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.1',
+    license: 'MIT',
+    details: 'https://github.com/angular-ui/ui-chart',
+    keywords: ['chart','charts','line','area','pie','stacked','basic']
   },
 ];
