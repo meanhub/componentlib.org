@@ -6731,4 +6731,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://tympanus.net/codrops/2013/04/17/slide-and-push-menus/',
     keywords: ['slide','push','sidebar']
   },
+  {
+    id: 325,
+    name: 'ng-tokens-field',
+    source: {
+      domain: 'github',
+      url: 'joujiahe/ng-tokens-field'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ng-tokens-field.herokuapp.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/joujiahe/ng-tokens-field',
+    keywords: ['field','tokens']
+  },
 ];
