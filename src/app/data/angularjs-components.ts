@@ -6259,5 +6259,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://www.jquery-backstretch.com/',
     keywords: ['backstretch','dynamically','resized','slideshow','background image']
+  },
+  {
+    id: 303,
+    name: 'gm.datepicker-multi-select',
+    install: {
+      packager: 'bower',
+      url: 'gm.datepicker-multi-select'
+    },
+    source: {
+      domain: 'github',
+      url: 'gm.datepickerMultiSelect'
+    },
+    demo: {
+      repl: 'plunker',
+      id : '7rKzFo',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.10',
+    license: 'MIT',
+    details: 'https://github.com/spongessuck/gm.datepickerMultiSelect',
+    keywords: ['multi','select','datepicker','date']
   }
 ];
