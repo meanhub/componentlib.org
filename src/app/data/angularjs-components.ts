@@ -7571,4 +7571,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://sachinchoolur.github.io/ngclipboard/',
     keywords: ['clipboard','copy','paste','cut']
   },
+  {
+    id: 368,
+    name: 'angular-rn-table',
+    source: {
+      domain: 'github',
+      url: 'RatanPaul/Angular-RN-Table'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ratanpaul.github.io/Angular-RN-Table/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/RatanPaul/Angular-RN-Table',
+    keywords: ['table','datatable','data']
+  },
 ];
