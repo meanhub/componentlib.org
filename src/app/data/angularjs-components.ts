@@ -6849,4 +6849,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://jwt.io/',
     keywords: ['jwt','debugger','library']
   },
+  {
+    id: 332,
+    name: 'lrDragNDrop',
+    source: {
+      domain: 'github',
+      url: 'lorenzofox3/lrDragNDrop'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://lorenzofox3.github.io/lrDragNDrop/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/lorenzofox3/lrDragNDrop',
+    keywords: ['drag','drop','dragdrop']
+  },
 ];
