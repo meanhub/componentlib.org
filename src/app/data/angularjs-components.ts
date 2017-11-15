@@ -6466,4 +6466,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://www.froala.com/wysiwyg-editor',
     keywords: ['froala','editor']
   },
+  {
+    id: 312,
+    name: 'bootbox',
+    source: {
+      domain: 'github',
+      url: 'makeusabrew/bootbox'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bootboxjs.com/examples.html#bb-alert-dialog',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.4.0',
+    license: 'MIT',
+    details: 'http://bootboxjs.com/',
+    keywords: ['bootbox','alert','success','message']
+  },
 ];
