@@ -7609,4 +7609,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://tushariscoolster.github.io/angular-imagefit/',
     keywords: ['imagefit','image','fit']
   },
+  {
+    id: 370,
+    name: 'ng-camera',
+    install: {
+      packager: 'bower',
+      url: 'ng-camera'
+    },
+    source: {
+      domain: 'github',
+      url: 'bcabanes/ng-camera'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://bcabanes.github.io/ng-camera/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://bcabanes.github.io/ng-camera/',
+    keywords: ['camera','webcam']
+  },
 ];
