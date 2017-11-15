@@ -7095,4 +7095,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/paulsmith/angular-slugify',
     keywords: ['slugify','filter','service','directive']
   },
+  {
+    id: 345,
+    name: 'azimuthjs',
+    source: {
+      domain: 'github',
+      url: 'mpriour/azimuthjs'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mpriour.github.io/azimuthjs/examples/leafletMap_layers.html'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://mpriour.github.io/azimuthjs/#',
+    keywords: ['layers','map','marker','leaflet']
+  },
 ];
