@@ -7027,4 +7027,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/mgechev/angular-aop',
     keywords: ['aop','aspect','oriented','programming']
   },
+  {
+    id: 341,
+    name: 'angular-truncate',
+    source: {
+      domain: 'github',
+      url: 'igreulich/angular-truncate'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'http://igreulich.github.io/angular-truncate/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'http://igreulich.github.io/angular-truncate/',
+    keywords: ['truncate','filter']
+  },
 ];
