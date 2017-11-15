@@ -7800,4 +7800,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/vskosp/vsGoogleAutocomplete',
     keywords: ['autocomplete','auto','input','select','google']
   },
+  {
+    id: 379,
+    name: 'ng-walkthrough',
+    install: {
+      packager: 'npm',
+      url: 'ng-walkthrough'
+    },
+    source: {
+      domain: 'github',
+      url: 'souly1/ng-walkthrough'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'kHM9zHCxAA3gPYvedmdw',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.4',
+    license: 'MIT',
+    details: 'https://github.com/souly1/ng-walkthrough',
+    keywords: ['mobile design','design','invitation','explanation','walkthrough']
+  },
 ];
