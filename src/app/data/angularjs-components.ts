@@ -6525,4 +6525,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://uploadcare.com/',
     keywords: ['uploadcare','upload','file','image']
   },
+  {
+    id: 315,
+    name: 'chronicle',
+    install: {
+      packager: 'bower',
+      url: 'chronicle'
+    },
+    source: {
+      domain: 'github',
+      url: 'Blitzen/Angular-Chronicle'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'SamMaier',
+      id : '1p6rLrna'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.10',
+    license: 'MIT',
+    details: 'http://blitzen.github.io/Angular-Chronicle/',
+    keywords: ['syntax','event','functions','call']
+  },
 ];
