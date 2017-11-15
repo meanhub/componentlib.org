@@ -7381,4 +7381,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://indrimuska.github.io/angular-switcher/',
     keywords: ['switcher','switch','radio button']
   },
+  {
+    id: 359,
+    name: 'ng-intl-tel-input',
+    install: {
+      packager: 'bower',
+      url: 'betsol-ng-intl-tel-input'
+    },
+    source: {
+      domain: 'github',
+      url: 'betsol/ng-intl-tel-input'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://betsol.github.io/ng-intl-tel-input/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.2',
+    license: 'MIT',
+    details: 'https://github.com/betsol/ng-intl-tel-input',
+    keywords: ['input','integration','text']
+  },
 ];
