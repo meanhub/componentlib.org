@@ -7078,4 +7078,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://angular-adaptive.github.io/adaptive-speech/demo/#/',
     keywords: ['adaptive','speech']
   },
+  {
+    id: 344,
+    name: 'angular-slugify',
+    source: {
+      domain: 'github',
+      url: 'paulsmith/angular-slugify'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://paulsmith.github.io/angular-slugify/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://github.com/paulsmith/angular-slugify',
+    keywords: ['slugify','filter','service','directive']
+  },
 ];
