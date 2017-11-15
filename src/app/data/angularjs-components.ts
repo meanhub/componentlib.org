@@ -7550,4 +7550,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/Logicify/angular-gmap',
     keywords: ['gmap','google','map','logicify']
   },
+  {
+    id: 367,
+    name: 'ngclipboard',
+    install: {
+      packager: 'bower',
+      url: 'ngclipboard'
+    },
+    source: {
+      domain: 'github',
+      url: 'sachinchoolur/ngclipboard'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://sachinchoolur.github.io/ngclipboard/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.3',
+    license: 'MIT',
+    details: 'http://sachinchoolur.github.io/ngclipboard/',
+    keywords: ['clipboard','copy','paste','cut']
+  },
 ];
