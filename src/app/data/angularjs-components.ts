@@ -7255,4 +7255,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/passenger6/ngx-aside',
     keywords: ['aside','Sidebar','Panel']
   },
+  {
+    id: 353,
+    name: 'angular-diff-match-patch',
+    install: {
+      packager: 'npm',
+      url: 'amweiss/angular-diff-match-patch'
+    },
+    source: {
+      domain: 'github',
+      url: 'amweiss/angular-diff-match-patch'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://adamweiss.me/angular-diff-match-patch/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.6.10',
+    license: 'MIT',
+    details: 'https://github.com/amweiss/angular-diff-match-patch',
+    keywords: ['diff','match','patch']
+  },
 ];
