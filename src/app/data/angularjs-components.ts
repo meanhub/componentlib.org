@@ -6750,19 +6750,19 @@ export const ANGULARJS_COMPONENTS: any[] = [
   },
   {
     id: 326,
-    name: 'lr-infinite-scroll',
+    name: 'wallop-slider-angularjs',
     source: {
       domain: 'github',
-      url: 'lorenzofox3/lrInfiniteScroll'
+      url: 'andyshora/wallop-slider-angularjs'
     },
     demo: {
       repl: 'custom',
-      src : 'hhttp://lorenzofox3.github.io/lrInfiniteScroll/index.html#example',
+      src : 'http://andyshora.com/wallop-slider-angularjs-css.html',
     },
     framework: 'AngularJS 1.x',
-    version: '1.0.0',
+    version: '0.0.0',
     license: 'MIT',
-    details: 'http://lorenzofox3.github.io/lrInfiniteScroll',
-    keywords: ['scroll','infinite']
+    details: 'http://andyshora.com/wallop-slider-angularjs-css.html',
+    keywords: ['slider','wallop']
   },
 ];
