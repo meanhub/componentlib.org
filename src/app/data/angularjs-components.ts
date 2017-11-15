@@ -6654,4 +6654,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://andyshora.com/angular-image-cropper.html',
     keywords: ['image','crop']
   },
+  {
+    id: 321,
+    name: 'angular-semantic-ui  ',
+    install: {
+      packager: 'bower',
+      url: 'angular-semantic-ui '
+    },
+    source: {
+      domain: 'github',
+      url: 'angularify/angular-semantic-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://angularify.github.io/angular-semantic-ui/templates/checkbox.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.3',
+    license: 'MIT',
+    details: 'http://angularify.github.io/angular-semantic-ui/templates/overview.html',
+    keywords: ['checkbox','accordion','dimmer','dropdown','modal','popup','rating','wizard','rating']
+  },
 ];
