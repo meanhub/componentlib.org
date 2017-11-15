@@ -8239,4 +8239,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/itslenny/angular-bootstrap-file-field',
     keywords: ['bootstrap','file','field','classes']
   },
+  {
+    id: 400,
+    name: 'angular-pretty-checkable',
+    install: {
+      packager: 'bower',
+      url: 'angular-pretty-checkable'
+    },
+    source: {
+      domain: 'github',
+      url: 'itslenny/angular-pretty-checkable'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://itslenny.github.io/angular-pretty-checkable/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/itslenny/angular-pretty-checkable',
+    keywords: ['pretty','checkable','checkbox','radio','button']
+  },
 ];
