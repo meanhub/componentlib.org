@@ -7842,4 +7842,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/ThirdCornerLLC/tc-grid',
     keywords: ['grid','tabs','ui']
   },
+  {
+    id: 381,
+    name: 'angular-resizable',
+    install: {
+      packager: 'bower',
+      url: 'angular-resizable'
+    },
+    source: {
+      domain: 'github',
+      url: 'Reklino/angular-resizable'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'Reklino',
+      id : 'raRaXq'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/Reklino/angular-resizable',
+    keywords: ['resizable','resize','auto','containers']
+  },
 ];
