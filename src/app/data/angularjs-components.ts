@@ -6385,5 +6385,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/McNull/angular-inform',
     keywords: ['inform','toaster','message']
+  },
+  {
+    id: 308,
+    name: 'angular-jwt',
+    install: {
+      packager: 'bower',
+      url: 'angular-jwt'
+    },
+    source: {
+      domain: 'github',
+      url: 'auth0/angular-jwt'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://jwt.io/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.9',
+    license: 'MIT',
+    details: 'https://jwt.io/',
+    keywords: ['jwt','debugger','library']
   }
 ];
