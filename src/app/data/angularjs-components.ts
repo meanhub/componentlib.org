@@ -7821,4 +7821,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/souly1/ng-walkthrough',
     keywords: ['mobile design','design','invitation','explanation','walkthrough']
   },
+  {
+    id: 380,
+    name: 'tc-grid',
+    install: {
+      packager: 'bower',
+      url: 'tc-grid'
+    },
+    source: {
+      domain: 'github',
+      url: 'ThirdCornerLLC/tc-grid'
+    },
+    demo: {
+      repl: 'plunker',
+      id : '8qBE02IpQm5HdNoHgVEg',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/ThirdCornerLLC/tc-grid',
+    keywords: ['grid','tabs','ui']
+  },
 ];
