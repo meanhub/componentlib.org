@@ -7906,4 +7906,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/mattlewis92/angular-bootstrap-confirm',
     keywords: ['bootstrap','confirm','form','alert']
   },
+  {
+    id: 384,
+    name: 'angular-tree-table',
+    install: {
+      packager: 'bower',
+      url: 'angular-tree-table'
+    },
+    source: {
+      domain: 'github',
+      url: 'thienhung1989/angular-tree-table'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://thienhung1989.github.io/angular-tree-dnd/demo/#/basic',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://thienhung1989.github.io/angular-tree-dnd/demo/#/basic',
+    keywords: ['tree','table','datatable','treeview']
+  },
 ];
