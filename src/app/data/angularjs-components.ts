@@ -7173,4 +7173,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/kalitte/angular-appBusy',
     keywords: ['app','busy','loading']
   },
+  {
+    id: 349,
+    name: 'ngx-library',
+    install: {
+      packager: 'npm',
+      url: 'ngx-library'
+    },
+    source: {
+      domain: 'github',
+      url: 'lmc-eu/ngx-library'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'sain_anky',
+      id : 'VNPzA'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.2',
+    license: 'MIT',
+    details: 'https://github.com/lmc-eu/ngx-library',
+    keywords: ['library','fancybox']
+  },
 ];
