@@ -8260,4 +8260,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/itslenny/angular-pretty-checkable',
     keywords: ['pretty','checkable','checkbox','radio','button']
   },
+  {
+    id: 401,
+    name: 'angular-progress-button-styles',
+    install: {
+      packager: 'bower',
+      url: 'angular-progress-button-styles'
+    },
+    source: {
+      domain: 'github',
+      url: 'akveo/angular-progress-button-styles'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://lugovsky.github.io/angular-progress-button-styles/example.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.0',
+    license: 'MIT',
+    details: 'https://github.com/akveo/angular-progress-button-styles',
+    keywords: ['progress','button','styles','submit']
+  },
 ];
