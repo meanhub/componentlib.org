@@ -6714,4 +6714,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/oci-labs/oci.treeview',
     keywords: ['treeview','tree','structure']
   },
+  {
+    id: 324,
+    name: 'slide and push',
+    source: {
+      domain: 'github',
+      url: 'Thram/slide.and.push'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://tympanus.net/Blueprints/SlidePushMenus/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://tympanus.net/codrops/2013/04/17/slide-and-push-menus/',
+    keywords: ['slide','push','sidebar']
+  },
 ];
