@@ -7864,4 +7864,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/Reklino/angular-resizable',
     keywords: ['resizable','resize','auto','containers']
   },
+  {
+    id: 382,
+    name: 'angular-ivonet-markdown',
+    install: {
+      packager: 'bower',
+      url: 'angular-ivonet-markdown'
+    },
+    source: {
+      domain: 'github',
+      url: 'IvoNet/angular-ivonet-markdown'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'SCPkcZjRCghoavJpRJij',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://github.com/IvoNet/angular-ivonet-markdown',
+    keywords: ['markdown','ivonet','mark','highlighting','configurable']
+  },
 ];
