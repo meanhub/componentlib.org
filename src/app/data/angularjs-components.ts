@@ -6591,4 +6591,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/przno/double-scroll-bars',
     keywords: ['scroll','scrollable','bars','grid']
   },
+  {
+    id: 318,
+    name: 'ng-cart',
+    install: {
+      packager: 'bower',
+      url: 'ng-cart'
+    },
+    source: {
+      domain: 'github',
+      url: 'snapjay/ngCart'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ngcart.snapjay.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://ngcart.snapjay.com/',
+    keywords: ['cart','shopping']
+  },
 ];
