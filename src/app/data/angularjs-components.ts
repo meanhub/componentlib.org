@@ -8112,4 +8112,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://ionicmaterial.com/',
     keywords: ['material','ionic','mobile']
   },
+  {
+    id: 394,
+    name: 'ng-morphing-modal',
+    install: {
+      packager: 'bower',
+      url: 'ng-morphing-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'shauchenka/ng-morphing-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://trackduck.com/#features',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.1',
+    license: 'MIT',
+    details: 'https://trackduck.com/',
+    keywords: ['morphing','modal','ui','designs']
+  },
 ];
