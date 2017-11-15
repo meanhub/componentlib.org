@@ -7360,4 +7360,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/Wapweb/angular-component-router-active',
     keywords: ['component','router','active']
   },
+  {
+    id: 358,
+    name: 'angular-switcher',
+    install: {
+      packager: 'bower',
+      url: 'angular-switcher'
+    },
+    source: {
+      domain: 'github',
+      url: 'indrimuska/angular-switcher'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://indrimuska.github.io/angular-switcher/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.7',
+    license: 'MIT',
+    details: 'http://indrimuska.github.io/angular-switcher/',
+    keywords: ['switcher','switch','radio button']
+  },
 ];
