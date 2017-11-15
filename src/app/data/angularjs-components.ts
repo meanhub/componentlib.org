@@ -6943,4 +6943,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/jdewit/ez-table',
     keywords: ['table','datatable','checkboxes','sorting','filtering']
   },
+  {
+    id: 337,
+    name: 'qrcode',
+    install: {
+      packager: 'npm',
+      url: 'qrcode'
+    },
+    source: {
+      domain: 'github',
+      url: 'janantala/angular-qr'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://janantala.github.io/angular-qr/demo/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.0',
+    license: 'MIT',
+    details: 'http://janantala.github.io/angular-qr/demo/',
+    keywords: ['qrcode','code']
+  },
 ];
