@@ -6427,5 +6427,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vilyus/ngDrop',
     keywords: ['drop','drag','dragdrop']
-  }
+  },
+  {
+    id: 310,
+    name: 'ng-repeat-while',
+    source: {
+      domain: 'github',
+      url: 'ktstowell/ng-repeat-while'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ktstowell.github.io/ng-repeat-while/#/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://ktstowell.github.io/ng-repeat-while/#/',
+    keywords: ['repeat','while']
+  },
 ];
