@@ -7885,4 +7885,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/IvoNet/angular-ivonet-markdown',
     keywords: ['markdown','ivonet','mark','highlighting','configurable']
   },
+  {
+    id: 383,
+    name: 'angular-bootstrap-confirm',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-confirm'
+    },
+    source: {
+      domain: 'github',
+      url: 'mattlewis92/angular-bootstrap-confirm'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://mattlewis92.github.io/angular-bootstrap-confirm/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.5.1',
+    license: 'MIT',
+    details: 'https://github.com/mattlewis92/angular-bootstrap-confirm',
+    keywords: ['bootstrap','confirm','form','alert']
+  },
 ];
