@@ -6883,4 +6883,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/patrickmarabeas/ng-FitText.js',
     keywords: ['Fittext','text','input']
   },
+  {
+    id: 334,
+    name: 'angular-mighty-datepicker',
+    install: {
+      packager: 'npm',
+      url: 'angular-mighty-datepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'monterail/angular-mighty-datepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://monterail.github.io/angular-mighty-datepicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'http://monterail.github.io/angular-mighty-datepicker/',
+    keywords: ['mighty','datepicker','date']
+  },
 ];
