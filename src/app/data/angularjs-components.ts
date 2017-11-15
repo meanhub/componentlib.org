@@ -7297,4 +7297,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://amirkabirdataminers.github.io/ADM-treeView/',
     keywords: ['treeview','tree']
   },
+  {
+    id: 355,
+    name: 'pure-angular-advanced-searchbox',
+    install: {
+      packager: 'bower',
+      url: 'pure-angular-advanced-searchbox'
+    },
+    source: {
+      domain: 'github',
+      url: 'tybeck/pure-angular-advanced-searchbox'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://tybeck.github.io/pure-angular-advanced-searchbox/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.1.1',
+    license: 'MIT',
+    details: 'http://tybeck.github.io/pure-angular-advanced-searchbox/',
+    keywords: ['advanced','searchbox','search','input search']
+  },
 ];
