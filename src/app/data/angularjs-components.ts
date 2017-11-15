@@ -6807,4 +6807,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://ninjatronic.github.io/angular-flipsnap/',
     keywords: ['flip','snap']
   },
+  {
+    id: 329,
+    name: 'ng-image-editor',
+    install: {
+      packager: 'bower',
+      url: 'ng-image-editor'
+    },
+    source: {
+      domain: 'github',
+      url: 'SparrowJang/ngImageEditor'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.sparrowjang.com/ngImageEditor/public/index.html',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://github.com/SparrowJang/ngImageEditor',
+    keywords: ['editor','image','photo','crop','capture']
+  },
 ];
