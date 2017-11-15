@@ -6547,4 +6547,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://blitzen.github.io/Angular-Chronicle/',
     keywords: ['syntax','event','functions','call']
   },
+  {
+    id: 316,
+    name: 'ng-img-crop',
+    install: {
+      packager: 'bower',
+      url: 'ng-img-crop'
+    },
+    source: {
+      domain: 'github',
+      url: 'alexk111/ngImgCrop'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'alexk111',
+      id : 'rw6q9'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.2',
+    license: 'MIT',
+    details: 'https://github.com/alexk111/ngImgCrop',
+    keywords: ['img','image','photo','crop']
+  },
 ];
