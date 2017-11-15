@@ -6364,5 +6364,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://dalelotts.github.io/angular-bootstrap-datetimepicker/',
     keywords: ['datetimepicker','bootstrap','date','time']
+  },
+  {
+    id: 308,
+    name: 'angular-inform',
+    install: {
+      packager: 'bower',
+      url: 'angular-inform'
+    },
+    source: {
+      domain: 'github',
+      url: 'McNull/angular-inform'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'x0sJj8',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.18',
+    license: 'MIT',
+    details: 'https://github.com/McNull/angular-inform',
+    keywords: ['inform','toaster','message']
   }
 ];
