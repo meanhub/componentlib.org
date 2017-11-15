@@ -8091,4 +8091,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/souly1/angular-flip-card',
     keywords: ['flip','card','html','ui']
   },
+  {
+    id: 393,
+    name: 'ionic-material',
+    install: {
+      packager: 'bower',
+      url: 'ionic-material'
+    },
+    source: {
+      domain: 'github',
+      url: 'zachfitz/Ionic-Material'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://ionicmaterial.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'http://ionicmaterial.com/',
+    keywords: ['material','ionic','mobile']
+  },
 ];
