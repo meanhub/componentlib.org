@@ -7948,4 +7948,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://jrief.github.io/angular-bootstrap-plus/',
     keywords: ['plus','processbar','scrollpanel','magnify','select']
   },
+  {
+    id: 386,
+    name: 'awesome-ui',
+    source: {
+      domain: 'github',
+      url: 'HopefulLlama/AwesomeUI'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://awesomeui.herokuapp.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://awesomeui.herokuapp.com/',
+    keywords: ['awesome','ui','components']
+  },
 ];
