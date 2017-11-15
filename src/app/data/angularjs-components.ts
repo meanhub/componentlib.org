@@ -8176,4 +8176,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/s-yadav/angulargrid',
     keywords: ['grid','box','image','gallery', 'div']
   },
+  {
+    id: 397,
+    name: 'ng-stomp',
+    install: {
+      packager: 'bower',
+      url: 'ng-stomp'
+    },
+    source: {
+      domain: 'github',
+      url: 'beevelop/ng-stomp'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://beevelop.github.io/stomp-ui/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.0',
+    license: 'MIT',
+    details: 'https://github.com/beevelop/ng-stomp',
+    keywords: ['stomp','destination','end point','start point']
+  },
 ];
