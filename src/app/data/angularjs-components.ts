@@ -6216,5 +6216,27 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-morris.io/',
     keywords: ['morris','chart','line','area','line']
+  },
+  {
+    id: 301,
+    name: 'angular-flash',
+    install: {
+      packager: 'npm',
+      url: 'angular-flash'
+    },
+    source: {
+      domain: 'github',
+      url: 'sachinchoolur/angular-flash'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'RoopeHakulinen',
+      id : 'QyZjxm'
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.5.0',
+    license: 'MIT',
+    details: 'http://sachinchoolur.github.io/angular-flash/',
+    keywords: ['flash','alert','message','success','notification']
   }
 ];
