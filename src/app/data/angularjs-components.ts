@@ -6322,5 +6322,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/betsol/angular-form-validation',
     keywords: ['quill','toolbar','keyboard','editor']
+  },
+  {
+    id: 306,
+    name: 'angular-swing',
+    install: {
+      packager: 'bower',
+      url: 'angular-swing'
+    },
+    source: {
+      domain: 'github',
+      url: 'gajus/angular-swing'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://github.com/gajus/angular-swing/blob/master/.gitdown/card-stack.gif',
+    },
+    framework: 'AngularJS 1.x',
+    version: '2.1.1',
+    license: 'MIT',
+    details: 'https://github.com/gajus/angular-swing',
+    keywords: ['swing','swipeable','cards','interface']
   }
 ];
