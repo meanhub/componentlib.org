@@ -6343,5 +6343,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/gajus/angular-swing',
     keywords: ['swing','swipeable','cards','interface']
+  },
+  {
+    id: 307,
+    name: 'angular-bootstrap-datetimepicker',
+    install: {
+      packager: 'bower',
+      url: 'angular-bootstrap-datetimepicker'
+    },
+    source: {
+      domain: 'github',
+      url: 'dalelotts/angular-bootstrap-datetimepicker'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://dalelotts.github.io/angular-bootstrap-datetimepicker/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0-semantic-release',
+    license: 'MIT',
+    details: 'https://dalelotts.github.io/angular-bootstrap-datetimepicker/',
+    keywords: ['datetimepicker','bootstrap','date','time']
   }
 ];
