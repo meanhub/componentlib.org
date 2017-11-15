@@ -7006,4 +7006,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://decipherinc.github.io/angular-tags/',
     keywords: ['tags','input','tag','text']
   },
+  {
+    id: 340,
+    name: 'angular-aop',
+    install: {
+      packager: 'bower',
+      url: 'angular-aop'
+    },
+    source: {
+      domain: 'github',
+      url: 'mgechev/angular-aop'
+    },
+    demo: {
+      repl: 'plunker',
+      id : '0ThG5wpmWByIXY1db9m2'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.4.5',
+    license: 'MIT',
+    details: 'https://github.com/mgechev/angular-aop',
+    keywords: ['aop','aspect','oriented','programming']
+  },
 ];
