@@ -6569,4 +6569,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/alexk111/ngImgCrop',
     keywords: ['img','image','photo','crop']
   },
+  {
+    id: 317,
+    name: 'double-scroll-bars',
+    install: {
+      packager: 'bower',
+      url: 'double-scroll-bars'
+    },
+    source: {
+      domain: 'github',
+      url: 'przno/double-scroll-bars'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      user : 'przno',
+      id : 'q85Fs'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.1.5',
+    license: 'MIT',
+    details: 'https://github.com/przno/double-scroll-bars',
+    keywords: ['scroll','scrollable','bars','grid']
+  },
 ];
