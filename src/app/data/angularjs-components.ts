@@ -6748,4 +6748,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/joujiahe/ng-tokens-field',
     keywords: ['field','tokens']
   },
+  {
+    id: 326,
+    name: 'lr-infinite-scroll',
+    source: {
+      domain: 'github',
+      url: 'lorenzofox3/lrInfiniteScroll'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'hhttp://lorenzofox3.github.io/lrInfiniteScroll/index.html#example',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'http://lorenzofox3.github.io/lrInfiniteScroll',
+    keywords: ['scroll','infinite']
+  },
 ];
