@@ -7276,4 +7276,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/amweiss/angular-diff-match-patch',
     keywords: ['diff','match','patch']
   },
+  {
+    id: 354,
+    name: 'adm-treeview',
+    install: {
+      packager: 'npm',
+      url: 'adm-trv'
+    },
+    source: {
+      domain: 'github',
+      url: 'AmirkabirDataMiners/ADM-treeView'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'https://amirkabirdataminers.github.io/ADM-treeView/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.2.0',
+    license: 'MIT',
+    details: 'https://amirkabirdataminers.github.io/ADM-treeView/',
+    keywords: ['treeview','tree']
+  },
 ];
