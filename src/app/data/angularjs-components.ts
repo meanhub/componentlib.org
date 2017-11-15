@@ -7507,4 +7507,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://amirkabirdataminers.github.io/ADM-dateTimePicker/',
     keywords: ['date','time','datetimepicker','datepicker','timepicker']
   },
+  {
+    id: 365,
+    name: 'angular-simple-focus',
+    install: {
+      packager: 'bower',
+      url: 'angular-simple-focus'
+    },
+    source: {
+      domain: 'github',
+      url: 'deltreey/angular-simple-focus'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://deltreey.github.io/angular-simple-focus/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://deltreey.github.io/angular-simple-focus/',
+    keywords: ['simple','focus','input','textbox']
+  },
 ];
