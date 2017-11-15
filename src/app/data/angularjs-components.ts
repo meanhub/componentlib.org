@@ -7129,4 +7129,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://igreulich.github.io/igTypeahead/',
     keywords: ['typeahead','text']
   },
+  {
+    id: 347,
+    name: 'ng-iScroll',
+    install: {
+      packager: 'bower',
+      url: 'ng-iScroll'
+    },
+    source: {
+      domain: 'github',
+      url: 'ibspoof/ng-iScroll'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'sain_anky',
+      id : 'C7k3d'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.3.1',
+    license: 'MIT',
+    details: 'https://github.com/ibspoof/ng-iScroll',
+    keywords: ['scroll','grid','scrollable']
+  },
 ];
