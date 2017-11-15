@@ -7195,4 +7195,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/lmc-eu/ngx-library',
     keywords: ['library','fancybox']
   },
+  {
+    id: 350,
+    name: 'angular-paste',
+    install: {
+      packager: 'npm',
+      url: 'angular-paste'
+    },
+    source: {
+      domain: 'github',
+      url: 'vchatterji/angular-paste'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'sain_anky',
+      id : 'psu9c'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vchatterji/angular-paste',
+    keywords: ['paste']
+  },
 ];
