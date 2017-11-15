@@ -6985,4 +6985,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://wealthbar.github.io/angular-d3/',
     keywords: ['d3','charts','line','area','pie','stacked','basic']
   },
+  {
+    id: 339,
+    name: 'angular-tags',
+    install: {
+      packager: 'bower',
+      url: 'angular-tags'
+    },
+    source: {
+      domain: 'github',
+      url: 'boneskull/angular-tags'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://decipherinc.github.io/angular-tags/'
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.3.1',
+    license: 'MIT',
+    details: 'http://decipherinc.github.io/angular-tags/',
+    keywords: ['tags','input','tag','text']
+  },
 ];
