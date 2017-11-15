@@ -6406,5 +6406,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://jwt.io/',
     keywords: ['jwt','debugger','library']
+  },
+  {
+    id: 309,
+    name: 'ng-drop',
+    install: {
+      packager: 'bower',
+      url: 'ng-drop'
+    },
+    source: {
+      domain: 'github',
+      url: 'vilyus/ngDrop'
+    },
+    demo: {
+      repl: 'plunker',
+      id : 'E0uuy7LoLtOFBOGCEJ4E',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/vilyus/ngDrop',
+    keywords: ['drop','drag','dragdrop']
   }
 ];
