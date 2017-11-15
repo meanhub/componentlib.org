@@ -7651,4 +7651,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'http://materializecss.com/',
     keywords: ['material','components']
   },
+  {
+    id: 372,
+    name: 'angular-amchart',
+    install: {
+      packager: 'bower',
+      url: 'angular-amchart-directive'
+    },
+    source: {
+      domain: 'github',
+      url: 'connecta-solutions/angular-amchart'
+    },
+    demo: {
+      repl: 'codepen',
+      user : 'sain_anky',
+      id : 'brKwLr'
+    },
+    framework: 'AngularJS 1.x',
+    version: '1.4.2',
+    license: 'MIT',
+    details: 'https://github.com/connecta-solutions/angular-amchart',
+    keywords: ['amchart','charts','line','time','area','Interpolation']
+  },
 ];
