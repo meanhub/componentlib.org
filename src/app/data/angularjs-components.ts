@@ -6301,5 +6301,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/betsol/angular-form-validation',
     keywords: ['validation','valid','form']
+  },
+  {
+    id: 305,
+    name: 'ng-quill',
+    install: {
+      packager: 'bower',
+      url: 'ng-quill'
+    },
+    source: {
+      domain: 'github',
+      url: 'KillerCodeMonkey/ng-quill'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://quilljs.com/docs/modules/toolbar/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '3.1.1',
+    license: 'MIT',
+    details: 'https://github.com/betsol/angular-form-validation',
+    keywords: ['quill','toolbar','keyboard','editor']
   }
 ];
