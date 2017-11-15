@@ -7758,4 +7758,25 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/Trustroots/trustpass',
     keywords: ['password','security','trusty','trustpass']
   },
+  {
+    id: 377,
+    name: 'angular-animated-modal',
+    install: {
+      packager: 'bower',
+      url: 'angular-animated-modal'
+    },
+    source: {
+      domain: 'github',
+      url: 'duychinhnguyenvn/angular-animated-modal'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://www.demizhe.com/mi/oqbox.com/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'https://github.com/duychinhnguyenvn/angular-animated-modal',
+    keywords: ['animated','modal','popover','popup']
+  },
 ];
