@@ -7142,7 +7142,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'jsfiddle',
-      src : 'sain_anky',
+      user : 'sain_anky',
       id : 'C7k3d'
     },
     framework: 'AngularJS 1.x',
@@ -7164,7 +7164,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'jsfiddle',
-      src : 'tansu',
+      user : 'tansu',
       id : '7xnNU'
     },
     framework: 'AngularJS 1.x',
@@ -7186,7 +7186,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'jsfiddle',
-      src : 'sain_anky',
+      user : 'sain_anky',
       id : 'VNPzA'
     },
     framework: 'AngularJS 1.x',
@@ -7208,7 +7208,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'jsfiddle',
-      src : 'sain_anky',
+      user : 'sain_anky',
       id : 'psu9c'
     },
     framework: 'AngularJS 1.x',
@@ -7216,5 +7216,22 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/vchatterji/angular-paste',
     keywords: ['paste']
+  },
+  {
+    id: 351,
+    name: 'condo',
+    source: {
+      domain: 'github',
+      url: 'cotag/condo_example'
+    },
+    demo: {
+      repl: 'jsfiddle',
+      src : 'http://cotag.github.io/Condominios/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.0',
+    license: 'MIT',
+    details: 'http://cotag.github.io/Condominios/',
+    keywords: ['condo','uploading files','upload','file','cloud','storage']
   },
 ];
