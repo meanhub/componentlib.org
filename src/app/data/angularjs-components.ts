@@ -6866,4 +6866,21 @@ export const ANGULARJS_COMPONENTS: any[] = [
     details: 'https://github.com/lorenzofox3/lrDragNDrop',
     keywords: ['drag','drop','dragdrop']
   },
+  {
+    id: 333,
+    name: 'ng-FitText.js',
+    source: {
+      domain: 'github',
+      url: 'patrickmarabeas/ng-FitText.js'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://patrickmarabeas.github.io/ng-FitText.js/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '4.2.3',
+    license: 'MIT',
+    details: 'https://github.com/patrickmarabeas/ng-FitText.js',
+    keywords: ['Fittext','text','input']
+  },
 ];
