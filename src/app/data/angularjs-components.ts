@@ -7707,7 +7707,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     },
     demo: {
       repl: 'codepen',
-      src : 'amdsouza92',
+      user : 'amdsouza92',
       id : 'yNxyJV',
     },
     framework: 'AngularJS 1.x',
@@ -7715,5 +7715,26 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/ArunMichaelDsouza/ng-youtube-embed',
     keywords: ['youtube','embed','video','player']
+  },
+  {
+    id: 375,
+    name: 'angular-c3-simple',
+    install: {
+      packager: 'bower',
+      url: 'angular-c3-simple'
+    },
+    source: {
+      domain: 'github',
+      url: 'wasilak/angular-c3-simple'
+    },
+    demo: {
+      repl: 'custom',
+      src : 'http://wasilak.github.io/angular-c3-simple/',
+    },
+    framework: 'AngularJS 1.x',
+    version: '0.0.10',
+    license: 'MIT',
+    details: 'https://github.com/wasilak/angular-c3-simple',
+    keywords: ['c3','simple','video','player']
   },
 ];
