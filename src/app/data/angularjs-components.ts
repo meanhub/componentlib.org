@@ -2845,6 +2845,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 134,
     name: 'cosmo',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/CosmoCMS/Cosmo/blob/master/min/quick-test.js'
+    },
     source: {
       domain: 'github',
       url: 'cosmocms/cosmo'
@@ -3051,6 +3055,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 143,
     name: 'angular.treeview',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/eu81273/angular.treeview/blob/master/angular.treeview.js'
+    },
     source: {
       domain: 'github',
       url: 'eu81273/angular.treeview'
@@ -3112,6 +3120,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 146,
     name: 'ngScrollTo',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/iameugenejo/ngScrollTo/blob/master/ng-scrollto.js'
+    },
     source: {
       domain: 'github',
       url: 'iameugenejo/ngScrollTo'
@@ -3193,6 +3205,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 150,
     name: 'ionic',
+    install: {
+      packager: 'npm',
+      url: 'ionic'
+    },
     source: {
       domain: 'github',
       url: 'ionic-team/ionic'
@@ -3274,6 +3290,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 154,
     name: 'goangular',
+    install: {
+      packager: 'bower',
+      url: 'goangular'
+    },
     source: {
       domain: 'github',
       url: 'goinstant/goangular'
@@ -3333,6 +3353,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 157,
     name: 'angular-truncate',    
+    install: {
+      packager: 'script',
+      url: 'https://github.com/sparkalow/angular-truncate/blob/master/src/truncate.js'
+    },
     source: {
       domain: 'github',
       url: 'sparkalow/angular-truncate'
@@ -3344,7 +3368,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     framework: 'AngularJS 1.x',
     version: '0.1.2',
     license: 'MIT',
-    details: 'https://github.com/vasyabigi/angular-slick',
+    details: 'https://github.com/sparkalow/angular-truncate',
     keywords: ['filter','text','strings','truncate']
   },
   {
@@ -3539,6 +3563,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 167,
     name: 'bindonce',
+    install: {
+      packager: 'bower',
+      url: 'angular-bindonce'
+    },
     source: {
       domain: 'github',
       url: 'pasvaz/bindonce'
@@ -3556,6 +3584,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 168,
     name: 'acute-select',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/john-oc/acute-select/blob/master/acute/acute.select/acute.select.js'
+    },
     source: {
       domain: 'github',
       url: 'john-oc/acute-select'
@@ -3657,6 +3689,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 172,
     name: 'angularjs-mongolab',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/pkozlowski-opensource/angularjs-mongolab/blob/master/src/angular-mongolab.js'
+    },
     source: {
       domain: 'github',
       url: 'pkozlowski-opensource/angularjs-mongolab'
@@ -3800,6 +3836,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 179,
     name: 'stormpath-sdk-angularjs',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/stormpath/stormpath-sdk-angularjs/blob/master/example/ng-route-app/e2e/main/main.po.js'
+    },
     source: {
       domain: 'github',
       url: 'stormpath/stormpath-sdk-angularjs'
@@ -3923,6 +3963,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 185,
     name: 'angularjs-dropdown-multiselect',
+    install: {
+      packager: 'npm',
+      url: 'angularjs-dropdown-multiselect'
+    },
     source: {
       domain: 'github',
       url: 'dotansimha/angularjs-dropdown-multiselect'
@@ -3940,6 +3984,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 186,
     name: 'angular-breadcrumb',
+    install: {
+      packager: 'bower',
+      url: 'angular-breadcrumb'
+    },
     source: {
       domain: 'github',
       url: 'ncuillery/angular-breadcrumb'
@@ -3957,6 +4005,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 187,
     name: 'angular-growl-2',
+    install: {
+      packager: 'bower',
+      url: 'angular-growl-v2'
+    },
     source: {
       domain: 'github',
       url: 'JanStevens/angular-growl-2'
@@ -4016,6 +4068,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 190,
     name: 'ng-pdfviewer',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/akrennmair/ng-pdfviewer/blob/develop/ng-pdfviewer.js'
+    },
     source: {
       domain: 'github',
       url: 'akrennmair/ng-pdfviewer'
@@ -4096,6 +4152,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 194,
     name: 'angular-google-maps-native',
+    install: {
+      packager: 'bower',
+      url: 'angular-google-maps-native'
+    },
     source: {
       domain: 'github',
       url: 'jbdemonte/angular-google-maps-native'
@@ -4176,6 +4236,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 198,
     name: 'angular-loading-spinner',
+    install: {
+      packager: 'script',
+      url: 'http://fgnass.github.io/spin.js/spin.min.js'
+    },
     source: {
       domain: 'github',
       url: 'adonespitogo/angular-loading-spinner'
@@ -4382,6 +4446,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 208,
     name: 'angular-underscore',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/floydwch/angular-underscore/blob/master/angular-underscore.js'
+    },
     source: {
       domain: 'github',
       url: 'floydwch/angular-underscore'
@@ -4420,9 +4488,13 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 210,
     name: 'angular-auto-validate',
+    install: {
+      packager: 'bower',
+      url: 'angular-auto-validate'
+    },
     source: {
       domain: 'github',
-      url: 'angular-auto-validate'
+      url: 'jonsamwell/angular-auto-validate'
     },
     demo: {
       repl: 'plunker',
@@ -4479,6 +4551,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 213,
     name: 'angular-dashboard-framework',
+    install: {
+      packager: 'bower',
+      url: 'angular-dashboard-framework'
+    },
     source: {
       domain: 'github',
       url: 'angular-dashboard-framework/angular-dashboard-framework'
@@ -4496,6 +4572,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 214,
     name: 'angular-pickadate',
+    install: {
+      packager: 'bower',
+      url: 'angular-pickadate'
+    },
     source: {
       domain: 'github',
       url: 'restorando/angular-pickadate'
@@ -4513,6 +4593,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 215,
     name: 'psResponsive',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/randallmeeker/psResponsive/blob/master/ps-responsive.js'
+    },
     source: {
       domain: 'github',
       url: 'randallmeeker/psResponsive'
@@ -4551,6 +4635,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 217,
     name: 'angular-rtcomm',
+    install: {
+      packager: 'bower',
+      url: 'angular-rtcomm'
+    },
     source: {
       domain: 'github',
       url: 'WASdev/lib.angular-rtcomm'
@@ -4568,6 +4656,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 218,
     name: 'angular-dashboard-seed',
+    install: {
+      packager: 'bower',
+      url: 'angular-dashboard-seed'
+    },
     source: {
       domain: 'github',
       url: 'flatlogic/angular-dashboard-seed'
@@ -4775,6 +4867,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 228,
     name: 'angular-fullscreen',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/fabiobiondi/angular-fullscreen/blob/master/src/angular-fullscreen.js'
+    },
     source: {
       domain: 'github',
       url: 'fabiobiondi/angular-fullscreen'
@@ -4835,6 +4931,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 231,
     name: 'bootstrap-tagsinput',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/bootstrap-tagsinput/bootstrap-tagsinput/blob/master/dist/bootstrap-tagsinput.js'
+    },
     source: {
       domain: 'github',
       url: 'bootstrap-tagsinput/bootstrap-tagsinput'
@@ -4873,6 +4973,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 233,
     name: 'angular-highcharts-directive',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/rootux/angular-highcharts-directive/blob/master/src/directives/highchart.js'
+    },
     source: {
       domain: 'github',
       url: 'rootux/angular-highcharts-directive'
@@ -4891,6 +4995,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 234,
     name: 'angular-placeholders',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/joshdmiller/angular-placeholders/blob/master/lib/angular-mocks.js'
+    },
     source: {
       domain: 'github',
       url: 'joshdmiller/angular-placeholders'
@@ -4908,6 +5016,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 235,
     name: 'angular-fusioncharts',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/fusioncharts/angular-fusioncharts/blob/master/dist/angular-fusioncharts.min.js'
+    },
     source: {
       domain: 'github',
       url: 'fusioncharts/angular-fusioncharts'
@@ -4925,6 +5037,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 236,
     name: 'v-accordion',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/LukaszWatroba/v-accordion/blob/master/dist/v-accordion.min.js'
+    },
     source: {
       domain: 'github',
       url: 'LukaszWatroba/v-accordion'
@@ -5068,6 +5184,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 243,
     name: 'angular-query-builder',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/mfauveau/angular-query-builder/blob/master/angular-query-builder.js'
+    },
     source: {
       domain: 'github',
       url: 'mfauveau/angular-query-builder'
@@ -5148,6 +5268,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 247,
     name: 'angular-texteditor',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/vitconte/angularTextEditor/blob/master/angulartexteditor.js'
+    },
     source: {
       domain: 'github',
       url: 'vitconte/angulartexteditor'
@@ -5208,6 +5332,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 250,
     name: 'ng-mobile-menu',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/ShoppinPal/ng-mobile-menu/blob/master/dist/ng-mobile-menu.min.js'
+    },
     source: {
       domain: 'github',
       url: 'shoppinpal/ng-mobile-menu'
@@ -5330,6 +5458,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 256,
     name: 'mass-autocomplete',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/hakib/MassAutocomplete/blob/master/massautocomplete.min.js'
+    },
     source: {
       domain: 'github',
       url: 'hakib/MassAutocomplete'
@@ -5557,6 +5689,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 267,
     name: 'adapt-strap',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/Adaptv/adapt-strap/blob/master/dist/adapt-strap.js'
+    },
     source: {
       domain: 'github',
       url: 'adaptv/adapt-strap'
@@ -5574,6 +5710,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 268,
     name: 'angular-help-overlay',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/jordanburke/angular-help-overlay/blob/master/lib/angular-help-overlay.js'
+    },
     source: {
       domain: 'github',
       url: 'jordanburke/angular-help-overlay'
@@ -5612,6 +5752,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 270,
     name: 'angular-event-aggregator',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/vladgurovich/angular-event-aggregator/blob/master/angular-event-aggregator.js'
+    },
     source: {
       domain: 'github',
       url: 'vladgurovich/angular-event-aggregator'
@@ -5629,6 +5773,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 271,
     name: 'kinetic-slider',
+    install: {
+      packager: 'bower',
+      url: 'kinetic-slider'
+    },
     source: {
       domain: 'github',
       url: 'gilbox/kinetic-slider'
@@ -5646,6 +5794,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 272,
     name: 'angular-treeRepeat',
+    install: {
+      packager: 'bower',
+      url: 'frangTreeRepeat'
+    },
     source: {
       domain: 'github',
       url: 'tchatel/angular-treeRepeat'
@@ -5684,6 +5836,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 274,
     name: 'oc-modal',
+    install: {
+      packager: 'bower',
+      url: 'ocModal'
+    },
     source: {
       domain: 'github',
       url: 'ocombe/ocModal'
@@ -5701,6 +5857,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 275,
     name: 'xtform',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/refactorthis/xtform/blob/development/dist/xtForm.js'
+    },
     source: {
       domain: 'github',
       url: 'refactorthis/xtform'
@@ -5802,6 +5962,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 280,
     name: 'ng-ekathuw',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/sarath2/ngEkathuwa/blob/master/dist/ekathuwa.js'
+    },
     source: {
       domain: 'github',
       url: 'sarath2/ngEkathuwa'
@@ -5819,6 +5983,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 281,
     name: 'angular-count-to',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/sparkalow/angular-count-to/blob/master/src/count-to.js'
+    },
     source: {
       domain: 'github',
       url: 'sparkalow/angular-count-to'
@@ -5899,6 +6067,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 285,
     name: 'angular-l10n',
+    install: {
+      packager: 'npm',
+      url: 'l10n'
+    },
     source: {
       domain: 'github',
       url: '4vanger/angular-l10n'
@@ -5979,6 +6151,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 289,
     name: 'lazy-scroll',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/shabeeb/lazy-scroll/blob/master/js/lazy-scroll.js'
+    },
     source: {
       domain: 'github',
       url: 'shabeeb/lazy-scroll'
@@ -6017,6 +6193,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 291,
     name: 'angular-material-dashboard',
+    install: {
+      packager: 'npm',
+      url: 'angular-material-dashboard'
+    },
     source: {
       domain: 'github',
       url: 'flatlogic/angular-material-dashboard'
@@ -6161,6 +6341,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 298,
     name: 'quantumui',
+    install: {
+      packager: 'bower',
+      url: 'quantumui'
+    },
     source: {
       domain: 'github',
       url: 'quantumui/quantumui'
@@ -6410,6 +6594,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 310,
     name: 'ng-repeat-while',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/ktstowell/ng-repeat-while/blob/master/ng-repeat-while.js'
+    },
     source: {
       domain: 'github',
       url: 'ktstowell/ng-repeat-while'
@@ -6448,6 +6636,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 312,
     name: 'bootbox',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/makeusabrew/bootbox/blob/master/bootbox.js'
+    },
     source: {
       domain: 'github',
       url: 'makeusabrew/bootbox'
@@ -6678,6 +6870,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 323,
     name: 'oci.treeview',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/oci-labs/oci.treeview/blob/master/dist/treeview.js'
+    },
     source: {
       domain: 'github',
       url: 'oci-labs/oci.treeview'
@@ -6696,6 +6892,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 324,
     name: 'slide and push',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/Thram/slide.and.push/blob/master/scripts/slide.and.push.js'
+    },
     source: {
       domain: 'github',
       url: 'Thram/slide.and.push'
@@ -6713,6 +6913,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 325,
     name: 'ng-tokens-field',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/joujiahe/ng-tokens-field/blob/master/tokens-field.js'
+    },
     source: {
       domain: 'github',
       url: 'joujiahe/ng-tokens-field'
@@ -6730,6 +6934,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 326,
     name: 'wallop-slider-angularjs',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/andyshora/wallop-slider-angularjs/blob/master/wallop-slider-directive.js'
+    },
     source: {
       domain: 'github',
       url: 'andyshora/wallop-slider-angularjs'
@@ -6852,6 +7060,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 332,
     name: 'lrDragNDrop',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/lorenzofox3/lrDragNDrop/blob/master/lrDragNDrop.js'
+    },
     source: {
       domain: 'github',
       url: 'lorenzofox3/lrDragNDrop'
@@ -6869,6 +7081,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 333,
     name: 'ng-FitText.js',
+    install: {
+      packager: 'bower',
+      url: 'ngFitText'
+    },
     source: {
       domain: 'github',
       url: 'patrickmarabeas/ng-FitText.js'
@@ -6929,6 +7145,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 336,
     name: 'ez-table',
+    install: {
+      packager: 'bower',
+      url: 'ez-table'
+    },
     source: {
       domain: 'github',
       url: 'jdewit/ez-table'
@@ -7030,6 +7250,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 341,
     name: 'angular-truncate',
+    install: {
+      packager: 'bower',
+      url: 'ez-table'
+    },
     source: {
       domain: 'github',
       url: 'igreulich/angular-truncate'
@@ -7047,6 +7271,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 342,
     name: 'ui-chart',
+    install: {
+      packager: 'bower',
+      url: 'angular-ui-chart'
+    },
     source: {
       domain: 'github',
       url: 'angular-ui/ui-chart'
@@ -7064,6 +7292,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 343,
     name: 'angular-adaptive-speech',
+    install: {
+      packager: 'bower',
+      url: 'angular-adaptive-speech'
+    },
     source: {
       domain: 'github',
       url: 'janantala/angular-adaptive-speech'
@@ -7081,6 +7313,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 344,
     name: 'angular-slugify',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/paulsmith/angular-slugify/blob/master/angular-slugify.js'
+    },
     source: {
       domain: 'github',
       url: 'paulsmith/angular-slugify'
@@ -7098,6 +7334,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 345,
     name: 'azimuthjs',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/mpriour/azimuthjs/blob/master/src/directives/olMap.js'
+    },
     source: {
       domain: 'github',
       url: 'mpriour/azimuthjs'
@@ -7115,6 +7355,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 346,
     name: 'typeahead',
+    install: {
+      packager: 'npm',
+      url: 'typeahead'
+    },
     source: {
       domain: 'github',
       url: 'igreulich/igTypeahead'
@@ -7220,6 +7464,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 351,
     name: 'condo',
+    install: {
+      packager: 'bower',
+      url: 'condo'
+    },
     source: {
       domain: 'github',
       url: 'cotag/condo_example'
@@ -7574,6 +7822,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 368,
     name: 'angular-rn-table',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/RatanPaul/Angular-RN-Table/blob/master/rnTable.js'
+    },
     source: {
       domain: 'github',
       url: 'RatanPaul/Angular-RN-Table'
@@ -7951,6 +8203,10 @@ export const ANGULARJS_COMPONENTS: any[] = [
   {
     id: 386,
     name: 'awesome-ui',
+    install: {
+      packager: 'script',
+      url: 'https://github.com/HopefulLlama/AwesomeUI/blob/master/dist/awesome-ui.js'
+    },
     source: {
       domain: 'github',
       url: 'HopefulLlama/AwesomeUI'
@@ -8280,5 +8536,5 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/akveo/angular-progress-button-styles',
     keywords: ['progress','button','styles','submit']
-  },
+  }
 ];
