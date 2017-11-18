@@ -6471,4 +6471,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#dropdown',
     keywords: ['ngx-ui', 'dropdown']
   },
+  {
+    id: 307,
+    name: 'ngx-ui datatable',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#datatable'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#datatable',
+    keywords: ['ngx-ui', 'datatable']
+  },
 ];
