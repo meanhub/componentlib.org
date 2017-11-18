@@ -6429,4 +6429,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#toolbar',
     keywords: ['ngx-ui', 'toolbar']
   },
+  {
+    id: 305,
+    name: 'ngx-ui tabs',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#tabs'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#tabs',
+    keywords: ['ngx-ui', 'tabs']
+  },
 ];
