@@ -6345,4 +6345,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#alert',
     keywords: ['ngx-ui', 'alert']
   },
+  {
+    id: 301,
+    name: 'ngx-ui tooltip',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#tooltip'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#tooltip',
+    keywords: ['ngx-ui', 'tooltip']
+  },
 ];
