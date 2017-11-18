@@ -6282,4 +6282,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#scrollbars',
     keywords: ['ngx-ui', 'scrollbars']
   },
+  {
+    id: 298,
+    name: 'ngx-ui nag',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#nag'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#nag',
+    keywords: ['ngx-ui', 'nag']
+  },
 ];
