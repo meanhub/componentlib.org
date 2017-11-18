@@ -6555,4 +6555,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#tree',
     keywords: ['ngx-ui', 'tree']
   },
+  {
+    id: 311,
+    name: 'ngx-ui ngx-iconngx-icon',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#ngx-icon'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#ngx-icon',
+    keywords: ['ngx-ui', 'ngx-icon', 'icon']
+  },
 ];
