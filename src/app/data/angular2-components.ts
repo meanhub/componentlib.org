@@ -6072,4 +6072,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/surmon-china/ngx-quill-editor',
     keywords: ['quil', 'ng2-quill-editor', 'ng2', 'angular2-component', 'quill', 'quill-editor', 'quilljs', 'web-editor', 'text-editor']
   },
+  {
+    id: 288,
+    name: 'ngx-ui input',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#inputs'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#inputs',
+    keywords: ['ngx-ui', 'input', 'ngx-input']
+  },
 ];
