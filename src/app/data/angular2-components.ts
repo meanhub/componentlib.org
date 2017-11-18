@@ -6093,4 +6093,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#inputs',
     keywords: ['ngx-ui', 'input', 'ngx-input']
   },
+  {
+    id: 289,
+    name: 'ngx-ui button',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#buttons'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#buttons',
+    keywords: ['ngx-ui', 'button', 'ngx-button', 'ngx-file-button']
+  },
 ];
