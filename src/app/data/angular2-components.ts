@@ -6051,4 +6051,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/wizards',
     keywords: ['clarity', 'ux', 'ui', 'wizards']
   },
+  {
+    id: 287,
+    name: 'ngx-quill-editor',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-quill-editor'
+    }],
+    source: {
+      domain: 'github',
+      url: 'surmon-china/ngx-quill-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://surmon-china.github.io/ngx-quill-editor/'
+    },
+    framework: 'Angular 2+',
+    version: '2.2.2',
+    license: 'MIT',
+    details: 'https://github.com/surmon-china/ngx-quill-editor',
+    keywords: ['quil', 'ng2-quill-editor', 'ng2', 'angular2-component', 'quill', 'quill-editor', 'quilljs', 'web-editor', 'text-editor']
+  },
 ];
