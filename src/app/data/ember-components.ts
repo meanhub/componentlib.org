@@ -4732,6 +4732,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ryanlabouve.github.io/ember-cli-rangesliderjs/',
 		keywords:['ember-addon','rangesliderjs','rangeslider','range-slider','slider']
+	},{
+		id:224,
+		name:'ember-datetime',
+		install: {
+			packager:'ember',
+			url:'ember-datetime'
+		},
+		source:{
+			domain:'github',
+			url:'srsgores/ember-datetime',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://srsgores.github.io/ember-datetime/'
+		},
+		framework:'Ember',
+		version:'0.5.3',
+		license:'MIT',
+		details:'https://github.com/srsgores/ember-datetime',
+		keywords:['ember-addon','datetime','date','time','datetime piker']
 	}
 	
 ];
