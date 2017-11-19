@@ -4585,6 +4585,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ejthan/ember-cli-elessar',
 		keywords:['ember-addon', 'elessar', 'moment', 'range']
+	},{
+		id:217,
+		name:'ember-mobile-inputs',
+		install: {
+			packager:'ember',
+			url:'ember-mobile-inputs'
+		},
+		source:{
+			domain:'github',
+			url:'AnnotationSro/ember-mobile-inputs',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://annotationsro.github.io/ember-mobile-inputs/'
+		},
+		framework:'Ember',
+		version:'0.16.0',
+		license:'MIT',
+		details:'https://github.com/AnnotationSro/ember-mobile-inputs',
+		keywords:['ember-addon', 'mobile', 'input']
 	}
 	
 ];
