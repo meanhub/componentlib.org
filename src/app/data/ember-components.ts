@@ -4396,6 +4396,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-cli-textarea-autosize.cybertooth.io',
 		keywords:['ember-addon','textarea-autosize','textarea','autosize','autofocus','select all','ctrl+enter submit','control enter submit','cybertooth']
+	},{
+		id:208,
+		name:'ember-checkbox-with-label',
+		install: {
+			packager:'ember',
+			url:'ember-checkbox-with-label'
+		},
+		source:{
+			domain:'github',
+			url:'kellyselden/ember-checkbox-with-label',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://kellyselden.github.io/ember-checkbox-with-label/'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'https://github.com/kellyselden/ember-checkbox-with-label',
+		keywords:['ember-addon','checkbox']
 	}
 	
 ];
