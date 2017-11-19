@@ -4375,6 +4375,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-cli-date-textbox.cybertooth.io',
 		keywords:['datepickers','date picker','date chooser','momentjs','sugarjs','sugar.date','textbox','input','parse','today','now','cybertooth','ember-addon']
+	},{
+		id:207,
+		name:'ember-cli-textarea-autosize',
+		install: {
+			packager:'ember',
+			url:'ember-cli-textarea-autosize'
+		},
+		source:{
+			domain:'github',
+			url:'cybertoothca/ember-cli-textarea-autosize',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-textarea-autosize.cybertooth.io'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'http://ember-cli-textarea-autosize.cybertooth.io',
+		keywords:['ember-addon','textarea-autosize','textarea','autosize','autofocus','select all','ctrl+enter submit','control enter submit','cybertooth']
 	}
 	
 ];
