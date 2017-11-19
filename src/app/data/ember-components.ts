@@ -4291,6 +4291,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-fields',
 		keywords:['ember-addon','frost fields','fields']
+	},{
+		id:203,
+		name:'ember-smart-input',
+		install: {
+			packager:'ember',
+			url:'ember-smart-input'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-smart-input',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-smart-input/'
+		},
+		framework:'Ember',
+		version:'0.1.7',
+		license:'MIT',
+		details:'https://github.com/rajasegar/ember-smart-input',
+		keywords:['ember-addon','input','text fields','smart input']
 	}
 	
 ];
