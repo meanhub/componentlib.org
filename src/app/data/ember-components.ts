@@ -4249,6 +4249,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://kennethkalmer.github.io/ember-cli-nouislider/',
 		keywords:['ember-addon','nouislider','slider','range slider','jquery range slider','ember-component']
+	},{
+		id:201,
+		name:'ember-toggle',
+		install: {
+			packager:'ember',
+			url:'ember-toggle'
+		},
+		source:{
+			domain:'github',
+			url:'knownasilya/ember-toggle',
+			stars: 79
+		},
+		demo:{
+			repl:'custom',
+			src:'http://knownasilya.github.io/ember-toggle/'
+		},
+		framework:'Ember',
+		version:'5.2.0',
+		license:'MIT',
+		details:'http://knownasilya.github.io/ember-toggle/',
+		keywords:['ember-addon','toggle','switch','component','ember']
 	}
 	
 ];
