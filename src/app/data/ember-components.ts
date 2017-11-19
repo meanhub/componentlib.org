@@ -4354,6 +4354,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rsschermer/ember-multiselect-checkboxes',
 		keywords:['ember-addon','ember-component','multiselect-checkboxes','multiselect','checkboxes']
+	},{
+		id:206,
+		name:'ember-cli-date-textbox',
+		install: {
+			packager:'ember',
+			url:'ember-cli-date-textbox'
+		},
+		source:{
+			domain:'github',
+			url:'cybertoothca/ember-cli-date-textbox',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-date-textbox.cybertooth.io'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'http://ember-cli-date-textbox.cybertooth.io',
+		keywords:['datepickers','date picker','date chooser','momentjs','sugarjs','sugar.date','textbox','input','parse','today','now','cybertooth','ember-addon']
 	}
 	
 ];
