@@ -4774,6 +4774,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://offirgolan.github.io/ember-light-table/docs/',
 		keywords:['ember-addon','table','light-table','responsive-table']
+	},{
+		id:226,
+		name:'ember-table',
+		install: {
+			packager:'ember',
+			url:'ember-table'
+		},
+		source:{
+			domain:'github',
+			url:'Addepar/ember-table',
+			stars: 1623
+		},
+		demo:{
+			repl:'custom',
+			src:'http://opensource.addepar.com/ember-table/#/overview'
+		},
+		framework:'Ember',
+		version:'2.0.0-alpha.1',
+		license:'MIT',
+		details:'http://opensource.addepar.com/ember-table/#/overview',
+		keywords:['ember-addon','table','ember-table']
 	}
 	
 ];
