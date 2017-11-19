@@ -4648,6 +4648,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://justin-lau.github.io/ember-intl-tel-input/',
 		keywords:['ember-addon','intl-tel-input','international','i18n','country','dial','code','telephone','mobile','input','flag']
+	},{
+		id:220,
+		name:'ember-sky-labels',
+		install: {
+			packager:'ember',
+			url:'ember-sky-labels'
+		},
+		source:{
+			domain:'github',
+			url:'thoughtbot/ember-sky-labels',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'http://thoughtbot.github.io/sky-labels/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://github.com/thoughtbot/ember-sky-labels',
+		keywords:['ember-addon','accessibility','labels','sky labels']
 	}
 	
 ];
