@@ -4417,6 +4417,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/kellyselden/ember-checkbox-with-label',
 		keywords:['ember-addon','checkbox']
+	},{
+		id:209,
+		name:'ember-cli-text-support-mixins',
+		install: {
+			packager:'ember',
+			url:'ember-cli-text-support-mixins'
+		},
+		source:{
+			domain:'github',
+			url:'cybertoothca/ember-cli-text-support-mixins',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-text-support-mixins.cybertooth.io'
+		},
+		framework:'Ember',
+		version:'1.1.2',
+		license:'MIT',
+		details:'http://ember-cli-text-support-mixins.cybertooth.io',
+		keywords:['autofocus','ctrl+enter','escape clears','focus selects','ember.textsupport','ember-addon']
 	}
 	
 ];
