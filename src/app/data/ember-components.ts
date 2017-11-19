@@ -4543,6 +4543,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://onechiporenko.github.io/ember-checkboxes-list/',
 		keywords:['ember-addon', 'checkboxes', 'list', 'order']
+	},{
+		id:215,
+		name:'Ember Ticketfly Buttons',
+		install: {
+			packager:'ember',
+			url:'ember-ticketfly-buttons'
+		},
+		source:{
+			domain:'github',
+			url:'ticketfly-ui/ember-ticketfly-buttons',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ticketfly-ui.github.io/ember-ticketfly-buttons/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://ticketfly-ui.github.io/ember-ticketfly-buttons/',
+		keywords:['ember-addon','ticketfly','ticketfly-ui','button']
 	}
 	
 ];
