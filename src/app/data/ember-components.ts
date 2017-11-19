@@ -4438,6 +4438,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-cli-text-support-mixins.cybertooth.io',
 		keywords:['autofocus','ctrl+enter','escape clears','focus selects','ember.textsupport','ember-addon']
+	},{
+		id:210,
+		name:'emberx-range-input',
+		install: {
+			packager:'ember',
+			url:'emberx-range-input'
+		},
+		source:{
+			domain:'github',
+			url:'thefrontside/emberx-range-input',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://thefrontside.github.io/emberx-range-input/'
+		},
+		framework:'Ember',
+		version:'1.0.2',
+		license:'MIT',
+		details:'https://github.com/thefrontside/emberx-range-input',
+		keywords:['ember-addon','range-input','slider','ember-slider','ember-range-input','ember']
 	}
 	
 ];
