@@ -4606,6 +4606,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/AnnotationSro/ember-mobile-inputs',
 		keywords:['ember-addon', 'mobile', 'input']
+	},{
+		id:218,
+		name:'ember-template-input',
+		install: {
+			packager:'ember',
+			url:'ember-template-input'
+		},
+		source:{
+			domain:'github',
+			url:'knownasilya/ember-template-input',
+			stars: 5
+		},
+		demo:{
+			repl:'custom',
+			src:'https://knownasilya.github.io/ember-template-input/'
+		},
+		framework:'Ember',
+		version:'0.1.2',
+		license:'MIT',
+		details:'https://github.com/AnnotationSro/ember-mobile-inputs',
+		keywords:['ember-addon','template','input','tags','component']
 	}
 	
 ];
