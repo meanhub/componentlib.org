@@ -4480,6 +4480,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/thefrontside/emberx-file-input',
 		keywords:['ember-addon','file input','file selector','custom file input']
+	},{
+		id:212,
+		name:'ember-frost-modal-input',
+		install: {
+			packager:'ember',
+			url:'ember-frost-modal-input'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-modal-input',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-modal-input/'
+		},
+		framework:'Ember',
+		version:'6.0.1',
+		license:'MIT',
+		details:'http://ciena-frost.github.io/ember-frost-modal-input/',
+		keywords:['ember-addon','frost']
 	}
 	
 ];
