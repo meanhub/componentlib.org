@@ -4753,6 +4753,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/srsgores/ember-datetime',
 		keywords:['ember-addon','datetime','date','time','datetime piker']
+	},{
+		id:225,
+		name:'ember-light-table',
+		install: {
+			packager:'ember',
+			url:'ember-light-table'
+		},
+		source:{
+			domain:'github',
+			url:'offirgolan/ember-light-table',
+			stars: 249
+		},
+		demo:{
+			repl:'custom',
+			src:'http://offirgolan.github.io/ember-light-table/'
+		},
+		framework:'Ember',
+		version:'1.11.0',
+		license:'MIT',
+		details:'http://offirgolan.github.io/ember-light-table/docs/',
+		keywords:['ember-addon','table','light-table','responsive-table']
 	}
 	
 ];
