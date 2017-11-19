@@ -4501,6 +4501,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ciena-frost.github.io/ember-frost-modal-input/',
 		keywords:['ember-addon','frost']
+	},{
+		id:213,
+		name:'ember-range-slider',
+		install: {
+			packager:'ember',
+			url:'ember-range-slider'
+		},
+		source:{
+			domain:'github',
+			url:'collectrium/ember-range-slider',
+			stars: 14
+		},
+		demo:{
+			repl:'custom',
+			src:'http://collectrium.github.io/ember-range-slider/'
+		},
+		framework:'Ember',
+		version:'0.2.4',
+		license:'MIT',
+		details:'http://collectrium.github.io/ember-range-slider/',
+		keywords:['ember-addon','range-slider','range']
 	}
 	
 ];
