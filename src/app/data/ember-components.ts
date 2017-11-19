@@ -4690,6 +4690,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/srsgores/ember-form-fields',
 		keywords:['ember-addon','form-fields','form','html5']
+	},{
+		id:222,
+		name:'ember-delay-value',
+		install: {
+			packager:'ember',
+			url:'ember-delay-value'
+		},
+		source:{
+			domain:'github',
+			url:'marucjmar/ember-delay-value',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://marucjmar.github.io/ember-delay-value/'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'http://marucjmar.github.io/ember-delay-value/',
+		keywords:['ember-addon','wait','debounced','value','delay','input','ember']
 	}
 	
 ];
