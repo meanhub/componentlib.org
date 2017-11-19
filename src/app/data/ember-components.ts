@@ -4627,6 +4627,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/AnnotationSro/ember-mobile-inputs',
 		keywords:['ember-addon','template','input','tags','component']
+	},{
+		id:219,
+		name:'ember-intl-tel-input',
+		install: {
+			packager:'ember',
+			url:'ember-intl-tel-input'
+		},
+		source:{
+			domain:'github',
+			url:'justin-lau/ember-intl-tel-input',
+			stars: 17
+		},
+		demo:{
+			repl:'custom',
+			src:'http://justin-lau.github.io/ember-intl-tel-input/'
+		},
+		framework:'Ember',
+		version:'1.2.0',
+		license:'MIT',
+		details:'http://justin-lau.github.io/ember-intl-tel-input/',
+		keywords:['ember-addon','intl-tel-input','international','i18n','country','dial','code','telephone','mobile','input','flag']
 	}
 	
 ];
