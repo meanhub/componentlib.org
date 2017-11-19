@@ -4459,6 +4459,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/thefrontside/emberx-range-input',
 		keywords:['ember-addon','range-input','slider','ember-slider','ember-range-input','ember']
+	},{
+		id:211,
+		name:'emberx-file-input',
+		install: {
+			packager:'ember',
+			url:'emberx-file-input'
+		},
+		source:{
+			domain:'github',
+			url:'thefrontside/emberx-file-input',
+			stars: 49
+		},
+		demo:{
+			repl:'custom',
+			src:'http://thefrontside.github.io/emberx-file-input/'
+		},
+		framework:'Ember',
+		version:'1.1.2',
+		license:'MIT',
+		details:'https://github.com/thefrontside/emberx-file-input',
+		keywords:['ember-addon','file input','file selector','custom file input']
 	}
 	
 ];
