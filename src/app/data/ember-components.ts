@@ -4711,6 +4711,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://marucjmar.github.io/ember-delay-value/',
 		keywords:['ember-addon','wait','debounced','value','delay','input','ember']
+	},{
+		id:223,
+		name:'ember-cli-rangesliderjs',
+		install: {
+			packager:'ember',
+			url:'ember-cli-rangesliderjs'
+		},
+		source:{
+			domain:'github',
+			url:'ryanlabouve/ember-cli-rangesliderjs',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ryanlabouve.github.io/ember-cli-rangesliderjs/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://ryanlabouve.github.io/ember-cli-rangesliderjs/',
+		keywords:['ember-addon','rangesliderjs','rangeslider','range-slider','slider']
 	}
 	
 ];
