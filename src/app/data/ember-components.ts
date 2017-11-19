@@ -4333,6 +4333,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/britishgas-engineering/bg-button-group',
 		keywords:['ember-addon','button-group','button','group']
+	},{
+		id:205,
+		name:'ember-multiselect-checkboxes',
+		install: {
+			packager:'ember',
+			url:'ember-multiselect-checkboxes'
+		},
+		source:{
+			domain:'github',
+			url:'rsschermer/ember-multiselect-checkboxes',
+			stars: 66
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rsschermer.github.io/ember-multiselect-checkboxes/'
+		},
+		framework:'Ember',
+		version:'0.10.3',
+		license:'MIT',
+		details:'https://github.com/rsschermer/ember-multiselect-checkboxes',
+		keywords:['ember-addon','ember-component','multiselect-checkboxes','multiselect','checkboxes']
 	}
 	
 ];
