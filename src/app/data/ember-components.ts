@@ -4312,6 +4312,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-smart-input',
 		keywords:['ember-addon','input','text fields','smart input']
+	},{
+		id:204,
+		name:'bg-button-group',
+		install: {
+			packager:'ember',
+			url:'bg-button-group'
+		},
+		source:{
+			domain:'github',
+			url:'britishgas-engineering/bg-button-group',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://britishgas-engineering.github.io/bg-button-group/'
+		},
+		framework:'Ember',
+		version:'0.0.5',
+		license:'MIT',
+		details:'https://github.com/britishgas-engineering/bg-button-group',
+		keywords:['ember-addon','button-group','button','group']
 	}
 	
 ];
