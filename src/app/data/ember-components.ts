@@ -4669,6 +4669,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/thoughtbot/ember-sky-labels',
 		keywords:['ember-addon','accessibility','labels','sky labels']
+	},{
+		id:221,
+		name:'ember-form-fields',
+		install: {
+			packager:'ember',
+			url:'ember-form-fields'
+		},
+		source:{
+			domain:'github',
+			url:'srsgores/ember-form-fields',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://srsgores.github.io/ember-form-fields/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/srsgores/ember-form-fields',
+		keywords:['ember-addon','form-fields','form','html5']
 	}
 	
 ];
