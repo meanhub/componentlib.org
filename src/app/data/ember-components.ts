@@ -4522,6 +4522,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://collectrium.github.io/ember-range-slider/',
 		keywords:['ember-addon','range-slider','range']
+	},{
+		id:214,
+		name:'ember-checkboxes-list',
+		install: {
+			packager:'ember',
+			url:'ember-checkboxes-list'
+		},
+		source:{
+			domain:'github',
+			url:'onechiporenko/ember-checkboxes-list',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://onechiporenko.github.io/ember-checkboxes-list/'
+		},
+		framework:'Ember',
+		version:'1.0.0',
+		license:'MIT',
+		details:'http://onechiporenko.github.io/ember-checkboxes-list/',
+		keywords:['ember-addon', 'checkboxes', 'list', 'order']
 	}
 	
 ];
