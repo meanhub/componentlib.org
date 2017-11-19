@@ -4270,6 +4270,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://knownasilya.github.io/ember-toggle/',
 		keywords:['ember-addon','toggle','switch','component','ember']
+	},{
+		id:202,
+		name:'ember-frost-fields',
+		install: {
+			packager:'ember',
+			url:'ember-frost-fields'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-fields',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ciena-frost.github.io/ember-frost-fields/'
+		},
+		framework:'Ember',
+		version:'6.0.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-fields',
+		keywords:['ember-addon','frost fields','fields']
 	}
 	
 ];
