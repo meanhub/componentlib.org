@@ -4564,6 +4564,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ticketfly-ui.github.io/ember-ticketfly-buttons/',
 		keywords:['ember-addon','ticketfly','ticketfly-ui','button']
+	},{
+		id:216,
+		name:'ember-cli-elessar',
+		install: {
+			packager:'ember',
+			url:'ember-cli-elessar'
+		},
+		source:{
+			domain:'github',
+			url:'ejthan/ember-cli-elessar',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ejthan.github.io/ember-cli-elessar/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://github.com/ejthan/ember-cli-elessar',
+		keywords:['ember-addon', 'elessar', 'moment', 'range']
 	}
 	
 ];
