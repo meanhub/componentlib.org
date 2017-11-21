@@ -4837,6 +4837,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-list',
 		keywords:['ember-addon','frost','frost-list','list']
+	},{
+		id:229,
+		name:'ember-frost-table',
+		install: {
+			packager:'ember',
+			url:'ember-frost-table'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-table',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ciena-frost.github.io/ember-frost-table/'
+		},
+		framework:'Ember',
+		version:'1.5.3',
+		license:'MIT',
+		details:'https://ciena-frost.github.io/ember-frost-table/',
+		keywords:['ember-addon','frost','frost-table','table']
 	}
 	
 ];
