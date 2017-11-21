@@ -4900,6 +4900,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/mu-semtech/ember-data-table',
 		keywords:['ember-addon','mu-semtech']
+	},{
+		id:232,
+		name:'ember-sort-filter-table',
+		install: {
+			packager:'ember',
+			url:'ember-sort-filter-table'
+		},
+		source:{
+			domain:'github',
+			url:'crodriguez1a/ember-sort-filter-table',
+			stars: 13
+		},
+		demo:{
+			repl:'custom',
+			src:'http://crodriguez1a.github.io/ember-sort-filter-table/'
+		},
+		framework:'Ember',
+		version:'0.3.4',
+		license:'MIT',
+		details:'http://crodriguez1a.github.io/ember-sort-filter-table/',
+		keywords:['ember-addon','sort-table','filter-table','table','sort-filter-table']
 	}
 	
 ];
