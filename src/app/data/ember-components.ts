@@ -4921,6 +4921,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://crodriguez1a.github.io/ember-sort-filter-table/',
 		keywords:['ember-addon','sort-table','filter-table','table','sort-filter-table']
+	},{
+		id:233,
+		name:'ember-contextual-table',
+		install: {
+			packager:'ember',
+			url:'ember-contextual-table'
+		},
+		source:{
+			domain:'github',
+			url:'tubitak-bilgem-yte/ember-contextual-table',
+			stars: 34
+		},
+		demo:{
+			repl:'custom',
+			src:'https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/basic-usage'
+		},
+		framework:'Ember',
+		version:'1.10.0',
+		license:'MIT',
+		details:'https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/overview',
+		keywords:['ember-addon','ember-table','contextual-table','contextual-component']
 	}
 	
 ];
