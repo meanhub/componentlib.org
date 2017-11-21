@@ -4795,6 +4795,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://opensource.addepar.com/ember-table/#/overview',
 		keywords:['ember-addon','table','ember-table']
+	},{
+		id:227,
+		name:'fixtable-ember',
+		install: {
+			packager:'ember',
+			url:'fixtable-ember'
+		},
+		source:{
+			domain:'github',
+			url:'MyPureCloud/fixtable-ember',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://mypurecloud.github.io/fixtable-ember/'
+		},
+		framework:'Ember',
+		version:'3.4.1',
+		license:'MIT',
+		details:'https://github.com/MyPureCloud/fixtable-ember',
+		keywords:['ember-addon','fixtable','table','ember']
 	}
 	
 ];
