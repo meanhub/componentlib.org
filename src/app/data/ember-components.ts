@@ -4816,6 +4816,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/MyPureCloud/fixtable-ember',
 		keywords:['ember-addon','fixtable','table','ember']
+	},{
+		id:228,
+		name:'ember-frost-list',
+		install: {
+			packager:'ember',
+			url:'ember-frost-list'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-list',
+			stars: 8
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ciena-frost.github.io/ember-frost-list/'
+		},
+		framework:'Ember',
+		version:'7.0.0',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-list',
+		keywords:['ember-addon','frost','frost-list','list']
 	}
 	
 ];
