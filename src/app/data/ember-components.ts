@@ -4879,6 +4879,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Deveo/ember-drag-sort',
 		keywords:['ember-addon','drag n drop','drag-n-drop','drag','drop','sort','sorting','component','ember-component','sortable','sortable-list','sortable list']
+	},{
+		id:231,
+		name:'ember-data-table',
+		install: {
+			packager:'ember',
+			url:'ember-data-table'
+		},
+		source:{
+			domain:'github',
+			url:'mu-semtech/ember-data-table',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-data-table.semte.ch/books'
+		},
+		framework:'Ember',
+		version:'1.0.0-alpha.3',
+		license:'MIT',
+		details:'https://github.com/mu-semtech/ember-data-table',
+		keywords:['ember-addon','mu-semtech']
 	}
 	
 ];
