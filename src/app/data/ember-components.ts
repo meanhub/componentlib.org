@@ -4963,6 +4963,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/jasonmit/virtual-each',
 		keywords:['ember-addon','virtual-each','virtual each']
+	},{
+		id:235,
+		name:'ember-dressy-table',
+		install: {
+			packager:'ember',
+			url:'ember-dressy-table'
+		},
+		source:{
+			domain:'github',
+			url:'zalando-incubator/ember-dressy-table',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'https://zalando-incubator.github.io/ember-dressy-table/#/doc-pages/docs'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://zalando-incubator.github.io/ember-dressy-table/#/doc-pages/docs',
+		keywords:['ember-addon','table','d-table']
 	}
 	
 ];
