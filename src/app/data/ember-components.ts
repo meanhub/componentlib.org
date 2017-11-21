@@ -4984,6 +4984,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://zalando-incubator.github.io/ember-dressy-table/#/doc-pages/docs',
 		keywords:['ember-addon','table','d-table']
+	},{
+		id:236,
+		name:'paper-data-table',
+		install: {
+			packager:'ember',
+			url:'paper-data-table'
+		},
+		source:{
+			domain:'github',
+			url:'ibarrick/paper-data-table',
+			stars: 22
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ibarrick.github.io/paper-data-table/'
+		},
+		framework:'Ember',
+		version:'0.1.4',
+		license:'MIT',
+		details:'https://github.com/ibarrick/paper-data-table',
+		keywords:['ember-addon','ember md table','ember material design table']
 	}
 	
 ];
