@@ -4858,6 +4858,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ciena-frost.github.io/ember-frost-table/',
 		keywords:['ember-addon','frost','frost-table','table']
+	},{
+		id:230,
+		name:'ember-drag-sort',
+		install: {
+			packager:'ember',
+			url:'ember-drag-sort'
+		},
+		source:{
+			domain:'github',
+			url:'Deveo/ember-drag-sort',
+			stars: 39
+		},
+		demo:{
+			repl:'custom',
+			src:'https://deveo.github.io/ember-drag-sort/'
+		},
+		framework:'Ember',
+		version:'1.1.1',
+		license:'MIT',
+		details:'https://github.com/Deveo/ember-drag-sort',
+		keywords:['ember-addon','drag n drop','drag-n-drop','drag','drop','sort','sorting','component','ember-component','sortable','sortable-list','sortable list']
 	}
 	
 ];
