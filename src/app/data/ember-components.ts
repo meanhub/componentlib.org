@@ -4942,6 +4942,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://tubitak-bilgem-yte.github.io/ember-contextual-table/#/overview',
 		keywords:['ember-addon','ember-table','contextual-table','contextual-component']
+	},{
+		id:234,
+		name:'virtual-each',
+		install: {
+			packager:'ember',
+			url:'virtual-each'
+		},
+		source:{
+			domain:'github',
+			url:'jasonmit/virtual-each',
+			stars: 44
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jasonmit.github.io/virtual-each/'
+		},
+		framework:'Ember',
+		version:'0.5.1',
+		license:'MIT',
+		details:'https://github.com/jasonmit/virtual-each',
+		keywords:['ember-addon','virtual-each','virtual each']
 	}
 	
 ];
