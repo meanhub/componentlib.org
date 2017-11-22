@@ -5281,6 +5281,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/chauhansudhir/ember-cli-simple-table',
 		keywords:['ember-addon','list','scroll']
+	},{
+		id:250,
+		name:'ember-spreadsheet',
+		install: {
+			packager:'ember',
+			url:'ember-spreadsheet'
+		},
+		source:{
+			domain:'github',
+			url:'danielspaniel/ember-spreadsheet',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://danielspaniel.github.io/ember-spreadsheet/'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'https://github.com/danielspaniel/ember-spreadsheet',
+		keywords:['ember.js','spreadsheet','ember-addon']
 	}
 	
 ];
