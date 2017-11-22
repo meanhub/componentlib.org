@@ -5302,6 +5302,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/danielspaniel/ember-spreadsheet',
 		keywords:['ember.js','spreadsheet','ember-addon']
+	},{
+		id:251,
+		name:'ember-highcharts',
+		install: {
+			packager:'ember',
+			url:'ember-highcharts'
+		},
+		source:{
+			domain:'github',
+			url:'ahmadsoe/ember-highcharts',
+			stars: 104
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ahmadsoe.github.io/ember-highcharts/'
+		},
+		framework:'Ember',
+		version:'0.5.4',
+		license:'MIT',
+		details:'https://github.com/ahmadsoe/ember-highcharts',
+		keywords:['ember-addon','highcharts','ember-highcharts','charts']
 	}
 	
 ];
