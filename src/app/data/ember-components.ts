@@ -5218,6 +5218,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://enkru.github.io/ember-material-table/',
 		keywords:['ember-addon','material-design','ember-table','table','material-table']
+	},{
+		id:247,
+		name:'ember-ds-table',
+		install: {
+			packager:'ember',
+			url:'ember-ds-table'
+		},
+		source:{
+			domain:'github',
+			url:'Jake2000/ember-ds-table',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jake2000.github.io/ember-ds-table/'
+		},
+		framework:'Ember',
+		version:'1.0.0-beta.1',
+		license:'MIT',
+		details:'https://github.com/Jake2000/ember-ds-table',
+		keywords:['ember-addon','ember-table','table']
 	}
 	
 ];
