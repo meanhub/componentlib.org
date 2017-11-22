@@ -5344,6 +5344,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/svkangal/ember-tutorial-component',
 		keywords:['ember-addon','tutorial-component','help-tooltips','new-feature-tooltips','ember-cli','oboarding','introduction']
+	},{
+		id:253,
+		name:'maximum-plaid',
+		install: {
+			packager:'ember',
+			url:'maximum-plaid'
+		},
+		source:{
+			domain:'github',
+			url:'ivanvanderbyl/maximum-plaid',
+			stars: 82
+		},
+		demo:{
+			repl:'custom',
+			src:'http://maximum-plaid.com'
+		},
+		framework:'Ember',
+		version:'0.1.3',
+		license:'MIT',
+		details:'https://github.com/ivanvanderbyl/maximum-plaid',
+		keywords:['ember-addon','d3','maximum-plaid','data-visualization','visualisation','charts','charting-package']
 	}
 	
 ];
