@@ -5047,6 +5047,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://baroquon.github.io/ember-keyboard-navigable-list/',
 		keywords:['ember-addon','list','keyboard','shortcuts','navigation']
+	},{
+		id:239,
+		name:'ui-list',
+		install: {
+			packager:'ember',
+			url:'ui-list'
+		},
+		source:{
+			domain:'github',
+			url:'lifegadget/ui-list',
+			stars: 30
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ui-list.firebaseapp.com'
+		},
+		framework:'Ember',
+		version:'0.6.1',
+		license:'MIT',
+		details:'https://ui-list.firebaseapp.com',
+		keywords:['ember-addon','list','ui-list']
 	}
 	
 ];
