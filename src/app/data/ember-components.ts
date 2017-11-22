@@ -5515,6 +5515,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ming-codes.github.io/ember-cli-d3/#/guides',
 		keywords:['ember-addon','d3','cli','chart','graph']
+	},{
+		id:261,
+		name:'ember-cli-sparkline',
+		install: {
+			packager:'ember',
+			url:'ember-cli-sparkline'
+		},
+		source:{
+			domain:'github',
+			url:'lukesargeant/ember-cli-sparkline',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'http://lukesargeant.github.io/ember-cli-sparkline/'
+		},
+		framework:'Ember',
+		version:'0.1.5',
+		license:'MIT',
+		details:'http://lukesargeant.github.io/ember-cli-sparkline/',
+		keywords:['ember-addon','sparkline','chart']
 	}
 	
 ];
