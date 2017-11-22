@@ -5365,6 +5365,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ivanvanderbyl/maximum-plaid',
 		keywords:['ember-addon','d3','maximum-plaid','data-visualization','visualisation','charts','charting-package']
+	},{
+		id:254,
+		name:'ember-nf-graph',
+		install: {
+			packager:'ember',
+			url:'ember-nf-graph'
+		},
+		source:{
+			domain:'github',
+			url:'netflix/ember-nf-graph',
+			stars: 231
+		},
+		demo:{
+			repl:'custom',
+			src:'http://netflix.github.io/ember-nf-graph-examples/dist/'
+		},
+		framework:'Ember',
+		version:'2.0.0',
+		license:'MIT',
+		details:'http://netflix.github.io/ember-nf-graph-examples/dist/',
+		keywords:['ember-addon','nf','graph']
 	}
 	
 ];
