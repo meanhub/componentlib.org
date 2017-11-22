@@ -5452,6 +5452,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://locusenergy.github.io/ember-sparkles/#/bar-chart',
 		keywords:['ember-addon','d3','data-visualization','htmlbars']
+	},{
+		id:258,
+		name:'ember-e3',
+		install: {
+			packager:'ember',
+			url:'ember-e3'
+		},
+		source:{
+			domain:'github',
+			url:'LocusEnergy/ember-sparkles',
+			stars: 58
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ravellaw.github.io/e3/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://github.com/RavelLaw/e3',
+		keywords:['ember-addon','e3','circles','bar chart','line graph','smoothed line graph','stacked bars','grouped bars','text','inverted axis']
 	}
 	
 ];
