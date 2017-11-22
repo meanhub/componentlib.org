@@ -5473,6 +5473,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/RavelLaw/e3',
 		keywords:['ember-addon','e3','circles','bar chart','line graph','smoothed line graph','stacked bars','grouped bars','text','inverted axis']
+	},{
+		id:259,
+		name:'ember-svg-pie',
+		install: {
+			packager:'ember',
+			url:'ember-svg-pie'
+		},
+		source:{
+			domain:'github',
+			url:'lolmaus/ember-svg-pie',
+			stars: 58
+		},
+		demo:{
+			repl:'custom',
+			src:'http://lolmaus.github.io/ember-svg-pie/'
+		},
+		framework:'Ember',
+		version:'1.3.1',
+		license:'MIT',
+		details:'http://lolmaus.github.io/ember-svg-pie/',
+		keywords:['ember-addon','svg','pie','pie chart','chart','graph','pie graph']
 	}
 	
 ];
