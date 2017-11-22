@@ -5155,6 +5155,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/shaunc/ember-grid',
 		keywords:['ember-addon','grid','table']
+	},{
+		id:244,
+		name:'ember-semantic-ui-models-table',
+		install: {
+			packager:'ember',
+			url:'ember-semantic-ui-models-table'
+		},
+		source:{
+			domain:'github',
+			url:'hugoruscitti/ember-semantic-ui-models-table',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-semantic-ui-models-table.surge.sh/#/demo'
+		},
+		framework:'Ember',
+		version:'1.11.6',
+		license:'MIT',
+		details:'http://ember-semantic-ui-models-table.surge.sh/#/demo',
+		keywords:['ember-addon','semantic-ui-models-table','models-table','table']
 	}
 	
 ];
