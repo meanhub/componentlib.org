@@ -5494,6 +5494,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://lolmaus.github.io/ember-svg-pie/',
 		keywords:['ember-addon','svg','pie','pie chart','chart','graph','pie graph']
+	},{
+		id:260,
+		name:'ember-cli-d3',
+		install: {
+			packager:'ember',
+			url:'ember-cli-d3'
+		},
+		source:{
+			domain:'github',
+			url:'ming-codes/ember-cli-d3',
+			stars: 45
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ming-codes.github.io/ember-cli-d3/#/gallery'
+		},
+		framework:'Ember',
+		version:'1.1.7',
+		license:'MIT',
+		details:'http://ming-codes.github.io/ember-cli-d3/#/guides',
+		keywords:['ember-addon','d3','cli','chart','graph']
 	}
 	
 ];
