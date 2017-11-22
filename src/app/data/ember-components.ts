@@ -5131,6 +5131,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/rajasegar/ember-a11y-datatable',
 		keywords:['ember-addon','a11y','accessibility','data table']
+	},{
+		id:243,
+		name:'ember-grid',
+		install: [{
+			packager:'npm',
+			url:'ember-grid'
+		},{
+			packager:'ember',
+			url:'ember-grid'
+		}],
+		source:{
+			domain:'github',
+			url:'shaunc/ember-grid',
+			stars: 16
+		},
+		demo:{
+			repl:'custom',
+			src:'http://shaunc.github.io/ember-grid/'
+		},
+		framework:'Ember',
+		version:'0.1.0',
+		license:'MIT',
+		details:'https://github.com/shaunc/ember-grid',
+		keywords:['ember-addon','grid','table']
 	}
 	
 ];
