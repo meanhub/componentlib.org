@@ -5536,6 +5536,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://lukesargeant.github.io/ember-cli-sparkline/',
 		keywords:['ember-addon','sparkline','chart']
+	},{
+		id:262,
+		name:'ember-timetree',
+		install: {
+			packager:'ember',
+			url:'ember-timetree'
+		},
+		source:{
+			domain:'github',
+			url:'CrowdStrike/ember-timetree',
+			stars: 261
+		},
+		demo:{
+			repl:'custom',
+			src:'http://crowdstrike.github.io/ember-timetree/'
+		},
+		framework:'Ember',
+		version:'2.0.1',
+		license:'MIT',
+		details:'https://github.com/CrowdStrike/ember-timetree',
+		keywords:['ember-addon','timetree','time','time range']
 	}
 	
 ];
