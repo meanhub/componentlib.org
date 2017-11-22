@@ -5620,6 +5620,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://seansellek.github.io/ember-highcharts-mixin/',
 		keywords:['ember-addon','highcharts','dynamic redrawing']
+	},{
+		id:266,
+		name:'ember-primer',
+		install: {
+			packager:'ember',
+			url:'ember-primer'
+		},
+		source:{
+			domain:'github',
+			url:'ember-visualization/ember-primer',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-primer-392b2.firebaseapp.com/examples/line'
+		},
+		framework:'Ember',
+		version:'0.1.8',
+		license:'MIT',
+		details:'https://github.com/ember-visualization/ember-primer/blob/master/docs/helpers.md',
+		keywords:['ember-addon','multi-series chart','area with top line','scatter']
 	}
 	
 ];
