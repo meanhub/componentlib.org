@@ -5110,6 +5110,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://quantosobra.github.io/ember-semantic-ui-table/',
 		keywords:['ember-addon','semantic-ui','table']
+	},{
+		id:242,
+		name:'ember-a11y-datatable',
+		install: {
+			packager:'ember',
+			url:'ember-a11y-datatable'
+		},
+		source:{
+			domain:'github',
+			url:'rajasegar/ember-a11y-datatable',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://rajasegar.github.io/ember-a11y-datatable/'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'MIT',
+		details:'https://github.com/rajasegar/ember-a11y-datatable',
+		keywords:['ember-addon','a11y','accessibility','data table']
 	}
 	
 ];
