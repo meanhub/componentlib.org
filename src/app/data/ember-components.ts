@@ -5005,6 +5005,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ibarrick/paper-data-table',
 		keywords:['ember-addon','ember md table','ember material design table']
+	},{
+		id:237,
+		name:'ember-data-table-light',
+		install: {
+			packager:'ember',
+			url:'ember-data-table-light'
+		},
+		source:{
+			domain:'github',
+			url:'quantosobra/ember-data-table-light',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'https://quantosobra.github.io/ember-data-table-light/'
+		},
+		framework:'Ember',
+		version:'0.0.3',
+		license:'MIT',
+		details:'https://quantosobra.github.io/ember-data-table-light/docs/',
+		keywords:['ember-addon','table','ember-data']
 	}
 	
 ];
