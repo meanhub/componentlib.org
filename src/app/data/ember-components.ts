@@ -5641,6 +5641,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ember-visualization/ember-primer/blob/master/docs/helpers.md',
 		keywords:['ember-addon','multi-series chart','area with top line','scatter']
+	},{
+		id:267,
+		name:'ember-cli-visjs',
+		install: {
+			packager:'ember',
+			url:'ember-cli-visjs'
+		},
+		source:{
+			domain:'github',
+			url:'Suven/ember-cli-visjs',
+			stars: 9
+		},
+		demo:{
+			repl:'custom',
+			src:'http://suven.github.io/ember-cli-visjs/'
+		},
+		framework:'Ember',
+		version:'0.1.3',
+		license:'MIT',
+		details:'http://suven.github.io/ember-cli-visjs/',
+		keywords:['graph','nodes','edges','visjs','ember-addon']
 	}
 	
 ];
