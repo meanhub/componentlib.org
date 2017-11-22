@@ -5260,6 +5260,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/bekzod/ember-active-scroll-list',
 		keywords:['ember-addon','list','scroll']
+	},{
+		id:249,
+		name:'ember-cli-simple-table',
+		install: {
+			packager:'ember',
+			url:'ember-cli-simple-table'
+		},
+		source:{
+			domain:'github',
+			url:'chauhansudhir/ember-cli-simple-table',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://chauhansudhir.github.io/ember-cli-simple-table/'
+		},
+		framework:'Ember',
+		version:'0.0.6',
+		license:'MIT',
+		details:'https://github.com/chauhansudhir/ember-cli-simple-table',
+		keywords:['ember-addon','list','scroll']
 	}
 	
 ];
