@@ -5176,6 +5176,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://ember-semantic-ui-models-table.surge.sh/#/demo',
 		keywords:['ember-addon','semantic-ui-models-table','models-table','table']
+	},{
+		id:245,
+		name:'ember-light-table-cell-type-multi-value',
+		install: {
+			packager:'ember',
+			url:'ember-light-table-cell-type-multi-value'
+		},
+		source:{
+			domain:'github',
+			url:'buschtoens/ember-light-table-cell-type-multi-value',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://buschtoens.github.io/ember-light-table-cell-type-multi-value/docs/classes/MultiValueCell.html'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://github.com/buschtoens/ember-light-table-cell-type-multi-value',
+		keywords:['ember-addon','ember-light-table-addon','cell-type']
 	}
 	
 ];
