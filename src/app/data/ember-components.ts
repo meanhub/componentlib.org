@@ -5068,6 +5068,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://ui-list.firebaseapp.com',
 		keywords:['ember-addon','list','ui-list']
+	},{
+		id:240,
+		name:'ember-tabella',
+		install: {
+			packager:'ember',
+			url:'ember-tabella'
+		},
+		source:{
+			domain:'github',
+			url:'arenoir/ember-tabella',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'http://arenoir.github.io/ember-tabella/'
+		},
+		framework:'Ember',
+		version:'0.0.4',
+		license:'MIT',
+		details:'https://github.com/arenoir/ember-tabella',
+		keywords:['ember-addon','table','ember-table']
 	}
 	
 ];
