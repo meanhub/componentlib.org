@@ -5089,6 +5089,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/arenoir/ember-tabella',
 		keywords:['ember-addon','table','ember-table']
+	},{
+		id:241,
+		name:'ember-semantic-ui-table',
+		install: {
+			packager:'ember',
+			url:'ember-semantic-ui-table'
+		},
+		source:{
+			domain:'github',
+			url:'quantosobra/ember-semantic-ui-table',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'https://quantosobra.github.io/ember-semantic-ui-table/'
+		},
+		framework:'Ember',
+		version:'0.6.0',
+		license:'MIT',
+		details:'https://quantosobra.github.io/ember-semantic-ui-table/',
+		keywords:['ember-addon','semantic-ui','table']
 	}
 	
 ];
