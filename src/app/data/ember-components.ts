@@ -5197,6 +5197,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/buschtoens/ember-light-table-cell-type-multi-value',
 		keywords:['ember-addon','ember-light-table-addon','cell-type']
+	},{
+		id:246,
+		name:'ember-material-table',
+		install: {
+			packager:'ember',
+			url:'ember-material-table'
+		},
+		source:{
+			domain:'github',
+			url:'eNkru/ember-material-table',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://enkru.github.io/ember-material-table/'
+		},
+		framework:'Ember',
+		version:'2.13.4',
+		license:'MIT',
+		details:'https://enkru.github.io/ember-material-table/',
+		keywords:['ember-addon','material-design','ember-table','table','material-table']
 	}
 	
 ];
