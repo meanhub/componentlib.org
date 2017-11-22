@@ -5578,6 +5578,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://sir-dunxalot.github.io/ember-google-charts/',
 		keywords:['ember-addon','google','chart','charts','graphs','graph']
+	},{
+		id:264,
+		name:'ember-c3',
+		install: {
+			packager:'ember',
+			url:'ember-c3'
+		},
+		source:{
+			domain:'github',
+			url:'Glavin001/ember-c3',
+			stars: 72
+		},
+		demo:{
+			repl:'custom',
+			src:'http://blog.glavin.org/ember-c3/'
+		},
+		framework:'Ember',
+		version:'0.3.1',
+		license:'MIT',
+		details:'http://blog.glavin.org/ember-c3/',
+		keywords:['ember-addon','ember-cli','ember-c3','c3','d3','chart','graph']
 	}
 	
 ];
