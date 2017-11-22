@@ -5599,6 +5599,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://blog.glavin.org/ember-c3/',
 		keywords:['ember-addon','ember-cli','ember-c3','c3','d3','chart','graph']
+	},{
+		id:265,
+		name:'ember-highcharts-mixin',
+		install: {
+			packager:'ember',
+			url:'ember-highcharts-mixin'
+		},
+		source:{
+			domain:'github',
+			url:'seansellek/ember-highcharts-mixin',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://seansellek.github.io/ember-highcharts-mixin/'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'https://seansellek.github.io/ember-highcharts-mixin/',
+		keywords:['ember-addon','highcharts','dynamic redrawing']
 	}
 	
 ];
