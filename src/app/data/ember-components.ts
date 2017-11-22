@@ -5239,6 +5239,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/Jake2000/ember-ds-table',
 		keywords:['ember-addon','ember-table','table']
+	},{
+		id:248,
+		name:'ember-active-scroll-list',
+		install: {
+			packager:'ember',
+			url:'ember-active-scroll-list'
+		},
+		source:{
+			domain:'github',
+			url:'bekzod/ember-active-scroll-list',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-active-scroll-list.surge.sh'
+		},
+		framework:'Ember',
+		version:'0.2.2',
+		license:'MIT',
+		details:'https://github.com/bekzod/ember-active-scroll-list',
+		keywords:['ember-addon','list','scroll']
 	}
 	
 ];
