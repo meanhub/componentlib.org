@@ -5323,6 +5323,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ahmadsoe/ember-highcharts',
 		keywords:['ember-addon','highcharts','ember-highcharts','charts']
+	},{
+		id:252,
+		name:'ember-tutorial-component',
+		install: {
+			packager:'ember',
+			url:'ember-tutorial-component'
+		},
+		source:{
+			domain:'github',
+			url:'svkangal/ember-tutorial-component',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'https://svkangal.github.io/ember-tutorial-component/'
+		},
+		framework:'Ember',
+		version:'2.0.0',
+		license:'MIT',
+		details:'https://github.com/svkangal/ember-tutorial-component',
+		keywords:['ember-addon','tutorial-component','help-tooltips','new-feature-tooltips','ember-cli','oboarding','introduction']
 	}
 	
 ];
