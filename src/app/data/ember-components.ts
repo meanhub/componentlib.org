@@ -5431,6 +5431,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ciena-frost/ember-frost-chart',
 		keywords:['ember-addon','chart','frost']
+	},{
+		id:257,
+		name:'ember-sparkles',
+		install: {
+			packager:'ember',
+			url:'ember-sparkles'
+		},
+		source:{
+			domain:'github',
+			url:'LocusEnergy/ember-sparkles',
+			stars: 58
+		},
+		demo:{
+			repl:'custom',
+			src:'http://locusenergy.github.io/ember-sparkles/#/bar-chart'
+		},
+		framework:'Ember',
+		version:'0.4.17',
+		license:'MIT',
+		details:'http://locusenergy.github.io/ember-sparkles/#/bar-chart',
+		keywords:['ember-addon','d3','data-visualization','htmlbars']
 	}
 	
 ];
