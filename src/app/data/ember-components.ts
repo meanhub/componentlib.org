@@ -5410,6 +5410,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://opensource.addepar.com/ember-charts/',
 		keywords:['ember-addon','charts','graph']
+	},{
+		id:256,
+		name:'ember-frost-chart',
+		install: {
+			packager:'ember',
+			url:'ember-frost-chart'
+		},
+		source:{
+			domain:'github',
+			url:'ciena-frost/ember-frost-chart',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ciena-frost.github.io/ember-frost-chart/'
+		},
+		framework:'Ember',
+		version:'4.1.1',
+		license:'MIT',
+		details:'https://github.com/ciena-frost/ember-frost-chart',
+		keywords:['ember-addon','chart','frost']
 	}
 	
 ];
