@@ -5557,6 +5557,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/CrowdStrike/ember-timetree',
 		keywords:['ember-addon','timetree','time','time range']
+	},{
+		id:263,
+		name:'ember-google-charts',
+		install: {
+			packager:'ember',
+			url:'ember-google-charts'
+		},
+		source:{
+			domain:'github',
+			url:'sir-dunxalot/ember-google-charts',
+			stars: 27
+		},
+		demo:{
+			repl:'custom',
+			src:'http://sir-dunxalot.github.io/ember-google-charts/'
+		},
+		framework:'Ember',
+		version:'1.5.3',
+		license:'MIT',
+		details:'http://sir-dunxalot.github.io/ember-google-charts/',
+		keywords:['ember-addon','google','chart','charts','graphs','graph']
 	}
 	
 ];
