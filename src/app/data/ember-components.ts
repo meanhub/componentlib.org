@@ -5386,6 +5386,30 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://netflix.github.io/ember-nf-graph-examples/dist/',
 		keywords:['ember-addon','nf','graph']
+	},{
+		id:255,
+		name:'ember-charts',
+		install: [{
+			packager:'bower',
+			url:'ember-charts'
+		},{
+			packager:'ember',
+			url:'ember-charts'
+		}],
+		source:{
+			domain:'github',
+			url:'netflix/ember-nf-graph',
+			stars: 771
+		},
+		demo:{
+			repl:'custom',
+			src:'http://opensource.addepar.com/ember-charts/'
+		},
+		framework:'Ember',
+		version:'1.2.1',
+		license:'MIT',
+		details:'http://opensource.addepar.com/ember-charts/',
+		keywords:['ember-addon','charts','graph']
 	}
 	
 ];
