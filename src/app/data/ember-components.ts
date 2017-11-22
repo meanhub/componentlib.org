@@ -5026,6 +5026,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://quantosobra.github.io/ember-data-table-light/docs/',
 		keywords:['ember-addon','table','ember-data']
+	},{
+		id:238,
+		name:'ember-keyboard-navigable-list',
+		install: {
+			packager:'ember',
+			url:'ember-keyboard-navigable-list'
+		},
+		source:{
+			domain:'github',
+			url:'baroquon/ember-keyboard-navigable-list',
+			stars: 4
+		},
+		demo:{
+			repl:'custom',
+			src:'https://baroquon.github.io/ember-keyboard-navigable-list/'
+		},
+		framework:'Ember',
+		version:'0.1.7',
+		license:'MIT',
+		details:'https://baroquon.github.io/ember-keyboard-navigable-list/',
+		keywords:['ember-addon','list','keyboard','shortcuts','navigation']
 	}
 	
 ];
