@@ -7143,4 +7143,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/AlexKhymenko/ngx-permissions',
     keywords: ['ng-permission', 'permissions', 'roles', 'angular-permissions', 'acl', 'rbac', 'access', 'access-control']
   },
+  {
+    id: 339,
+    name: 'ng-katex',
+    install: [{
+      packager: 'npm',
+      url: 'ng-katex'
+    }],
+    source: {
+      domain: 'github',
+      url: 'garciparedes/ng-katex'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://garciparedes.me/ng-katex/'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.37',
+    license: 'MIT',
+    details: 'https://github.com/garciparedes/ng-katex',
+    keywords: ['katex', 'latex', 'math', 'khan-academy']
+  },
 ];
