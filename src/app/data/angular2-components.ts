@@ -6744,4 +6744,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/hiyali/ng-data-picker',
     keywords: ['data', 'picker', 'ios', 'touch']
   },
+  {
+    id: 320,
+    name: 'ngx-siema',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-siema'
+    }],
+    source: {
+      domain: 'github',
+      url: 'lexzhukov/ngx-siema'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://pawelgrzybek.com/siema/#example'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/lexzhukov/ngx-siema',
+    keywords: ['carousel', 'siema']
+  },
 ];
