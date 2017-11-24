@@ -5977,6 +5977,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/progress',
 		keywords:['ember-addon','bootstrap','progress']
+	},{
+		id:283,
+		name:'ember-bootstrap-tab',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/tabs'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/tabs',
+		keywords:['ember-addon','bootstrap','tab']
 	}
 	
 ];
