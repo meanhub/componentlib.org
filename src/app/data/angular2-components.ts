@@ -6765,4 +6765,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/lexzhukov/ngx-siema',
     keywords: ['carousel', 'siema']
   },
+  {
+    id: 321,
+    name: 'ng-bootstrap accordion',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/accordion/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/accordion/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'accordion']
+  },
 ];
