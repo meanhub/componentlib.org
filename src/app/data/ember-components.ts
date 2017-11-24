@@ -5725,6 +5725,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://demos.evolutionaryapps.com/EmberMermaid/',
 		keywords:['charts','simple graph','ember-addon','mermaid-chart','sequence diagram']
+	},{
+		id:271,
+		name:'Ember-cli-nvd3-multichart',
+		install: {
+			packager:'ember',
+			url:'ember-cli-nvd3-multichart'
+		},
+		source:{
+			domain:'github',
+			url:'chauhansudhir/ember-cli-nvd3-multichart',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://jsfiddle.net/L62mqmj8/show/'
+		},
+		framework:'Ember',
+		version:'0.0.1',
+		license:'MIT',
+		details:'https://github.com/chauhansudhir/ember-cli-nvd3-multichart',
+		keywords:['charts','multichart','ember-addon','chart','diagram']
 	}
 	
 ];
