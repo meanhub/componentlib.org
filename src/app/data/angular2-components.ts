@@ -6660,4 +6660,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/madoar/ng2-archwizard',
     keywords: ['wizard', 'form-wizard', 'angular4-wizard']
   },
+  {
+    id: 316,
+    name: 'ngx-popper',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-popper'
+    }],
+    source: {
+      domain: 'github',
+      url: 'MrFrankel/ngx-popper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mrfrankel.github.io/ngx-popper/'
+    },
+    framework: 'Angular 2+',
+    version: '1.4.2',
+    license: 'MIT',
+    details: 'https://github.com/MrFrankel/ngx-popper',
+    keywords: ['tooltip', 'tooltips', 'popper', 'ngx-popper', 'ngx-tooltip']
+  },
 ];
