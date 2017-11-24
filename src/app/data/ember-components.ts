@@ -5767,6 +5767,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'ASF2',
 		details:'https://github.com/indexiatech/ember-idx-charts',
 		keywords:['charts','ember-addon','idx-charts']
+	},{
+		id:273,
+		name:'ember-bootstrap-alert',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/alert'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/alert',
+		keywords:['ember-addon','bootstrap','alert']
 	}
 	
 ];
