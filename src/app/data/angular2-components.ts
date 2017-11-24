@@ -6051,4 +6051,1180 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://vmware.github.io/clarity/documentation/wizards',
     keywords: ['clarity', 'ux', 'ui', 'wizards']
   },
+  {
+    id: 287,
+    name: 'ngx-quill-editor',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-quill-editor'
+    }],
+    source: {
+      domain: 'github',
+      url: 'surmon-china/ngx-quill-editor'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://surmon-china.github.io/ngx-quill-editor/'
+    },
+    framework: 'Angular 2+',
+    version: '2.2.2',
+    license: 'MIT',
+    details: 'https://github.com/surmon-china/ngx-quill-editor',
+    keywords: ['quil', 'ng2-quill-editor', 'ng2', 'angular2-component', 'quill', 'quill-editor', 'quilljs', 'web-editor', 'text-editor']
+  },
+  {
+    id: 288,
+    name: 'ngx-ui input',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#inputs'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#inputs',
+    keywords: ['ngx-ui', 'input', 'ngx-input']
+  },
+  {
+    id: 289,
+    name: 'ngx-ui button',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#buttons'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#buttons',
+    keywords: ['ngx-ui', 'button', 'ngx-button', 'ngx-file-button']
+  },
+  {
+    id: 290,
+    name: 'ngx-ui select',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#selects'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#selects',
+    keywords: ['ngx-ui', 'select']
+  },
+  {
+    id: 291,
+    name: 'ngx-ui datetime',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#datetime'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#datetime',
+    keywords: ['ngx-ui', 'datetime', 'input']
+  },
+  {
+    id: 292,
+    name: 'ngx-ui slider',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#slider'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#slider',
+    keywords: ['ngx-ui', 'slider']
+  },
+  {
+    id: 293,
+    name: 'ngx-ui toggle',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#toggle'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#toggle',
+    keywords: ['ngx-ui', 'toggle']
+  },
+  {
+    id: 294,
+    name: 'ngx-ui checkbox',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#checkbox'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#checkbox',
+    keywords: ['ngx-ui', 'checkbox']
+  },
+  {
+    id: 295,
+    name: 'ngx-ui calendar',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#calendar'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#calendar',
+    keywords: ['ngx-ui', 'calendar']
+  },
+  {
+    id: 296,
+    name: 'ngx-ui codeEditor',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#codeEditor'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#codeEditor',
+    keywords: ['ngx-ui', 'codeEditor']
+  },
+  {
+    id: 297,
+    name: 'ngx-ui scrollbars',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#scrollbars'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#scrollbars',
+    keywords: ['ngx-ui', 'scrollbars']
+  },
+  {
+    id: 298,
+    name: 'ngx-ui nag',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#nag'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#nag',
+    keywords: ['ngx-ui', 'nag']
+  },
+  {
+    id: 299,
+    name: 'ngx-ui dialog',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#dialog'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#dialog',
+    keywords: ['ngx-ui', 'dialog']
+  },
+  {
+    id: 300,
+    name: 'ngx-ui alert',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#alert'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#alert',
+    keywords: ['ngx-ui', 'alert']
+  },
+  {
+    id: 301,
+    name: 'ngx-ui tooltip',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#tooltip'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#tooltip',
+    keywords: ['ngx-ui', 'tooltip']
+  },
+  {
+    id: 302,
+    name: 'ngx-ui notification',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#notification'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#notification',
+    keywords: ['ngx-ui', 'notification']
+  },
+  {
+    id: 303,
+    name: 'ngx-ui sections',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#sections'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#sections',
+    keywords: ['ngx-ui', 'sections']
+  },
+  {
+    id: 304,
+    name: 'ngx-ui toolbar',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#toolbar'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#toolbar',
+    keywords: ['ngx-ui', 'toolbar']
+  },
+  {
+    id: 305,
+    name: 'ngx-ui tabs',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#tabs'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#tabs',
+    keywords: ['ngx-ui', 'tabs']
+  },
+  {
+    id: 306,
+    name: 'ngx-ui dropdown',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#dropdown'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#dropdown',
+    keywords: ['ngx-ui', 'dropdown']
+  },
+  {
+    id: 307,
+    name: 'ngx-ui datatable',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#datatable'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#datatable',
+    keywords: ['ngx-ui', 'datatable']
+  },
+  {
+    id: 308,
+    name: 'ngx-ui loading',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#loading'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#loading',
+    keywords: ['ngx-ui', 'loading']
+  },
+  {
+    id: 309,
+    name: 'ngx-ui progress-spinner',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#progress-spinner'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#progress-spinner',
+    keywords: ['ngx-ui', 'progress-spinner']
+  },
+  {
+    id: 310,
+    name: 'ngx-ui tree',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#tree'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#tree',
+    keywords: ['ngx-ui', 'tree']
+  },
+  {
+    id: 311,
+    name: 'ngx-ui ngx-iconngx-icon',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#ngx-icon'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#ngx-icon',
+    keywords: ['ngx-ui', 'ngx-icon', 'icon']
+  },
+  {
+    id: 312,
+    name: 'ngx-ui overlay',
+    install: [{
+      packager: 'npm',
+      url: '@swimlane/ngx-ui'
+    }],
+    source: {
+      domain: 'github',
+      url: 'swimlane/ngx-ui'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://swimlane.github.io/ngx-ui/#overlay'
+    },
+    framework: 'Angular 2+',
+    version: '19.0.1',
+    license: 'MIT',
+    details: 'https://swimlane.github.io/ngx-ui/#overlay',
+    keywords: ['ngx-ui', 'overlay']
+  },
+  {
+    id: 313,
+    name: 'ng-lottie',
+    install: [{
+      packager: 'npm',
+      url: 'ng-lottie'
+    }],
+    source: {
+      domain: 'github',
+      url: 'chenqingspring/ng-lottie'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chenqingspring.github.io/ng-lottie/demo/'
+    },
+    framework: 'Angular 2+',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://chenqingspring.github.io/ng-lottie/docs/',
+    keywords: ['lottie', 'after-effects', 'lottie-animation', 'ionic3', 'ionic', 'bodymovin']
+  },
+  {
+    id: 314,
+    name: 'angular2-promise-buttons',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-promise-buttons'
+    }],
+    source: {
+      domain: 'github',
+      url: 'johannesjo/angular2-promise-buttons'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://johannesjo.github.io/angular2-promise-buttons/#demo'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://johannesjo.github.io/angular2-promise-buttons/',
+    keywords: ['promise', 'button']
+  },
+  {
+    id: 315,
+    name: 'ng2-archwizard',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-archwizard'
+    }],
+    source: {
+      domain: 'github',
+      url: 'madoar/ng2-archwizard'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://madoar.github.io/ng2-archwizard-demo/#/basic'
+    },
+    framework: 'Angular 2+',
+    version: '2.1.0',
+    license: 'MIT',
+    details: 'https://github.com/madoar/ng2-archwizard',
+    keywords: ['wizard', 'form-wizard', 'angular4-wizard']
+  },
+  {
+    id: 316,
+    name: 'ngx-popper',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-popper'
+    }],
+    source: {
+      domain: 'github',
+      url: 'MrFrankel/ngx-popper'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://mrfrankel.github.io/ngx-popper/'
+    },
+    framework: 'Angular 2+',
+    version: '1.4.2',
+    license: 'MIT',
+    details: 'https://github.com/MrFrankel/ngx-popper',
+    keywords: ['tooltip', 'tooltips', 'popper', 'ngx-popper', 'ngx-tooltip']
+  },
+  {
+    id: 317,
+    name: 'ngx-avatar',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-avatar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'HaithemMosbahi/ngx-avatar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://stackblitz.com/edit/ngx-avatar-demo?embed=1&file=main.ts&view=preview'
+    },
+    framework: 'Angular 2+',
+    version: '2.8.0',
+    license: 'MIT',
+    details: 'https://github.com/HaithemMosbahi/ngx-avatar',
+    keywords: ['avatar', 'facebook', 'avatar-component', 'twitter', 'initials-avatar', 'vkontakte']
+  },
+  {
+    id: 318,
+    name: 'ngx-qrcode',
+    install: [{
+      packager: 'npm',
+      url: '@techiediaries/ngx-qrcode'
+    }],
+    source: {
+      domain: 'github',
+      url: 'techiediaries/ngx-qrcode'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.techiediaries.com/demos/ngx-qrcode/'
+    },
+    framework: 'Angular 2+',
+    version: '0.0.5',
+    license: 'MIT',
+    details: 'https://github.com/techiediaries/ngx-qrcode',
+    keywords: ['qrcode', 'qrcode-generator']
+  },
+  {
+    id: 319,
+    name: 'ng-data-picker',
+    install: [{
+      packager: 'npm',
+      url: 'ng-data-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'hiyali/ng-data-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hiyali.github.io/ng-data-picker/docs/#/date-time'
+    },
+    framework: 'Angular 2+',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/hiyali/ng-data-picker',
+    keywords: ['data', 'picker', 'ios', 'touch']
+  },
+  {
+    id: 320,
+    name: 'ngx-siema',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-siema'
+    }],
+    source: {
+      domain: 'github',
+      url: 'lexzhukov/ngx-siema'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://pawelgrzybek.com/siema/#example'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://github.com/lexzhukov/ngx-siema',
+    keywords: ['carousel', 'siema']
+  },
+  {
+    id: 321,
+    name: 'ng-bootstrap accordion',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/accordion/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/accordion/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'accordion']
+  },
+  {
+    id: 322,
+    name: 'ng-bootstrap alert',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/alert/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/alert/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'alert']
+  },
+  {
+    id: 323,
+    name: 'ng-bootstrap buttons',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/buttons/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/buttons/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'buttons']
+  },
+  {
+    id: 324,
+    name: 'ng-bootstrap carousel',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/carousel/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/carousel/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'carousel']
+  },
+  {
+    id: 325,
+    name: 'ng-bootstrap collapse',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/collapse/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/collapse/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'collapse']
+  },
+  {
+    id: 326,
+    name: 'ng-bootstrap datepicker',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/datepicker/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/datepicker/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'datepicker']
+  },
+  {
+    id: 327,
+    name: 'ng-bootstrap dropdown',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/dropdown/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/dropdown/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'dropdown']
+  },
+  {
+    id: 328,
+    name: 'ng-bootstrap modal',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/modal/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/modal/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'modal']
+  },
+  {
+    id: 329,
+    name: 'ng-bootstrap pagination',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/pagination/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/pagination/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'pagination']
+  },
+  {
+    id: 330,
+    name: 'ng-bootstrap popover',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/popover/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/popover/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'popover']
+  },
+  {
+    id: 331,
+    name: 'ng-bootstrap progressbar',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/progressbar/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/progressbar/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'progressbar']
+  },
+  {
+    id: 332,
+    name: 'ng-bootstrap rating',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/rating/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/rating/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'rating']
+  },
+  {
+    id: 333,
+    name: 'ng-bootstrap tabs',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/tabs/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/tabs/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'tabs']
+  },
+  {
+    id: 334,
+    name: 'ng-bootstrap timepicker',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/timepicker/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/timepicker/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'timepicker']
+  },
+  {
+    id: 335,
+    name: 'ng-bootstrap tooltip',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/tooltip/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/tooltip/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'tooltip']
+  },
+  {
+    id: 336,
+    name: 'ng-bootstrap typeahead',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/typeahead/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/typeahead/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'typeahead']
+  },
+  {
+    id: 337,
+    name: 'ng-snotify',
+    install: [{
+      packager: 'npm',
+      url: 'ng-snotify'
+    }],
+    source: {
+      domain: 'github',
+      url: 'artemsky/ng-snotify'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://artemsky.github.io/ng-snotify/'
+    },
+    framework: 'Angular 2+',
+    version: '4.1.0',
+    license: 'MIT',
+    details: 'https://github.com/artemsky/ng-snotify/',
+    keywords: ['toast', 'ng-snotify', 'notifications']
+  },
+  {
+    id: 338,
+    name: 'ngx-permissions',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-permissions'
+    }],
+    source: {
+      domain: 'github',
+      url: 'AlexKhymenko/ngx-permissions'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'n6Wa6hXg0JzI6e050wBt'
+    },
+    framework: 'Angular 2+',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/AlexKhymenko/ngx-permissions',
+    keywords: ['ng-permission', 'permissions', 'roles', 'angular-permissions', 'acl', 'rbac', 'access', 'access-control']
+  },
+  {
+    id: 339,
+    name: 'ng-katex',
+    install: [{
+      packager: 'npm',
+      url: 'ng-katex'
+    }],
+    source: {
+      domain: 'github',
+      url: 'garciparedes/ng-katex'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://garciparedes.me/ng-katex/'
+    },
+    framework: 'Angular 2+',
+    version: '0.3.37',
+    license: 'MIT',
+    details: 'https://github.com/garciparedes/ng-katex',
+    keywords: ['katex', 'latex', 'math', 'khan-academy']
+  },
+  {
+    id: 340,
+    name: 'ngx-filter-pipe',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-filter-pipe'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ngx-filter-pipe'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ngx-filter-pipe/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ngx-filter-pipe',
+    keywords: ['filter-array', 'pipe', 'array-filter']
+  },
+  {
+    id: 341,
+    name: 'ngx-order-pipe',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-order-pipe'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ngx-order-pipe'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ngx-order-pipe/'
+    },
+    framework: 'Angular 2+',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ngx-order-pipe',
+    keywords: ['order', 'pipe']
+  },
+  {
+    id: 342,
+    name: 'ngx-easy-table',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-easy-table'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ssuperczynski/ngx-easy-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ngx-easy-table.stackblitz.io/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/ssuperczynski/ngx-easy-table',
+    keywords: ['easy', 'table']
+  },
 ];
