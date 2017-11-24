@@ -6702,4 +6702,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/HaithemMosbahi/ngx-avatar',
     keywords: ['avatar', 'facebook', 'avatar-component', 'twitter', 'initials-avatar', 'vkontakte']
   },
+  {
+    id: 318,
+    name: 'ngx-qrcode',
+    install: [{
+      packager: 'npm',
+      url: '@techiediaries/ngx-qrcode'
+    }],
+    source: {
+      domain: 'github',
+      url: 'techiediaries/ngx-qrcode'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://www.techiediaries.com/demos/ngx-qrcode/'
+    },
+    framework: 'Angular 2+',
+    version: '0.0.5',
+    license: 'MIT',
+    details: 'https://github.com/techiediaries/ngx-qrcode',
+    keywords: ['qrcode', 'qrcode-generator']
+  },
 ];
