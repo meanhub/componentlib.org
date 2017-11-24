@@ -7164,4 +7164,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/garciparedes/ng-katex',
     keywords: ['katex', 'latex', 'math', 'khan-academy']
   },
+  {
+    id: 340,
+    name: 'ngx-filter-pipe',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-filter-pipe'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ngx-filter-pipe'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ngx-filter-pipe/'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ngx-filter-pipe',
+    keywords: ['filter-array', 'pipe', 'array-filter']
+  },
 ];
