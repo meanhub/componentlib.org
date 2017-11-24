@@ -6103,6 +6103,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'Apache-2.0',
 		details:'http://piceatech.github.io/ember-rapid-forms/#/controls/text',
 		keywords:['ember-addon','rapid-forms','textarea']
+	},{
+		id:289,
+		name:'ember-rapid-forms-checkbox',
+		install:{
+			packager:'ember',
+			url:'ember-rapid-forms'
+		},
+		source:{
+			domain:'github',
+			url:'piceaTech/ember-rapid-forms',
+			stars: 54
+		},
+		demo:{
+			repl:'custom',
+			src:'http://piceatech.github.io/ember-rapid-forms/#/controls/checkbox'
+		},
+		framework:'Ember',
+		version:'1.2.3',
+		license:'Apache-2.0',
+		details:'http://piceatech.github.io/ember-rapid-forms/#/controls/checkbox',
+		keywords:['ember-addon','rapid-forms','checkbox']
 	}
 	
 ];
