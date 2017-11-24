@@ -6723,4 +6723,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/techiediaries/ngx-qrcode',
     keywords: ['qrcode', 'qrcode-generator']
   },
+  {
+    id: 319,
+    name: 'ng-data-picker',
+    install: [{
+      packager: 'npm',
+      url: 'ng-data-picker'
+    }],
+    source: {
+      domain: 'github',
+      url: 'hiyali/ng-data-picker'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://hiyali.github.io/ng-data-picker/docs/#/date-time'
+    },
+    framework: 'Angular 2+',
+    version: '0.1.4',
+    license: 'MIT',
+    details: 'https://github.com/hiyali/ng-data-picker',
+    keywords: ['data', 'picker', 'ios', 'touch']
+  },
 ];
