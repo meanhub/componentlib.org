@@ -7185,4 +7185,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/VadimDez/ngx-filter-pipe',
     keywords: ['filter-array', 'pipe', 'array-filter']
   },
+  {
+    id: 341,
+    name: 'ngx-order-pipe',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-order-pipe'
+    }],
+    source: {
+      domain: 'github',
+      url: 'VadimDez/ngx-order-pipe'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://vadimdez.github.io/ngx-order-pipe/'
+    },
+    framework: 'Angular 2+',
+    version: '1.1.0',
+    license: 'MIT',
+    details: 'https://github.com/VadimDez/ngx-order-pipe',
+    keywords: ['order', 'pipe']
+  },
 ];
