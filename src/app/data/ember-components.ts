@@ -5998,6 +5998,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/tabs',
 		keywords:['ember-addon','bootstrap','tab']
+	},{
+		id:284,
+		name:'ember-bootstrap-tooltip',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/tooltip'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/tooltip',
+		keywords:['ember-addon','bootstrap','tooltip']
 	}
 	
 ];
