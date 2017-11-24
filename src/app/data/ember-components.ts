@@ -6250,6 +6250,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://sul.im/ember-cli-bootstrap-datepicker/',
 		keywords:['ember-addon','ember-cli','ember-datepicker','bootstrap','bootstrap-datepicker','datepicker']
+	},{
+		id:296,
+		name:'ember-bootstrap-datetimepicker',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap-datetimepicker'
+		},
+		source:{
+			domain:'github',
+			url:'plusacht/ember-bootstrap-datetimepicker',
+			stars: 27
+		},
+		demo:{
+			repl:'custom',
+			src:'http://plusacht.github.io/ember-bootstrap-datetimepicker/'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'http://plusacht.github.io/ember-bootstrap-datetimepicker/',
+		keywords:['ember-addon','ember-cli','boostrap','datetimepicker','ember-datetimepicker']
 	}
 	
 ];
