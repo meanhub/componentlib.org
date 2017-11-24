@@ -6681,4 +6681,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/MrFrankel/ngx-popper',
     keywords: ['tooltip', 'tooltips', 'popper', 'ngx-popper', 'ngx-tooltip']
   },
+  {
+    id: 317,
+    name: 'ngx-avatar',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-avatar'
+    }],
+    source: {
+      domain: 'github',
+      url: 'HaithemMosbahi/ngx-avatar'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://stackblitz.com/edit/ngx-avatar-demo?embed=1&file=main.ts&view=preview'
+    },
+    framework: 'Angular 2+',
+    version: '2.8.0',
+    license: 'MIT',
+    details: 'https://github.com/HaithemMosbahi/ngx-avatar',
+    keywords: ['avatar', 'facebook', 'avatar-component', 'twitter', 'initials-avatar', 'vkontakte']
+  },
 ];
