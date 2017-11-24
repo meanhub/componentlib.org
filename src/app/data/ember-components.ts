@@ -6313,6 +6313,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://eonasdan.github.io/bootstrap-datetimepicker/',
 		keywords:['ember-addon','ember-cli','ember-datepicker','ember-timepicker','ember-datetimepicker','bootstrap','bootstrap-datepicker','bootstrap-timepicker','bootstrap-datetimepicker','datepicker','timepicker','datetimepicker']
+	},{
+		id:299,
+		name:'ember-cli-bootstrap3-popover',
+		install:{
+			packager:'ember',
+			url:'ember-cli-bootstrap3-popover'
+		},
+		source:{
+			domain:'github',
+			url:'cybertoothca/ember-cli-bootstrap3-popover',
+			stars: 1
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-bootstrap3-popover.cybertooth.io'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'http://cybertooth.io/ember-cli-bootstrap3-popover/',
+		keywords:['bootstrap','bootstrap3','popover','bootstrap-popover','cybertooth','ember-addon']
 	}
 	
 ];
