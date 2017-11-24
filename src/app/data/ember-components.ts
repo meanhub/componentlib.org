@@ -5683,6 +5683,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/ilios/ember-simple-charts',
 		keywords:['visualizations','d3','ember-addon']
+	},{
+		id:269,
+		name:'ember-cli-morris-charts',
+		install: {
+			packager:'ember',
+			url:'ember-cli-morris-charts'
+		},
+		source:{
+			domain:'github',
+			url:'matheusdavidson/ember-cli-morris-charts',
+			stars: 7
+		},
+		demo:{
+			repl:'custom',
+			src:'https://matheusdavidson.github.io/ember-cli-morris-charts/'
+		},
+		framework:'Ember',
+		version:'1.0.1',
+		license:'MIT',
+		details:'https://matheusdavidson.github.io/ember-cli-morris-charts/',
+		keywords:['charts','morris-charts','ember-addon']
 	}
 	
 ];
