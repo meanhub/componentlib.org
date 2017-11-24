@@ -5746,6 +5746,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/chauhansudhir/ember-cli-nvd3-multichart',
 		keywords:['charts','multichart','ember-addon','chart','diagram']
+	},{
+		id:272,
+		name:'ember-idx-charts',
+		install: {
+			packager:'ember',
+			url:'ember-idx-charts'
+		},
+		source:{
+			domain:'github',
+			url:'indexiatech/ember-idx-charts',
+			stars: 6
+		},
+		demo:{
+			repl:'custom',
+			src:'http://indexiatech.github.io/ember-idx-charts/#/charts'
+		},
+		framework:'Ember',
+		version:'0.1.1',
+		license:'ASF2',
+		details:'https://github.com/indexiatech/ember-idx-charts',
+		keywords:['charts','ember-addon','idx-charts']
 	}
 	
 ];
