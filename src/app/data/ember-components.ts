@@ -6019,6 +6019,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/tooltip',
 		keywords:['ember-addon','bootstrap','tooltip']
+	},{
+		id:285,
+		name:'pagination-pager',
+		install:{
+			packager:'ember',
+			url:'pagination-pager'
+		},
+		source:{
+			domain:'github',
+			url:'knownasilya/pagination-pager',
+			stars: 54
+		},
+		demo:{
+			repl:'custom',
+			src:'http://knownasilya.github.io/pagination-pager/'
+		},
+		framework:'Ember',
+		version:'3.1.0',
+		license:'MIT',
+		details:'http://knownasilya.github.io/pagination-pager/',
+		keywords:['ember-addon','pagination','pager','bootstrap','bs3','component','ember','emberjs']
 	}
 	
 ];
