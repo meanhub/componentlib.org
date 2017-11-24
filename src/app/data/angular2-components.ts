@@ -7206,4 +7206,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/VadimDez/ngx-order-pipe',
     keywords: ['order', 'pipe']
   },
+  {
+    id: 342,
+    name: 'ngx-easy-table',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-easy-table'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ssuperczynski/ngx-easy-table'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ngx-easy-table.stackblitz.io/'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.0',
+    license: 'MIT',
+    details: 'https://github.com/ssuperczynski/ngx-easy-table',
+    keywords: ['easy', 'table']
+  },
 ];
