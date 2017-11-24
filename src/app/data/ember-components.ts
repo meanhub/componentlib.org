@@ -6229,6 +6229,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'Apache-2.0',
 		details:'http://piceatech.github.io/ember-rapid-forms/#/controls/custom-styles',
 		keywords:['ember-addon','rapid-forms','custom-styles']
+	},{
+		id:295,
+		name:'ember-cli-bootstrap-datepicker',
+		install:{
+			packager:'ember',
+			url:'ember-cli-bootstrap-datepicker'
+		},
+		source:{
+			domain:'github',
+			url:'soulim/ember-cli-bootstrap-datepicker',
+			stars: 71
+		},
+		demo:{
+			repl:'custom',
+			src:'http://sul.im/ember-cli-bootstrap-datepicker/'
+		},
+		framework:'Ember',
+		version:'0.5.6',
+		license:'MIT',
+		details:'http://sul.im/ember-cli-bootstrap-datepicker/',
+		keywords:['ember-addon','ember-cli','ember-datepicker','bootstrap','bootstrap-datepicker','datepicker']
 	}
 	
 ];
