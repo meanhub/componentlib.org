@@ -7122,4 +7122,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://github.com/artemsky/ng-snotify/',
     keywords: ['toast', 'ng-snotify', 'notifications']
   },
+  {
+    id: 338,
+    name: 'ngx-permissions',
+    install: [{
+      packager: 'npm',
+      url: 'ngx-permissions'
+    }],
+    source: {
+      domain: 'github',
+      url: 'AlexKhymenko/ngx-permissions'
+    },
+    demo: {
+      repl: 'plunker',
+      id: 'n6Wa6hXg0JzI6e050wBt'
+    },
+    framework: 'Angular 2+',
+    version: '3.0.0',
+    license: 'MIT',
+    details: 'https://github.com/AlexKhymenko/ngx-permissions',
+    keywords: ['ng-permission', 'permissions', 'roles', 'angular-permissions', 'acl', 'rbac', 'access', 'access-control']
+  },
 ];
