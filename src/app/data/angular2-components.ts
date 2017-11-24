@@ -7101,4 +7101,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng-bootstrap.github.io/#/components/typeahead/examples',
     keywords: ['ng-bootstrap', 'bootstrap', 'typeahead']
   },
+  {
+    id: 337,
+    name: 'ng-snotify',
+    install: [{
+      packager: 'npm',
+      url: 'ng-snotify'
+    }],
+    source: {
+      domain: 'github',
+      url: 'artemsky/ng-snotify'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://artemsky.github.io/ng-snotify/'
+    },
+    framework: 'Angular 2+',
+    version: '4.1.0',
+    license: 'MIT',
+    details: 'https://github.com/artemsky/ng-snotify/',
+    keywords: ['toast', 'ng-snotify', 'notifications']
+  },
 ];
