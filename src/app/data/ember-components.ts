@@ -5872,6 +5872,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/dropdown',
 		keywords:['ember-addon','bootstrap','dropdown']
+	},{
+		id:278,
+		name:'ember-bootstrap-modal',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/modal'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/modal',
+		keywords:['ember-addon','bootstrap','modal']
 	}
 	
 ];
