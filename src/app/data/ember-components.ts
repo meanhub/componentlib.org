@@ -5893,6 +5893,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/modal',
 		keywords:['ember-addon','bootstrap','modal']
+	},{
+		id:279,
+		name:'ember-bootstrap-navbars',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/navbars'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/navbars',
+		keywords:['ember-addon','bootstrap','navbars']
 	}
 	
 ];
