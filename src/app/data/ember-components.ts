@@ -6334,6 +6334,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://cybertooth.io/ember-cli-bootstrap3-popover/',
 		keywords:['bootstrap','bootstrap3','popover','bootstrap-popover','cybertooth','ember-addon']
+	},{
+		id:300,
+		name:'ember-cli-bootstrap3-tooltip',
+		install:{
+			packager:'ember',
+			url:'ember-cli-bootstrap3-tooltip'
+		},
+		source:{
+			domain:'github',
+			url:'cybertoothca/ember-cli-bootstrap3-tooltip',
+			stars: 0
+		},
+		demo:{
+			repl:'custom',
+			src:'http://ember-cli-bootstrap3-tooltip.cybertooth.io'
+		},
+		framework:'Ember',
+		version:'1.1.0',
+		license:'MIT',
+		details:'http://cybertooth.io/ember-cli-bootstrap3-tooltip/',
+		keywords:['bootstrap','bootstrap3','abbr','cite','span','tooltip','bootstrap tooltip','bootstrap-tooltip','cybertooth','ember-addon']
 	}
 	
 ];
