@@ -6639,4 +6639,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://johannesjo.github.io/angular2-promise-buttons/',
     keywords: ['promise', 'button']
   },
+  {
+    id: 315,
+    name: 'ng2-archwizard',
+    install: [{
+      packager: 'npm',
+      url: 'ng2-archwizard'
+    }],
+    source: {
+      domain: 'github',
+      url: 'madoar/ng2-archwizard'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://madoar.github.io/ng2-archwizard-demo/#/basic'
+    },
+    framework: 'Angular 2+',
+    version: '2.1.0',
+    license: 'MIT',
+    details: 'https://github.com/madoar/ng2-archwizard',
+    keywords: ['wizard', 'form-wizard', 'angular4-wizard']
+  },
 ];
