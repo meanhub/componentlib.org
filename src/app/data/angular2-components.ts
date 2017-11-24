@@ -6975,4 +6975,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng-bootstrap.github.io/#/components/popover/examples',
     keywords: ['ng-bootstrap', 'bootstrap', 'popover']
   },
+  {
+    id: 331,
+    name: 'ng-bootstrap progressbar',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/progressbar/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/progressbar/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'progressbar']
+  },
 ];
