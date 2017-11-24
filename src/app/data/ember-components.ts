@@ -42,7 +42,7 @@ export const EMBER_COMPONENTS: any[] = [
 		keywords:['ember-addon']
 	},{
 		id:2,
-		name:'ember-bootstrap',
+		name:'ember-bootstrap-accordion',
 		install:{
 			packager:'ember',
 			url:'ember-bootstrap'
@@ -50,17 +50,17 @@ export const EMBER_COMPONENTS: any[] = [
 		source:{
 			domain:'github',
 			url:'kaliber5/ember-bootstrap',
-			stars: 309
+			stars: 323
 		},
 		demo:{
 			repl:'custom',
-			src:'http://www.ember-bootstrap.com/#/components'
+			src:'http://www.ember-bootstrap.com/#/components/accordion'
 		},
 		framework:'Ember',
-		version:'1.0.0-rc.3',
+		version:'1.0.0-rc.4',
 		license:'MIT',
-		details:'http://www.ember-bootstrap.com/#/',
-		keywords:['ember-addon','bootstrap']
+		details:'http://www.ember-bootstrap.com/#/components/accordion',
+		keywords:['ember-addon','bootstrap','accordion']
 	},{
 		id:3,
 		name:'ui-icon',
@@ -6306,12 +6306,12 @@ export const EMBER_COMPONENTS: any[] = [
 		},
 		demo:{
 			repl:'custom',
-			src:'http://eonasdan.github.io/bootstrap-datetimepicker/'
+			src:'http://eonasdan.github.io/bootstrap-datetimepicker'
 		},
 		framework:'Ember',
 		version:'0.6.0',
 		license:'MIT',
-		details:'http://eonasdan.github.io/bootstrap-datetimepicker/',
+		details:'http://eonasdan.github.io/bootstrap-datetimepicker',
 		keywords:['ember-addon','ember-cli','ember-datepicker','ember-timepicker','ember-datetimepicker','bootstrap','bootstrap-datepicker','bootstrap-timepicker','bootstrap-datetimepicker','datepicker','timepicker','datetimepicker']
 	},{
 		id:299,
