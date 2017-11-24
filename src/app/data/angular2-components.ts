@@ -6597,4 +6597,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://swimlane.github.io/ngx-ui/#overlay',
     keywords: ['ngx-ui', 'overlay']
   },
+  {
+    id: 313,
+    name: 'ng-lottie',
+    install: [{
+      packager: 'npm',
+      url: 'ng-lottie'
+    }],
+    source: {
+      domain: 'github',
+      url: 'chenqingspring/ng-lottie'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://chenqingspring.github.io/ng-lottie/demo/'
+    },
+    framework: 'Angular 2+',
+    version: '0.2.2',
+    license: 'MIT',
+    details: 'https://chenqingspring.github.io/ng-lottie/docs/',
+    keywords: ['lottie', 'after-effects', 'lottie-animation', 'ionic3', 'ionic', 'bodymovin']
+  },
 ];
