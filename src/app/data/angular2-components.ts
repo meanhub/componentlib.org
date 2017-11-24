@@ -6618,4 +6618,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://chenqingspring.github.io/ng-lottie/docs/',
     keywords: ['lottie', 'after-effects', 'lottie-animation', 'ionic3', 'ionic', 'bodymovin']
   },
+  {
+    id: 314,
+    name: 'angular2-promise-buttons',
+    install: [{
+      packager: 'npm',
+      url: 'angular2-promise-buttons'
+    }],
+    source: {
+      domain: 'github',
+      url: 'johannesjo/angular2-promise-buttons'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://johannesjo.github.io/angular2-promise-buttons/#demo'
+    },
+    framework: 'Angular 2+',
+    version: '2.0.1',
+    license: 'MIT',
+    details: 'https://johannesjo.github.io/angular2-promise-buttons/',
+    keywords: ['promise', 'button']
+  },
 ];
