@@ -5662,6 +5662,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://suven.github.io/ember-cli-visjs/',
 		keywords:['graph','nodes','edges','visjs','ember-addon']
+	},{
+		id:268,
+		name:'ember-simple-charts',
+		install: {
+			packager:'ember',
+			url:'ember-simple-charts'
+		},
+		source:{
+			domain:'github',
+			url:'ilios/ember-simple-charts',
+			stars: 2
+		},
+		demo:{
+			repl:'custom',
+			src:'https://ember-simple-charts.netlify.com'
+		},
+		framework:'Ember',
+		version:'0.5.0',
+		license:'MIT',
+		details:'https://github.com/ilios/ember-simple-charts',
+		keywords:['visualizations','d3','ember-addon']
 	}
 	
 ];
