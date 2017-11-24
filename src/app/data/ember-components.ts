@@ -5935,6 +5935,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://www.ember-bootstrap.com/#/components/navs',
 		keywords:['ember-addon','bootstrap','nav']
+	},{
+		id:281,
+		name:'ember-bootstrap-popover',
+		install:{
+			packager:'ember',
+			url:'ember-bootstrap'
+		},
+		source:{
+			domain:'github',
+			url:'kaliber5/ember-bootstrap',
+			stars: 323
+		},
+		demo:{
+			repl:'custom',
+			src:'http://www.ember-bootstrap.com/#/components/popover'
+		},
+		framework:'Ember',
+		version:'1.0.0-rc.4',
+		license:'MIT',
+		details:'http://www.ember-bootstrap.com/#/components/popover',
+		keywords:['ember-addon','bootstrap','popover']
 	}
 	
 ];
