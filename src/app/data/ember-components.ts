@@ -6292,6 +6292,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://github.com/shipshapecode/ember-x-editable/blob/master/README.md',
 		keywords:['ember-addon','x-editable','editable','input']
+	},{
+		id:298,
+		name:'ember-cli-bootstrap-datetimepicker',
+		install:{
+			packager:'ember',
+			url:'ember-cli-bootstrap-datetimepicker'
+		},
+		source:{
+			domain:'github',
+			url:'btecu/ember-cli-bootstrap-datetimepicker',
+			stars: 10
+		},
+		demo:{
+			repl:'custom',
+			src:'http://eonasdan.github.io/bootstrap-datetimepicker/'
+		},
+		framework:'Ember',
+		version:'0.6.0',
+		license:'MIT',
+		details:'http://eonasdan.github.io/bootstrap-datetimepicker/',
+		keywords:['ember-addon','ember-cli','ember-datepicker','ember-timepicker','ember-datetimepicker','bootstrap','bootstrap-datepicker','bootstrap-timepicker','bootstrap-datetimepicker','datepicker','timepicker','datetimepicker']
 	}
 	
 ];
