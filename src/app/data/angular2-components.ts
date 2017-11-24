@@ -6849,4 +6849,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng-bootstrap.github.io/#/components/carousel/examples',
     keywords: ['ng-bootstrap', 'bootstrap', 'carousel']
   },
+  {
+    id: 325,
+    name: 'ng-bootstrap collapse',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/collapse/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/collapse/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'collapse']
+  },
 ];
