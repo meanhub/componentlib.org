@@ -6040,6 +6040,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'http://knownasilya.github.io/pagination-pager/',
 		keywords:['ember-addon','pagination','pager','bootstrap','bs3','component','ember','emberjs']
+	},{
+		id:286,
+		name:'ember-rapid-forms',
+		install:{
+			packager:'ember',
+			url:'ember-rapid-forms'
+		},
+		source:{
+			domain:'github',
+			url:'piceaTech/ember-rapid-forms',
+			stars: 54
+		},
+		demo:{
+			repl:'custom',
+			src:'http://piceatech.github.io/ember-rapid-forms/#/form'
+		},
+		framework:'Ember',
+		version:'1.2.3',
+		license:'Apache-2.0',
+		details:'http://piceatech.github.io/ember-rapid-forms/#/form',
+		keywords:['ember-addon','rapid-forms']
 	}
 	
 ];
