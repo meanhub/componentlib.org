@@ -6891,4 +6891,25 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: 'https://ng-bootstrap.github.io/#/components/datepicker/examples',
     keywords: ['ng-bootstrap', 'bootstrap', 'datepicker']
   },
+  {
+    id: 327,
+    name: 'ng-bootstrap dropdown',
+    install: [{
+      packager: 'npm',
+      url: '@ng-bootstrap/ng-bootstrap'
+    }],
+    source: {
+      domain: 'github',
+      url: 'ng-bootstrap/ng-bootstrap'
+    },
+    demo: {
+      repl: 'custom',
+      src: 'https://ng-bootstrap.github.io/#/components/dropdown/examples'
+    },
+    framework: 'Angular 2+',
+    version: '1.0.0-beta.5',
+    license: 'MIT',
+    details: 'https://ng-bootstrap.github.io/#/components/dropdown/examples',
+    keywords: ['ng-bootstrap', 'bootstrap', 'dropdown']
+  },
 ];
