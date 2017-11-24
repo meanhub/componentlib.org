@@ -5704,6 +5704,27 @@ export const EMBER_COMPONENTS: any[] = [
 		license:'MIT',
 		details:'https://matheusdavidson.github.io/ember-cli-morris-charts/',
 		keywords:['charts','morris-charts','ember-addon']
+	},{
+		id:270,
+		name:'ember-mermaid',
+		install: {
+			packager:'ember',
+			url:'ember-mermaid'
+		},
+		source:{
+			domain:'github',
+			url:'crodriguez1a/ember-mermaid',
+			stars: 3
+		},
+		demo:{
+			repl:'custom',
+			src:'http://demos.evolutionaryapps.com/EmberMermaid/'
+		},
+		framework:'Ember',
+		version:'0.0.2',
+		license:'MIT',
+		details:'http://demos.evolutionaryapps.com/EmberMermaid/',
+		keywords:['charts','simple graph','ember-addon','mermaid-chart','sequence diagram']
 	}
 	
 ];
