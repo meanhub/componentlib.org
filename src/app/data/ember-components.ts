@@ -18,7 +18,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.4",
     license: "MIT",
     details: "https://github.com/yapplabs/ember-modal-dialog",
-    keywords: ["ember", "modal", "dialog", "ember modal", "ember dialog"]
+    keywords: ["ember", "modal", "dialog", "ember modal", "ember dialog"],
+    contributedBy: "harshil1712"
   },
   {
     id: 1,
@@ -40,7 +41,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.10",
     license: "MIT",
     details: "https://ui-bootstrap-4.firebaseapp.com",
-    keywords: ["ember-addon"]
+    keywords: ["ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 2,
@@ -62,7 +64,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/accordion",
-    keywords: ["ember-addon", "bootstrap", "accordion"]
+    keywords: ["ember-addon", "bootstrap", "accordion"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 3,
@@ -84,7 +87,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.11.12",
     license: "MIT",
     details: "https://ui-icon.firebaseapp.com",
-    keywords: ["ember-addon", "ui", "icon", "fontawesome"]
+    keywords: ["ember-addon", "ui", "icon", "fontawesome"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 4,
@@ -112,7 +116,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.10",
     license: "MIT",
     details: "https://ui-image.firebaseapp.com",
-    keywords: ["ember-addon", "ui-image", "image wrapper", "mask", "clip"]
+    keywords: ["ember-addon", "ui-image", "image wrapper", "mask", "clip"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 5,
@@ -140,7 +145,8 @@ export const EMBER_COMPONENTS: any[] = [
       "text-input",
       "number-input",
       "other-inputs"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 6,
@@ -162,7 +168,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-beta.0",
     license: "MIT",
     details: "https://github.com/yapplabs/ember-tether",
-    keywords: ["ember-addon", "tether", "switch", "target-attachment"]
+    keywords: ["ember-addon", "tether", "switch", "target-attachment"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 7,
@@ -184,7 +191,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.2",
     license: "MIT",
     details: "https://github.com/yapplabs/ember-wormhole",
-    keywords: ["ember-addon", "ember-wormhole", "switch", "rendering"]
+    keywords: ["ember-addon", "ember-wormhole", "switch", "rendering"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 8,
@@ -206,7 +214,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.2.2",
     license: "MIT",
     details: "http://tim-evans.github.io/ember-page-title/",
-    keywords: ["ember-addon", "page-title", "title", "separator"]
+    keywords: ["ember-addon", "page-title", "title", "separator"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 9,
@@ -237,7 +246,8 @@ export const EMBER_COMPONENTS: any[] = [
       "dynamic",
       "json",
       "schema"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 10,
@@ -266,7 +276,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember",
       "addon",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 11,
@@ -288,7 +299,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.6.2",
     license: "MIT",
     details: "https://github.com/shipshapecode/ember-3d-nav",
-    keywords: ["ember-addon", "navbar", "nav", "3d nav", "navigation"]
+    keywords: ["ember-addon", "navbar", "nav", "3d nav", "navigation"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 12,
@@ -310,7 +322,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://github.com/salsify/ember-exclaim",
-    keywords: ["ember-addon", "ember-exclaim"]
+    keywords: ["ember-addon", "ember-exclaim"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 13,
@@ -332,7 +345,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.8.0",
     license: "MIT",
     details: "https://github.com/jkusa/ember-cli-clipboard",
-    keywords: ["ember-addon", "ember-cli", "clipboard"]
+    keywords: ["ember-addon", "ember-cli", "clipboard"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 14,
@@ -360,7 +374,8 @@ export const EMBER_COMPONENTS: any[] = [
       "inline edit",
       "ember.js",
       "inline editing"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 15,
@@ -382,7 +397,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.9.1",
     license: "MIT",
     details: "https://github.com/jgwhite/ember-sortable",
-    keywords: ["ember-addon", "sortable", "scrollable", "sort"]
+    keywords: ["ember-addon", "sortable", "scrollable", "sort"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 16,
@@ -404,7 +420,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.2.1",
     license: "MIT",
     details: "http://alexlafroscia.com/ember-steps/",
-    keywords: ["steps", "ember-steps", "named-steps", "step-links"]
+    keywords: ["steps", "ember-steps", "named-steps", "step-links"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 17,
@@ -426,7 +443,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "7.2.9",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-sort/",
-    keywords: ["ember-addon", "frost", "sort"]
+    keywords: ["ember-addon", "frost", "sort"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 18,
@@ -448,7 +466,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/ramybenaroya/ember-cli-lightbox",
-    keywords: ["ember-addon", "lightbox", "image"]
+    keywords: ["ember-addon", "lightbox", "image"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 19,
@@ -478,7 +497,8 @@ export const EMBER_COMPONENTS: any[] = [
       "server",
       "object-browser",
       "object"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 20,
@@ -500,7 +520,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "http://crodriguez1a.github.io/ember-themed-syntax/",
-    keywords: ["ember-addon", "syntax highlighting", "highlightjs"]
+    keywords: ["ember-addon", "syntax highlighting", "highlightjs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 21,
@@ -522,7 +543,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://shak.github.io/ember-cli-gisty/#/examples/simple",
-    keywords: ["ember-addon", "gisty", "github", "gist", "ember-cli"]
+    keywords: ["ember-addon", "gisty", "github", "gist", "ember-cli"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 22,
@@ -552,7 +574,8 @@ export const EMBER_COMPONENTS: any[] = [
       "visa",
       "discover",
       "american express"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 23,
@@ -574,7 +597,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "https://github.com/IvyApp/ivy-codemirror",
-    keywords: ["ember-addon", "codemirror"]
+    keywords: ["ember-addon", "codemirror"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 24,
@@ -602,7 +626,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/utatti/perfect-scrollbar",
-    keywords: ["frontend", "scroll", "scrollbar"]
+    keywords: ["frontend", "scroll", "scrollbar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 25,
@@ -624,7 +649,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.9",
     license: "MIT",
     details: "https://alphasights.github.io/ember-scrollable/#/",
-    keywords: ["ember-addon", "scroll", "scrollbar"]
+    keywords: ["ember-addon", "scroll", "scrollbar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 26,
@@ -647,7 +673,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.2",
     license: "BSD-2-Clause",
     details: "https://github.com/jwlawrence/ember-tri-state",
-    keywords: ["ember-addon", "ember-tri-state", "tri-state"]
+    keywords: ["ember-addon", "ember-tri-state", "tri-state"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 27,
@@ -669,7 +696,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.3",
     license: "MIT",
     details: "https://github.com/asross/dynamic-link",
-    keywords: ["ember-addon", "dynamic", "link", "link-to"]
+    keywords: ["ember-addon", "dynamic", "link", "link-to"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 28,
@@ -691,7 +719,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "http://anilmaurya.github.io/ember-inplace-edit/",
-    keywords: ["ember-addon", "inplace", "editing"]
+    keywords: ["ember-addon", "inplace", "editing"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 29,
@@ -713,7 +742,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/hhff/ember-chimp",
-    keywords: ["ember-addon", "chimp", "email", "mailchimp", "ajax"]
+    keywords: ["ember-addon", "chimp", "email", "mailchimp", "ajax"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 30,
@@ -741,7 +771,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.12.0",
     license: "MIT",
     details: "https://github.com/elwayman02/ember-bug-widget",
-    keywords: ["ember-addon", "bug", "widget", "report"]
+    keywords: ["ember-addon", "bug", "widget", "report"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 31,
@@ -770,7 +801,8 @@ export const EMBER_COMPONENTS: any[] = [
       "terms",
       "keywords",
       "search"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 32,
@@ -792,7 +824,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "https://github.com/rodrigo-morais/ember-json-pretty",
-    keywords: ["ember-addon", "pretty", "json"]
+    keywords: ["ember-addon", "pretty", "json"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 33,
@@ -814,7 +847,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "6.2.13",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-modal/",
-    keywords: ["ember-addon", "frost", "modal"]
+    keywords: ["ember-addon", "frost", "modal"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 34,
@@ -836,7 +870,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.9",
     license: "MIT",
     details: "https://github.com/Crabar/ember-social-share",
-    keywords: ["ember-addon", "social", "share", "ui", "buttons"]
+    keywords: ["ember-addon", "social", "share", "ui", "buttons"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 35,
@@ -858,7 +893,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.1",
     license: "MIT",
     details: "http://pixelhandler.github.io/ember-off-canvas-components/",
-    keywords: ["ember-addon", "emberjs", "components", "off-canvas"]
+    keywords: ["ember-addon", "emberjs", "components", "off-canvas"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 36,
@@ -880,7 +916,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/bekzod/ember-slack-search-input",
-    keywords: ["ember-addon", "tag", "search", "input", "slack input"]
+    keywords: ["ember-addon", "tag", "search", "input", "slack input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 37,
@@ -913,7 +950,8 @@ export const EMBER_COMPONENTS: any[] = [
       "inline",
       "search",
       "simple"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 38,
@@ -948,7 +986,8 @@ export const EMBER_COMPONENTS: any[] = [
       "link",
       "jump",
       "jump-to"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 39,
@@ -983,7 +1022,8 @@ export const EMBER_COMPONENTS: any[] = [
       "link",
       "jump",
       "jump-to"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 40,
@@ -1005,7 +1045,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.3.0",
     license: "MIT",
     details: "https://plyfe.github.io/ember-social/",
-    keywords: ["ember-addon", "social media", "facebook", "twitter", "linkedin"]
+    keywords: ["ember-addon", "social media", "facebook", "twitter", "linkedin"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 41,
@@ -1027,7 +1068,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.4",
     license: "MIT",
     details: "http://www.affinityengine.org/#/welcome",
-    keywords: ["ember-addon", "affinity-engine", "affinity-engine component"]
+    keywords: ["ember-addon", "affinity-engine", "affinity-engine component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 42,
@@ -1056,7 +1098,8 @@ export const EMBER_COMPONENTS: any[] = [
       "sortable",
       "draggable",
       "drag-and-drop"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 43,
@@ -1089,7 +1132,8 @@ export const EMBER_COMPONENTS: any[] = [
       "touch",
       "swipe",
       "zoom"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 44,
@@ -1111,7 +1155,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://rynam0.github.io/ember-swagger-ui/",
-    keywords: ["ember-addon", "swagger-ui", "swaggerui", "swagger"]
+    keywords: ["ember-addon", "swagger-ui", "swaggerui", "swagger"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 45,
@@ -1133,7 +1178,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.9.10",
     license: "MIT",
     details: "http://www.ember-power-select.com/docs",
-    keywords: ["ember-addon", "select", "select2", "selectize", "dropdown"]
+    keywords: ["ember-addon", "select", "select2", "selectize", "dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 46,
@@ -1168,7 +1214,8 @@ export const EMBER_COMPONENTS: any[] = [
       "column sets",
       "sort by filter by",
       "filtering"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 47,
@@ -1203,7 +1250,8 @@ export const EMBER_COMPONENTS: any[] = [
       "column sets",
       "sort by filter by",
       "filtering"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 48,
@@ -1225,7 +1273,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.7",
     license: "MIT",
     details: "https://rajasegar.github.io/ember-loading-button/docs/",
-    keywords: ["loading-button", "loading", "button", "ember-loading-button"]
+    keywords: ["loading-button", "loading", "button", "ember-loading-button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 49,
@@ -1247,7 +1296,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.12.0",
     license: "MIT",
     details: "http://softlayer.github.io/sl-ember-translate/docs/",
-    keywords: ["ember-addon", "dictionary", "translation", "translate"]
+    keywords: ["ember-addon", "dictionary", "translation", "translate"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 50,
@@ -1276,7 +1326,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.1",
     license: "MIT",
     details: "http://sethwebster.github.io/ember-cli-new-version/",
-    keywords: ["ember-addon", "version", "update", "alert", "new version"]
+    keywords: ["ember-addon", "version", "update", "alert", "new version"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 51,
@@ -1298,7 +1349,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/vevix/ember-text-clipper",
-    keywords: ["ember-addon", "truncate", "text", "clip", "clipper"]
+    keywords: ["ember-addon", "truncate", "text", "clip", "clipper"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 52,
@@ -1320,7 +1372,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://aethermx.github.io/ember-cli-twitter-feed/",
-    keywords: ["ember-addon", "twitter", "feed", "widget", "social media"]
+    keywords: ["ember-addon", "twitter", "feed", "widget", "social media"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 53,
@@ -1342,7 +1395,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://www.sipple.io/ember-divider-dots/",
-    keywords: ["ember-addon", "ember svg", "ember dividers", "svg dividers"]
+    keywords: ["ember-addon", "ember svg", "ember dividers", "svg dividers"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 54,
@@ -1364,7 +1418,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "https://github.com/flemse/ember-cli-offscreen-nav",
-    keywords: ["ember-addon", "offscreen", "nav", "navigation"]
+    keywords: ["ember-addon", "offscreen", "nav", "navigation"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 55,
@@ -1386,7 +1441,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.5",
     license: "MIT",
     details: "https://github.com/advertate/ember-confirm-extension",
-    keywords: ["ember-addon", "confirmation", "confirm"]
+    keywords: ["ember-addon", "confirmation", "confirm"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 56,
@@ -1408,7 +1464,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://aethermx.github.io/ember-cli-facebook-feed/",
-    keywords: ["ember-addon", "facebook", "feed", "social media"]
+    keywords: ["ember-addon", "facebook", "feed", "social media"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 57,
@@ -1430,7 +1487,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/FutoRicky/ember-speech-to-text",
-    keywords: ["ember-addon", "speech-to-text", "speech", "recognition"]
+    keywords: ["ember-addon", "speech-to-text", "speech", "recognition"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 58,
@@ -1452,7 +1510,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-alpha.4",
     license: "MIT",
     details: "https://github.com/firecracker/ember-katex",
-    keywords: ["ember-addon", "katex", "formula"]
+    keywords: ["ember-addon", "katex", "formula"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 59,
@@ -1474,7 +1533,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://github.com/tzellman/ember-slide-show",
-    keywords: ["ember-addon", "slide-show"]
+    keywords: ["ember-addon", "slide-show"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 60,
@@ -1496,7 +1556,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.7",
     license: "MIT",
     details: "https://github.com/szimek/signature_pad#options",
-    keywords: ["ember-addon", "signature"]
+    keywords: ["ember-addon", "signature"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 61,
@@ -1529,7 +1590,8 @@ export const EMBER_COMPONENTS: any[] = [
       "hour",
       "minute",
       "second"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 62,
@@ -1551,7 +1613,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/practicefusion/ember-signature-pad",
-    keywords: ["ember-addon", "signature-pad", "signature"]
+    keywords: ["ember-addon", "signature-pad", "signature"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 63,
@@ -1573,7 +1636,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "https://github.com/Glavin001/ember-jsoneditor",
-    keywords: ["json", "editor", "viewer", "json-editor", "formatter"]
+    keywords: ["json", "editor", "viewer", "json-editor", "formatter"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 64,
@@ -1595,7 +1659,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/shripathee/ember-expand-on-focus",
-    keywords: ["ui", "focus", "expand"]
+    keywords: ["ui", "focus", "expand"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 65,
@@ -1629,7 +1694,8 @@ export const EMBER_COMPONENTS: any[] = [
       "scroll",
       "ember-cli-scrolling-content",
       "scrolling"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 66,
@@ -1651,7 +1717,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "http://crodriguez1a.github.io/ember-quiz/",
-    keywords: ["ember-addon", "quiz"]
+    keywords: ["ember-addon", "quiz"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 67,
@@ -1684,7 +1751,8 @@ export const EMBER_COMPONENTS: any[] = [
       "json",
       "editor",
       "for"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 68,
@@ -1712,7 +1780,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "http://yiom.github.io/sketchpad/",
-    keywords: ["ember-addon", "sketchpad", "cli-sketchpad"]
+    keywords: ["ember-addon", "sketchpad", "cli-sketchpad"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 69,
@@ -1734,7 +1803,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/BryanHunt/ember-split-view",
-    keywords: ["ember-addon", "split-view", "split", "view"]
+    keywords: ["ember-addon", "split-view", "split", "view"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 70,
@@ -1756,7 +1826,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.30",
     license: "MIT",
     details: "https://github.com/BryanHunt/ember-d3-components",
-    keywords: ["ember-addon", "d3", "d3-components"]
+    keywords: ["ember-addon", "d3", "d3-components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 71,
@@ -1778,7 +1849,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "MIT",
     details: "https://github.com/BryanHunt/ember-d3-charts",
-    keywords: ["ember-addon", "d3", "d3-charts"]
+    keywords: ["ember-addon", "d3", "d3-charts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 72,
@@ -1807,7 +1879,8 @@ export const EMBER_COMPONENTS: any[] = [
       "tooltips",
       "hints",
       "popovers"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 73,
@@ -1829,7 +1902,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.3.3",
     license: "MIT",
     details: "https://github.com/hugoruscitti/ember-cli-jsconsole",
-    keywords: ["ember-addon", "console", "jsconsole"]
+    keywords: ["ember-addon", "console", "jsconsole"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 74,
@@ -1851,7 +1925,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.1",
     license: "MIT",
     details: "https://github.com/TeknoFiend/ember-live-exec",
-    keywords: ["ember-addon", "live-exec"]
+    keywords: ["ember-addon", "live-exec"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 75,
@@ -1873,7 +1948,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/dhruvparmar372/ember-easy-dropdown",
-    keywords: ["dropdown", "easy-dropdown", "drop-down", "ember-dropdown"]
+    keywords: ["dropdown", "easy-dropdown", "drop-down", "ember-dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 76,
@@ -1895,7 +1971,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.3.6",
     license: "MIT",
     details: "https://ui-download.firebaseapp.com",
-    keywords: ["ui-download", "ui", "download"]
+    keywords: ["ui-download", "ui", "download"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 77,
@@ -1917,7 +1994,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.8",
     license: "MIT",
     details: "https://github.com/mike-north/ember-creditcard",
-    keywords: ["creditcard", "ember-addon"]
+    keywords: ["creditcard", "ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 78,
@@ -1949,7 +2027,8 @@ export const EMBER_COMPONENTS: any[] = [
       "forms",
       "form-builder",
       "interactive-forms"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 79,
@@ -1977,7 +2056,8 @@ export const EMBER_COMPONENTS: any[] = [
       "highlightjs",
       "ember-cli-highlight-js",
       "highlight-js"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 80,
@@ -1999,7 +2079,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/san650/ember-confetti",
-    keywords: ["ember-addon", "confetti", "highlightjs", "component"]
+    keywords: ["ember-addon", "confetti", "highlightjs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 81,
@@ -2027,7 +2108,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "https://matrixz.github.io/ember-cli-timer/",
-    keywords: ["ember-addon", "timer"]
+    keywords: ["ember-addon", "timer"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 82,
@@ -2049,7 +2131,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://jpadilla.github.io/ember-clipboard/",
-    keywords: ["ember-addon", "clipboard", "copy", "cut"]
+    keywords: ["ember-addon", "clipboard", "copy", "cut"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 83,
@@ -2071,7 +2154,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "http://vanderlee.github.io/coverflow/",
-    keywords: ["ember-addon", "coverflow", "jquery", "cli"]
+    keywords: ["ember-addon", "coverflow", "jquery", "cli"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 84,
@@ -2093,7 +2177,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.33.6",
     license: "MIT",
     details: "https://www.ember-basic-dropdown.com",
-    keywords: ["ember-addon", "dropdown", "basic-dropdown"]
+    keywords: ["ember-addon", "dropdown", "basic-dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 85,
@@ -2115,7 +2200,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.5",
     license: "MIT",
     details: "https://github.com/cibernox/ember-power-select-with-create",
-    keywords: ["ember-addon", "ember-power-select-addon", "create", "select"]
+    keywords: ["ember-addon", "ember-power-select-addon", "create", "select"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 86,
@@ -2137,7 +2223,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "https://github.com/amk221/ember-select-box",
-    keywords: ["ember-addon", "select", "select-box", "dropdown"]
+    keywords: ["ember-addon", "select", "select-box", "dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 87,
@@ -2159,7 +2246,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.12",
     license: "MIT",
     details: "https://github.com/amk221/ember-select-box",
-    keywords: ["ember-addon", "ember", "selectize", "combobox"]
+    keywords: ["ember-addon", "ember", "selectize", "combobox"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 88,
@@ -2186,7 +2274,8 @@ export const EMBER_COMPONENTS: any[] = [
       "paper-selection-dialog",
       "selection-dialog",
       "dialog"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 89,
@@ -2208,7 +2297,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.2",
     license: "MIT",
     details: "https://chrishonniball.github.io/ember-chosen/",
-    keywords: ["ember-addon", "ember-chosen", "chosen", "select"]
+    keywords: ["ember-addon", "ember-chosen", "chosen", "select"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 90,
@@ -2230,7 +2320,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.6",
     license: "MIT",
     details: "https://github.com/rajasegar/ember-custom-select/",
-    keywords: ["ember-addon", "ember-custom-select", "custom-select", "select"]
+    keywords: ["ember-addon", "ember-custom-select", "custom-select", "select"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 91,
@@ -2258,7 +2349,8 @@ export const EMBER_COMPONENTS: any[] = [
       "stylish-buttons",
       "button",
       "style"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 92,
@@ -2282,7 +2374,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://sukima.github.io/ember-cli-select-picker/ember-cli-select-picker/",
-    keywords: ["ember-addon", "bootstrap", "ember", "select", "component"]
+    keywords: ["ember-addon", "bootstrap", "ember", "select", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 93,
@@ -2304,7 +2397,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.3",
     license: "MIT",
     details: "http://blessanmathew.com/ember-cli-bm-select/",
-    keywords: ["ember-addon", "bm-select", "select"]
+    keywords: ["ember-addon", "bm-select", "select"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 94,
@@ -2332,7 +2426,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.2",
     license: "MIT",
     details: "https://netguru.github.io/ember-select-guru/",
-    keywords: ["ember-addon", "select", "select2"]
+    keywords: ["ember-addon", "select", "select2"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 95,
@@ -2354,7 +2449,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.2",
     license: "MIT",
     details: "https://github.com/devotox/ember-cli-dropdown-list",
-    keywords: ["ember-addon", "select", "dropown"]
+    keywords: ["ember-addon", "select", "dropown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 96,
@@ -2376,7 +2472,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-beta.4",
     license: "MIT",
     details: "https://ui-selectize.firebaseapp.com/shorthand",
-    keywords: ["ember-addon", "ui", "form-control"]
+    keywords: ["ember-addon", "ui", "form-control"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 97,
@@ -2403,7 +2500,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-power-select-addon",
       "ember-power-select",
       "typeahead"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 98,
@@ -2432,7 +2530,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-sortable",
       "select",
       "sortable"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 99,
@@ -2454,7 +2553,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.11.0",
     license: "MIT",
     details: "https://tedconf.github.io/ember-searchable-select/",
-    keywords: ["ember-addon", "select", "menu", "search"]
+    keywords: ["ember-addon", "select", "menu", "search"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 100,
@@ -2483,7 +2583,8 @@ export const EMBER_COMPONENTS: any[] = [
       "fallback",
       "native",
       "mobile"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 101,
@@ -2505,7 +2606,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.5",
     license: "MIT",
     details: "http://green-arrow.github.io/ember-cli-chosen",
-    keywords: ["ember-addon", "chosen", "select", "dropdown"]
+    keywords: ["ember-addon", "chosen", "select", "dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 102,
@@ -2527,7 +2629,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/tim-evans/ember-single-select",
-    keywords: ["ember-addon", "single-select", "select", "dropdown"]
+    keywords: ["ember-addon", "single-select", "select", "dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 103,
@@ -2549,7 +2652,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "ASF2",
     details: "http://indexiatech.github.io/ember-idx-list/",
-    keywords: ["ember-addon", "idx-list", "list", "simple list"]
+    keywords: ["ember-addon", "idx-list", "list", "simple list"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 104,
@@ -2571,7 +2675,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "http://ember-sparks.com/select-spark/",
-    keywords: ["ember-addon", "select-spark", "select", "sparks"]
+    keywords: ["ember-addon", "select-spark", "select", "sparks"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 105,
@@ -2593,7 +2698,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://ember-sparks.com/button-spark/",
-    keywords: ["ember-addon", "button-spark", "button", "sparks"]
+    keywords: ["ember-addon", "button-spark", "button", "sparks"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 106,
@@ -2615,7 +2721,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "http://ember-sparks.com/input-spark/",
-    keywords: ["ember-addon", "input-spark", "input", "sparks"]
+    keywords: ["ember-addon", "input-spark", "input", "sparks"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 107,
@@ -2637,7 +2744,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "http://ember-sparks.com/toggle-spark/",
-    keywords: ["ember-addon", "toggle-spark", "toggle", "sparks"]
+    keywords: ["ember-addon", "toggle-spark", "toggle", "sparks"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 108,
@@ -2664,7 +2772,8 @@ export const EMBER_COMPONENTS: any[] = [
       "cli-multiselect-panels",
       "multiselect-panels",
       "select"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 109,
@@ -2686,7 +2795,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.2",
     license: "MIT",
     details: "https://github.com/aupac/ember-aupac-cascading-select",
-    keywords: ["ember-addon", "cascading select", "dependent select", "aupac"]
+    keywords: ["ember-addon", "cascading select", "dependent select", "aupac"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 110,
@@ -2708,7 +2818,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/MartinMalinda/ember-hiding-menu",
-    keywords: ["ember-addon", "hiding-menu", "menu", "ember-hiding-menu"]
+    keywords: ["ember-addon", "hiding-menu", "menu", "ember-hiding-menu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 111,
@@ -2730,7 +2841,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.11.4",
     license: "MIT",
     details: "https://github.com/kybishop/ember-attacher",
-    keywords: ["ember-addon", "tooltips", "popovers"]
+    keywords: ["ember-addon", "tooltips", "popovers"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 112,
@@ -2758,7 +2870,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-accordion",
       "accordion",
       "semantic-ui-accordion"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 113,
@@ -2786,7 +2899,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-checkbox",
       "checkbox",
       "semantic-ui-checkbox"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 114,
@@ -2808,7 +2922,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/dimmer",
-    keywords: ["ember-addon", "ember-dimmer", "dimmer", "semantic-ui-dimmer"]
+    keywords: ["ember-addon", "ember-dimmer", "dimmer", "semantic-ui-dimmer"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 115,
@@ -2836,7 +2951,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-dropdown",
       "dropdown",
       "semantic-ui-dropdown"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 116,
@@ -2858,7 +2974,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/embed",
-    keywords: ["ember-addon", "ember-embed", "embed", "semantic-ui-embed"]
+    keywords: ["ember-addon", "ember-embed", "embed", "semantic-ui-embed"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 117,
@@ -2880,7 +2997,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/modal",
-    keywords: ["ember-addon", "ember-modal", "modal", "semantic-ui-modal"]
+    keywords: ["ember-addon", "ember-modal", "modal", "semantic-ui-modal"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 118,
@@ -2902,7 +3020,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/nag",
-    keywords: ["ember-addon", "ember-nag", "nag", "semantic-ui-nag"]
+    keywords: ["ember-addon", "ember-nag", "nag", "semantic-ui-nag"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 119,
@@ -2924,7 +3043,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/popup",
-    keywords: ["ember-addon", "ember-popup", "popup", "semantic-ui-popup"]
+    keywords: ["ember-addon", "ember-popup", "popup", "semantic-ui-popup"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 120,
@@ -2952,7 +3072,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-progress",
       "progress",
       "semantic-ui-progress"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 121,
@@ -2974,7 +3095,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/radio",
-    keywords: ["ember-addon", "ember-radio", "radio", "semantic-ui-radio"]
+    keywords: ["ember-addon", "ember-radio", "radio", "semantic-ui-radio"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 122,
@@ -2996,7 +3118,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/rating",
-    keywords: ["ember-addon", "ember-rating", "rating", "semantic-ui-rating"]
+    keywords: ["ember-addon", "ember-rating", "rating", "semantic-ui-rating"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 123,
@@ -3018,7 +3141,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/search",
-    keywords: ["ember-addon", "ember-search", "search", "semantic-ui-search"]
+    keywords: ["ember-addon", "ember-search", "search", "semantic-ui-search"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 124,
@@ -3040,7 +3164,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/shape",
-    keywords: ["ember-addon", "ember-shape", "shape", "semantic-ui-shape"]
+    keywords: ["ember-addon", "ember-shape", "shape", "semantic-ui-shape"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 125,
@@ -3063,7 +3188,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sidebar",
-    keywords: ["ember-addon", "ember-sidebar", "sidebar", "semantic-ui-sidebar"]
+    keywords: ["ember-addon", "ember-sidebar", "sidebar", "semantic-ui-sidebar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 126,
@@ -3085,7 +3211,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "http://semantic-org.github.io/Semantic-UI-Ember/#/modules/sticky",
-    keywords: ["ember-addon", "ember-sticky", "sticky", "semantic-ui-sticky"]
+    keywords: ["ember-addon", "ember-sticky", "sticky", "semantic-ui-sticky"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 127,
@@ -3114,7 +3241,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-transition",
       "transition",
       "semantic-ui-transition"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 128,
@@ -3144,7 +3272,8 @@ export const EMBER_COMPONENTS: any[] = [
       "toggle-button",
       "accessibility",
       "a11y"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 129,
@@ -3166,7 +3295,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "4.0.4",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-sidebar/",
-    keywords: ["ember-addon", "frost", "frost-sidebar", "sidebar", "content"]
+    keywords: ["ember-addon", "frost", "frost-sidebar", "sidebar", "content"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 130,
@@ -3195,7 +3325,8 @@ export const EMBER_COMPONENTS: any[] = [
       "slide-menu",
       "push-menu",
       "off-canvas"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 131,
@@ -3224,7 +3355,8 @@ export const EMBER_COMPONENTS: any[] = [
       "toggle",
       "controller",
       "on/off"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 132,
@@ -3246,7 +3378,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "5.4.0",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-tabs/",
-    keywords: ["ember-addon", "frost", "tabs", "vertical tabs", "block tabs"]
+    keywords: ["ember-addon", "frost", "tabs", "vertical tabs", "block tabs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 133,
@@ -3268,7 +3401,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "7.5.6",
     license: "MIT",
     details: "https://ciena-frost.github.io/ember-frost-navigation/",
-    keywords: ["ember-addon", "frost", "navigation"]
+    keywords: ["ember-addon", "frost", "navigation"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 134,
@@ -3290,7 +3424,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.6.4",
     license: "MIT",
     details: "http://suven.github.io/ember-cli-swiper/",
-    keywords: ["ember-addon", "swiper", "touch", "carousel"]
+    keywords: ["ember-addon", "swiper", "touch", "carousel"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 135,
@@ -3312,7 +3447,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "5.0.0",
     license: "MIT",
     details: "https://github.com/ciena-frost/ember-frost-popover",
-    keywords: ["ember-addon", "frost", "popover", "tooltip"]
+    keywords: ["ember-addon", "frost", "popover", "tooltip"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 136,
@@ -3341,7 +3477,8 @@ export const EMBER_COMPONENTS: any[] = [
       "popover",
       "popovers",
       "htmlbars"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 137,
@@ -3363,7 +3500,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.5",
     license: "MIT",
     details: "https://github.com/kaliber5/ember-sticky-element",
-    keywords: ["ember-addon", "sticky", "position sticky"]
+    keywords: ["ember-addon", "sticky", "position sticky"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 138,
@@ -3385,7 +3523,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.0",
     license: "MIT",
     details: "https://github.com/offirgolan/ember-burger-menu",
-    keywords: ["ember-addon", "burger-menu", "sidebar"]
+    keywords: ["ember-addon", "burger-menu", "sidebar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 139,
@@ -3407,7 +3546,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.1.1",
     license: "MIT",
     details: "https://tedconf.github.io/ember-collapsible-panel/",
-    keywords: ["ember-addon", "burger-menu", "sidebar"]
+    keywords: ["ember-addon", "burger-menu", "sidebar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 140,
@@ -3429,7 +3569,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.3",
     license: "MIT",
     details: "https://github.com/shipshapecode/ember-3d-folding-panel",
-    keywords: ["ember-addon", "folding", "panel"]
+    keywords: ["ember-addon", "folding", "panel"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 141,
@@ -3459,7 +3600,8 @@ export const EMBER_COMPONENTS: any[] = [
       "drop-down",
       "drop",
       "down"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 142,
@@ -3481,7 +3623,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.8.2",
     license: "MIT",
     details: "http://altrim.github.io/ember-cli-tooltipster/",
-    keywords: ["ember-addon", "tooltipster", "tooltip", "popover"]
+    keywords: ["ember-addon", "tooltipster", "tooltip", "popover"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 143,
@@ -3503,7 +3646,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.2",
     license: "MIT",
     details: "http://ember-drop.shipshape.io",
-    keywords: ["ember-addon", "drop", "popover", "dropdown", "popout"]
+    keywords: ["ember-addon", "drop", "popover", "dropdown", "popout"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 144,
@@ -3525,7 +3669,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.9",
     license: "MIT",
     details: "http://ritesh83.github.io/ember-cli-jstree/#/static",
-    keywords: ["ember-addon", "jstree", "tree", "jquery"]
+    keywords: ["ember-addon", "jstree", "tree", "jquery"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 145,
@@ -3547,7 +3692,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.9",
     license: "MIT",
     details: "https://github.com/echobind/ember-links-with-follower",
-    keywords: ["ember-addon", "links-with-follower", "link"]
+    keywords: ["ember-addon", "links-with-follower", "link"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 146,
@@ -3580,7 +3726,8 @@ export const EMBER_COMPONENTS: any[] = [
       "mobile-menu",
       "drawer-menu",
       "burger-menu"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 147,
@@ -3602,7 +3749,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.14",
     license: "MIT",
     details: "https://github.com/anilmaurya/ember-favourite-heart",
-    keywords: ["ember-addon", "favourite", "like"]
+    keywords: ["ember-addon", "favourite", "like"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 148,
@@ -3630,7 +3778,8 @@ export const EMBER_COMPONENTS: any[] = [
       "component",
       "tab component",
       "responsive"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 149,
@@ -3652,7 +3801,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/amk221/ember-async-tooltips",
-    keywords: ["ember-addon", "tooltips", "mouseover", "hover", "async"]
+    keywords: ["ember-addon", "tooltips", "mouseover", "hover", "async"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 150,
@@ -3674,7 +3824,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/kellyselden/ember-fork-me",
-    keywords: ["ember-addon", "fork-me", "github"]
+    keywords: ["ember-addon", "fork-me", "github"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 151,
@@ -3696,7 +3847,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.2",
     license: "MIT",
     details: "https://github.com/vevix/ember-star-rating",
-    keywords: ["ember-addon", "rating", "stars"]
+    keywords: ["ember-addon", "rating", "stars"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 152,
@@ -3728,7 +3880,8 @@ export const EMBER_COMPONENTS: any[] = [
       "slideshow",
       "ember-cli-unslider",
       "jquery-unslider"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 153,
@@ -3750,7 +3903,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.0",
     license: "MIT",
     details: "https://github.com/cbroeren/ember-context-menu",
-    keywords: ["ember-addon", "context-menu", "rightclick", "menu"]
+    keywords: ["ember-addon", "context-menu", "rightclick", "menu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 154,
@@ -3772,7 +3926,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.0",
     license: "MIT",
     details: "https://github.com/IvyApp/ivy-tabs",
-    keywords: ["ember-addon", "context-menu", "rightclick", "menu"]
+    keywords: ["ember-addon", "context-menu", "rightclick", "menu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 155,
@@ -3794,7 +3949,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/IvyApp/ivy-tree",
-    keywords: ["ember-addon", "ivy-tree", "tree", "ivy"]
+    keywords: ["ember-addon", "ivy-tree", "tree", "ivy"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 156,
@@ -3824,7 +3980,8 @@ export const EMBER_COMPONENTS: any[] = [
       "accordion ARIA",
       "ember ticketfly",
       "ember panel"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 157,
@@ -3854,7 +4011,8 @@ export const EMBER_COMPONENTS: any[] = [
       "anchor",
       "scrolling",
       "ember"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 158,
@@ -3876,7 +4034,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.2",
     license: "MIT",
     details: "https://ef4.github.io/ember-elsewhere/",
-    keywords: ["ember-addon", "sidebars"]
+    keywords: ["ember-addon", "sidebars"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 159,
@@ -3898,7 +4057,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "MIT",
     details: "https://github.com/des75/ember-collapsible-layout",
-    keywords: ["ember-addon", "collapsible-layout", "collaps", "layout"]
+    keywords: ["ember-addon", "collapsible-layout", "collaps", "layout"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 160,
@@ -3926,7 +4086,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "MIT",
     details: "https://github.com/paddle8/ember-popup-menu",
-    keywords: ["ember-addon", "collapsible-layout", "collaps", "layout"]
+    keywords: ["ember-addon", "collapsible-layout", "collaps", "layout"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 161,
@@ -3948,7 +4109,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.0",
     license: "MIT",
     details: "http://khorus.github.io/ember-accordion/",
-    keywords: ["ember-addon", "accordion"]
+    keywords: ["ember-addon", "accordion"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 162,
@@ -3970,7 +4132,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "ASF2",
     details: "http://indexiatech.github.io/ember-idx-tree/",
-    keywords: ["ember-addon", "idx-tree", "tree"]
+    keywords: ["ember-addon", "idx-tree", "tree"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 163,
@@ -3992,7 +4155,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.0",
     license: "MIT",
     details: "https://gowthamrm.github.io/ember-scroll-progress/",
-    keywords: ["ember-addon", "scroll-progress", "scroll", "progress"]
+    keywords: ["ember-addon", "scroll-progress", "scroll", "progress"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 164,
@@ -4014,7 +4178,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "https://github.com/Subtletree/ember-paper-link",
-    keywords: ["ember-addon", "ember-paper", "material design"]
+    keywords: ["ember-addon", "ember-paper", "material design"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 165,
@@ -4041,7 +4206,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-paper",
       "ember-paper-stepper",
       "material design"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 166,
@@ -4063,7 +4229,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "http://tedconf.github.io/ember-ted-gear/",
-    keywords: ["ember-addon", "ted-gear", "gear"]
+    keywords: ["ember-addon", "ted-gear", "gear"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 167,
@@ -4085,7 +4252,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.3",
     license: "MIT",
     details: "https://github.com/ciena-attic/ember-frost-login",
-    keywords: ["ember-addon", "frost", "login"]
+    keywords: ["ember-addon", "frost", "login"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 168,
@@ -4107,7 +4275,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "http://mattmazzola.github.io/ember-fuzzy-shim/",
-    keywords: ["ember-addon", "fuzzy", "search", "matching"]
+    keywords: ["ember-addon", "fuzzy", "search", "matching"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 169,
@@ -4129,7 +4298,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/MartinMalinda/ember-image-slider",
-    keywords: ["ember-addon", "ember-image-slider", "image-slider", "slider"]
+    keywords: ["ember-addon", "ember-image-slider", "image-slider", "slider"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 170,
@@ -4157,7 +4327,8 @@ export const EMBER_COMPONENTS: any[] = [
       "outside-click",
       "click",
       "outside"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 171,
@@ -4179,7 +4350,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "https://github.com/wecatch/ember-format-json",
-    keywords: ["ember-addon", "formatter", "json", "format-json"]
+    keywords: ["ember-addon", "formatter", "json", "format-json"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 172,
@@ -4201,7 +4373,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/zhujy8833/ember-scroll-to-top",
-    keywords: ["ember-addon", "ember-scroll-to-top", "scroll-to-top"]
+    keywords: ["ember-addon", "ember-scroll-to-top", "scroll-to-top"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 173,
@@ -4223,7 +4396,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.3",
     license: "MIT",
     details: "https://github.com/minutebase/mb-menu",
-    keywords: ["ember-addon", "menu", "multiple selection", "single selection"]
+    keywords: ["ember-addon", "menu", "multiple selection", "single selection"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 174,
@@ -4245,7 +4419,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "http://altrim.github.io/ember-cli-tooltipster/",
-    keywords: ["ember-addon", "tooltipster", "tooltip", "popover"]
+    keywords: ["ember-addon", "tooltipster", "tooltip", "popover"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 175,
@@ -4273,7 +4448,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.3.1",
     license: "MIT",
     details: "https://ui-knob-2.firebaseapp.com",
-    keywords: ["ember-addon", "ui", "knob"]
+    keywords: ["ember-addon", "ui", "knob"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 176,
@@ -4295,7 +4471,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.7",
     license: "MIT",
     details: "https://ui-tag.firebaseapp.com",
-    keywords: ["ember-addon", "ui", "ui-tag"]
+    keywords: ["ember-addon", "ui", "ui-tag"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 177,
@@ -4317,7 +4494,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/Deveo/ember-sliding-sticky",
-    keywords: ["ember-addon", "sticky", "position-sticky", "position"]
+    keywords: ["ember-addon", "sticky", "position-sticky", "position"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 178,
@@ -4339,7 +4517,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.1",
     license: "MIT",
     details: "https://foxnewsnetwork.github.io/ember-pricing-table/",
-    keywords: ["ember-addon", "pricing-table", "pricing", "table"]
+    keywords: ["ember-addon", "pricing-table", "pricing", "table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 179,
@@ -4361,7 +4540,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.3.0",
     license: "MIT",
     details: "https://n1ru4l.github.io/ember-card-stacks/",
-    keywords: ["ember-addon", "card-stacks", "card", "animation", "ember"]
+    keywords: ["ember-addon", "card-stacks", "card", "animation", "ember"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 180,
@@ -4383,7 +4563,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "ASF2",
     details: "http://indexiatech.github.io/ember-idx-accordion",
-    keywords: ["ember-addon", "idx-accordion", "accordion", "ember"]
+    keywords: ["ember-addon", "idx-accordion", "accordion", "ember"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 181,
@@ -4406,7 +4587,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-bookends.md",
-    keywords: ["ember-addon", "bookends", "frost-bookends", "hook", "frost"]
+    keywords: ["ember-addon", "bookends", "frost-bookends", "hook", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 182,
@@ -4429,7 +4611,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-button.md",
-    keywords: ["ember-addon", "frost-button", "button", "frost"]
+    keywords: ["ember-addon", "frost-button", "button", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 183,
@@ -4452,7 +4635,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-checkbox.md",
-    keywords: ["ember-addon", "frost-checkbox", "checkbox", "frost"]
+    keywords: ["ember-addon", "frost-checkbox", "checkbox", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 184,
@@ -4475,7 +4659,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-css.md",
-    keywords: ["ember-addon", "frost-theme", "theme", "frost", "palette"]
+    keywords: ["ember-addon", "frost-theme", "theme", "frost", "palette"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 185,
@@ -4498,7 +4683,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/ciena-frost/ember-frost-core/blob/master/docs/frost-icons.md",
-    keywords: ["ember-addon", "frost-icon", "icon", "frost"]
+    keywords: ["ember-addon", "frost-icon", "icon", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 186,
@@ -4520,7 +4706,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/link",
-    keywords: ["ember-addon", "frost-link", "link", "frost"]
+    keywords: ["ember-addon", "frost-link", "link", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 187,
@@ -4542,7 +4729,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/loading",
-    keywords: ["ember-addon", "frost-loading", "loading", "frost"]
+    keywords: ["ember-addon", "frost-loading", "loading", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 188,
@@ -4564,7 +4752,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/password",
-    keywords: ["ember-addon", "frost-password", "password", "frost"]
+    keywords: ["ember-addon", "frost-password", "password", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 189,
@@ -4586,7 +4775,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/radio",
-    keywords: ["ember-addon", "frost-radio-group", "radio-group", "frost"]
+    keywords: ["ember-addon", "frost-radio-group", "radio-group", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 190,
@@ -4608,7 +4798,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/scroll",
-    keywords: ["ember-addon", "frost-scroll", "scroll", "frost"]
+    keywords: ["ember-addon", "frost-scroll", "scroll", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 191,
@@ -4630,7 +4821,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/select",
-    keywords: ["ember-addon", "frost-select", "select", "frost"]
+    keywords: ["ember-addon", "frost-select", "select", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 192,
@@ -4652,7 +4844,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/area",
-    keywords: ["ember-addon", "frost-textarea", "textarea", "frost"]
+    keywords: ["ember-addon", "frost-textarea", "textarea", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 193,
@@ -4674,7 +4867,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/field",
-    keywords: ["ember-addon", "frost-text", "text", "frost"]
+    keywords: ["ember-addon", "frost-text", "text", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 194,
@@ -4696,7 +4890,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/toggle",
-    keywords: ["ember-addon", "frost-toggle", "toggle", "frost"]
+    keywords: ["ember-addon", "frost-toggle", "toggle", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 195,
@@ -4718,7 +4913,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/expand",
-    keywords: ["ember-addon", "frost-expand", "expand", "frost"]
+    keywords: ["ember-addon", "frost-expand", "expand", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 196,
@@ -4745,7 +4941,8 @@ export const EMBER_COMPONENTS: any[] = [
       "frost-ajax-error-page",
       "ajax-error-page",
       "frost"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 197,
@@ -4767,7 +4964,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-core/#/helpers",
-    keywords: ["ember-addon", "frost-helpers", "helpers", "frost"]
+    keywords: ["ember-addon", "frost-helpers", "helpers", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 198,
@@ -4789,7 +4987,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.0.1",
     license: "MIT",
     details: "http://ember-twiddle.com/2d7246875098d0dbb4a4",
-    keywords: ["ember-addon", "ember-one-way-controls", "one-way"]
+    keywords: ["ember-addon", "ember-one-way-controls", "one-way"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 199,
@@ -4811,7 +5010,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.6.1",
     license: "MIT",
     details: "http://tim-evans.github.io/ember-autoresize/",
-    keywords: ["ember-addon", "autoresize"]
+    keywords: ["ember-addon", "autoresize"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 200,
@@ -4840,7 +5040,8 @@ export const EMBER_COMPONENTS: any[] = [
       "range slider",
       "jquery range slider",
       "ember-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 201,
@@ -4862,7 +5063,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "5.2.0",
     license: "MIT",
     details: "http://knownasilya.github.io/ember-toggle/",
-    keywords: ["ember-addon", "toggle", "switch", "component", "ember"]
+    keywords: ["ember-addon", "toggle", "switch", "component", "ember"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 202,
@@ -4884,7 +5086,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "6.0.1",
     license: "MIT",
     details: "https://github.com/ciena-frost/ember-frost-fields",
-    keywords: ["ember-addon", "frost fields", "fields"]
+    keywords: ["ember-addon", "frost fields", "fields"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 203,
@@ -4906,7 +5109,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.7",
     license: "MIT",
     details: "https://github.com/rajasegar/ember-smart-input",
-    keywords: ["ember-addon", "input", "text fields", "smart input"]
+    keywords: ["ember-addon", "input", "text fields", "smart input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 204,
@@ -4928,7 +5132,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.5",
     license: "MIT",
     details: "https://github.com/britishgas-engineering/bg-button-group",
-    keywords: ["ember-addon", "button-group", "button", "group"]
+    keywords: ["ember-addon", "button-group", "button", "group"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 205,
@@ -4956,7 +5161,8 @@ export const EMBER_COMPONENTS: any[] = [
       "multiselect-checkboxes",
       "multiselect",
       "checkboxes"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 206,
@@ -4992,7 +5198,8 @@ export const EMBER_COMPONENTS: any[] = [
       "now",
       "cybertooth",
       "ember-addon"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 207,
@@ -5024,7 +5231,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ctrl+enter submit",
       "control enter submit",
       "cybertooth"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 208,
@@ -5046,7 +5254,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://github.com/kellyselden/ember-checkbox-with-label",
-    keywords: ["ember-addon", "checkbox"]
+    keywords: ["ember-addon", "checkbox"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 209,
@@ -5075,7 +5284,8 @@ export const EMBER_COMPONENTS: any[] = [
       "focus selects",
       "ember.textsupport",
       "ember-addon"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 210,
@@ -5104,7 +5314,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-slider",
       "ember-range-input",
       "ember"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 211,
@@ -5131,7 +5342,8 @@ export const EMBER_COMPONENTS: any[] = [
       "file input",
       "file selector",
       "custom file input"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 212,
@@ -5153,7 +5365,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "6.0.1",
     license: "MIT",
     details: "http://ciena-frost.github.io/ember-frost-modal-input/",
-    keywords: ["ember-addon", "frost"]
+    keywords: ["ember-addon", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 213,
@@ -5175,7 +5388,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.4",
     license: "MIT",
     details: "http://collectrium.github.io/ember-range-slider/",
-    keywords: ["ember-addon", "range-slider", "range"]
+    keywords: ["ember-addon", "range-slider", "range"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 214,
@@ -5197,7 +5411,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "http://onechiporenko.github.io/ember-checkboxes-list/",
-    keywords: ["ember-addon", "checkboxes", "list", "order"]
+    keywords: ["ember-addon", "checkboxes", "list", "order"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 215,
@@ -5219,7 +5434,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://ticketfly-ui.github.io/ember-ticketfly-buttons/",
-    keywords: ["ember-addon", "ticketfly", "ticketfly-ui", "button"]
+    keywords: ["ember-addon", "ticketfly", "ticketfly-ui", "button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 216,
@@ -5241,7 +5457,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://github.com/ejthan/ember-cli-elessar",
-    keywords: ["ember-addon", "elessar", "moment", "range"]
+    keywords: ["ember-addon", "elessar", "moment", "range"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 217,
@@ -5263,7 +5480,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.16.0",
     license: "MIT",
     details: "https://github.com/AnnotationSro/ember-mobile-inputs",
-    keywords: ["ember-addon", "mobile", "input"]
+    keywords: ["ember-addon", "mobile", "input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 218,
@@ -5285,7 +5503,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "https://github.com/AnnotationSro/ember-mobile-inputs",
-    keywords: ["ember-addon", "template", "input", "tags", "component"]
+    keywords: ["ember-addon", "template", "input", "tags", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 219,
@@ -5319,7 +5538,8 @@ export const EMBER_COMPONENTS: any[] = [
       "mobile",
       "input",
       "flag"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 220,
@@ -5341,7 +5561,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/thoughtbot/ember-sky-labels",
-    keywords: ["ember-addon", "accessibility", "labels", "sky labels"]
+    keywords: ["ember-addon", "accessibility", "labels", "sky labels"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 221,
@@ -5363,7 +5584,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/srsgores/ember-form-fields",
-    keywords: ["ember-addon", "form-fields", "form", "html5"]
+    keywords: ["ember-addon", "form-fields", "form", "html5"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 222,
@@ -5393,7 +5615,8 @@ export const EMBER_COMPONENTS: any[] = [
       "delay",
       "input",
       "ember"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 223,
@@ -5421,7 +5644,8 @@ export const EMBER_COMPONENTS: any[] = [
       "rangeslider",
       "range-slider",
       "slider"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 224,
@@ -5443,7 +5667,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.3",
     license: "MIT",
     details: "https://github.com/srsgores/ember-datetime",
-    keywords: ["ember-addon", "datetime", "date", "time", "datetime piker"]
+    keywords: ["ember-addon", "datetime", "date", "time", "datetime piker"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 225,
@@ -5465,7 +5690,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.11.0",
     license: "MIT",
     details: "http://offirgolan.github.io/ember-light-table/docs/",
-    keywords: ["ember-addon", "table", "light-table", "responsive-table"]
+    keywords: ["ember-addon", "table", "light-table", "responsive-table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 226,
@@ -5487,7 +5713,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.0-alpha.1",
     license: "MIT",
     details: "http://opensource.addepar.com/ember-table/#/overview",
-    keywords: ["ember-addon", "table", "ember-table"]
+    keywords: ["ember-addon", "table", "ember-table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 227,
@@ -5509,7 +5736,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "3.4.1",
     license: "MIT",
     details: "https://github.com/MyPureCloud/fixtable-ember",
-    keywords: ["ember-addon", "fixtable", "table", "ember"]
+    keywords: ["ember-addon", "fixtable", "table", "ember"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 228,
@@ -5531,7 +5759,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "7.0.0",
     license: "MIT",
     details: "https://github.com/ciena-frost/ember-frost-list",
-    keywords: ["ember-addon", "frost", "frost-list", "list"]
+    keywords: ["ember-addon", "frost", "frost-list", "list"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 229,
@@ -5553,7 +5782,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.5.3",
     license: "MIT",
     details: "https://ciena-frost.github.io/ember-frost-table/",
-    keywords: ["ember-addon", "frost", "frost-table", "table"]
+    keywords: ["ember-addon", "frost", "frost-table", "table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 230,
@@ -5588,7 +5818,8 @@ export const EMBER_COMPONENTS: any[] = [
       "sortable",
       "sortable-list",
       "sortable list"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 231,
@@ -5610,7 +5841,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-alpha.3",
     license: "MIT",
     details: "https://github.com/mu-semtech/ember-data-table",
-    keywords: ["ember-addon", "mu-semtech"]
+    keywords: ["ember-addon", "mu-semtech"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 232,
@@ -5638,7 +5870,8 @@ export const EMBER_COMPONENTS: any[] = [
       "filter-table",
       "table",
       "sort-filter-table"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 233,
@@ -5667,7 +5900,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-table",
       "contextual-table",
       "contextual-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 234,
@@ -5689,7 +5923,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.1",
     license: "MIT",
     details: "https://github.com/jasonmit/virtual-each",
-    keywords: ["ember-addon", "virtual-each", "virtual each"]
+    keywords: ["ember-addon", "virtual-each", "virtual each"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 235,
@@ -5713,7 +5948,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://zalando-incubator.github.io/ember-dressy-table/#/doc-pages/docs",
-    keywords: ["ember-addon", "table", "d-table"]
+    keywords: ["ember-addon", "table", "d-table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 236,
@@ -5735,7 +5971,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/ibarrick/paper-data-table",
-    keywords: ["ember-addon", "ember md table", "ember material design table"]
+    keywords: ["ember-addon", "ember md table", "ember material design table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 237,
@@ -5757,7 +5994,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://quantosobra.github.io/ember-data-table-light/docs/",
-    keywords: ["ember-addon", "table", "ember-data"]
+    keywords: ["ember-addon", "table", "ember-data"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 238,
@@ -5779,7 +6017,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.7",
     license: "MIT",
     details: "https://baroquon.github.io/ember-keyboard-navigable-list/",
-    keywords: ["ember-addon", "list", "keyboard", "shortcuts", "navigation"]
+    keywords: ["ember-addon", "list", "keyboard", "shortcuts", "navigation"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 239,
@@ -5801,7 +6040,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.6.1",
     license: "MIT",
     details: "https://ui-list.firebaseapp.com",
-    keywords: ["ember-addon", "list", "ui-list"]
+    keywords: ["ember-addon", "list", "ui-list"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 240,
@@ -5823,7 +6063,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://github.com/arenoir/ember-tabella",
-    keywords: ["ember-addon", "table", "ember-table"]
+    keywords: ["ember-addon", "table", "ember-table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 241,
@@ -5845,7 +6086,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.6.0",
     license: "MIT",
     details: "https://quantosobra.github.io/ember-semantic-ui-table/",
-    keywords: ["ember-addon", "semantic-ui", "table"]
+    keywords: ["ember-addon", "semantic-ui", "table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 242,
@@ -5867,7 +6109,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/rajasegar/ember-a11y-datatable",
-    keywords: ["ember-addon", "a11y", "accessibility", "data table"]
+    keywords: ["ember-addon", "a11y", "accessibility", "data table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 243,
@@ -5895,7 +6138,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/shaunc/ember-grid",
-    keywords: ["ember-addon", "grid", "table"]
+    keywords: ["ember-addon", "grid", "table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 244,
@@ -5922,7 +6166,8 @@ export const EMBER_COMPONENTS: any[] = [
       "semantic-ui-models-table",
       "models-table",
       "table"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 245,
@@ -5946,7 +6191,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/buschtoens/ember-light-table-cell-type-multi-value",
-    keywords: ["ember-addon", "ember-light-table-addon", "cell-type"]
+    keywords: ["ember-addon", "ember-light-table-addon", "cell-type"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 246,
@@ -5974,7 +6220,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-table",
       "table",
       "material-table"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 247,
@@ -5996,7 +6243,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-beta.1",
     license: "MIT",
     details: "https://github.com/Jake2000/ember-ds-table",
-    keywords: ["ember-addon", "ember-table", "table"]
+    keywords: ["ember-addon", "ember-table", "table"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 248,
@@ -6018,7 +6266,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.2.2",
     license: "MIT",
     details: "https://github.com/bekzod/ember-active-scroll-list",
-    keywords: ["ember-addon", "list", "scroll"]
+    keywords: ["ember-addon", "list", "scroll"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 249,
@@ -6040,7 +6289,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.6",
     license: "MIT",
     details: "https://github.com/chauhansudhir/ember-cli-simple-table",
-    keywords: ["ember-addon", "list", "scroll"]
+    keywords: ["ember-addon", "list", "scroll"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 250,
@@ -6062,7 +6312,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "https://github.com/danielspaniel/ember-spreadsheet",
-    keywords: ["ember.js", "spreadsheet", "ember-addon"]
+    keywords: ["ember.js", "spreadsheet", "ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 251,
@@ -6084,7 +6335,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.4",
     license: "MIT",
     details: "https://github.com/ahmadsoe/ember-highcharts",
-    keywords: ["ember-addon", "highcharts", "ember-highcharts", "charts"]
+    keywords: ["ember-addon", "highcharts", "ember-highcharts", "charts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 252,
@@ -6114,7 +6366,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-cli",
       "oboarding",
       "introduction"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 253,
@@ -6144,7 +6397,8 @@ export const EMBER_COMPONENTS: any[] = [
       "visualisation",
       "charts",
       "charting-package"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 254,
@@ -6166,7 +6420,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "http://netflix.github.io/ember-nf-graph-examples/dist/",
-    keywords: ["ember-addon", "nf", "graph"]
+    keywords: ["ember-addon", "nf", "graph"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 255,
@@ -6194,7 +6449,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.1",
     license: "MIT",
     details: "http://opensource.addepar.com/ember-charts/",
-    keywords: ["ember-addon", "charts", "graph"]
+    keywords: ["ember-addon", "charts", "graph"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 256,
@@ -6216,7 +6472,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "4.1.1",
     license: "MIT",
     details: "https://github.com/ciena-frost/ember-frost-chart",
-    keywords: ["ember-addon", "chart", "frost"]
+    keywords: ["ember-addon", "chart", "frost"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 257,
@@ -6238,7 +6495,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.4.17",
     license: "MIT",
     details: "http://locusenergy.github.io/ember-sparkles/#/bar-chart",
-    keywords: ["ember-addon", "d3", "data-visualization", "htmlbars"]
+    keywords: ["ember-addon", "d3", "data-visualization", "htmlbars"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 258,
@@ -6271,7 +6529,8 @@ export const EMBER_COMPONENTS: any[] = [
       "grouped bars",
       "text",
       "inverted axis"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 259,
@@ -6301,7 +6560,8 @@ export const EMBER_COMPONENTS: any[] = [
       "chart",
       "graph",
       "pie graph"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 260,
@@ -6323,7 +6583,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.1.7",
     license: "MIT",
     details: "http://ming-codes.github.io/ember-cli-d3/#/guides",
-    keywords: ["ember-addon", "d3", "cli", "chart", "graph"]
+    keywords: ["ember-addon", "d3", "cli", "chart", "graph"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 261,
@@ -6345,7 +6606,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.5",
     license: "MIT",
     details: "http://lukesargeant.github.io/ember-cli-sparkline/",
-    keywords: ["ember-addon", "sparkline", "chart"]
+    keywords: ["ember-addon", "sparkline", "chart"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 262,
@@ -6367,7 +6629,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/CrowdStrike/ember-timetree",
-    keywords: ["ember-addon", "timetree", "time", "time range"]
+    keywords: ["ember-addon", "timetree", "time", "time range"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 263,
@@ -6389,7 +6652,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.5.3",
     license: "MIT",
     details: "http://sir-dunxalot.github.io/ember-google-charts/",
-    keywords: ["ember-addon", "google", "chart", "charts", "graphs", "graph"]
+    keywords: ["ember-addon", "google", "chart", "charts", "graphs", "graph"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 264,
@@ -6419,7 +6683,8 @@ export const EMBER_COMPONENTS: any[] = [
       "d3",
       "chart",
       "graph"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 265,
@@ -6441,7 +6706,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "https://seansellek.github.io/ember-highcharts-mixin/",
-    keywords: ["ember-addon", "highcharts", "dynamic redrawing"]
+    keywords: ["ember-addon", "highcharts", "dynamic redrawing"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 266,
@@ -6469,7 +6735,8 @@ export const EMBER_COMPONENTS: any[] = [
       "multi-series chart",
       "area with top line",
       "scatter"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 267,
@@ -6491,7 +6758,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.3",
     license: "MIT",
     details: "http://suven.github.io/ember-cli-visjs/",
-    keywords: ["graph", "nodes", "edges", "visjs", "ember-addon"]
+    keywords: ["graph", "nodes", "edges", "visjs", "ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 268,
@@ -6513,7 +6781,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.5.0",
     license: "MIT",
     details: "https://github.com/ilios/ember-simple-charts",
-    keywords: ["visualizations", "d3", "ember-addon"]
+    keywords: ["visualizations", "d3", "ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 269,
@@ -6535,7 +6804,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://matheusdavidson.github.io/ember-cli-morris-charts/",
-    keywords: ["charts", "morris-charts", "ember-addon"]
+    keywords: ["charts", "morris-charts", "ember-addon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 270,
@@ -6563,7 +6833,8 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-addon",
       "mermaid-chart",
       "sequence diagram"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 271,
@@ -6585,7 +6856,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "https://github.com/chauhansudhir/ember-cli-nvd3-multichart",
-    keywords: ["charts", "multichart", "ember-addon", "chart", "diagram"]
+    keywords: ["charts", "multichart", "ember-addon", "chart", "diagram"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 272,
@@ -6607,7 +6879,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "ASF2",
     details: "https://github.com/indexiatech/ember-idx-charts",
-    keywords: ["charts", "ember-addon", "idx-charts"]
+    keywords: ["charts", "ember-addon", "idx-charts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 273,
@@ -6629,7 +6902,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/alert",
-    keywords: ["ember-addon", "bootstrap", "alert"]
+    keywords: ["ember-addon", "bootstrap", "alert"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 274,
@@ -6651,7 +6925,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/button",
-    keywords: ["ember-addon", "bootstrap", "button"]
+    keywords: ["ember-addon", "bootstrap", "button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 275,
@@ -6673,7 +6948,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/button-group",
-    keywords: ["ember-addon", "bootstrap", "button-group"]
+    keywords: ["ember-addon", "bootstrap", "button-group"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 276,
@@ -6695,7 +6971,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/collapse",
-    keywords: ["ember-addon", "bootstrap", "collapse"]
+    keywords: ["ember-addon", "bootstrap", "collapse"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 277,
@@ -6717,7 +6994,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/dropdown",
-    keywords: ["ember-addon", "bootstrap", "dropdown"]
+    keywords: ["ember-addon", "bootstrap", "dropdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 278,
@@ -6739,7 +7017,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/modal",
-    keywords: ["ember-addon", "bootstrap", "modal"]
+    keywords: ["ember-addon", "bootstrap", "modal"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 279,
@@ -6761,7 +7040,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/navbars",
-    keywords: ["ember-addon", "bootstrap", "navbars"]
+    keywords: ["ember-addon", "bootstrap", "navbars"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 280,
@@ -6783,7 +7063,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/navs",
-    keywords: ["ember-addon", "bootstrap", "nav"]
+    keywords: ["ember-addon", "bootstrap", "nav"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 281,
@@ -6805,7 +7086,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/popover",
-    keywords: ["ember-addon", "bootstrap", "popover"]
+    keywords: ["ember-addon", "bootstrap", "popover"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 282,
@@ -6827,7 +7109,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/progress",
-    keywords: ["ember-addon", "bootstrap", "progress"]
+    keywords: ["ember-addon", "bootstrap", "progress"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 283,
@@ -6849,7 +7132,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/tabs",
-    keywords: ["ember-addon", "bootstrap", "tab"]
+    keywords: ["ember-addon", "bootstrap", "tab"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 284,
@@ -6871,7 +7155,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.0.0-rc.4",
     license: "MIT",
     details: "http://www.ember-bootstrap.com/#/components/tooltip",
-    keywords: ["ember-addon", "bootstrap", "tooltip"]
+    keywords: ["ember-addon", "bootstrap", "tooltip"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 285,
@@ -6902,7 +7187,8 @@ export const EMBER_COMPONENTS: any[] = [
       "component",
       "ember",
       "emberjs"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 286,
@@ -6924,7 +7210,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/form",
-    keywords: ["ember-addon", "rapid-forms"]
+    keywords: ["ember-addon", "rapid-forms"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 287,
@@ -6946,7 +7233,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/controls/input",
-    keywords: ["ember-addon", "rapid-forms", "input"]
+    keywords: ["ember-addon", "rapid-forms", "input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 288,
@@ -6968,7 +7256,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/controls/text",
-    keywords: ["ember-addon", "rapid-forms", "textarea"]
+    keywords: ["ember-addon", "rapid-forms", "textarea"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 289,
@@ -6990,7 +7279,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/controls/checkbox",
-    keywords: ["ember-addon", "rapid-forms", "checkbox"]
+    keywords: ["ember-addon", "rapid-forms", "checkbox"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 290,
@@ -7012,7 +7302,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/controls/select",
-    keywords: ["ember-addon", "rapid-forms", "select"]
+    keywords: ["ember-addon", "rapid-forms", "select"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 291,
@@ -7034,7 +7325,8 @@ export const EMBER_COMPONENTS: any[] = [
     version: "1.2.3",
     license: "Apache-2.0",
     details: "http://piceatech.github.io/ember-rapid-forms/#/controls/html5",
-    keywords: ["ember-addon", "rapid-forms", "html5"]
+    keywords: ["ember-addon", "rapid-forms", "html5"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 292,
@@ -7058,7 +7350,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "Apache-2.0",
     details:
       "http://piceatech.github.io/ember-rapid-forms/#/controls/custom-submit",
-    keywords: ["ember-addon", "rapid-forms", "custom-submit"]
+    keywords: ["ember-addon", "rapid-forms", "custom-submit"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 293,
@@ -7082,7 +7375,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "Apache-2.0",
     details:
       "http://piceatech.github.io/ember-rapid-forms/#/controls/wrapped-input",
-    keywords: ["ember-addon", "rapid-forms", "wrapped-input"]
+    keywords: ["ember-addon", "rapid-forms", "wrapped-input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 294,
@@ -7106,7 +7400,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "Apache-2.0",
     details:
       "http://piceatech.github.io/ember-rapid-forms/#/controls/custom-styles",
-    keywords: ["ember-addon", "rapid-forms", "custom-styles"]
+    keywords: ["ember-addon", "rapid-forms", "custom-styles"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 295,
@@ -7135,7 +7430,8 @@ export const EMBER_COMPONENTS: any[] = [
       "bootstrap",
       "bootstrap-datepicker",
       "datepicker"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 296,
@@ -7163,7 +7459,8 @@ export const EMBER_COMPONENTS: any[] = [
       "boostrap",
       "datetimepicker",
       "ember-datetimepicker"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 297,
@@ -7186,7 +7483,8 @@ export const EMBER_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/shipshapecode/ember-x-editable/blob/master/README.md",
-    keywords: ["ember-addon", "x-editable", "editable", "input"]
+    keywords: ["ember-addon", "x-editable", "editable", "input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 298,
@@ -7221,7 +7519,8 @@ export const EMBER_COMPONENTS: any[] = [
       "datepicker",
       "timepicker",
       "datetimepicker"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 299,
@@ -7250,7 +7549,8 @@ export const EMBER_COMPONENTS: any[] = [
       "bootstrap-popover",
       "cybertooth",
       "ember-addon"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 300,
@@ -7283,6 +7583,7 @@ export const EMBER_COMPONENTS: any[] = [
       "bootstrap-tooltip",
       "cybertooth",
       "ember-addon"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
