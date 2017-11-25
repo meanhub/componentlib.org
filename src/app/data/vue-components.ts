@@ -31,7 +31,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-toast",
       "vue-toastr",
       "toastr"
-    ]
+    ],
+    contributedBy: "ashishdasnurkar"
   },
   {
     id: 1,
@@ -65,7 +66,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuetable",
       "vue",
       "data"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 2,
@@ -99,7 +101,8 @@ export const VUE_COMPONENTS: any[] = [
       "list-filters",
       "vue",
       "data"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 3,
@@ -131,7 +134,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue",
       "vue2",
       "pagination"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 4,
@@ -166,7 +170,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue",
       "vue2",
       "pagination"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 5,
@@ -189,7 +194,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.13.0",
     license: "MIT",
     details: "https://xaksis.github.io/vue-good-demos/#/",
-    keywords: ["vue", "vuejs", "table", "datatable"]
+    keywords: ["vue", "vuejs", "table", "datatable"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 6,
@@ -212,7 +218,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.9",
     license: "MIT",
     details: "https://github.com/dzwillia/vue-grid",
-    keywords: ["vue", "vuejs", "table", "datatable", "grid"]
+    keywords: ["vue", "vuejs", "table", "datatable", "grid"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 7,
@@ -235,7 +242,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "http://doc.huangsw.com/vue-easytable/app.html#/start",
-    keywords: ["vue", "vuejs", "table", "datatable", "grid", "easetable"]
+    keywords: ["vue", "vuejs", "table", "datatable", "grid", "easetable"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 8,
@@ -258,7 +266,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.13",
     license: "MIT",
     details: "https://onewaytech.github.io/vue2-datatable/doc/#/",
-    keywords: ["vue", "vuejs", "table", "datatable", "grid", "easetable"]
+    keywords: ["vue", "vuejs", "table", "datatable", "grid", "easetable"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 9,
@@ -302,7 +311,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue.js",
       "messages",
       "errors"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 10,
@@ -335,7 +345,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue.js",
       "vue2js",
       "vue2.js"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 11,
@@ -368,7 +379,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue.js",
       "messages",
       "errors"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 12,
@@ -400,7 +412,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuejs",
       "vue.js",
       "messages"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 13,
@@ -432,7 +445,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuejs",
       "vue.js",
       "messages"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 14,
@@ -455,7 +469,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.5",
     license: "MIT",
     details: "https://github.com/chryb/vueup",
-    keywords: ["vue", "notification", "popup", "component", "global", "simple"]
+    keywords: ["vue", "notification", "popup", "component", "global", "simple"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 15,
@@ -486,7 +501,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuex-flash",
       "vue-flash",
       "flash-message"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 16,
@@ -532,7 +548,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuejs notifications",
       "vue notifications",
       "vue toater"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 17,
@@ -564,7 +581,8 @@ export const VUE_COMPONENTS: any[] = [
       "progress bar",
       "radial progress",
       "radial progress bar"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 18,
@@ -587,7 +605,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.8",
     license: "MIT",
     details: "https://github.com/dzwillia/vue-simple-spinner",
-    keywords: ["vue", "vuejs", "ui", "components", "spinner", "progress"]
+    keywords: ["vue", "vuejs", "ui", "components", "spinner", "progress"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 19,
@@ -610,7 +629,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.14",
     license: "MIT",
     details: "https://github.com/f/vuex-loading",
-    keywords: ["vue", "vuex", "plugin", "loading", "loader"]
+    keywords: ["vue", "vuex", "plugin", "loading", "loader"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 20,
@@ -648,7 +668,8 @@ export const VUE_COMPONENTS: any[] = [
       "spiner",
       "custom",
       "spin loader"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 21,
@@ -677,7 +698,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue loading progress",
       "vue progressbar",
       "progressbar"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 22,
@@ -715,7 +737,8 @@ export const VUE_COMPONENTS: any[] = [
       "loading-bar",
       "youtube-loading-bar",
       "vue2-loading-bar"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 23,
@@ -746,7 +769,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-component",
       "progressbar",
       "loadingbar"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 24,
@@ -777,7 +801,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-component",
       "progressbar",
       "button"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 25,
@@ -800,7 +825,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0-beta.12",
     license: "ISC",
     details: "https://github.com/Akryum/v-tooltip",
-    keywords: ["vue", "tooltip"]
+    keywords: ["vue", "tooltip"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 26,
@@ -823,7 +849,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/antongorodezkiy/vue-popper-component",
-    keywords: ["vue", "popperjs", "component"]
+    keywords: ["vue", "popperjs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 27,
@@ -846,7 +873,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.0",
     license: "MIT",
     details: "https://hekigan.github.io/vue-directive-tooltip/",
-    keywords: ["vue", "vuejs", "tooltip", "component", "directive-tooltip"]
+    keywords: ["vue", "vuejs", "tooltip", "component", "directive-tooltip"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 28,
@@ -884,7 +912,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuejs-popover",
       "vue-plugin",
       "vue-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 29,
@@ -915,7 +944,8 @@ export const VUE_COMPONENTS: any[] = [
       "modals",
       "modal windows",
       "plugin"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 30,
@@ -938,7 +968,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.0",
     license: "GPL-2.0",
     details: "http://sweet-modal-vue.adepto.as",
-    keywords: ["vue", "vuejs", "sweetmodal", "modal", "library"]
+    keywords: ["vue", "vuejs", "sweetmodal", "modal", "library"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 31,
@@ -961,7 +992,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.1",
     license: "MIT",
     details: "https://github.com/euvl/vue-js-modal",
-    keywords: ["vue", "vuejs", "vue-js-modal", "modal"]
+    keywords: ["vue", "vuejs", "vue-js-modal", "modal"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 32,
@@ -991,7 +1023,8 @@ export const VUE_COMPONENTS: any[] = [
       "gallery",
       "image gallery",
       "image lightbox"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 33,
@@ -1027,7 +1060,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue alert",
       "vue sweet alert",
       "vue popup"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 34,
@@ -1049,7 +1083,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/crowdbotics/v-img",
-    keywords: ["vue", "images", "photoswipe", "preview"]
+    keywords: ["vue", "images", "photoswipe", "preview"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 35,
@@ -1078,7 +1113,8 @@ export const VUE_COMPONENTS: any[] = [
       "custom",
       "dialog",
       "modal-dialog"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 36,
@@ -1101,7 +1137,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/qgp9/vue-ya-semantic-modal",
-    keywords: ["plugin", "vue", "vuejs", "semantic-ui", "component"]
+    keywords: ["plugin", "vue", "vuejs", "semantic-ui", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 37,
@@ -1125,7 +1162,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.4",
     license: "MIT",
     details: "https://github.com/DCzajkowski/vue-pure-lightbox",
-    keywords: ["lightbox", "vue", "vuejs", "component"]
+    keywords: ["lightbox", "vue", "vuejs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 38,
@@ -1148,7 +1186,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/mirari/v-viewer",
-    keywords: ["vue", "viewer", "gallery", "picture", "img", "image"]
+    keywords: ["vue", "viewer", "gallery", "picture", "img", "image"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 39,
@@ -1171,7 +1210,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/zhangxiang958/vue-messageBox",
-    keywords: ["vue", "modal", "custom", "dialog", "modal-dialog"]
+    keywords: ["vue", "modal", "custom", "dialog", "modal-dialog"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 40,
@@ -1204,7 +1244,8 @@ export const VUE_COMPONENTS: any[] = [
       "loading-dialog",
       "hard-confirm",
       "soft-confirm"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 41,
@@ -1238,7 +1279,8 @@ export const VUE_COMPONENTS: any[] = [
       "ui",
       "typeSript",
       "vuejs"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 42,
@@ -1275,7 +1317,8 @@ export const VUE_COMPONENTS: any[] = [
       "touch",
       "vue-plugin",
       "vue-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 43,
@@ -1304,7 +1347,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.3",
     license: "MIT",
     details: "https://github.com/vue-comps/vue-parallax",
-    keywords: ["vuejs", "vue", "parallax", "vue-component", "component"]
+    keywords: ["vuejs", "vue", "parallax", "vue-component", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 44,
@@ -1327,7 +1371,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/apertureless/vue-parallax",
-    keywords: ["vue.js", "vue", "parallax", "scrolling", "image effect"]
+    keywords: ["vue.js", "vue", "parallax", "scrolling", "image effect"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 45,
@@ -1361,7 +1406,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.3.3",
     license: "MIT",
     details: "https://github.com/Justineo/vue-awesome",
-    keywords: ["font awesome", "vue.js"]
+    keywords: ["font awesome", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 46,
@@ -1384,7 +1430,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/vue-comps/vue-side-nav",
-    keywords: ["side-nav", "vue.js", "vue"]
+    keywords: ["side-nav", "vue.js", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 47,
@@ -1406,7 +1453,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/zeratulmdq/vue-accordion",
-    keywords: ["accordion", "component", "vue.js", "vue"]
+    keywords: ["accordion", "component", "vue.js", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 48,
@@ -1429,7 +1477,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "https://github.com/euvl/vue-js-popover",
-    keywords: ["vue", "dropdown", "tooltip", "popover", "menu", "button"]
+    keywords: ["vue", "dropdown", "tooltip", "popover", "menu", "button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 49,
@@ -1452,7 +1501,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://ashleylv.github.io/vue-quick-menu/index.html",
-    keywords: ["vue", "menu", "style", "vue.js", "button"]
+    keywords: ["vue", "menu", "style", "vue.js", "button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 50,
@@ -1475,7 +1525,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://github.com/michitaro/vue-menu",
-    keywords: ["vue", "menu", "context menu", "vue.js", "ui", "typeSript"]
+    keywords: ["vue", "menu", "context menu", "vue.js", "ui", "typeSript"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 51,
@@ -1515,7 +1566,8 @@ export const VUE_COMPONENTS: any[] = [
       "material design icons",
       "vue material design icons",
       "flat icons"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 52,
@@ -1544,7 +1596,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-component",
       "vue-slider",
       "slider"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 53,
@@ -1574,7 +1627,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-component",
       "vue-slider",
       "slider"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 54,
@@ -1605,7 +1659,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue slide",
       "carrousel",
       "swiper"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 55,
@@ -1633,7 +1688,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.10",
     license: "ISC",
     details: "https://github.com/staskjs/vue-slick",
-    keywords: ["vue", "vue slide", "carrousel", "slick"]
+    keywords: ["vue", "vue slide", "carrousel", "slick"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 56,
@@ -1655,7 +1711,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.8",
     license: "ISC",
     details: "https://github.com/drewjbartlett/vue-flickity",
-    keywords: ["vue", "flickity", "responsive", "touch", "carousel"]
+    keywords: ["vue", "flickity", "responsive", "touch", "carousel"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 57,
@@ -1677,7 +1734,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.18",
     license: "MIT",
     details: "https://github.com/wlada/vue-carousel-3d",
-    keywords: ["vue", "carousel 3d", "slider", "carousel"]
+    keywords: ["vue", "carousel 3d", "slider", "carousel"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 58,
@@ -1699,7 +1757,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.6.5",
     license: "MIT",
     details: "https://github.com/SSENSE/vue-carousel",
-    keywords: ["vue", "responsive", "slider", "carousel"]
+    keywords: ["vue", "responsive", "slider", "carousel"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 59,
@@ -1721,7 +1780,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/OrangeXC/vue-coverflow",
-    keywords: ["vue", "coverflow", "vue-coverflow", "vue coverflow"]
+    keywords: ["vue", "coverflow", "vue-coverflow", "vue coverflow"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 60,
@@ -1743,7 +1803,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.8",
     license: "MIT",
     details: "https://github.com/bbonnin/vue-morris",
-    keywords: ["vue", "vuejs", "morris", "morris.js", "data"]
+    keywords: ["vue", "vuejs", "morris", "morris.js", "data"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 61,
@@ -1765,7 +1826,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.1",
     license: "MIT",
     details: "https://github.com/haydenbbickerton/vue-charts",
-    keywords: ["vue", "vuejs", "data", "charts"]
+    keywords: ["vue", "vuejs", "data", "charts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 62,
@@ -1787,7 +1849,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.8.7",
     license: "MIT",
     details: "https://github.com/apertureless/vue-chartjs",
-    keywords: ["chartJs", "vue", "visualisation", "wrapper", "charts"]
+    keywords: ["chartJs", "vue", "visualisation", "wrapper", "charts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 63,
@@ -1817,7 +1880,8 @@ export const VUE_COMPONENTS: any[] = [
       "laravel",
       "chart",
       "charts"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 64,
@@ -1850,7 +1914,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.1",
     license: "MIT",
     details: "https://github.com/Justineo/vue-echarts",
-    keywords: ["echarts", "vue", "vuejs"]
+    keywords: ["echarts", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 65,
@@ -1879,7 +1944,8 @@ export const VUE_COMPONENTS: any[] = [
       "graph",
       "data-visualization",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 66,
@@ -1902,7 +1968,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.10",
     license: "MIT",
     details: "https://github.com/weizhenye/vue-highcharts",
-    keywords: ["vue", "highcharts", "chart", "plugin", "component"]
+    keywords: ["vue", "highcharts", "chart", "plugin", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 67,
@@ -1924,7 +1991,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/DeviaVir/vue-bar",
-    keywords: ["vue", "bars", "svg", "graph", "data-visualization", "component"]
+    keywords: ["vue", "bars", "svg", "graph", "data-visualization", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 68,
@@ -1954,7 +2022,8 @@ export const VUE_COMPONENTS: any[] = [
       "d3-force",
       "graph",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 69,
@@ -1976,7 +2045,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.8",
     license: "MIT",
     details: "https://github.com/alexcode/vue2vis",
-    keywords: ["vue", "vuejs", "vis", "visjs"]
+    keywords: ["vue", "vuejs", "vis", "visjs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 70,
@@ -2004,7 +2074,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.3.6",
     license: "MIT",
     details: "https://github.com/egoist/vue-timeago",
-    keywords: ["vue", "timeago", "filter"]
+    keywords: ["vue", "timeago", "filter"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 71,
@@ -2027,7 +2098,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/sagarkbhatt/vuejs-countdown-timer",
-    keywords: ["vue2", "timer", "timezone", "countdown"]
+    keywords: ["vue2", "timer", "timezone", "countdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 72,
@@ -2049,7 +2121,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.9",
     license: "MIT",
     details: "https://github.com/Wanderxx/vue-fullcalendar",
-    keywords: ["vue", "fullcalendar"]
+    keywords: ["vue", "fullcalendar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 73,
@@ -2071,7 +2144,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.11",
     license: "",
     details: "https://github.com/GeoffZhu/vue-event-calendar",
-    keywords: ["vue", "eventcalendar", "vue-event-calendar"]
+    keywords: ["vue", "eventcalendar", "vue-event-calendar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 74,
@@ -2093,7 +2167,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.2",
     license: "ISC",
     details: "https://github.com/KimWooHyun/vue-lunar-calendar",
-    keywords: ["vue", "calendar", "lunar", "lunar-calendar"]
+    keywords: ["vue", "calendar", "lunar", "lunar-calendar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 75,
@@ -2115,7 +2190,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.5.0",
     license: "",
     details: "https://github.com/richardtallent/vue-simple-calendar",
-    keywords: ["vue", "calendar", "simple-calendar", "simple"]
+    keywords: ["vue", "calendar", "simple-calendar", "simple"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 76,
@@ -2137,7 +2213,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.8.3",
     license: "MIT",
     details: "https://github.com/xkjyeah/vue-google-maps/blob/vue2/API.md",
-    keywords: ["google-maps", "map", "vue", "google"]
+    keywords: ["google-maps", "map", "vue", "google"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 77,
@@ -2159,7 +2236,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.16.1",
     license: "MIT",
     details: "https://dafrok.github.io/vue-baidu-map/#/",
-    keywords: ["vue", "baidu-map", "bmap", "vue-baidu-map", "baidu", "map"]
+    keywords: ["vue", "baidu-map", "bmap", "vue-baidu-map", "baidu", "map"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 78,
@@ -2181,7 +2259,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://github.com/voluntadpear/vue-choropleth",
-    keywords: ["vue", "baidu-map", "bmap", "vue-baidu-map", "baidu", "map"]
+    keywords: ["vue", "baidu-map", "bmap", "vue-baidu-map", "baidu", "map"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 79,
@@ -2215,7 +2294,8 @@ export const VUE_COMPONENTS: any[] = [
       "ol",
       "maps",
       "mapping"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 80,
@@ -2237,7 +2317,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/SevenOutman/vue-aplayer",
-    keywords: ["vue", "aplayer", "player", "music", "html5"]
+    keywords: ["vue", "aplayer", "player", "music", "html5"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 81,
@@ -2266,7 +2347,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.7",
     license: "MIT",
     details: "https://github.com/shershen08/vuejs-sound-player",
-    keywords: ["sound", "mp3", "wav", "player", "vue", "vue.js"]
+    keywords: ["sound", "mp3", "wav", "player", "vue", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 82,
@@ -2288,7 +2370,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/MoePlayer/vue-dplayer",
-    keywords: ["player", "component", "vue", "vue.js"]
+    keywords: ["player", "component", "vue", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 83,
@@ -2310,7 +2393,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.7",
     license: "ISC",
     details: "https://github.com/petsgre/music",
-    keywords: ["player", "music", "vue", "vue.js"]
+    keywords: ["player", "music", "vue", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 84,
@@ -2339,7 +2423,8 @@ export const VUE_COMPONENTS: any[] = [
       "infinite loading",
       "infinite scroll",
       "vue infinite"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 85,
@@ -2368,7 +2453,8 @@ export const VUE_COMPONENTS: any[] = [
       "infinite",
       "ui",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 86,
@@ -2391,7 +2477,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.6",
     license: "MIT",
     details: "https://github.com/lookstudios/vue-loop",
-    keywords: ["vue", "vue-loop", "scroll", "infinite", "ui", "component"]
+    keywords: ["vue", "vue-loop", "scroll", "infinite", "ui", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 87,
@@ -2413,7 +2500,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.4",
     license: "MIT",
     details: "https://github.com/miaolz123/vue-markdown",
-    keywords: ["vue", "markdown", "vue-markdown"]
+    keywords: ["vue", "markdown", "vue-markdown"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 88,
@@ -2435,7 +2523,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.6",
     license: "MIT",
     details: "https://github.com/hinesboy/mavonEditor/blob/master/README-EN.md",
-    keywords: ["javascript", "vue", "markdown", "editor", "html"]
+    keywords: ["javascript", "vue", "markdown", "editor", "html"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 89,
@@ -2457,7 +2546,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.4",
     license: "MIT",
     details: "https://github.com/FranckFreiburger/vue-pdf",
-    keywords: ["viewer", "vue", "pdf"]
+    keywords: ["viewer", "vue", "pdf"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 90,
@@ -2479,7 +2569,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.1",
     license: "MIT",
     details: "https://github.com/arvidkahl/vue-json-tree-view",
-    keywords: ["vuejs", "vue", "vue-component"]
+    keywords: ["vuejs", "vue", "vue-component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 91,
@@ -2501,7 +2592,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "https://github.com/halower/vue2-tree",
-    keywords: ["vue", "lazy-tree", "tree"]
+    keywords: ["vue", "lazy-tree", "tree"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 92,
@@ -2529,7 +2621,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.5",
     license: "MIT",
     details: "https://nicolasbeauvais.github.io/vue-social-sharing/",
-    keywords: ["plugin", "vue", "vuejs", "social", "share"]
+    keywords: ["plugin", "vue", "vuejs", "social", "share"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 93,
@@ -2551,7 +2644,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.8",
     license: "",
     details: "https://github.com/superman66/vue-qart",
-    keywords: ["qart", "qr", "vuejs2"]
+    keywords: ["qart", "qr", "vuejs2"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 94,
@@ -2573,7 +2667,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.1",
     license: "Apache License - 2.0",
     details: "http://fusejs.io",
-    keywords: ["vuejs", "fuse", "fuzzy-search", "vue-fuse", "vue"]
+    keywords: ["vuejs", "fuse", "fuzzy-search", "vue-fuse", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 95,
@@ -2605,7 +2700,8 @@ export const VUE_COMPONENTS: any[] = [
       "ui",
       "facet",
       "autocomplete"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 96,
@@ -2627,7 +2723,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://eliep.github.io/vue-avatar/",
-    keywords: ["vue", "avatar", "user"]
+    keywords: ["vue", "avatar", "user"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 97,
@@ -2654,7 +2751,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue touch ripple",
       "vue click ripple",
       "vue ripple"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 98,
@@ -2693,7 +2791,8 @@ export const VUE_COMPONENTS: any[] = [
       "typewriter",
       "type",
       "auto"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 99,
@@ -2728,7 +2827,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue",
       "vuejs",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 100,
@@ -2756,7 +2856,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://zurb.com/playground/twentytwenty",
-    keywords: ["twentytwenty", "vue-twentytwenty", "vue", "vuejs", "component"]
+    keywords: ["twentytwenty", "vue-twentytwenty", "vue", "vuejs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 101,
@@ -2778,7 +2879,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.0",
     license: "MIT",
     details: "https://github.com/apertureless/vue-cookie-law",
-    keywords: ["cookie", "eu law", "cookie info", "vue", "vuejs", "component"]
+    keywords: ["cookie", "eu law", "cookie info", "vue", "vuejs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 102,
@@ -2800,7 +2902,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.3",
     license: "MIT",
     details: "https://github.com/apertureless/vue-cookie-law",
-    keywords: ["gravatar", "vue", "vuejs", "component"]
+    keywords: ["gravatar", "vue", "vuejs", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 103,
@@ -2822,7 +2925,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "",
     details: "https://github.com/BrockReece/vue-kanban",
-    keywords: ["kanban", "vue", "vue-kanban"]
+    keywords: ["kanban", "vue", "vue-kanban"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 104,
@@ -2845,7 +2949,8 @@ export const VUE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://www.metachris.com/2017/02/vuejs-syntax-highlighting-with-highlightjs/",
-    keywords: ["syntax", "vuejs", "vue", "highlight", "highlight.js"]
+    keywords: ["syntax", "vuejs", "vue", "highlight", "highlight.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 105,
@@ -2875,7 +2980,8 @@ export const VUE_COMPONENTS: any[] = [
       "particles.js",
       "particles",
       "vue-particles"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 106,
@@ -2906,7 +3012,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-plugin",
       "vue-component",
       "scroll"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 107,
@@ -2928,7 +3035,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://oxoyo.github.io/X-Browser-Update-Vue/",
-    keywords: ["vue", "vue-plugin", "browser-update", "browser-update-vue"]
+    keywords: ["vue", "vue-plugin", "browser-update", "browser-update-vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 108,
@@ -2950,7 +3058,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.3.1",
     license: "MIT",
     details: "https://dabernathy89.github.io/vue-query-builder/",
-    keywords: ["vue", "query", "builder", "query-builder"]
+    keywords: ["vue", "query", "builder", "query-builder"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 109,
@@ -2979,7 +3088,8 @@ export const VUE_COMPONENTS: any[] = [
       "detect",
       "internet-connectivity",
       "disconnect"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 110,
@@ -3009,7 +3119,8 @@ export const VUE_COMPONENTS: any[] = [
       "graph",
       "data-visualization",
       "vuejs"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 111,
@@ -3031,7 +3142,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "17.9.24",
     license: "MIT",
     details: "https://github.com/SeregPie/VueWordCloud",
-    keywords: ["cloud", "component", "draw", "key", "tag", "vue", "word"]
+    keywords: ["cloud", "component", "draw", "key", "tag", "vue", "word"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 112,
@@ -3053,7 +3165,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.4",
     license: "MIT",
     details: "https://cristijora.github.io/vue-tabs/#/",
-    keywords: ["tabs", "nav", "vue-tabs", "nav-tabs"]
+    keywords: ["tabs", "nav", "vue-tabs", "nav-tabs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 113,
@@ -3075,7 +3188,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/Kar-Wai-Wong/vue-xeditable",
-    keywords: ["tabs", "nav", "vue-tabs", "nav-tabs"]
+    keywords: ["tabs", "nav", "vue-tabs", "nav-tabs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 114,
@@ -3097,7 +3211,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "ISC",
     details: "https://github.com/zhangxiang958/vue-tab",
-    keywords: ["tab", "vue", "vue-tab", "vuejs"]
+    keywords: ["tab", "vue", "vue-tab", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 115,
@@ -3126,7 +3241,8 @@ export const VUE_COMPONENTS: any[] = [
       "time picker",
       "gender picker",
       "product picker"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 116,
@@ -3148,7 +3264,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.0",
     license: "MIT",
     details: "https://github.com/hilongjw/vue-datepicker",
-    keywords: ["vue", "datepicker", "vue-datepicker"]
+    keywords: ["vue", "datepicker", "vue-datepicker"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 117,
@@ -3176,7 +3293,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/phoenixwong/vue2-timepicker",
-    keywords: ["vue", "vue2", "time", "picker", "dropdown", "input", "ui"]
+    keywords: ["vue", "vue2", "time", "picker", "dropdown", "input", "ui"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 118,
@@ -3205,7 +3323,8 @@ export const VUE_COMPONENTS: any[] = [
       "month-picker",
       "vue-component",
       "vuejs"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 119,
@@ -3227,7 +3346,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.0",
     license: "MIT",
     details: "http://sagalbot.github.io/vue-select/",
-    keywords: ["select", "option", "vue-component", "vuejs"]
+    keywords: ["select", "option", "vue-component", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 120,
@@ -3250,7 +3370,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.2",
     license: "MIT",
     details: "http://monterail.github.io/vue-multiselect/#sub-getting-started",
-    keywords: ["select", "multiselect", "vue-component", "vuejs"]
+    keywords: ["select", "multiselect", "vue-component", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 121,
@@ -3286,7 +3407,8 @@ export const VUE_COMPONENTS: any[] = [
       "select2",
       "ui",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 122,
@@ -3314,7 +3436,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue image picker",
       "vue2 image picker",
       "vue2 image select"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 123,
@@ -3342,7 +3465,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-slider",
       "vue-component",
       "vue-slider-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 124,
@@ -3364,7 +3488,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/devstark-com/vue-circle-slider#demo",
-    keywords: ["vue", "vuejs", "plugin", "slider", "circle"]
+    keywords: ["vue", "vuejs", "plugin", "slider", "circle"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 125,
@@ -3401,7 +3526,8 @@ export const VUE_COMPONENTS: any[] = [
       "list",
       "sortable.js",
       "web-components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 126,
@@ -3423,7 +3549,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.1",
     license: "MIT",
     details: "https://github.com/Astray-git/vue-dragula",
-    keywords: ["vue", "vuejs", "drag and drop", "list"]
+    keywords: ["vue", "vuejs", "drag and drop", "list"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 127,
@@ -3445,7 +3572,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.4",
     license: "MIT",
     details: "https://github.com/kristianmandrup/vue2-dragula",
-    keywords: ["vue", "vuejs", "drag and drop", "list"]
+    keywords: ["vue", "vuejs", "drag and drop", "list"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 128,
@@ -3480,7 +3608,8 @@ export const VUE_COMPONENTS: any[] = [
       "droppable",
       "drag-and-drop",
       "dnd"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 129,
@@ -3502,7 +3631,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.5.0",
     license: "MIT",
     details: "https://github.com/mauricius/vue-draggable-resizable",
-    keywords: ["vue", "component", "dragabble", "resizable"]
+    keywords: ["vue", "component", "dragabble", "resizable"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 130,
@@ -3524,7 +3654,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.2",
     license: "MIT",
     details: "http://hejx.space/vddl/#/",
-    keywords: ["vue", "component", "dragabble", "drop", "drag", "drag-and-drop"]
+    keywords: ["vue", "component", "dragabble", "drop", "drag", "drag-and-drop"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 131,
@@ -3546,7 +3677,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "https://github.com/cameronhimself/vue-drag-drop",
-    keywords: ["vue", "vuejs", "plugin", "drop", "drag"]
+    keywords: ["vue", "vuejs", "plugin", "drop", "drag"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 132,
@@ -3578,7 +3710,8 @@ export const VUE_COMPONENTS: any[] = [
       "instant",
       "searchbox",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 133,
@@ -3606,7 +3739,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-autocomplete",
       "autocomplete-vue",
       "v-autocomplete"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 134,
@@ -3628,7 +3762,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/Ginhing/vue-tagsinput",
-    keywords: ["tagsinput", "vue", "input"]
+    keywords: ["tagsinput", "vue", "input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 135,
@@ -3650,7 +3785,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.16",
     license: "MIT",
     details: "https://github.com/matiastucci/vue-input-tag",
-    keywords: ["input", "tag", "inputtag"]
+    keywords: ["input", "tag", "inputtag"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 136,
@@ -3686,7 +3822,8 @@ export const VUE_COMPONENTS: any[] = [
       "development",
       "vue",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 137,
@@ -3708,7 +3845,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.5",
     license: "MIT",
     details: "https://github.com/waynecz/vue-img-inputer",
-    keywords: ["file-input", "image", "vue", "components", "ui"]
+    keywords: ["file-input", "image", "vue", "components", "ui"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 138,
@@ -3730,7 +3868,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.10",
     license: "MIT",
     details: "https://github.com/vinayakkulkarni/v-image",
-    keywords: ["vuejs", "image", "vue2", "input-image"]
+    keywords: ["vuejs", "image", "vue2", "input-image"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 139,
@@ -3752,7 +3891,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.0",
     license: "MIT",
     details: "https://github.com/xiaokaike/vue-color",
-    keywords: ["color", "vuejs", "vue"]
+    keywords: ["color", "vuejs", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 140,
@@ -3774,7 +3914,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/drewjbartlett/vue-switches",
-    keywords: ["switches", "component", "vue"]
+    keywords: ["switches", "component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 141,
@@ -3796,7 +3937,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.5",
     license: "MIT",
     details: "https://github.com/euvl/vue-js-toggle-button",
-    keywords: ["switch", "toggle", "vue", "button"]
+    keywords: ["switch", "toggle", "vue", "button"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 142,
@@ -3818,7 +3960,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.2",
     license: "MIT",
     details: "https://github.com/mariomka/vue-checkbox-radio",
-    keywords: ["checkbox", "radio", "vue"]
+    keywords: ["checkbox", "radio", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 143,
@@ -3840,7 +3983,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.1",
     license: "",
     details: "https://github.com/Keiwen/vue-enhancedCheck",
-    keywords: ["checkbox", "switch", "toggle", "vue"]
+    keywords: ["checkbox", "switch", "toggle", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 144,
@@ -3862,7 +4006,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.2",
     license: "MIT",
     details: "https://niksmr.github.io/vue-masked-input/",
-    keywords: ["mask", "masked", "input", "vue"]
+    keywords: ["mask", "masked", "input", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 145,
@@ -3892,7 +4037,8 @@ export const VUE_COMPONENTS: any[] = [
       "input formatting",
       "text formatting",
       "string formatting"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 146,
@@ -3914,7 +4060,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "ISC",
     details: "https://github.com/lakb248/vue-ip-input",
-    keywords: ["vue-component", "vuejs", "ip", "ip-input"]
+    keywords: ["vue-component", "vuejs", "ip", "ip-input"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 147,
@@ -3946,7 +4093,8 @@ export const VUE_COMPONENTS: any[] = [
       "separator",
       "vue",
       "vue.js"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 148,
@@ -3978,7 +4126,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-mask",
       "awesome",
       "awesome-mask"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 149,
@@ -4000,7 +4149,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.8.0",
     license: "MIT",
     details: "https://github.com/vuejs-tips/v-money",
-    keywords: ["vue", "input", "mask", "directive", "currency", "money"]
+    keywords: ["vue", "input", "mask", "directive", "currency", "money"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 150,
@@ -4044,7 +4194,8 @@ export const VUE_COMPONENTS: any[] = [
       "vuejs",
       "ui",
       "components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 151,
@@ -4073,7 +4224,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue rich text editor",
       "vue web editor",
       "vue editor"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 152,
@@ -4095,7 +4247,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.1",
     license: "MIT",
     details: "https://github.com/yabwe/medium-editor#core-options",
-    keywords: ["vue", "js", "medium", "editor", "directive"]
+    keywords: ["vue", "js", "medium", "editor", "directive"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 153,
@@ -4130,7 +4283,8 @@ export const VUE_COMPONENTS: any[] = [
       "rte",
       "javascript",
       "jquery"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 154,
@@ -4152,7 +4306,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.5",
     license: "MIT",
     details: "https://fritx.github.io/vue-at/#/en/quickstart",
-    keywords: ["vue", "text", "editor", "at"]
+    keywords: ["vue", "text", "editor", "at"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 155,
@@ -4174,7 +4329,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.7",
     license: "MIT",
     details: "https://github.com/chmln/vue-wysiwyg",
-    keywords: ["vue", "vue2", "wysiwyg", "html", "editor"]
+    keywords: ["vue", "vue2", "wysiwyg", "html", "editor"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 156,
@@ -4198,7 +4354,8 @@ export const VUE_COMPONENTS: any[] = [
     license: "ISC",
     details:
       "http://vanthink-ued.github.io/vue-core-image-upload/index.html#/en/home",
-    keywords: ["vue", "plugin", "upload", "image", "crop", "image"]
+    keywords: ["vue", "plugin", "upload", "image", "crop", "image"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 157,
@@ -4240,7 +4397,8 @@ export const VUE_COMPONENTS: any[] = [
       "editable",
       "lightweight",
       "mobile"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 158,
@@ -4268,7 +4426,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-cropper",
       "vue-component",
       "vue-cropper-component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 159,
@@ -4297,7 +4456,8 @@ export const VUE_COMPONENTS: any[] = [
       "file-upload",
       "vue-upload",
       "dropzone"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 160,
@@ -4319,7 +4479,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.1",
     license: "MIT",
     details: "https://github.com/abarta/vue2-multi-uploader",
-    keywords: ["vuejs", "vue", "multi-uploader", "file-upload", "vue-upload"]
+    keywords: ["vuejs", "vue", "multi-uploader", "file-upload", "vue-upload"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 161,
@@ -4341,7 +4502,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.3.6",
     license: "MIT",
     details: "https://github.com/rowanwins/vue-dropzone",
-    keywords: ["vuejs", "vue", "dropzone"]
+    keywords: ["vuejs", "vue", "dropzone"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 162,
@@ -4363,7 +4525,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.6",
     license: "ISC",
     details: "https://github.com/vmaimone/vue-context-menu",
-    keywords: ["component", "vue", "context", "menu"]
+    keywords: ["component", "vue", "context", "menu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 163,
@@ -4385,7 +4548,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.7.0",
     license: "MIT",
     details: "https://cinwell.com/vuep/#/",
-    keywords: ["vue", "playground", "preview", "editable", "component", "vuejs"]
+    keywords: ["vue", "playground", "preview", "editable", "component", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 164,
@@ -4407,7 +4571,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://github.com/apertureless/vue-password-strength-meter",
-    keywords: ["vue", "password", "password strength", "security", "vuejs"]
+    keywords: ["vue", "password", "password strength", "security", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 165,
@@ -4439,7 +4604,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-longpress",
       "hold click",
       "plugin"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 166,
@@ -4461,7 +4627,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.13",
     license: "MIT",
     details: "https://github.com/olefirenko/vue-google-autocomplete",
-    keywords: ["vue", "google", "autocomplete"]
+    keywords: ["vue", "google", "autocomplete"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 167,
@@ -4483,7 +4650,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "Unlicense",
     details: "https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit",
-    keywords: ["vue", "submit", "autocomplete"]
+    keywords: ["vue", "submit", "autocomplete"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 168,
@@ -4505,7 +4673,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.1",
     license: "MIT",
     details: "https://github.com/SinanMtl/vue-rate",
-    keywords: ["vue", "rate", "component", "vue.js", "vue-component"]
+    keywords: ["vue", "rate", "component", "vue.js", "vue-component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 169,
@@ -4527,7 +4696,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.5",
     license: "MIT",
     details: "https://github.com/MadimetjaShika/vuetify-google-autocomplete",
-    keywords: ["vue", "google", "vuetify", "autocomplete"]
+    keywords: ["vue", "google", "vuetify", "autocomplete"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 170,
@@ -4549,7 +4719,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.7.0",
     license: "MIT",
     details: "https://cristijora.github.io/vue-form-wizard/#/",
-    keywords: ["vue", "form", "wizard", "tab", "vuejs"]
+    keywords: ["vue", "form", "wizard", "tab", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 171,
@@ -4572,7 +4743,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/MopTym/vue-waterfall",
-    keywords: ["waterfall", "vue", "pinterest", "layout"]
+    keywords: ["waterfall", "vue", "pinterest", "layout"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 172,
@@ -4601,7 +4773,8 @@ export const VUE_COMPONENTS: any[] = [
       "web-components",
       "web-component",
       "layout"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 173,
@@ -4633,7 +4806,8 @@ export const VUE_COMPONENTS: any[] = [
       "resizable",
       "fluid",
       "responsive"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 174,
@@ -4655,7 +4829,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.2",
     license: "MIT",
     details: "https://github.com/surmon-china/vue-drag-zone",
-    keywords: ["vue-drag-zone", "vue drag dom", "vue drag size", "vue drag"]
+    keywords: ["vue-drag-zone", "vue drag dom", "vue drag size", "vue drag"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 175,
@@ -4678,7 +4853,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.10.12",
     license: "MIT",
     details: "https://github.com/shershen08/vue-masonry",
-    keywords: ["masonry", "layout", "vue.js", "vue"]
+    keywords: ["masonry", "layout", "vue.js", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 176,
@@ -4700,7 +4876,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://bkzl.github.io/vue-fraction-grid/",
-    keywords: ["grid", "flexbox", "vue.js", "vue"]
+    keywords: ["grid", "flexbox", "vue.js", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 177,
@@ -4729,7 +4906,8 @@ export const VUE_COMPONENTS: any[] = [
       "big-list",
       "scroll-list",
       "virtual-list"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 178,
@@ -4751,7 +4929,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.9.0",
     license: "MIT",
     details: "https://github.com/Akryum/vue-virtual-scroller#usage",
-    keywords: ["vue", "vue.js", "plugin"]
+    keywords: ["vue", "vue.js", "plugin"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 179,
@@ -4773,7 +4952,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.9",
     license: "MIT",
     details: "https://github.com/dattn/dnd-grid",
-    keywords: ["vue", "vue.js", "component"]
+    keywords: ["vue", "vue.js", "component"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 180,
@@ -4805,7 +4985,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-router",
       "choose",
       "layout"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 181,
@@ -4838,7 +5019,8 @@ export const VUE_COMPONENTS: any[] = [
       "spa",
       "website",
       "electron"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 182,
@@ -4876,7 +5058,8 @@ export const VUE_COMPONENTS: any[] = [
       "material design",
       "material",
       "components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 183,
@@ -4898,7 +5081,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.16.0-beta.3",
     license: "MIT",
     details: "https://vuetifyjs.com/vuetify/quick-start",
-    keywords: ["browser", "vue", "vue 2", "vuetify", "components"]
+    keywords: ["browser", "vue", "vue 2", "vuetify", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 184,
@@ -4920,7 +5104,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "http://www.muse-ui.org/#/install",
-    keywords: ["browser", "vue", "muse", "muse-ui", "components"]
+    keywords: ["browser", "vue", "muse", "muse-ui", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 185,
@@ -4942,7 +5127,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.3",
     license: "MIT",
     details: "https://buefy.github.io/#/documentation/start",
-    keywords: ["bulma", "vue", "vuejs", "vue-bulma", "components"]
+    keywords: ["bulma", "vue", "vuejs", "vue-bulma", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 186,
@@ -4964,7 +5150,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.6",
     license: "MIT",
     details: "http://element.eleme.io/#/en-US/component/installation",
-    keywords: ["eleme", "vue", "vuejs", "components"]
+    keywords: ["eleme", "vue", "vuejs", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 187,
@@ -4986,7 +5173,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "ISC",
     details: "https://vulma.org/#/setup",
-    keywords: ["vulma", "vue", "bulma", "components"]
+    keywords: ["vulma", "vue", "bulma", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 188,
@@ -5008,7 +5196,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.5.0",
     license: "",
     details: "https://github.com/vouill/vue-bulma-components",
-    keywords: ["vue", "bulma", "components"]
+    keywords: ["vue", "bulma", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 189,
@@ -5038,7 +5227,8 @@ export const VUE_COMPONENTS: any[] = [
       "components",
       "ui",
       "framework"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 190,
@@ -5060,7 +5250,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.0-beta.2",
     license: "MIT",
     details: "https://at-ui.github.io/at-ui/#/en/docs/introduction",
-    keywords: ["at", "at-ui", "desktop", "component", "ui", "framework"]
+    keywords: ["at", "at-ui", "desktop", "component", "ui", "framework"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 191,
@@ -5098,7 +5289,8 @@ export const VUE_COMPONENTS: any[] = [
       "f7",
       "material",
       "android"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 192,
@@ -5131,7 +5323,8 @@ export const VUE_COMPONENTS: any[] = [
       "mobile",
       "onsen",
       "onsenui"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 193,
@@ -5167,7 +5360,8 @@ export const VUE_COMPONENTS: any[] = [
       "android",
       "ios",
       "yunos"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 194,
@@ -5189,7 +5383,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.10",
     license: "MIT",
     details: "https://github.com/posva/vue-mdc",
-    keywords: ["mdc", "material", "components"]
+    keywords: ["mdc", "material", "components"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 195,
@@ -5211,7 +5406,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://josephuspaye.github.io/Keen-UI/#/ui-alert",
-    keywords: ["vue", "vuejs", "material design", "components", "ui"]
+    keywords: ["vue", "vuejs", "material design", "components", "ui"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 196,
@@ -5233,7 +5429,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.12",
     license: "MIT",
     details: "https://admin.vuebulma.com/#/",
-    keywords: ["admin", "bulma", "dashboard", "data", "visualization", "vue"]
+    keywords: ["admin", "bulma", "dashboard", "data", "visualization", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 197,
@@ -5255,7 +5452,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.6.3",
     license: "MIT",
     details: "https://vuikit.js.org/#/",
-    keywords: ["library", "vuejs", "uikit", "vuikit", "vue"]
+    keywords: ["library", "vuejs", "uikit", "vuikit", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 198,
@@ -5324,7 +5522,8 @@ export const VUE_COMPONENTS: any[] = [
       "table",
       "tag",
       "tooltip"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 199,
@@ -5346,7 +5545,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.11.10",
     license: "MIT",
     details: "https://uiv.wxsm.space/getting-started",
-    keywords: ["bootstrap", "vue", "webpack"]
+    keywords: ["bootstrap", "vue", "webpack"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 200,
@@ -5368,7 +5568,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.37",
     license: "MIT",
     details: "http://yuche.github.io/vue-strap/",
-    keywords: ["bootstrap", "vue-component", "vue", "vue-bootstrap"]
+    keywords: ["bootstrap", "vue-component", "vue", "vue-bootstrap"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 201,
@@ -5390,7 +5591,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.2",
     license: "MIT",
     details: "https://n3-components.github.io/N3-components/component_en.html",
-    keywords: ["n3", "vue-component", "vue"]
+    keywords: ["n3", "vue-component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 202,
@@ -5412,7 +5614,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.4",
     license: "MIT",
     details: "http://jsmod-vue.tedfe.com/#/",
-    keywords: ["jsmod-pc-vue", "vue-component", "vue"]
+    keywords: ["jsmod-pc-vue", "vue-component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 203,
@@ -5441,7 +5644,8 @@ export const VUE_COMPONENTS: any[] = [
       "semantic-ui",
       "vue-components",
       "semantic components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 204,
@@ -5463,7 +5667,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.9.9",
     license: "MIT",
     details: "https://www.youzanyun.com/zanui/vue#/component/quickstart",
-    keywords: ["component", "vue", "mobile", "youzan"]
+    keywords: ["component", "vue", "mobile", "youzan"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 205,
@@ -5496,7 +5701,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue ssr",
       "vue isomorphic",
       "vue versatile"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 206,
@@ -5518,7 +5724,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.13.3",
     license: "MIT",
     details: "https://github.com/scriptPilot/app-framework",
-    keywords: ["app-framework", "app", "framework", "vue", "vue.js"]
+    keywords: ["app-framework", "app", "framework", "vue", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 207,
@@ -5540,7 +5747,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/vue-comps/vue-scrollfire",
-    keywords: ["scrollfire", "component", "vue"]
+    keywords: ["scrollfire", "component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 208,
@@ -5562,7 +5770,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://github.com/nchutchind/vue-outside-events",
-    keywords: ["vue-outside-events", "component", "vue"]
+    keywords: ["vue-outside-events", "component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 209,
@@ -5584,7 +5793,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/Dafrok/v-hotkey/blob/master/README.md",
-    keywords: ["v-hotkey", "directive", "hotkey", "vue"]
+    keywords: ["v-hotkey", "directive", "hotkey", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 210,
@@ -5606,7 +5816,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.9",
     license: "MIT",
     details: "https://github.com/reinerBa/Vue-Responsive",
-    keywords: ["vuejs", "responsive", "vue"]
+    keywords: ["vuejs", "responsive", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 211,
@@ -5628,7 +5839,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/apertureless/vue-breakpoints",
-    keywords: ["vuejs", "breakpoints", "responsive", "mobile", "helpers"]
+    keywords: ["vuejs", "breakpoints", "responsive", "mobile", "helpers"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 212,
@@ -5650,7 +5862,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "https://github.com/simplesmiler/vue-focus",
-    keywords: ["focus", "reusable", "vue", "vue-directive", "vuejs"]
+    keywords: ["focus", "reusable", "vue", "vue-directive", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 213,
@@ -5672,7 +5885,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://icebob.gitbooks.io/vueformgenerator/content/",
-    keywords: ["form", "generator", "vue", "schema", "vuejs", "json"]
+    keywords: ["form", "generator", "vue", "schema", "vuejs", "json"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 214,
@@ -5694,7 +5908,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.5.0",
     license: "MIT",
     details: "https://monterail.github.io/vuelidate/#getting-started",
-    keywords: ["vuelidate", "validate", "vue", "vuejs"]
+    keywords: ["vuelidate", "validate", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 215,
@@ -5722,7 +5937,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.14.0",
     license: "MIT",
     details: "http://simple-vue-validator.maijin.info/",
-    keywords: ["form", "validation", "vue", "vuejs"]
+    keywords: ["form", "validation", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 216,
@@ -5757,7 +5973,8 @@ export const VUE_COMPONENTS: any[] = [
       "validation",
       "vue",
       "vuejs2"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 217,
@@ -5780,7 +5997,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/cj/vuelidation",
-    keywords: ["vuelidation", "form-validation", "vue", "vuejs2"]
+    keywords: ["vuelidation", "form-validation", "vue", "vuejs2"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 218,
@@ -5802,7 +6020,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.7.8",
     license: "MIT",
     details: "https://rigor789.github.io/vue-scrollto/#/docs",
-    keywords: ["vue", "vuejs", "directive", "scroll", "scrollto", "scroll to"]
+    keywords: ["vue", "vuejs", "directive", "scroll", "scrollto", "scroll to"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 219,
@@ -5824,7 +6043,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.0.0",
     license: "MIT",
     details: "https://github.com/luiguild/v-bar",
-    keywords: ["vue", "vuejs", "bar", "v-bar"]
+    keywords: ["vue", "vuejs", "bar", "v-bar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 220,
@@ -5853,7 +6073,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.17",
     license: "MIT",
     details: "https://github.serafin.io/vuebar/",
-    keywords: ["vue", "vuejs", "directive", "scroll", "scrollbar", "native"]
+    keywords: ["vue", "vuejs", "directive", "scroll", "scrollbar", "native"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 221,
@@ -5874,7 +6095,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.4",
     license: "MIT",
     details: "https://github.com/ozangulle/vue-detached-scrollbar",
-    keywords: ["vue", "vuejs", "scroll", "scrollbar", "detached"]
+    keywords: ["vue", "vuejs", "scroll", "scrollbar", "detached"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 222,
@@ -5897,7 +6119,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.1",
     license: "MIT",
     details: "https://github.com/chrishurlburt/vue-scrollview",
-    keywords: ["vue", "vuejs", "scroll"]
+    keywords: ["vue", "vuejs", "scroll"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 223,
@@ -5928,7 +6151,8 @@ export const VUE_COMPONENTS: any[] = [
       "active-class",
       "menu-item",
       "highlight-menu-item"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 224,
@@ -5950,7 +6174,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.2",
     license: "MIT",
     details: "https://github.com/heavyy/vue-intersect",
-    keywords: ["vue", "scroll", "active"]
+    keywords: ["vue", "scroll", "active"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 225,
@@ -5973,7 +6198,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/AlexandreBonaventure/vue-scrollmonitor",
-    keywords: ["vue", "scroll", "monitor"]
+    keywords: ["vue", "scroll", "monitor"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 226,
@@ -5996,7 +6222,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.6",
     license: "MIT",
     details: "https://github.com/jeneser/vue-scroll-behavior",
-    keywords: ["vue", "vue-scroll-behavior"]
+    keywords: ["vue", "vue-scroll-behavior"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 227,
@@ -6019,7 +6246,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.7.0",
     license: "MIT",
     details: "https://router.vuejs.org",
-    keywords: ["vue", "router", "routing"]
+    keywords: ["vue", "router", "routing"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 228,
@@ -6042,7 +6270,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.3",
     license: "MIT",
     details: "https://github.com/hilongjw/vue-lazyload",
-    keywords: ["vue", "vue-lazyload", "lazyload", "vue-directive"]
+    keywords: ["vue", "vue-lazyload", "lazyload", "vue-directive"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 229,
@@ -6065,7 +6294,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.3",
     license: "MIT",
     details: "https://github.com/JALBAA/vue-lazyload-img",
-    keywords: ["vue", "lazyload"]
+    keywords: ["vue", "lazyload"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 230,
@@ -6096,7 +6326,8 @@ export const VUE_COMPONENTS: any[] = [
       "babel",
       "webpack",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 231,
@@ -6127,7 +6358,8 @@ export const VUE_COMPONENTS: any[] = [
       "navigate",
       "slice",
       "vue"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 232,
@@ -6156,7 +6388,8 @@ export const VUE_COMPONENTS: any[] = [
       "uib-pagination",
       "vuejs pagination",
       "vuejs paginator"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 233,
@@ -6179,7 +6412,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.0",
     license: "MIT",
     details: "https://github.com/lokyoung/vuejs-paginate",
-    keywords: ["paginate", "pagination", "vue"]
+    keywords: ["paginate", "pagination", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 234,
@@ -6203,7 +6437,8 @@ export const VUE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination",
-    keywords: ["laravel", "semantic-ui", "vuejs", "paginator", "pagination"]
+    keywords: ["laravel", "semantic-ui", "vuejs", "paginator", "pagination"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 235,
@@ -6235,7 +6470,8 @@ export const VUE_COMPONENTS: any[] = [
       "transition",
       "vue-animate",
       "css"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 236,
@@ -6256,7 +6492,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/chenqingspring/vue-lottie",
-    keywords: ["lottie", "vue-component", "vue-animation", "vue"]
+    keywords: ["lottie", "vue-component", "vue-animation", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 237,
@@ -6277,7 +6514,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.6",
     license: "ISC",
     details: "https://github.com/jaweii/vueg/blob/master/README_EN.md",
-    keywords: ["transition", "vue"]
+    keywords: ["transition", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 238,
@@ -6299,7 +6537,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.0",
     license: "MIT",
     details: "https://linusborg.github.io/portal-vue/#/",
-    keywords: ["portal-vue", "vue"]
+    keywords: ["portal-vue", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 239,
@@ -6325,7 +6564,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue currency",
       "vue currency filter",
       "vue filter"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 240,
@@ -6346,7 +6586,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.6",
     license: "MIT",
     details: "https://github.com/MMF-FE/vue-svgicon",
-    keywords: ["vue", "vue2.0", "svg", "icon", "svgicon"]
+    keywords: ["vue", "vue2.0", "svg", "icon", "svgicon"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 241,
@@ -6378,7 +6619,8 @@ export const VUE_COMPONENTS: any[] = [
       "visibility",
       "visible",
       "hidden"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 242,
@@ -6399,7 +6641,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.8.0",
     license: "MIT",
     details: "https://github.com/mokkabonna/vue-async-methods",
-    keywords: ["vue", "async", "async-methods"]
+    keywords: ["vue", "async", "async-methods"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 243,
@@ -6420,7 +6663,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "MIT",
     details: "https://github.com/hujiulong/vue-3d-model",
-    keywords: ["vue", "three.js", "component", "vue-3d-model"]
+    keywords: ["vue", "three.js", "component", "vue-3d-model"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 244,
@@ -6441,7 +6685,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.5",
     license: "MIT",
     details: "https://github.com/ChiChou/vue-pano",
-    keywords: ["webgl", "browser", "panorama", "vue-panorama"]
+    keywords: ["webgl", "browser", "panorama", "vue-panorama"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 245,
@@ -6462,7 +6707,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "",
     details: "https://github.com/fritx/vue-threejs",
-    keywords: ["vue-threejs", "vue"]
+    keywords: ["vue-threejs", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 246,
@@ -6483,7 +6729,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.1",
     license: "ISC",
     details: "http://mirari.cc/vue-fullscreen/",
-    keywords: ["fullscreen", "vue"]
+    keywords: ["fullscreen", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 247,
@@ -6510,7 +6757,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.2",
     license: "MIT",
     details: "https://github.com/vue-typed/vue-typed",
-    keywords: ["vue", "component", "typescript", "vue-component", "vuex"]
+    keywords: ["vue", "component", "typescript", "vue-component", "vuex"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 248,
@@ -6540,7 +6788,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue",
       "vue-loader",
       "ts"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 249,
@@ -6570,7 +6819,8 @@ export const VUE_COMPONENTS: any[] = [
       "ajax",
       "loader",
       "component"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 250,
@@ -6591,7 +6841,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.23",
     license: "MIT",
     details: "https://github.com/Polyconseil/vue-gettext",
-    keywords: ["vue-gettext", "gettext", "vue"]
+    keywords: ["vue-gettext", "gettext", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 251,
@@ -6612,7 +6863,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.10",
     license: "MIT",
     details: "https://github.com/MattyRad/vue-i18n",
-    keywords: ["vue", "vue.js", "plugin", "i18n", "internationalization"]
+    keywords: ["vue", "vue.js", "plugin", "i18n", "internationalization"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 252,
@@ -6640,7 +6892,8 @@ export const VUE_COMPONENTS: any[] = [
       "plugin",
       "vue",
       "vue.js"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 253,
@@ -6670,7 +6923,8 @@ export const VUE_COMPONENTS: any[] = [
       "locales",
       "vue",
       "vue.js"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 254,
@@ -6691,7 +6945,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/vouill/vue-geb",
-    keywords: ["handler", "event", "vue", "vue.js"]
+    keywords: ["handler", "event", "vue", "vue.js"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 255,
@@ -6731,7 +6986,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-plugin",
       "watch",
       "es6-modules"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 256,
@@ -6752,7 +7008,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.22",
     license: "ISC",
     details: "https://github.com/buhrmi/vue-pouch",
-    keywords: ["vue", "vue-pouch"]
+    keywords: ["vue", "vue-pouch"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 257,
@@ -6774,7 +7031,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.7.0",
     license: "MIT",
     details: "https://github.com/maple3142/vuejs-storage",
-    keywords: ["vue", "vue-pouch"]
+    keywords: ["vue", "vue-pouch"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 258,
@@ -6795,7 +7053,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.1",
     license: "MIT",
     details: "https://vuex.vuejs.org/en/",
-    keywords: ["vue", "vuex"]
+    keywords: ["vue", "vuex"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 259,
@@ -6816,7 +7075,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.0",
     license: "WTFPL",
     details: "https://github.com/buhrmi/vue-sync",
-    keywords: ["vue", "sync"]
+    keywords: ["vue", "sync"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 260,
@@ -6837,7 +7097,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.8.0",
     license: "MIT",
     details: "https://github.com/keuller/vuelm",
-    keywords: ["vuelm", "vue", "state management", "elm"]
+    keywords: ["vuelm", "vue", "state management", "elm"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 261,
@@ -6858,7 +7119,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/robinvdvleuten/vuex-persistedstate",
-    keywords: ["vuex", "vue", "plugin"]
+    keywords: ["vuex", "vue", "plugin"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 262,
@@ -6879,7 +7141,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "http://championswimmer.in/vuex-persist/",
-    keywords: ["vuex", "vue", "persist", "localstorage"]
+    keywords: ["vuex", "vue", "persist", "localstorage"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 263,
@@ -6900,7 +7163,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.2",
     license: "ISC",
     details: "https://github.com/biluochun/vuex-localState",
-    keywords: ["vuex", "vuex-local-state", "localstorage"]
+    keywords: ["vuex", "vuex-local-state", "localstorage"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 264,
@@ -6921,7 +7185,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.6",
     license: "MIT",
     details: "https://github.com/ye-will/vue-factory",
-    keywords: ["vuex", "vue-factory", "vue"]
+    keywords: ["vuex", "vue-factory", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 265,
@@ -6943,7 +7208,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/c01nd01r/vue-bem-cn",
-    keywords: ["vue", "vuejs", "vue.js", "bem", "bem-cn", "class", "classname"]
+    keywords: ["vue", "vuejs", "vue.js", "bem", "bem-cn", "class", "classname"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 266,
@@ -6964,7 +7230,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://poi.js.org/#/home",
-    keywords: ["poi"]
+    keywords: ["poi"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 267,
@@ -6985,7 +7252,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.2",
     license: "MIT",
     details: "https://github.com/zack24q/vue-navigation",
-    keywords: ["navigation", "vue", "vue-router"]
+    keywords: ["navigation", "vue", "vue-router"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 268,
@@ -7006,7 +7274,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.1",
     license: "MIT",
     details: "https://github.com/samturrell/vue-breadcrumbs",
-    keywords: ["breadcrumbs", "plugin", "vue", "vuejs"]
+    keywords: ["breadcrumbs", "plugin", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 269,
@@ -7027,7 +7296,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "",
     license: "Unlicense",
     details: "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs",
-    keywords: ["breadcrumbs", "plugin", "vue", "vuejs"]
+    keywords: ["breadcrumbs", "plugin", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 270,
@@ -7066,7 +7336,8 @@ export const VUE_COMPONENTS: any[] = [
       "attribute",
       "position",
       "selector"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 271,
@@ -7087,7 +7358,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://mikeapr4.gitbooks.io/vue-backbone/",
-    keywords: ["vue", "backbone"]
+    keywords: ["vue", "backbone"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 272,
@@ -7119,7 +7391,8 @@ export const VUE_COMPONENTS: any[] = [
       "flux",
       "vuex",
       "redux"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 273,
@@ -7146,7 +7419,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.4",
     license: "MIT",
     details: "https://nicolasbeauvais.github.io/vue-add-to-calendar/",
-    keywords: ["plugin", "vue", "vuejs", "calendar", "share", "add"]
+    keywords: ["plugin", "vue", "vuejs", "calendar", "share", "add"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 274,
@@ -7168,7 +7442,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.1.0-rc.5",
     license: "ISC",
     details: "https://github.com/Akryum/vue-apollo",
-    keywords: ["graphql", "vue", "apollo"]
+    keywords: ["graphql", "vue", "apollo"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 275,
@@ -7189,7 +7464,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.9.0",
     license: "MIT",
     details: "https://github.com/HerringtonDarkholme/av-ts",
-    keywords: ["vue", "av-ts"]
+    keywords: ["vue", "av-ts"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 276,
@@ -7210,7 +7486,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.3.0",
     license: "MIT",
     details: "https://karol-f.github.io/vue-custom-element/#/",
-    keywords: ["vue", "custom-elements"]
+    keywords: ["vue", "custom-elements"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 277,
@@ -7231,7 +7508,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.2",
     license: "MIT",
     details: "http://kartsims.github.io/vue-cordova/",
-    keywords: ["vuejs", "cordova", "plugin"]
+    keywords: ["vuejs", "cordova", "plugin"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 278,
@@ -7253,7 +7531,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.9",
     license: "MIT",
     details: "http://blog2.edgardleal.com/require-vuejs/",
-    keywords: ["javascript", "vuejs", "requirejs"]
+    keywords: ["javascript", "vuejs", "requirejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 279,
@@ -7274,7 +7553,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://runkit.com/docs/embed",
-    keywords: ["runkit", "vue"]
+    keywords: ["runkit", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 280,
@@ -7295,7 +7575,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.2.1",
     license: "MIT",
     details: "https://github.com/anteriovieira/vue-youtube#installation",
-    keywords: ["vue-youtube", "vue", "youtube"]
+    keywords: ["vue-youtube", "vue", "youtube"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 281,
@@ -7316,7 +7597,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.0-development",
     license: "MIT",
     details: "https://matteogabriele.gitbooks.io/vue-analytics/content/",
-    keywords: ["vue", "analytics", "vue-analytics"]
+    keywords: ["vue", "analytics", "vue-analytics"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 282,
@@ -7337,7 +7619,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "",
     license: "Unlicense",
     details: "http://vuepack.org",
-    keywords: ["vue", "vuepack"]
+    keywords: ["vue", "vuepack"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 283,
@@ -7358,7 +7641,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.0.0",
     license: "MIT",
     details: "https://storybook.js.org",
-    keywords: ["vue", "storybook"]
+    keywords: ["vue", "storybook"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 284,
@@ -7380,7 +7664,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/MiCottOn/DejaVue/blob/master/documentation.md",
-    keywords: ["vue", "dejavue"]
+    keywords: ["vue", "dejavue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 285,
@@ -7401,7 +7686,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "https://github.com/justinkames/vuejs-logger",
-    keywords: ["vue", "vuejs-logger"]
+    keywords: ["vue", "vuejs-logger"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 286,
@@ -7422,7 +7708,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.1",
     license: "MIT",
     details: "https://github.com/QingWei-Li/vue-markdown-loader",
-    keywords: ["vue", "markdown", "webpack", "loader"]
+    keywords: ["vue", "markdown", "webpack", "loader"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 287,
@@ -7443,7 +7730,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.1",
     license: "MIT",
     details: "https://github.com/vue-play/vue-play",
-    keywords: ["vue", "storybook", "component", "play", "ui"]
+    keywords: ["vue", "storybook", "component", "play", "ui"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 288,
@@ -7473,7 +7761,8 @@ export const VUE_COMPONENTS: any[] = [
       "library",
       "styleguide",
       "components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 289,
@@ -7494,7 +7783,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.0",
     license: "MIT",
     details: "https://vuejs-tips.github.io/cheatsheet/",
-    keywords: ["vue", "vuejs", "cheatsheet"]
+    keywords: ["vue", "vuejs", "cheatsheet"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 290,
@@ -7515,7 +7805,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://vuejs-tips.github.io/vuex-cheatsheet/",
-    keywords: ["vue", "vuejs", "vuex-cheatsheet"]
+    keywords: ["vue", "vuejs", "vuex-cheatsheet"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 291,
@@ -7545,7 +7836,8 @@ export const VUE_COMPONENTS: any[] = [
       "generator",
       "component",
       "components"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 292,
@@ -7583,7 +7875,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue.js testing utilities",
       "vue 2 testing utilities",
       "vue.js 2 testing utilities"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 293,
@@ -7604,7 +7897,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.1",
     license: "ISC",
     details: "https://jackmellis.gitbooks.io/vuenit/content/",
-    keywords: ["vue", "vuenit"]
+    keywords: ["vue", "vuenit"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 294,
@@ -7625,7 +7919,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0-beta.1",
     license: "MIT",
     details: "https://vue-test-utils.vuejs.org/en/",
-    keywords: ["vue", "vue-test-utils"]
+    keywords: ["vue", "vue-test-utils"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 295,
@@ -7656,7 +7951,8 @@ export const VUE_COMPONENTS: any[] = [
       "store",
       "bind",
       "opinionated"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 296,
@@ -7679,7 +7975,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.4.4",
     license: "MIT",
     details: "https://github.com/vuejs/vuefire",
-    keywords: ["vue", "firebase", "realtime", "mixin"]
+    keywords: ["vue", "firebase", "realtime", "mixin"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 297,
@@ -7701,7 +7998,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.4",
     license: "MIT",
     details: "https://v1.vuejs.org/guide/",
-    keywords: ["vue"]
+    keywords: ["vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 298,
@@ -7723,7 +8021,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.4.4",
     license: "MIT",
     details: "https://vuejs.org/v2/guide/",
-    keywords: ["vue"]
+    keywords: ["vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 299,
@@ -7745,7 +8044,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://posva.net/vue-motion/#/home",
-    keywords: ["vue-motion", "vue", "motion"]
+    keywords: ["vue-motion", "vue", "motion"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 300,
@@ -7767,7 +8067,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.5.12",
     license: "MIT",
     details: "https://github.com/ratiw/vue-table",
-    keywords: ["vue", "vuejs", "table", "component", "json", "pagination"]
+    keywords: ["vue", "vuejs", "table", "component", "json", "pagination"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 301,
@@ -7795,7 +8096,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "13.3.0",
     license: "MIT",
     details: "https://www.ag-grid.com/best-vuejs-data-grid/#gsc.tab=0",
-    keywords: ["grid", "data", "table", "vue", "vuejs"]
+    keywords: ["grid", "data", "table", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 302,
@@ -7817,7 +8119,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/euvl/vue-js-grid",
-    keywords: ["grid", "vue", "vuejs"]
+    keywords: ["grid", "vue", "vuejs"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 303,
@@ -7839,7 +8142,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/PygmySlowLoris/vue-notify-me",
-    keywords: ["vue", "notify", "notification", "notify me", "alert"]
+    keywords: ["vue", "notify", "notification", "notify me", "alert"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 304,
@@ -7861,7 +8165,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "https://github.com/Akryum/vue-progress-path",
-    keywords: ["vue", "progress", "path", "vue-progress-path"]
+    keywords: ["vue", "progress", "path", "vue-progress-path"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 305,
@@ -7883,7 +8188,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/dzwillia/vue-simple-progress/",
-    keywords: ["vue", "vuejs", "ui", "components", "progress", "progressbar"]
+    keywords: ["vue", "vuejs", "ui", "components", "progress", "progressbar"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 306,
@@ -7905,7 +8211,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.3.2",
     license: "MIT",
     details: "https://github.com/chenjiahan/vodal",
-    keywords: ["vue", "modal", "animation", "dialog"]
+    keywords: ["vue", "modal", "animation", "dialog"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 307,
@@ -7927,7 +8234,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.4",
     license: "MIT",
     details: "https://github.com/anteriovieira/vue-swal#vueswal",
-    keywords: ["vue", "modal", "vue-swal", "dialog"]
+    keywords: ["vue", "modal", "vue-swal", "dialog"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 308,
@@ -7949,7 +8257,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.1.3",
     license: "MIT",
     details: "https://github.com/hjkcai/vue-modal-dialogs",
-    keywords: ["vue", "modal", "dialogs", "dialog", "promise"]
+    keywords: ["vue", "modal", "dialogs", "dialog", "promise"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 309,
@@ -7971,7 +8280,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/ganl/vue-icon-font",
-    keywords: ["vue", "icons", "iconfont"]
+    keywords: ["vue", "icons", "iconfont"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 310,
@@ -7993,7 +8303,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.5.1",
     license: "MIT",
     details: "https://github.com/vouill/vue-slideout",
-    keywords: ["vue", "slideout", "vue-slideout", "menu"]
+    keywords: ["vue", "slideout", "vue-slideout", "menu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 311,
@@ -8027,7 +8338,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-jquery",
       "vue-bootstrap",
       "front-end"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 312,
@@ -8050,7 +8362,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.3",
     license: "MIT",
     details: "https://github.com/JALBAA/vue-lazyload-img",
-    keywords: ["vue", "lazyload"]
+    keywords: ["vue", "lazyload"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 313,
@@ -8073,7 +8386,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.1.9",
     license: "MIT",
     details: "https://chenz24.github.io/vue-blu/#/en",
-    keywords: ["vue", "vue component", "vue-blu", "blu"]
+    keywords: ["vue", "vue component", "vue-blu", "blu"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 314,
@@ -8097,7 +8411,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://cristijora.github.io/vue-paper-dashboard-docs/#/",
-    keywords: ["vue", "vue-paper-dashboard", "paper-dashboard", "dashboard"]
+    keywords: ["vue", "vue-paper-dashboard", "paper-dashboard", "dashboard"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 315,
@@ -8120,7 +8435,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/iwaimai-bi-fe/vc-progress",
-    keywords: ["progress", "component", "vue", "bootstrap"]
+    keywords: ["progress", "component", "vue", "bootstrap"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 316,
@@ -8143,7 +8459,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/iwaimai-bi-fe/vc-toast",
-    keywords: ["toast", "component", "vue", "bootstrap"]
+    keywords: ["toast", "component", "vue", "bootstrap"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 317,
@@ -8166,7 +8483,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/vue-comps/vue-icons",
-    keywords: ["icon", "webpack", "component", "vue"]
+    keywords: ["icon", "webpack", "component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 318,
@@ -8189,7 +8507,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/vue-comps/vue-icons",
-    keywords: ["icon", "webpack", "component", "vue"]
+    keywords: ["icon", "webpack", "component", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 319,
@@ -8218,7 +8537,8 @@ export const VUE_COMPONENTS: any[] = [
       "vue-components",
       "web-components",
       "vue"
-    ]
+    ],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 320,
@@ -8241,7 +8561,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.9",
     license: "MIT",
     details: "http://mint-ui.github.io/docs/#/",
-    keywords: ["component", "vue", "mobile", "eleme"]
+    keywords: ["component", "vue", "mobile", "eleme"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 321,
@@ -8264,7 +8585,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "2.2.9",
     license: "MIT",
     details: "http://mint-ui.github.io/docs/#/",
-    keywords: ["component", "vue", "mobile", "eleme"]
+    keywords: ["component", "vue", "mobile", "eleme"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 322,
@@ -8287,7 +8609,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "0.0.55",
     license: "MIT",
     details: "https://github.com/KoRiGaN/Vue2Leaflet",
-    keywords: ["leaflet", "vue"]
+    keywords: ["leaflet", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 323,
@@ -8311,7 +8634,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "section", "vue"]
+    keywords: ["storybook", "section", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 324,
@@ -8335,7 +8659,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "columns", "vue"]
+    keywords: ["storybook", "columns", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 325,
@@ -8359,7 +8684,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "breadcrumb", "vue"]
+    keywords: ["storybook", "breadcrumb", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 326,
@@ -8383,7 +8709,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "card", "vue"]
+    keywords: ["storybook", "card", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 327,
@@ -8407,7 +8734,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "dropdown", "vue"]
+    keywords: ["storybook", "dropdown", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 328,
@@ -8431,7 +8759,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "messages", "vue"]
+    keywords: ["storybook", "messages", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 329,
@@ -8455,7 +8784,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "modal", "vue"]
+    keywords: ["storybook", "modal", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 330,
@@ -8479,7 +8809,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "navbar", "vue"]
+    keywords: ["storybook", "navbar", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 331,
@@ -8503,7 +8834,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "pagination", "vue"]
+    keywords: ["storybook", "pagination", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 332,
@@ -8527,7 +8859,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "panel", "vue"]
+    keywords: ["storybook", "panel", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 333,
@@ -8551,7 +8884,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "tabs", "vue"]
+    keywords: ["storybook", "tabs", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 334,
@@ -8575,7 +8909,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "box", "vue"]
+    keywords: ["storybook", "box", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 335,
@@ -8599,7 +8934,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "button", "vue"]
+    keywords: ["storybook", "button", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 336,
@@ -8623,7 +8959,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "content", "vue"]
+    keywords: ["storybook", "content", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 337,
@@ -8647,7 +8984,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "delete", "vue"]
+    keywords: ["storybook", "delete", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 338,
@@ -8671,7 +9009,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "icon", "vue"]
+    keywords: ["storybook", "icon", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 339,
@@ -8695,7 +9034,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "image", "vue"]
+    keywords: ["storybook", "image", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 340,
@@ -8719,7 +9059,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "notification", "vue"]
+    keywords: ["storybook", "notification", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 341,
@@ -8743,7 +9084,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "progress", "vue"]
+    keywords: ["storybook", "progress", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 342,
@@ -8767,7 +9109,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "table", "vue"]
+    keywords: ["storybook", "table", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 343,
@@ -8791,7 +9134,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "tags", "vue"]
+    keywords: ["storybook", "tags", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 344,
@@ -8815,7 +9159,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "title", "vue"]
+    keywords: ["storybook", "title", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 345,
@@ -8839,7 +9184,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "input", "vue"]
+    keywords: ["storybook", "input", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 346,
@@ -8863,7 +9209,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "select", "vue"]
+    keywords: ["storybook", "select", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 347,
@@ -8887,7 +9234,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "container", "vue"]
+    keywords: ["storybook", "container", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 348,
@@ -8911,7 +9259,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "footer", "vue"]
+    keywords: ["storybook", "footer", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 349,
@@ -8935,7 +9284,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "hero", "vue"]
+    keywords: ["storybook", "hero", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 350,
@@ -8959,7 +9309,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "level", "vue"]
+    keywords: ["storybook", "level", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 351,
@@ -8983,7 +9334,8 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "media", "vue"]
+    keywords: ["storybook", "media", "vue"],
+    contributedBy: "DimaGapfild"
   },
   {
     id: 352,
@@ -9007,6 +9359,7 @@ export const VUE_COMPONENTS: any[] = [
     version: "3.2.13",
     license: "MIT",
     details: "https://storybook.js.org/",
-    keywords: ["storybook", "tile", "vue"]
+    keywords: ["storybook", "tile", "vue"],
+    contributedBy: "DimaGapfild"
   }
 ];
