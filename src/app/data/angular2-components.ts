@@ -18,7 +18,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.0.1',
     license: 'MIT',
     details: 'https://github.com/Stabzs/Angular2-Toaster',
-    keywords: ['toaster', 'message']
+    keywords: ['toaster', 'message'],
+    contributedBy: 'souvikbasu'
   },
   {
     id: 1,
@@ -39,7 +40,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.6.0',
     license: 'MIT',
     details: 'https://valor-software.com/ng2-charts/',
-    keywords: ['chart', 'charts', 'radar', 'line', 'bar']
+    keywords: ['chart', 'charts', 'radar', 'line', 'bar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 2,
@@ -61,8 +63,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.0.0-semantically-released',
     license: 'MIT',
     details: 'https://github.com/akserg/ng2-toasty',
-    keywords: [ "angular", "angular2","toasty","growl"]
-
+    keywords: [ "angular", "angular2","toasty","growl"],
+    contributedBy: 'seemadas1990'
   },
   {
     id: 3,
@@ -83,7 +85,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.0.0-semantically-released',
     license: 'MIT',
     details: 'https://github.com/mariuszfoltak/angular2-datatable',
-    keywords: [ "angular", "angular2","datatable","filter"]
+    keywords: [ "angular", "angular2","datatable","filter"],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 4,
@@ -104,7 +107,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.3.0',
     license: 'MIT',
     details: 'https://github.com/michaelbromley/ngx-pagination',
-    keywords: ['pagination', 'controls', 'page', 'component']
+    keywords: ['pagination', 'controls', 'page', 'component'],
+    contributedBy: 'DimaGapfild'
   },
   {
     id: 5,
@@ -125,7 +129,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.0.4',
     license: 'MIT',
     details: 'http://shlomiassaf.github.io/ngx-modialog/#',
-    keywords: ['modal', 'dialog']
+    keywords: ['modal', 'dialog'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 6,
@@ -146,7 +151,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.4',
     license: 'ISC',
     details: 'https://github.com/dougludlow/ng2-bs3-modal',
-    keywords: ['angular', 'angular2', 'modal', 'ng2-bs3-modal', 'angular-component']
+    keywords: ['angular', 'angular2', 'modal', 'ng2-bs3-modal', 'angular-component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 7,
@@ -167,7 +173,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'https://github.com/alexcastillo/ng2-notifications',
-    keywords: ['angular', 'notifications', 'push-notifications']
+    keywords: ['angular', 'notifications', 'push-notifications'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 8,
@@ -188,7 +195,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '6.2.0',
     license: 'MIT',
     details: 'https://github.com/scttcper/ngx-toastr',
-    keywords: ['toastr', 'angular', 'typescript', 'ngmodule', 'aot-compilation', 'angular2']
+    keywords: ['toastr', 'angular', 'typescript', 'ngmodule', 'aot-compilation', 'angular2'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 9,
@@ -209,7 +217,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.7.7',
     license: 'MIT',
     details: 'https://jaspero.co/resources/projects/ng-notifications',
-    keywords: ['angular2', 'notifications', 'toasts']
+    keywords: ['angular2', 'notifications', 'toasts'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 10,
@@ -230,7 +239,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'https://github.com/dominique-mueller/angular-notifier',
-    keywords: ['angular', 'angular2', 'notifications', 'notifier', 'toast', 'angular4', 'angular-component']
+    keywords: ['angular', 'angular2', 'notifications', 'notifier', 'toast', 'angular4', 'angular-component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 11,
@@ -273,7 +283,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '10.2.3',
     license: 'MIT',
     details: 'https://swimlane.gitbooks.io/ngx-datatable/content/',
-    keywords: ['angularjs', 'angular', 'javascript', 'angular2', 'datatable', 'grid', 'table']
+    keywords: ['angularjs', 'angular', 'javascript', 'angular2', 'datatable', 'grid', 'table'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 13,
@@ -297,7 +308,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.3.2',
     license: 'MIT',
     details: 'https://valor-software.com/ng2-table/',
-    keywords: ['angular2', 'angularjs', 'table', 'filter', 'sort']
+    keywords: ['angular2', 'angularjs', 'table', 'filter', 'sort'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 14,
@@ -318,7 +330,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.1.18',
     license: 'MIT',
     details: 'https://github.com/ssuperczynski/ng2-easy-table',
-    keywords: ['angular2', 'tables']
+    keywords: ['angular2', 'tables'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 15,
@@ -345,7 +358,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.3',
     license: 'MIT',
     details: 'https://valor-software.com/ng2-handsontable/',
-    keywords: ['angular', 'angular2', 'angularjs', 'handsontable', 'table']
+    keywords: ['angular', 'angular2', 'angularjs', 'handsontable', 'table'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 16,
@@ -372,7 +386,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '13.1.1',
     license: 'MIT',
     details: 'https://www.ag-grid.com/angular-getting-started/?framework=all#gsc.tab=0',
-    keywords: ['grid', 'data', 'table', 'angular']
+    keywords: ['grid', 'data', 'table', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 17,
@@ -393,7 +408,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.2',
     license: 'MIT',
     details: 'https://akveo.github.io/ng2-smart-table/#/',
-    keywords: ['angular', 'typescript', 'table', 'akveo']
+    keywords: ['angular', 'typescript', 'table', 'akveo'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 18,
@@ -414,7 +430,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '5.0.0',
     license: 'MIT',
     details: 'https://angular2-tree.readme.io/',
-    keywords: ['ng', 'angular', 'ng2', 'angular2', 'tree', 'treeview', 'tree-view', 'angular2-tree', 'angular-tree', 'angular tree', 'angular2 tree', 'ng2-tree', 'ng2tree', 'ng2 tree', 'ngtree', 'ng-tree', 'angular-treeview', 'angular2-treeview', 'angular-tree-component', 'angular tree component', 'angular2-tree-component', 'angular2 tree component']
+    keywords: ['ng', 'angular', 'ng2', 'angular2', 'tree', 'treeview', 'tree-view', 'angular2-tree', 'angular-tree', 'angular tree', 'angular2 tree', 'ng2-tree', 'ng2tree', 'ng2 tree', 'ngtree', 'ng-tree', 'angular-treeview', 'angular2-treeview', 'angular-tree-component', 'angular tree component', 'angular2-tree-component', 'angular2 tree component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 19,
@@ -435,7 +452,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-alpha.10',
     license: 'MIT',
     details: 'https://github.com/valor-software/ng2-tree',
-    keywords: ['tree', 'ng2', 'angular2', 'ng2-tree', 'branch', 'tree-view', 'branchy', 'angular2-tree-view', 'expand', 'collapse', 'recursive']
+    keywords: ['tree', 'ng2', 'angular2', 'ng2-tree', 'branch', 'tree-view', 'branchy', 'angular2-tree-view', 'expand', 'collapse', 'recursive'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 20,
@@ -456,7 +474,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.0.0',
     license: 'MIT',
     details: 'https://github.com/akserg/ng2-slim-loading-bar',
-    keywords: ['angular', 'angular2', 'slim', 'loading', 'bar', 'progress']
+    keywords: ['angular', 'angular2', 'slim', 'loading', 'bar', 'progress'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 21,
@@ -477,7 +496,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.4',
     license: 'MIT',
     details: 'https://github.com/devyumao/angular2-busy',
-    keywords: ['angular', 'angular2', 'busy', 'loading', 'angular2-busy', 'ng2-busy']
+    keywords: ['angular', 'angular2', 'busy', 'loading', 'angular2-busy', 'ng2-busy'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 22,
@@ -498,7 +518,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.1',
     license: 'MIT',
     details: 'https://github.com/moff/angular2-ladda',
-    keywords: ['angular', 'angular2', 'ng2', 'ladda', 'module', 'package', 'typescript']
+    keywords: ['angular', 'angular2', 'ng2', 'ladda', 'module', 'package', 'typescript'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 23,
@@ -519,7 +540,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '5.1.1',
     license: 'MIT',
     details: 'https://github.com/WoltersKluwerPL/ng-spin-kit',
-    keywords: ['javascript', 'angular', 'angular2', 'spinner', 'ng-spin-kit', 'spin-kit', 'spinners', 'ng2', 'ng']
+    keywords: ['javascript', 'angular', 'angular2', 'spinner', 'ng-spin-kit', 'spin-kit', 'spinners', 'ng2', 'ng'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 24,
@@ -540,7 +562,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.8',
     license: 'MIT',
     details: 'https://murhafsousli.github.io/ngx-progressbar/',
-    keywords: ['angular', 'progress', 'progressbar', 'loading', 'xhr', 'loader', 'slim', 'youtube', 'medium', 'github']
+    keywords: ['angular', 'progress', 'progressbar', 'loading', 'xhr', 'loader', 'slim', 'youtube', 'medium', 'github'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 25,
@@ -561,7 +584,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '6.0.2',
     license: 'MIT',
     details: 'https://github.com/arkon/ng-sidebar',
-    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'sidebar', 'component']
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'sidebar', 'component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 26,
@@ -582,7 +606,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '6.0.2',
     license: 'MIT',
     details: 'https://swimlane.gitbooks.io/ngx-charts/content/',
-    keywords: ['angular2', 'angularjs', 'charts', 'charting', 'angular', 'd3', 'viz', 'graph', 'svg', 'dataviz', 'viz', 'graph', 'd3.js', 'd3js', 'angular4']
+    keywords: ['angular2', 'angularjs', 'charts', 'charting', 'angular', 'd3', 'viz', 'graph', 'svg', 'dataviz', 'viz', 'graph', 'd3.js', 'd3js', 'angular4'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 27,
@@ -603,7 +628,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.5.5',
     license: 'MIT',
     details: 'https://github.com/gevgeny/angular2-highcharts',
-    keywords: ['angular', 'charts', 'highcharts', 'highstock', 'highmaps']
+    keywords: ['angular', 'charts', 'highcharts', 'highstock', 'highmaps'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 28,
@@ -624,7 +650,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'https://github.com/krispo/ng2-nvd3',
-    keywords: ['angular2', 'ng2', 'nvd3', 'd3', 'component', 'directive']
+    keywords: ['angular2', 'ng2', 'nvd3', 'd3', 'component', 'directive'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 29,
@@ -645,7 +672,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.1',
     license: 'MIT',
     details: 'https://angular-maps.com/',
-    keywords: ['angular', 'ng', 'google-maps', 'maps', 'google', 'gmaps', 'ng2', 'angular2']
+    keywords: ['angular', 'ng', 'google-maps', 'maps', 'google', 'gmaps', 'ng2', 'angular2'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 30,
@@ -666,7 +694,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.18.6',
     license: 'MIT',
     details: 'https://github.com/ng2-ui/map',
-    keywords: ['angular2', 'google', 'map']
+    keywords: ['angular2', 'google', 'map'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 31,
@@ -687,7 +716,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/dinony/od-virtualscroll',
-    keywords: ['angular', 'angular4', 'angular 4', 'rxjs', 'observable', 'scroll', 'scroll component', 'scrolling', 'virtual scroll', 'virtual scrolling', 'infinite scroll', 'infinite scrolling', 'efficient scroll', 'efficient scrolling', 'tiles', 'tiling', 'tile view']
+    keywords: ['angular', 'angular4', 'angular 4', 'rxjs', 'observable', 'scroll', 'scroll component', 'scrolling', 'virtual scroll', 'virtual scrolling', 'infinite scroll', 'infinite scrolling', 'efficient scroll', 'efficient scrolling', 'tiles', 'tiling', 'tile view'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 32,
@@ -708,7 +738,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.5.1',
     license: 'MIT',
     details: 'https://github.com/orizens/ngx-infinite-scroll',
-    keywords: ['angular', 'angular2', 'ui', 'utility', 'angular4', 'directive', 'scroll', 'infinite-scroll']
+    keywords: ['angular', 'angular2', 'ui', 'utility', 'angular4', 'directive', 'scroll', 'infinite-scroll'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 33,
@@ -729,7 +760,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.5.1',
     license: 'MIT',
     details: 'https://ng2-ui.github.io/dist/#/parallax',
-    keywords: ['parallax', 'scroll', 'background']
+    keywords: ['parallax', 'scroll', 'background'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 34,
@@ -750,7 +782,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.6.2',
     license: 'MIT',
     details: 'https://github.com/zefoy/ngx-perfect-scrollbar',
-    keywords: ['scroll', 'scrollbar', 'perfect scrollbar']
+    keywords: ['scroll', 'scrollbar', 'perfect scrollbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 35,
@@ -771,7 +804,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.6.2',
     license: 'MIT',
     details: 'https://github.com/zefoy/ngx-swiper-wrapper',
-    keywords: ['swiper', 'angular', 'carousel']
+    keywords: ['swiper', 'angular', 'carousel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 36,
@@ -792,7 +826,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.6.1',
     license: 'MIT',
     details: 'https://ng2-ui.github.io/dist/#/sticky',
-    keywords: ['sticky', 'angular', 'ng2-ui']
+    keywords: ['sticky', 'angular', 'ng2-ui'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 37,
@@ -813,7 +848,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.3.5',
     license: 'MIT',
     details: 'https://github.com/isaacplmann/ngx-contextmenu',
-    keywords: ['angular2', 'contextmenu', 'angular2-contextmenu', 'ngx-contextmenu', 'ngx', 'ng2', 'ng2-contextmenu']
+    keywords: ['angular2', 'contextmenu', 'angular2-contextmenu', 'ngx-contextmenu', 'ngx', 'ng2', 'ng2-contextmenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 38,
@@ -834,7 +870,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.7.0',
     license: 'MIT',
     details: 'https://github.com/urish/angular2-moment',
-    keywords: ['angular2', 'momentjs']
+    keywords: ['angular2', 'momentjs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 39,
@@ -855,7 +892,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '5.5.1',
     license: 'MIT',
     details: 'https://videogular.github.io/videogular2/',
-    keywords: ['video', 'player', 'framework', 'angular2', 'javascript']
+    keywords: ['video', 'player', 'framework', 'angular2', 'javascript'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 40,
@@ -876,7 +914,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.0.1',
     license: 'MIT',
     details: 'https://github.com/arkon/ng-inline-svg',
-    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'svg', 'inline', 'inject', 'element']
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'svg', 'inline', 'inject', 'element'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 41,
@@ -897,7 +936,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.0.0',
     license: 'MIT',
     details: 'https://murhafsousli.github.io/ngx-sharebuttons/',
-    keywords: ['angular', 'sharebuttons', 'share', 'buttons', 'facebook', 'twitter', 'pinterest', 'tumblr', 'stumbleupon', 'googleplus', 'linkedin', 'reddit']
+    keywords: ['angular', 'sharebuttons', 'share', 'buttons', 'facebook', 'twitter', 'pinterest', 'tumblr', 'stumbleupon', 'googleplus', 'linkedin', 'reddit'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 42,
@@ -918,7 +958,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.6',
     license: 'MIT',
     details: 'https://github.com/VadimDez/ng2-pdf-viewer',
-    keywords: ['angular', 'pdf', 'angular2', 'angular-pdf', 'angular2-pdf', 'ng2', 'ng2-pdf']
+    keywords: ['angular', 'pdf', 'angular2', 'angular-pdf', 'angular2-pdf', 'ng2', 'ng2-pdf'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 43,
@@ -939,7 +980,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.3.1',
     license: 'MIT',
     details: 'https://jfcere.github.io/ng2-markdown-to-html/',
-    keywords: ['angular', 'angular2', 'angular-2', 'markdown', 'markdown-to-html', 'marked', 'ng2', 'parser', 'prism', 'prism.js']
+    keywords: ['angular', 'angular2', 'angular-2', 'markdown', 'markdown-to-html', 'marked', 'ng2', 'parser', 'prism', 'prism.js'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 44,
@@ -960,7 +1002,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.1.6',
     license: 'MIT',
     details: 'https://github.com/maxisam/ngx-no-animation-for-dinosaur',
-    keywords: ['angular', 'animation']
+    keywords: ['angular', 'animation'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 45,
@@ -981,7 +1024,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.8.3',
     license: 'MIT',
     details: 'https://github.com/jkuri/ng2-datepicker',
-    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'ngx', 'datepicker', 'date', 'component']
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'ngx', 'datepicker', 'date', 'component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 46,
@@ -1002,7 +1046,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.31',
     license: 'MIT',
     details: 'https://github.com/kekeh/mydatepicker',
-    keywords: ['Angular2', 'Angular4', 'date picker']
+    keywords: ['Angular2', 'Angular4', 'date picker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 47,
@@ -1023,7 +1068,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.4.0',
     license: 'MIT',
     details: 'https://github.com/nkalinov/ng2-datetime',
-    keywords: ['angular2', 'ng2', 'bootstrap', 'date', 'time', 'datetime', 'picker']
+    keywords: ['angular2', 'ng2', 'bootstrap', 'date', 'time', 'datetime', 'picker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 48,
@@ -1044,7 +1090,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.4.0',
     license: 'MIT',
     details: 'https://github.com/vlio20/angular-datepicker',
-    keywords: ['angular2', 'date', 'datepicker', 'date-picker', 'ng2-datepicker', 'ng-datepicker', 'angular', 'picker', 'angular-datepicker']
+    keywords: ['angular2', 'date', 'datepicker', 'date-picker', 'ng2-datepicker', 'ng-datepicker', 'angular', 'picker', 'angular-datepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 49,
@@ -1065,7 +1112,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.3',
     license: 'MIT',
     details: 'https://zefoy.github.io/ngx-color-picker/',
-    keywords: ['color', 'picker', 'angular', 'widget']
+    keywords: ['color', 'picker', 'angular', 'widget'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 50,
@@ -1086,7 +1134,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.3.1',
     license: 'MIT',
     details: 'http://alberplz.github.io/angular2-color-picker/examples/index.html',
-    keywords: ['color-picker', 'angular', 'directive']
+    keywords: ['color-picker', 'angular', 'directive'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 51,
@@ -1107,7 +1156,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.9',
     license: 'MIT',
     details: 'https://github.com/Bogdan1975/ng2-slider-component',
-    keywords: ['angular2', 'angular 2', 'component', 'drag', 'dragable', 'slide', 'slider', 'range slider', 'range']
+    keywords: ['angular2', 'angular 2', 'component', 'drag', 'dragable', 'slide', 'slider', 'range slider', 'range'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 52,
@@ -1128,7 +1178,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://valor-software.com/ng2-select/',
-    keywords: ['angular2', 'select', 'selectify']
+    keywords: ['angular2', 'select', 'selectify'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 53,
@@ -1149,7 +1200,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.6',
     license: 'ISC',
     details: 'https://basvandenberg.github.io/ng-select/home',
-    keywords: ['angular', 'select', 'select2', 'selectize', 'chosen']
+    keywords: ['angular', 'select', 'select2', 'selectize', 'chosen'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 54,
@@ -1170,7 +1222,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.6.3',
     license: 'MIT',
     details: 'http://oferh.github.io/ng2-completer/#',
-    keywords: ['angular2', 'autcomplete', 'ypeahead', 'word completion', 'ng2']
+    keywords: ['angular2', 'autcomplete', 'ypeahead', 'word completion', 'ng2'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 55,
@@ -1191,7 +1244,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.14.4',
     license: 'MIT',
     details: 'https://github.com/ng2-ui/auto-complete',
-    keywords: ['angular', 'auto-complete', 'input', 'select']
+    keywords: ['angular', 'auto-complete', 'input', 'select'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 56,
@@ -1212,7 +1266,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.5.3',
     license: 'MIT',
     details: 'https://github.com/Gbuomprisco/ngx-chips',
-    keywords: ['angular tag input', 'tag input component', 'material tag input', 'angular chips component', 'material chips']
+    keywords: ['angular tag input', 'tag input component', 'material tag input', 'angular chips component', 'material chips'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 57,
@@ -1233,7 +1288,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.5.0',
     license: 'MIT',
     details: 'https://github.com/valor-software/ng2-dragula',
-    keywords: ['angular', 'dragula', 'ng-dragula', 'angular2', 'ng2', 'angular2-dragula', 'ng2-dragula', 'ngx-dragula']
+    keywords: ['angular', 'dragula', 'ng-dragula', 'angular2', 'ng2', 'angular2-dragula', 'ng2-dragula', 'ngx-dragula'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 58,
@@ -1254,7 +1310,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.0',
     license: 'MIT',
     details: 'https://github.com/akserg/ng2-dnd',
-    keywords: ['angular', 'angular2', 'angular 2', 'drag', 'drop', 'drag-and-drop']
+    keywords: ['angular', 'angular2', 'angular 2', 'drag', 'drop', 'drag-and-drop'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 59,
@@ -1275,7 +1332,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.8.0',
     license: 'MIT',
     details: 'https://github.com/ObaidUrRehman/ng2-drag-drop',
-    keywords: ['Angular2', 'Angular4', 'Angular', 'drag', 'drop', 'dragdrop']
+    keywords: ['Angular2', 'Angular4', 'Angular', 'drag', 'drop', 'dragdrop'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 60,
@@ -1296,7 +1354,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '8.0.4',
     license: 'Unlicense',
     details: 'https://github.com/text-mask/text-mask/tree/master/angular2#readme',
-    keywords: ['angular2', 'ng2', 'angular2 component', 'angular2 directive', 'text mask', 'input mask', 'string mask', 'input formatting', 'text formatting', 'string formatting']
+    keywords: ['angular2', 'ng2', 'angular2 component', 'angular2 directive', 'text mask', 'input mask', 'string mask', 'input formatting', 'text formatting', 'string formatting'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 61,
@@ -1317,7 +1376,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.1.9',
     license: 'MIT',
     details: 'https://github.com/chymz/ng2-ckeditor',
-    keywords: ['angular', 'angular2', 'component', 'ckeditor', 'wysiwyg']
+    keywords: ['angular', 'angular2', 'component', 'ckeditor', 'wysiwyg'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 62,
@@ -1338,7 +1398,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.0.4',
     license: 'MIT',
     details: 'https://github.com/brillout/awesome-angular-components',
-    keywords: ['Rich', 'Text', 'Editor', 'Wysihtml']
+    keywords: ['Rich', 'Text', 'Editor', 'Wysihtml'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 63,
@@ -1363,7 +1424,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.7.0',
     license: 'MIT',
     details: 'https://www.froala.com/wysiwyg-editor',
-    keywords: ['angular2', 'angular4', 'ng2', 'ng4', 'froala', 'html', 'text', 'editor', 'wysisyg', 'jquery-plugin', 'rich editor', 'rich text editor', 'rte', 'javascript', 'jquery']
+    keywords: ['angular2', 'angular4', 'ng2', 'ng4', 'froala', 'html', 'text', 'editor', 'wysisyg', 'jquery-plugin', 'rich editor', 'rich text editor', 'rte', 'javascript', 'jquery'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 64,
@@ -1387,7 +1449,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.1',
     license: 'MIT',
     details: 'https://valor-software.com/ng2-file-upload/',
-    keywords: ['angular2', 'bootstrap', 'angular', 'twitter-bootstrap', 'file-upload', 'angular-file-upload']
+    keywords: ['angular2', 'bootstrap', 'angular', 'twitter-bootstrap', 'file-upload', 'angular-file-upload'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 65,
@@ -1408,7 +1471,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.3.11',
     license: 'MIT',
     details: 'https://github.com/jkuri/ngx-uploader',
-    keywords: ['fileuploader', 'file', 'uploader', 'ngx', 'angular']
+    keywords: ['fileuploader', 'file', 'uploader', 'ngx', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 66,
@@ -1429,7 +1493,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.6.2',
     license: 'MIT',
     details: 'https://github.com/zefoy/ngx-dropzone-wrapper',
-    keywords: ['Dropzone', 'file', 'uploader', 'angular']
+    keywords: ['Dropzone', 'file', 'uploader', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 67,
@@ -1450,7 +1515,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/stevepapa/angular2-autosize',
-    keywords: ['ng2', 'angular', 'angular2', 'autosize', 'textarea', 'elastic', 'height', '@angular']
+    keywords: ['ng2', 'angular', 'angular2', 'autosize', 'textarea', 'elastic', 'height', '@angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 68,
@@ -1471,7 +1537,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.21.2',
     license: 'MIT',
     details: 'https://github.com/mattlewis92/angular-calendar',
-    keywords: ['angular', 'angular2', 'angular4', 'calendar']
+    keywords: ['angular', 'angular2', 'angular4', 'calendar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 69,
@@ -1492,7 +1559,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.19',
     license: 'MIT',
     details: 'https://github.com/nekken/ng2-fullcalendar',
-    keywords: ['fullcalendar', 'angular 2', 'angular', 'calendar']
+    keywords: ['fullcalendar', 'angular 2', 'angular', 'calendar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 70,
@@ -1513,7 +1581,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.9.0',
     license: 'MIT',
     details: 'https://github.com/cstefanache/angular2-img-cropper',
-    keywords: ['angular2', 'image', 'cropper']
+    keywords: ['angular2', 'image', 'cropper'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 71,
@@ -1534,7 +1603,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.7',
     license: 'MIT',
     details: 'https://github.com/BTMorton/angular2-grid',
-    keywords: ['angular', 'angular2', 'grid', 'web-components']
+    keywords: ['angular', 'angular2', 'grid', 'web-components'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 72,
@@ -1555,7 +1625,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.0.6',
     license: 'MIT',
     details: 'http://meiblorn.github.io/ngx-fullpage/',
-    keywords: ['angular', 'fullpage', 'fullpage.js', 'jquery', 'ng2', 'ngx']
+    keywords: ['angular', 'fullpage', 'fullpage.js', 'jquery', 'ng2', 'ngx'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 73,
@@ -1576,7 +1647,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.2.2',
     license: 'ISC',
     details: 'https://bertrandg.github.io/angular-split/#/',
-    keywords: ['angular', 'split', 'flexbox']
+    keywords: ['angular', 'split', 'flexbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 74,
@@ -1597,7 +1669,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/mgechev/ngresizable',
-    keywords: ['resize', 'angular', 'resizable']
+    keywords: ['resize', 'angular', 'resizable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 75,
@@ -1618,7 +1691,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.8',
     license: 'MIT',
     details: 'https://github.com/angular/flex-layout/wiki',
-    keywords: ['flexbox', 'grid', 'responsive', 'adapative', 'layout', 'mediaquery', 'engine', 'angular']
+    keywords: ['flexbox', 'grid', 'responsive', 'adapative', 'layout', 'mediaquery', 'engine', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 76,
@@ -1639,7 +1713,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/jiayihu/ng-animate',
-    keywords: ['angular', 'animations']
+    keywords: ['angular', 'animations'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 77,
@@ -1660,7 +1735,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.4.1',
     license: 'MIT',
     details: 'https://github.com/arkon/ng-click-outside',
-    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'click', 'event', 'outside', 'handler']
+    keywords: ['angular', 'angular2', 'angular4', 'ng2', 'ng4', 'click', 'event', 'outside', 'handler'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 78,
@@ -1681,7 +1757,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.0.0-beta.11',
     license: 'MIT',
     details: 'https://github.com/Nolanus/ng2-page-scroll',
-    keywords: ['angular2', 'angularjs', 'page', 'scroll', 'pagescroll', 'animate', 'move', 'scrollto', 'anchor']
+    keywords: ['angular2', 'angularjs', 'page', 'scroll', 'pagescroll', 'animate', 'move', 'scrollto', 'anchor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 79,
@@ -1702,7 +1779,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.9.1',
     license: 'MIT',
     details: 'https://github.com/ng2-ui/scrollable',
-    keywords: ['angular2', 'scrollable', 'directive']
+    keywords: ['angular2', 'scrollable', 'directive'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 80,
@@ -1723,7 +1801,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.0',
     license: 'MIT',
     details: 'https://github.com/yuyang041060120/ng2-validation',
-    keywords: ['angular2', 'validate', 'validation']
+    keywords: ['angular2', 'validate', 'validation'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 81,
@@ -1744,7 +1823,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '8.0.0',
     license: 'MIT',
     details: 'http://www.ngx-translate.com/',
-    keywords: ['angular', 'i18n', 'translation', 'npm-package', 'angular2', 'ngx', 'ngx-translate']
+    keywords: ['angular', 'i18n', 'translation', 'npm-package', 'angular2', 'ngx', 'ngx-translate'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 82,
@@ -1765,7 +1845,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.5.1',
     license: 'MIT',
     details: 'https://robisim74.github.io/angular-l10n/',
-    keywords: ['angular', 'javascript', 'typescript', 'internationalization', 'i18n', 'localization', 'l10n', 'translate', 'validation']
+    keywords: ['angular', 'javascript', 'typescript', 'internationalization', 'i18n', 'localization', 'l10n', 'translate', 'validation'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 83,
@@ -1786,7 +1867,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '8.0.4',
     license: 'MIT',
     details: 'https://maxisam.github.io/ngx-clipboard/',
-    keywords: ['angular', 'clipboard', 'copy']
+    keywords: ['angular', 'clipboard', 'copy'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 84,
@@ -1807,7 +1889,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.4',
     license: 'MIT',
     details: 'https://isaacplmann.github.io/ngx-tour/',
-    keywords: ['ng2-tour', 'angular', 'product-tour', 'ngx', 'ngx-tour']
+    keywords: ['ng2-tour', 'angular', 'product-tour', 'ngx', 'ngx-tour'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 85,
@@ -1828,7 +1911,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.3.2',
     license: 'MIT',
     details: 'https://github.com/tjoskar/ng-lazyload-image',
-    keywords: ['lazy-load', 'lazy-image', 'angular']
+    keywords: ['lazy-load', 'lazy-image', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 86,
@@ -1849,7 +1933,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.9',
     license: 'MIT',
     details: 'http://nathanwalker.github.io/ng2-image-lazy-load/',
-    keywords: ['lazy', 'load', 'image', 'ng2', 'angular']
+    keywords: ['lazy', 'load', 'image', 'ng2', 'angular'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 87,
@@ -1870,7 +1955,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '6.1.1',
     license: 'MIT',
     details: 'https://github.com/JayChase/angular2-disqus',
-    keywords: ['Angular', 'Angular2', 'DISQUS']
+    keywords: ['Angular', 'Angular2', 'DISQUS'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 88,
@@ -1891,7 +1977,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.0.0',
     license: 'MIT',
     details: 'https://github.com/DethAriel/ng-recaptcha',
-    keywords: ['angular', 'recaptcha', 'angular-recaptcha', 'ng-recaptcha']
+    keywords: ['angular', 'recaptcha', 'angular-recaptcha', 'ng-recaptcha'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 89,
@@ -1912,7 +1999,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.0.25',
     license: 'MIT',
     details: 'https://github.com/TGFTech/angular-cesium',
-    keywords: ['Angular2', 'Cesium', 'Angular Cesium', 'Angular2 Cesium']
+    keywords: ['Angular2', 'Cesium', 'Angular Cesium', 'Angular2 Cesium'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 90,
@@ -1933,7 +2021,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'autocomplete']
+    keywords: ['angular', 'material', 'material design', 'components', 'autocomplete'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 91,
@@ -1954,7 +2043,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'checkbox']
+    keywords: ['angular', 'material', 'material design', 'components', 'checkbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 92,
@@ -1975,7 +2065,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'datepicker']
+    keywords: ['angular', 'material', 'material design', 'components', 'datepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 93,
@@ -1996,7 +2087,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'input']
+    keywords: ['angular', 'material', 'material design', 'components', 'input'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 94,
@@ -2017,7 +2109,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'radio']
+    keywords: ['angular', 'material', 'material design', 'components', 'radio'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 95,
@@ -2038,7 +2131,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'select']
+    keywords: ['angular', 'material', 'material design', 'components', 'select'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 96,
@@ -2059,7 +2153,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'slider']
+    keywords: ['angular', 'material', 'material design', 'components', 'slider'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 97,
@@ -2080,7 +2175,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'slide', 'toggle']
+    keywords: ['angular', 'material', 'material design', 'components', 'slide', 'toggle'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 98,
@@ -2101,7 +2197,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'menu']
+    keywords: ['angular', 'material', 'material design', 'components', 'menu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 99,
@@ -2122,7 +2219,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'sidenav']
+    keywords: ['angular', 'material', 'material design', 'components', 'sidenav'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 100,
@@ -2143,7 +2241,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'toolbar']
+    keywords: ['angular', 'material', 'material design', 'components', 'toolbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 101,
@@ -2164,7 +2263,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'list']
+    keywords: ['angular', 'material', 'material design', 'components', 'list'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 102,
@@ -2185,7 +2285,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'grid', 'list']
+    keywords: ['angular', 'material', 'material design', 'components', 'grid', 'list'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 103,
@@ -2206,7 +2307,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/',
-    keywords: ['angular', 'material', 'material design', 'components', 'card']
+    keywords: ['angular', 'material', 'material design', 'components', 'card'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 104,
@@ -2227,7 +2329,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/stepper/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'stepper']
+    keywords: ['angular', 'material', 'material design', 'components', 'stepper'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 105,
@@ -2248,7 +2351,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/tabs/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'tabs']
+    keywords: ['angular', 'material', 'material design', 'components', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 106,
@@ -2269,7 +2373,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/expansion/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'expansion', 'panel']
+    keywords: ['angular', 'material', 'material design', 'components', 'expansion', 'panel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 107,
@@ -2290,7 +2395,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/button/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'button']
+    keywords: ['angular', 'material', 'material design', 'components', 'button'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 108,
@@ -2311,7 +2417,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/button-toggle/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'button', 'toggle']
+    keywords: ['angular', 'material', 'material design', 'components', 'button', 'toggle'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 109,
@@ -2332,7 +2439,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/chips/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'chips']
+    keywords: ['angular', 'material', 'material design', 'components', 'chips'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 110,
@@ -2353,7 +2461,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/icon/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'icon']
+    keywords: ['angular', 'material', 'material design', 'components', 'icon'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 111,
@@ -2374,7 +2483,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/progress-spinner/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'progress', 'spinner']
+    keywords: ['angular', 'material', 'material design', 'components', 'progress', 'spinner'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 112,
@@ -2395,7 +2505,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/progress-bar/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'progress', 'bar']
+    keywords: ['angular', 'material', 'material design', 'components', 'progress', 'bar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 113,
@@ -2416,7 +2527,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/dialog/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'dialog', 'modal']
+    keywords: ['angular', 'material', 'material design', 'components', 'dialog', 'modal'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 114,
@@ -2437,7 +2549,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/tooltip/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'tooltip']
+    keywords: ['angular', 'material', 'material design', 'components', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 115,
@@ -2458,7 +2571,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/snack-bar/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'snack', 'bar']
+    keywords: ['angular', 'material', 'material design', 'components', 'snack', 'bar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 116,
@@ -2479,7 +2593,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/table/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'table']
+    keywords: ['angular', 'material', 'material design', 'components', 'table'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 117,
@@ -2500,7 +2615,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/sort/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'sort', 'header']
+    keywords: ['angular', 'material', 'material design', 'components', 'sort', 'header'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 118,
@@ -2521,7 +2637,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0-beta.11',
     license: 'MIT',
     details: 'https://material.angular.io/components/paginator/overview',
-    keywords: ['angular', 'material', 'material design', 'components', 'paginator']
+    keywords: ['angular', 'material', 'material design', 'components', 'paginator'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 119,
@@ -2542,7 +2659,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/accordion',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'accordion']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'accordion'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 120,
@@ -2563,7 +2681,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/alerts',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'alerts']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'alerts'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 121,
@@ -2584,7 +2703,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/buttons',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'buttons']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'buttons'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 122,
@@ -2605,7 +2725,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/carousel',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'carousel']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'carousel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 123,
@@ -2626,7 +2747,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/collapse',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'collapse']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'collapse'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 124,
@@ -2647,7 +2769,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/datepicker',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'datepicker']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'datepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 125,
@@ -2668,7 +2791,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/dropdowns',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'dropdowns']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'dropdowns'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 126,
@@ -2689,7 +2813,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/modals',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'modals']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'modals'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 127,
@@ -2710,7 +2835,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/pagination',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'pagination']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'pagination'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 128,
@@ -2731,7 +2857,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/popover',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'popover']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'popover'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 129,
@@ -2752,7 +2879,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/progressbar',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'progressbar']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'progressbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 130,
@@ -2773,7 +2901,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/rating',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'rating']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'rating'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 131,
@@ -2794,7 +2923,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/sortable',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'sortable']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'sortable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 132,
@@ -2815,7 +2945,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/tabs',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'tabs']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 133,
@@ -2836,7 +2967,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/timepicker',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'timepicker']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'timepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 134,
@@ -2857,7 +2989,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/tooltip',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'tooltip']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 135,
@@ -2878,7 +3011,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.9.3',
     license: 'MIT',
     details: 'https://valor-software.com/ngx-bootstrap/#/typeahead',
-    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'typeahead']
+    keywords: ['angular', 'bootstap', 'ng', 'ng2', 'angular2', 'twitter-bootstrap', 'typeahead'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 136,
@@ -2899,7 +3033,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.12',
     license: 'MIT',
     details: 'https://github.com/lexikteam/ng2-sheet',
-    keywords: ['angular2', 'angular', 'sheet', 'modal', 'angular-component']
+    keywords: ['angular2', 'angular', 'sheet', 'modal', 'angular-component'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 137,
@@ -2920,7 +3055,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/animation/collapse',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'collapse']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'collapse'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 138,
@@ -2941,7 +3077,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/accordion',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'accordion']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'accordion'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 139,
@@ -2962,7 +3099,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/alert',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'alert']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'alert'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 140,
@@ -2983,7 +3121,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/carousel',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'carousel']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'carousel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 141,
@@ -3004,7 +3143,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/datepicker',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'datepicker']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'datepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 142,
@@ -3025,7 +3165,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/daterangepicker',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'daterangepicker']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'daterangepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 143,
@@ -3046,7 +3187,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/dropdown',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'dropdown']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'dropdown'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 144,
@@ -3067,7 +3209,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/infinitescroller',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'infinitescroller']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'infinitescroller'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 145,
@@ -3088,7 +3231,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/modal',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'modal']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'modal'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 146,
@@ -3109,7 +3253,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/offCanvasMenu',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'offCanvasMenu']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'offCanvasMenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 147,
@@ -3130,7 +3275,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/pagination',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'pagination']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'pagination'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 148,
@@ -3151,7 +3297,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/progress',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'progress']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'progress'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 149,
@@ -3172,7 +3319,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/slider',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'slider']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'slider'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 150,
@@ -3193,7 +3341,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/tab',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tabs']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 151,
@@ -3214,7 +3363,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/tablesortable',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tablesortable']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tablesortable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 152,
@@ -3235,7 +3385,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/tag',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tag']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tag'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 153,
@@ -3256,7 +3407,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/textexpander',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'textexpander']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'textexpander'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 154,
@@ -3277,7 +3429,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/component/timepicker',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'timepicker']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'timepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 155,
@@ -3298,7 +3451,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/animation',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'helper']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'animation', 'helper'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 156,
@@ -3319,7 +3473,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/codehighlighter',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'codehighlighter']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'codehighlighter'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 157,
@@ -3340,7 +3495,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.9',
     license: 'ISC',
     details: 'http://fuelinteractive.github.io/fuel-ui/#/directive/tooltip',
-    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tooltip']
+    keywords: ['angular', 'angular2', 'bootstrap', 'bootstrap4', 'component', 'components', 'fuel-ui', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 158,
@@ -3361,7 +3517,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inputgroup',
-    keywords: ['primeng', 'inputgroup']
+    keywords: ['primeng', 'inputgroup'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 159,
@@ -3382,7 +3539,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/calendar',
-    keywords: ['angular', 'primeng', 'calendar']
+    keywords: ['angular', 'primeng', 'calendar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 160,
@@ -3403,7 +3561,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chips',
-    keywords: ['angular', 'primeng', 'chips']
+    keywords: ['angular', 'primeng', 'chips'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 161,
@@ -3424,7 +3583,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/dropdown',
-    keywords: ['angular', 'primeng', 'dropdown']
+    keywords: ['angular', 'primeng', 'dropdown'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 162,
@@ -3445,7 +3605,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inputswitch',
-    keywords: ['angular', 'primeng', 'inputswitch']
+    keywords: ['angular', 'primeng', 'inputswitch'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 163,
@@ -3466,7 +3627,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inputtextarea',
-    keywords: ['angular', 'primeng', 'inputtextarea']
+    keywords: ['angular', 'primeng', 'inputtextarea'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 164,
@@ -3487,7 +3649,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inputmask',
-    keywords: ['angular', 'primeng', 'inputmask']
+    keywords: ['angular', 'primeng', 'inputmask'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 165,
@@ -3508,7 +3671,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/password',
-    keywords: ['angular', 'primeng', 'password']
+    keywords: ['angular', 'primeng', 'password'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 166,
@@ -3529,7 +3693,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/rating',
-    keywords: ['angular', 'primeng', 'rating']
+    keywords: ['angular', 'primeng', 'rating'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 167,
@@ -3550,7 +3715,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/spinner',
-    keywords: ['angular', 'primeng', 'spinner']
+    keywords: ['angular', 'primeng', 'spinner'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 168,
@@ -3571,7 +3737,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/togglebutton',
-    keywords: ['angular', 'primeng', 'togglebutton']
+    keywords: ['angular', 'primeng', 'togglebutton'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 169,
@@ -3592,7 +3759,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/autocomplete',
-    keywords: ['angular', 'primeng', 'autocomplete']
+    keywords: ['angular', 'primeng', 'autocomplete'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 170,
@@ -3613,7 +3781,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/checkbox',
-    keywords: ['angular', 'primeng', 'checkbox']
+    keywords: ['angular', 'primeng', 'checkbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 171,
@@ -3634,7 +3803,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/colorpicker',
-    keywords: ['angular', 'primeng', 'colorpicker']
+    keywords: ['angular', 'primeng', 'colorpicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 172,
@@ -3655,7 +3825,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/editor',
-    keywords: ['angular', 'primeng', 'editor']
+    keywords: ['angular', 'primeng', 'editor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 173,
@@ -3676,7 +3847,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inputtext',
-    keywords: ['angular', 'primeng', 'inputtext']
+    keywords: ['angular', 'primeng', 'inputtext'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 174,
@@ -3697,7 +3869,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/listbox',
-    keywords: ['angular', 'primeng', 'listbox']
+    keywords: ['angular', 'primeng', 'listbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 175,
@@ -3718,7 +3891,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/multiselect',
-    keywords: ['angular', 'primeng', 'multiselect']
+    keywords: ['angular', 'primeng', 'multiselect'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 176,
@@ -3739,7 +3913,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/radiobutton',
-    keywords: ['angular', 'primeng', 'radiobutton']
+    keywords: ['angular', 'primeng', 'radiobutton'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 177,
@@ -3760,7 +3935,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/slider',
-    keywords: ['angular', 'primeng', 'slider']
+    keywords: ['angular', 'primeng', 'slider'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 178,
@@ -3781,7 +3957,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/selectbutton',
-    keywords: ['angular', 'primeng', 'selectbutton']
+    keywords: ['angular', 'primeng', 'selectbutton'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 179,
@@ -3802,7 +3979,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tristatecheckbox',
-    keywords: ['angular', 'primeng', 'tristatecheckbox']
+    keywords: ['angular', 'primeng', 'tristatecheckbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 180,
@@ -3823,7 +4001,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/button',
-    keywords: ['angular', 'primeng', 'button']
+    keywords: ['angular', 'primeng', 'button'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 181,
@@ -3844,7 +4023,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/splitbutton',
-    keywords: ['angular', 'primeng', 'splitbutton']
+    keywords: ['angular', 'primeng', 'splitbutton'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 182,
@@ -3865,7 +4045,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/carousel',
-    keywords: ['angular', 'primeng', 'carousel']
+    keywords: ['angular', 'primeng', 'carousel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 183,
@@ -3886,7 +4067,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/datalist',
-    keywords: ['angular', 'primeng', 'datalist']
+    keywords: ['angular', 'primeng', 'datalist'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 184,
@@ -3907,7 +4089,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/datatable',
-    keywords: ['angular', 'primeng', 'datatable']
+    keywords: ['angular', 'primeng', 'datatable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 185,
@@ -3928,7 +4111,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/orderlist',
-    keywords: ['angular', 'primeng', 'orderlist']
+    keywords: ['angular', 'primeng', 'orderlist'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 186,
@@ -3949,7 +4133,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/paginator',
-    keywords: ['angular', 'primeng', 'paginator']
+    keywords: ['angular', 'primeng', 'paginator'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 187,
@@ -3970,7 +4155,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/schedule',
-    keywords: ['angular', 'primeng', 'schedule']
+    keywords: ['angular', 'primeng', 'schedule'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 188,
@@ -3991,7 +4177,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/treetable',
-    keywords: ['angular', 'primeng', 'treetable']
+    keywords: ['angular', 'primeng', 'treetable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 189,
@@ -4012,7 +4199,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/datagrid',
-    keywords: ['angular', 'primeng', 'datagrid']
+    keywords: ['angular', 'primeng', 'datagrid'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 190,
@@ -4033,7 +4221,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/datascroller',
-    keywords: ['angular', 'primeng', 'datascroller']
+    keywords: ['angular', 'primeng', 'datascroller'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 191,
@@ -4054,7 +4243,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/organizationchart',
-    keywords: ['angular', 'primeng', 'organizationchart']
+    keywords: ['angular', 'primeng', 'organizationchart'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 192,
@@ -4075,7 +4265,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/gmap',
-    keywords: ['angular', 'primeng', 'gmap']
+    keywords: ['angular', 'primeng', 'gmap'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 193,
@@ -4096,7 +4287,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/picklist',
-    keywords: ['angular', 'primeng', 'picklist']
+    keywords: ['angular', 'primeng', 'picklist'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 194,
@@ -4117,7 +4309,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tree',
-    keywords: ['angular', 'primeng', 'tree']
+    keywords: ['angular', 'primeng', 'tree'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 195,
@@ -4138,7 +4331,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/accordion',
-    keywords: ['angular', 'primeng', 'accordion']
+    keywords: ['angular', 'primeng', 'accordion'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 196,
@@ -4159,7 +4353,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/panel',
-    keywords: ['angular', 'primeng', 'panel']
+    keywords: ['angular', 'primeng', 'panel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 197,
@@ -4180,7 +4375,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tabview',
-    keywords: ['angular', 'primeng', 'tabview']
+    keywords: ['angular', 'primeng', 'tabview'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 198,
@@ -4201,7 +4397,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/fieldset',
-    keywords: ['angular', 'primeng', 'fieldset']
+    keywords: ['angular', 'primeng', 'fieldset'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 199,
@@ -4222,7 +4419,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/grid',
-    keywords: ['angular', 'primeng', 'grid']
+    keywords: ['angular', 'primeng', 'grid'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 200,
@@ -4243,7 +4441,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/toolbar',
-    keywords: ['angular', 'primeng', 'toolbar']
+    keywords: ['angular', 'primeng', 'toolbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 201,
@@ -4264,7 +4463,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/confirmdialog',
-    keywords: ['angular', 'primeng', 'confirmdialog']
+    keywords: ['angular', 'primeng', 'confirmdialog'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 202,
@@ -4285,7 +4485,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/lightbox',
-    keywords: ['angular', 'primeng', 'lightbox']
+    keywords: ['angular', 'primeng', 'lightbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 203,
@@ -4306,7 +4507,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tooltip',
-    keywords: ['angular', 'primeng', 'tooltip']
+    keywords: ['angular', 'primeng', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 204,
@@ -4327,7 +4529,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/dialog',
-    keywords: ['angular', 'primeng', 'dialog']
+    keywords: ['angular', 'primeng', 'dialog'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 205,
@@ -4348,7 +4551,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/overlaypanel',
-    keywords: ['angular', 'primeng', 'overlaypanel']
+    keywords: ['angular', 'primeng', 'overlaypanel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 206,
@@ -4369,7 +4573,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/fileupload',
-    keywords: ['angular', 'primeng', 'fileupload']
+    keywords: ['angular', 'primeng', 'fileupload'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 207,
@@ -4390,7 +4595,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/contextmenu',
-    keywords: ['angular', 'primeng', 'contextmenu']
+    keywords: ['angular', 'primeng', 'contextmenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 208,
@@ -4411,7 +4617,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.2.1',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/menu',
-    keywords: ['angular', 'primeng', 'menu']
+    keywords: ['angular', 'primeng', 'menu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 209,
@@ -4432,7 +4639,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/panelmenu',
-    keywords: ['angular', 'primeng', 'panelmenu']
+    keywords: ['angular', 'primeng', 'panelmenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 210,
@@ -4453,7 +4661,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/steps',
-    keywords: ['angular', 'primeng', 'steps']
+    keywords: ['angular', 'primeng', 'steps'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 211,
@@ -4474,7 +4683,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tieredmenu',
-    keywords: ['angular', 'primeng', 'tieredmenu']
+    keywords: ['angular', 'primeng', 'tieredmenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 212,
@@ -4495,7 +4705,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/breadcrumb',
-    keywords: ['angular', 'primeng', 'breadcrumb']
+    keywords: ['angular', 'primeng', 'breadcrumb'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 213,
@@ -4516,7 +4727,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/megamenu',
-    keywords: ['angular', 'primeng', 'megamenu']
+    keywords: ['angular', 'primeng', 'megamenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 214,
@@ -4537,7 +4749,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/menubar',
-    keywords: ['angular', 'primeng', 'menubar']
+    keywords: ['angular', 'primeng', 'menubar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 215,
@@ -4558,7 +4771,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/slidemenu',
-    keywords: ['angular', 'primeng', 'slidemenu']
+    keywords: ['angular', 'primeng', 'slidemenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 216,
@@ -4579,7 +4793,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/tabmenu',
-    keywords: ['angular', 'primeng', 'tabmenu']
+    keywords: ['angular', 'primeng', 'tabmenu'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 217,
@@ -4600,7 +4815,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/doughnut',
-    keywords: ['angular', 'primeng', 'doughnut', 'chart']
+    keywords: ['angular', 'primeng', 'doughnut', 'chart'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 218,
@@ -4621,7 +4837,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/polararea',
-    keywords: ['angular', 'primeng', 'polararea', 'chart']
+    keywords: ['angular', 'primeng', 'polararea', 'chart'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 219,
@@ -4642,7 +4859,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/radar',
-    keywords: ['angular', 'primeng', 'radar', 'chart']
+    keywords: ['angular', 'primeng', 'radar', 'chart'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 220,
@@ -4663,7 +4881,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/bar',
-    keywords: ['angular', 'primeng', 'chart', 'bar']
+    keywords: ['angular', 'primeng', 'chart', 'bar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 221,
@@ -4684,7 +4903,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/line',
-    keywords: ['angular', 'primeng', 'chart', 'line']
+    keywords: ['angular', 'primeng', 'chart', 'line'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 222,
@@ -4705,7 +4925,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/chart/pie',
-    keywords: ['angular', 'primeng', 'pie', 'chart']
+    keywords: ['angular', 'primeng', 'pie', 'chart'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 223,
@@ -4726,7 +4947,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/messages',
-    keywords: ['angular', 'primeng', 'messages']
+    keywords: ['angular', 'primeng', 'messages'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 224,
@@ -4747,7 +4969,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/growl',
-    keywords: ['angular', 'primeng', 'growl']
+    keywords: ['angular', 'primeng', 'growl'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 225,
@@ -4768,7 +4991,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/galleria',
-    keywords: ['angular', 'primeng', 'galleria']
+    keywords: ['angular', 'primeng', 'galleria'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 226,
@@ -4789,7 +5013,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/dragdrop',
-    keywords: ['angular', 'primeng', 'dragdrop']
+    keywords: ['angular', 'primeng', 'dragdrop'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 227,
@@ -4810,7 +5035,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/captcha',
-    keywords: ['angular', 'primeng', 'captcha']
+    keywords: ['angular', 'primeng', 'captcha'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 228,
@@ -4831,7 +5057,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/validation',
-    keywords: ['angular', 'primeng', 'validation']
+    keywords: ['angular', 'primeng', 'validation'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 229,
@@ -4852,7 +5079,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/progressspinner',
-    keywords: ['angular', 'primeng', 'progressspinner']
+    keywords: ['angular', 'primeng', 'progressspinner'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 230,
@@ -4873,7 +5101,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/terminal',
-    keywords: ['angular', 'primeng', 'terminal']
+    keywords: ['angular', 'primeng', 'terminal'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 231,
@@ -4894,7 +5123,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/',
-    keywords: ['angular', 'primeng', '']
+    keywords: ['angular', 'primeng', ''],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 232,
@@ -4915,7 +5145,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/blockui',
-    keywords: ['angular', 'primeng', 'blockui']
+    keywords: ['angular', 'primeng', 'blockui'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 233,
@@ -4936,7 +5167,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/inplace',
-    keywords: ['angular', 'primeng', 'inplace']
+    keywords: ['angular', 'primeng', 'inplace'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 234,
@@ -4957,7 +5189,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/progressbar',
-    keywords: ['angular', 'primeng', 'progressbar']
+    keywords: ['angular', 'primeng', 'progressbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 235,
@@ -4978,7 +5211,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.3.0',
     license: 'MIT',
     details: 'https://www.primefaces.org/primeng/#/codehighlighter',
-    keywords: ['angular', 'primeng', 'codehighlighter']
+    keywords: ['angular', 'primeng', 'codehighlighter'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 236,
@@ -4999,7 +5233,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://github.com/VadimDez/ngx-img-fallback',
-    keywords: ['angular-2', 'image', 'fallback', 'image-fallback']
+    keywords: ['angular-2', 'image', 'fallback', 'image-fallback'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 237,
@@ -5020,7 +5255,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/steps',
-    keywords: ['covalent', 'material', 'teradata', 'steps', 'stepper']
+    keywords: ['covalent', 'material', 'teradata', 'steps', 'stepper'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 238,
@@ -5041,7 +5277,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/expansion-panel',
-    keywords: ['covalent', 'material', 'teradata', 'expansion-panel']
+    keywords: ['covalent', 'material', 'teradata', 'expansion-panel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 239,
@@ -5062,7 +5299,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/file-input',
-    keywords: ['covalent', 'material', 'teradata', 'file-input']
+    keywords: ['covalent', 'material', 'teradata', 'file-input'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 240,
@@ -5083,7 +5321,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/file-upload',
-    keywords: ['covalent', 'material', 'teradata', 'file-upload']
+    keywords: ['covalent', 'material', 'teradata', 'file-upload'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 241,
@@ -5104,7 +5343,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/chips',
-    keywords: ['covalent', 'material', 'teradata', 'chips']
+    keywords: ['covalent', 'material', 'teradata', 'chips'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 242,
@@ -5125,7 +5365,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/loading',
-    keywords: ['covalent', 'material', 'teradata', 'loading']
+    keywords: ['covalent', 'material', 'teradata', 'loading'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 243,
@@ -5146,7 +5387,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/dialogs',
-    keywords: ['covalent', 'material', 'teradata', 'dialogs']
+    keywords: ['covalent', 'material', 'teradata', 'dialogs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 244,
@@ -5167,7 +5409,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/data-table',
-    keywords: ['covalent', 'material', 'teradata', 'data-table']
+    keywords: ['covalent', 'material', 'teradata', 'data-table'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 245,
@@ -5188,7 +5431,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/virtual-scroll',
-    keywords: ['covalent', 'material', 'teradata', 'virtual-scroll']
+    keywords: ['covalent', 'material', 'teradata', 'virtual-scroll'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 246,
@@ -5209,7 +5453,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/json-formatter',
-    keywords: ['covalent', 'material', 'teradata', 'json-formatter']
+    keywords: ['covalent', 'material', 'teradata', 'json-formatter'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 247,
@@ -5230,7 +5475,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/paging',
-    keywords: ['covalent', 'material', 'teradata', 'paging']
+    keywords: ['covalent', 'material', 'teradata', 'paging'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 248,
@@ -5251,7 +5497,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/notifications',
-    keywords: ['covalent', 'material', 'teradata', 'notifications']
+    keywords: ['covalent', 'material', 'teradata', 'notifications'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 249,
@@ -5272,7 +5519,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/message',
-    keywords: ['covalent', 'material', 'teradata', 'message']
+    keywords: ['covalent', 'material', 'teradata', 'message'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 250,
@@ -5293,7 +5541,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/search',
-    keywords: ['covalent', 'material', 'teradata', 'search']
+    keywords: ['covalent', 'material', 'teradata', 'search'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 251,
@@ -5314,7 +5563,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/syntax-highlighting',
-    keywords: ['covalent', 'material', 'teradata', 'syntax-highlighting']
+    keywords: ['covalent', 'material', 'teradata', 'syntax-highlighting'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 252,
@@ -5335,7 +5585,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/markdown',
-    keywords: ['covalent', 'material', 'teradata', 'markdown']
+    keywords: ['covalent', 'material', 'teradata', 'markdown'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 253,
@@ -5356,7 +5607,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/dynamic-forms',
-    keywords: ['covalent', 'material', 'teradata', 'dynamic-forms']
+    keywords: ['covalent', 'material', 'teradata', 'dynamic-forms'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 254,
@@ -5377,7 +5629,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/code-editor',
-    keywords: ['covalent', 'material', 'teradata', 'code-editor']
+    keywords: ['covalent', 'material', 'teradata', 'code-editor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 255,
@@ -5398,7 +5651,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.8-1',
     license: 'MIT',
     details: 'https://teradata.github.io/covalent/#/components/text-editor',
-    keywords: ['covalent', 'material', 'teradata', 'text-editor']
+    keywords: ['covalent', 'material', 'teradata', 'text-editor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 256,
@@ -5419,7 +5673,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.3-9',
     license: 'MIT',
     details: 'https://github.com/JayKan/ng2-swipeable-card',
-    keywords: ['card-component', 'material-design', 'swipeable-cards']
+    keywords: ['card-component', 'material-design', 'swipeable-cards'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 257,
@@ -5440,7 +5695,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/alerts',
-    keywords: ['clarity', 'ux', 'ui', 'alerts']
+    keywords: ['clarity', 'ux', 'ui', 'alerts'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 258,
@@ -5461,7 +5717,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/badges',
-    keywords: ['clarity', 'ux', 'ui', 'badges']
+    keywords: ['clarity', 'ux', 'ui', 'badges'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 259,
@@ -5482,7 +5739,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/buttons',
-    keywords: ['clarity', 'ux', 'ui', 'buttons']
+    keywords: ['clarity', 'ux', 'ui', 'buttons'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 260,
@@ -5503,7 +5761,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/button-group',
-    keywords: ['clarity', 'ux', 'ui', 'button-group']
+    keywords: ['clarity', 'ux', 'ui', 'button-group'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 261,
@@ -5524,7 +5783,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/cards',
-    keywords: ['clarity', 'ux', 'ui', 'cards']
+    keywords: ['clarity', 'ux', 'ui', 'cards'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 262,
@@ -5545,7 +5805,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/checkboxes',
-    keywords: ['clarity', 'ux', 'ui', 'checkboxes']
+    keywords: ['clarity', 'ux', 'ui', 'checkboxes'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 263,
@@ -5566,7 +5827,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/code-highlight',
-    keywords: ['clarity', 'ux', 'ui', 'code-highlight']
+    keywords: ['clarity', 'ux', 'ui', 'code-highlight'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 264,
@@ -5587,7 +5849,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/datagrid',
-    keywords: ['clarity', 'ux', 'ui', 'datagrid']
+    keywords: ['clarity', 'ux', 'ui', 'datagrid'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 265,
@@ -5608,7 +5871,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/dropdowns',
-    keywords: ['clarity', 'ux', 'ui', 'dropdowns']
+    keywords: ['clarity', 'ux', 'ui', 'dropdowns'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 266,
@@ -5629,7 +5893,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/forms',
-    keywords: ['clarity', 'ux', 'ui', 'forms']
+    keywords: ['clarity', 'ux', 'ui', 'forms'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 267,
@@ -5650,7 +5915,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/header',
-    keywords: ['clarity', 'ux', 'ui', 'header']
+    keywords: ['clarity', 'ux', 'ui', 'header'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 268,
@@ -5671,7 +5937,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/input-fields',
-    keywords: ['clarity', 'ux', 'ui', 'input-fields']
+    keywords: ['clarity', 'ux', 'ui', 'input-fields'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 269,
@@ -5692,7 +5959,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/labels',
-    keywords: ['clarity', 'ux', 'ui', 'labels']
+    keywords: ['clarity', 'ux', 'ui', 'labels'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 270,
@@ -5713,7 +5981,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/lists',
-    keywords: ['clarity', 'ux', 'ui', 'lists']
+    keywords: ['clarity', 'ux', 'ui', 'lists'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 271,
@@ -5734,7 +6003,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/login',
-    keywords: ['clarity', 'ux', 'ui', 'login', 'page']
+    keywords: ['clarity', 'ux', 'ui', 'login', 'page'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 272,
@@ -5755,7 +6025,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/modals',
-    keywords: ['clarity', 'ux', 'ui', 'modals']
+    keywords: ['clarity', 'ux', 'ui', 'modals'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 273,
@@ -5776,7 +6047,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/progress',
-    keywords: ['clarity', 'ux', 'ui', 'progress', 'bar']
+    keywords: ['clarity', 'ux', 'ui', 'progress', 'bar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 274,
@@ -5797,7 +6069,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/radios',
-    keywords: ['clarity', 'ux', 'ui', 'radios']
+    keywords: ['clarity', 'ux', 'ui', 'radios'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 275,
@@ -5818,7 +6091,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/select-boxes',
-    keywords: ['clarity', 'ux', 'ui', 'select-boxes', 'select']
+    keywords: ['clarity', 'ux', 'ui', 'select-boxes', 'select'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 276,
@@ -5839,7 +6113,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/sidenav',
-    keywords: ['clarity', 'ux', 'ui', 'sidenav']
+    keywords: ['clarity', 'ux', 'ui', 'sidenav'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 277,
@@ -5860,7 +6135,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/signposts',
-    keywords: ['clarity', 'ux', 'ui', 'signposts']
+    keywords: ['clarity', 'ux', 'ui', 'signposts'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 278,
@@ -5881,7 +6157,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/spinners',
-    keywords: ['clarity', 'ux', 'ui', 'spinners']
+    keywords: ['clarity', 'ux', 'ui', 'spinners'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 279,
@@ -5902,7 +6179,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/stack-view',
-    keywords: ['clarity', 'ux', 'ui', 'stack-view']
+    keywords: ['clarity', 'ux', 'ui', 'stack-view'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 280,
@@ -5923,7 +6201,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/tables',
-    keywords: ['clarity', 'ux', 'ui', 'tables']
+    keywords: ['clarity', 'ux', 'ui', 'tables'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 281,
@@ -5944,7 +6223,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/tabs',
-    keywords: ['clarity', 'ux', 'ui', 'tabs']
+    keywords: ['clarity', 'ux', 'ui', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 282,
@@ -5965,7 +6245,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/toggle-switches',
-    keywords: ['clarity', 'ux', 'ui', 'toggle-switches']
+    keywords: ['clarity', 'ux', 'ui', 'toggle-switches'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 283,
@@ -5986,7 +6267,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/tooltips',
-    keywords: ['clarity', 'ux', 'ui', 'tooltips']
+    keywords: ['clarity', 'ux', 'ui', 'tooltips'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 284,
@@ -6007,7 +6289,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/tree-view',
-    keywords: ['clarity', 'ux', 'ui', 'tree-view']
+    keywords: ['clarity', 'ux', 'ui', 'tree-view'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 285,
@@ -6028,7 +6311,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/vertical-nav/basic-structure/charmander',
-    keywords: ['clarity', 'ux', 'ui', 'vertical-nav']
+    keywords: ['clarity', 'ux', 'ui', 'vertical-nav'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 286,
@@ -6049,7 +6333,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.10.11',
     license: 'MIT',
     details: 'https://vmware.github.io/clarity/documentation/wizards',
-    keywords: ['clarity', 'ux', 'ui', 'wizards']
+    keywords: ['clarity', 'ux', 'ui', 'wizards'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 287,
@@ -6070,7 +6355,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.2.2',
     license: 'MIT',
     details: 'https://github.com/surmon-china/ngx-quill-editor',
-    keywords: ['quil', 'ng2-quill-editor', 'ng2', 'angular2-component', 'quill', 'quill-editor', 'quilljs', 'web-editor', 'text-editor']
+    keywords: ['quil', 'ng2-quill-editor', 'ng2', 'angular2-component', 'quill', 'quill-editor', 'quilljs', 'web-editor', 'text-editor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 288,
@@ -6091,7 +6377,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#inputs',
-    keywords: ['ngx-ui', 'input', 'ngx-input']
+    keywords: ['ngx-ui', 'input', 'ngx-input'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 289,
@@ -6112,7 +6399,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#buttons',
-    keywords: ['ngx-ui', 'button', 'ngx-button', 'ngx-file-button']
+    keywords: ['ngx-ui', 'button', 'ngx-button', 'ngx-file-button'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 290,
@@ -6133,7 +6421,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#selects',
-    keywords: ['ngx-ui', 'select']
+    keywords: ['ngx-ui', 'select'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 291,
@@ -6154,7 +6443,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#datetime',
-    keywords: ['ngx-ui', 'datetime', 'input']
+    keywords: ['ngx-ui', 'datetime', 'input'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 292,
@@ -6175,7 +6465,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#slider',
-    keywords: ['ngx-ui', 'slider']
+    keywords: ['ngx-ui', 'slider'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 293,
@@ -6196,7 +6487,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#toggle',
-    keywords: ['ngx-ui', 'toggle']
+    keywords: ['ngx-ui', 'toggle'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 294,
@@ -6217,7 +6509,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#checkbox',
-    keywords: ['ngx-ui', 'checkbox']
+    keywords: ['ngx-ui', 'checkbox'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 295,
@@ -6238,7 +6531,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#calendar',
-    keywords: ['ngx-ui', 'calendar']
+    keywords: ['ngx-ui', 'calendar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 296,
@@ -6259,7 +6553,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#codeEditor',
-    keywords: ['ngx-ui', 'codeEditor']
+    keywords: ['ngx-ui', 'codeEditor'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 297,
@@ -6280,7 +6575,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#scrollbars',
-    keywords: ['ngx-ui', 'scrollbars']
+    keywords: ['ngx-ui', 'scrollbars'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 298,
@@ -6301,7 +6597,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#nag',
-    keywords: ['ngx-ui', 'nag']
+    keywords: ['ngx-ui', 'nag'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 299,
@@ -6322,7 +6619,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#dialog',
-    keywords: ['ngx-ui', 'dialog']
+    keywords: ['ngx-ui', 'dialog'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 300,
@@ -6343,7 +6641,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#alert',
-    keywords: ['ngx-ui', 'alert']
+    keywords: ['ngx-ui', 'alert'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 301,
@@ -6364,7 +6663,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#tooltip',
-    keywords: ['ngx-ui', 'tooltip']
+    keywords: ['ngx-ui', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 302,
@@ -6385,7 +6685,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#notification',
-    keywords: ['ngx-ui', 'notification']
+    keywords: ['ngx-ui', 'notification'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 303,
@@ -6406,7 +6707,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#sections',
-    keywords: ['ngx-ui', 'sections']
+    keywords: ['ngx-ui', 'sections'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 304,
@@ -6427,7 +6729,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#toolbar',
-    keywords: ['ngx-ui', 'toolbar']
+    keywords: ['ngx-ui', 'toolbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 305,
@@ -6448,7 +6751,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#tabs',
-    keywords: ['ngx-ui', 'tabs']
+    keywords: ['ngx-ui', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 306,
@@ -6469,7 +6773,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#dropdown',
-    keywords: ['ngx-ui', 'dropdown']
+    keywords: ['ngx-ui', 'dropdown'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 307,
@@ -6490,7 +6795,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#datatable',
-    keywords: ['ngx-ui', 'datatable']
+    keywords: ['ngx-ui', 'datatable'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 308,
@@ -6511,7 +6817,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#loading',
-    keywords: ['ngx-ui', 'loading']
+    keywords: ['ngx-ui', 'loading'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 309,
@@ -6532,7 +6839,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#progress-spinner',
-    keywords: ['ngx-ui', 'progress-spinner']
+    keywords: ['ngx-ui', 'progress-spinner'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 310,
@@ -6553,7 +6861,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#tree',
-    keywords: ['ngx-ui', 'tree']
+    keywords: ['ngx-ui', 'tree'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 311,
@@ -6574,7 +6883,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#ngx-icon',
-    keywords: ['ngx-ui', 'ngx-icon', 'icon']
+    keywords: ['ngx-ui', 'ngx-icon', 'icon'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 312,
@@ -6595,7 +6905,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '19.0.1',
     license: 'MIT',
     details: 'https://swimlane.github.io/ngx-ui/#overlay',
-    keywords: ['ngx-ui', 'overlay']
+    keywords: ['ngx-ui', 'overlay'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 313,
@@ -6616,7 +6927,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.2.2',
     license: 'MIT',
     details: 'https://chenqingspring.github.io/ng-lottie/docs/',
-    keywords: ['lottie', 'after-effects', 'lottie-animation', 'ionic3', 'ionic', 'bodymovin']
+    keywords: ['lottie', 'after-effects', 'lottie-animation', 'ionic3', 'ionic', 'bodymovin'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 314,
@@ -6637,7 +6949,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.1',
     license: 'MIT',
     details: 'https://johannesjo.github.io/angular2-promise-buttons/',
-    keywords: ['promise', 'button']
+    keywords: ['promise', 'button'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 315,
@@ -6658,7 +6971,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.1.0',
     license: 'MIT',
     details: 'https://github.com/madoar/ng2-archwizard',
-    keywords: ['wizard', 'form-wizard', 'angular4-wizard']
+    keywords: ['wizard', 'form-wizard', 'angular4-wizard'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 316,
@@ -6679,7 +6993,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.4.2',
     license: 'MIT',
     details: 'https://github.com/MrFrankel/ngx-popper',
-    keywords: ['tooltip', 'tooltips', 'popper', 'ngx-popper', 'ngx-tooltip']
+    keywords: ['tooltip', 'tooltips', 'popper', 'ngx-popper', 'ngx-tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 317,
@@ -6700,7 +7015,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.8.0',
     license: 'MIT',
     details: 'https://github.com/HaithemMosbahi/ngx-avatar',
-    keywords: ['avatar', 'facebook', 'avatar-component', 'twitter', 'initials-avatar', 'vkontakte']
+    keywords: ['avatar', 'facebook', 'avatar-component', 'twitter', 'initials-avatar', 'vkontakte'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 318,
@@ -6721,7 +7037,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.0.5',
     license: 'MIT',
     details: 'https://github.com/techiediaries/ngx-qrcode',
-    keywords: ['qrcode', 'qrcode-generator']
+    keywords: ['qrcode', 'qrcode-generator'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 319,
@@ -6742,7 +7059,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.1.4',
     license: 'MIT',
     details: 'https://github.com/hiyali/ng-data-picker',
-    keywords: ['data', 'picker', 'ios', 'touch']
+    keywords: ['data', 'picker', 'ios', 'touch'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 320,
@@ -6763,7 +7081,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.1',
     license: 'MIT',
     details: 'https://github.com/lexzhukov/ngx-siema',
-    keywords: ['carousel', 'siema']
+    keywords: ['carousel', 'siema'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 321,
@@ -6784,7 +7103,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/accordion/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'accordion']
+    keywords: ['ng-bootstrap', 'bootstrap', 'accordion'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 322,
@@ -6805,7 +7125,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/alert/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'alert']
+    keywords: ['ng-bootstrap', 'bootstrap', 'alert'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 323,
@@ -6826,7 +7147,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/buttons/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'buttons']
+    keywords: ['ng-bootstrap', 'bootstrap', 'buttons'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 324,
@@ -6847,7 +7169,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/carousel/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'carousel']
+    keywords: ['ng-bootstrap', 'bootstrap', 'carousel'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 325,
@@ -6868,7 +7191,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/collapse/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'collapse']
+    keywords: ['ng-bootstrap', 'bootstrap', 'collapse'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 326,
@@ -6889,7 +7213,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/datepicker/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'datepicker']
+    keywords: ['ng-bootstrap', 'bootstrap', 'datepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 327,
@@ -6910,7 +7235,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/dropdown/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'dropdown']
+    keywords: ['ng-bootstrap', 'bootstrap', 'dropdown'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 328,
@@ -6931,7 +7257,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/modal/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'modal']
+    keywords: ['ng-bootstrap', 'bootstrap', 'modal'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 329,
@@ -6952,7 +7279,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/pagination/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'pagination']
+    keywords: ['ng-bootstrap', 'bootstrap', 'pagination'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 330,
@@ -6973,7 +7301,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/popover/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'popover']
+    keywords: ['ng-bootstrap', 'bootstrap', 'popover'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 331,
@@ -6994,7 +7323,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/progressbar/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'progressbar']
+    keywords: ['ng-bootstrap', 'bootstrap', 'progressbar'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 332,
@@ -7015,7 +7345,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/rating/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'rating']
+    keywords: ['ng-bootstrap', 'bootstrap', 'rating'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 333,
@@ -7036,7 +7367,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/tabs/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'tabs']
+    keywords: ['ng-bootstrap', 'bootstrap', 'tabs'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 334,
@@ -7057,7 +7389,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/timepicker/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'timepicker']
+    keywords: ['ng-bootstrap', 'bootstrap', 'timepicker'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 335,
@@ -7078,7 +7411,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/tooltip/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'tooltip']
+    keywords: ['ng-bootstrap', 'bootstrap', 'tooltip'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 336,
@@ -7099,7 +7433,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0-beta.5',
     license: 'MIT',
     details: 'https://ng-bootstrap.github.io/#/components/typeahead/examples',
-    keywords: ['ng-bootstrap', 'bootstrap', 'typeahead']
+    keywords: ['ng-bootstrap', 'bootstrap', 'typeahead'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 337,
@@ -7120,7 +7455,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '4.1.0',
     license: 'MIT',
     details: 'https://github.com/artemsky/ng-snotify/',
-    keywords: ['toast', 'ng-snotify', 'notifications']
+    keywords: ['toast', 'ng-snotify', 'notifications'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 338,
@@ -7141,7 +7477,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '3.0.0',
     license: 'MIT',
     details: 'https://github.com/AlexKhymenko/ngx-permissions',
-    keywords: ['ng-permission', 'permissions', 'roles', 'angular-permissions', 'acl', 'rbac', 'access', 'access-control']
+    keywords: ['ng-permission', 'permissions', 'roles', 'angular-permissions', 'acl', 'rbac', 'access', 'access-control'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 339,
@@ -7162,7 +7499,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '0.3.37',
     license: 'MIT',
     details: 'https://github.com/garciparedes/ng-katex',
-    keywords: ['katex', 'latex', 'math', 'khan-academy']
+    keywords: ['katex', 'latex', 'math', 'khan-academy'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 340,
@@ -7183,7 +7521,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/VadimDez/ngx-filter-pipe',
-    keywords: ['filter-array', 'pipe', 'array-filter']
+    keywords: ['filter-array', 'pipe', 'array-filter'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 341,
@@ -7204,7 +7543,8 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'https://github.com/VadimDez/ngx-order-pipe',
-    keywords: ['order', 'pipe']
+    keywords: ['order', 'pipe'],
+    contributedBy: 'andreypelykh'
   },
   {
     id: 342,
