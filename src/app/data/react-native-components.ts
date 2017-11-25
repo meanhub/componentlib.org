@@ -52,7 +52,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
       "nativebase",
       "ios",
       "android"
-    ]
+    ],
+    contributedBy: "souvikbasu",
   },
   {
     id: 1,
@@ -75,7 +76,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/crazycodeboy/react-native-check-box",
-    keywords: ["check-box", "checkbox"]
+    keywords: ["check-box", "checkbox"],
+    contributedBy: "souvikbasu",
   },
   {
     id: 2,
@@ -98,7 +100,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.2.5",
     license: "MIT",
     details: "https://github.com/garrettmac/react-native-pagination",
-    keywords: ["filtering", "pagination"]
+    keywords: ["filtering", "pagination"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 3,
@@ -121,7 +124,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.11",
     license: "MIT",
     details: "https://github.com/agiletechvn/react-native-search-box",
-    keywords: ["search", "box"]
+    keywords: ["search", "box"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 4,
@@ -144,7 +148,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.6",
     license: "MIT",
     details: "https://github.com/octopitus/rn-sliding-up-panel",
-    keywords: ["slider"]
+    keywords: ["slider"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 5,
@@ -168,7 +173,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "",
     license: "MIT",
     details: "https://github.com/sundayhd/react-native-display",
-    keywords: ["Display", "Screen"]
+    keywords: ["Display", "Screen"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 6,
@@ -191,7 +197,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/crazycodeboy/react-native-check-box",
-    keywords: ["checkbox"]
+    keywords: ["checkbox"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 7,
@@ -214,7 +221,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/crazycodeboy/react-native-easy-toast",
-    keywords: ["bottom", "top"]
+    keywords: ["bottom", "top"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 8,
@@ -238,7 +246,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.9.35",
     license: "MIT",
     details: "https://github.com/jacklam718/react-native-popup-dialog",
-    keywords: ["popup", "dialog box"]
+    keywords: ["popup", "dialog box"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 9,
@@ -262,7 +271,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.5",
     license: "MIT",
     details: "https://github.com/dondoko-susumu/react-native-card-media",
-    keywords: ["gallery", "pictures"]
+    keywords: ["gallery", "pictures"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 10,
@@ -285,7 +295,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/jacklam718/react-native-card-view",
-    keywords: ["view"]
+    keywords: ["view"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 11,
@@ -309,7 +320,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.1.0",
     license: "MIT",
     details: "https://github.com/APSL/react-native-button",
-    keywords: ["styling", "design", "button"]
+    keywords: ["styling", "design", "button"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 12,
@@ -332,7 +344,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.3.2",
     license: "MIT",
     details: "https://github.com/aksonov/react-native-mobx",
-    keywords: ["count", "click"]
+    keywords: ["count", "click"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 13,
@@ -356,7 +369,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.1",
     license: "MIT",
     details: "https://github.com/leowang721/k-react-native-swipe-unlocker",
-    keywords: ["lock", "swipe"]
+    keywords: ["lock", "swipe"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 14,
@@ -380,7 +394,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.4.0",
     license: "MIT",
     details: "https://github.com/oblador/react-native-progress",
-    keywords: ["progress", "loader"]
+    keywords: ["progress", "loader"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 15,
@@ -404,7 +419,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/naoufal/react-native-accordion",
-    keywords: ["scroll", "dropdown"]
+    keywords: ["scroll", "dropdown"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 16,
@@ -428,7 +444,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.8.0",
     license: "MIT",
     details: "https://github.com/mastermoo/react-native-action-button",
-    keywords: ["button", "add"]
+    keywords: ["button", "add"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 17,
@@ -452,7 +469,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.2.11",
     license: "MIT",
     details: "https://github.com/naoufal/react-native-activity-view",
-    keywords: ["library", "facebook", "message"]
+    keywords: ["library", "facebook", "message"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 18,
@@ -475,7 +493,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.4.0",
     license: "MIT",
     details: "https://github.com/Purii/react-native-adbannerview",
-    keywords: ["banner", "view"]
+    keywords: ["banner", "view"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 19,
@@ -499,7 +518,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.5",
     license: "MIT",
     details: "https://github.com/kis/react-native-air-progress-bar",
-    keywords: ["progress bar", "loader"]
+    keywords: ["progress bar", "loader"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 20,
@@ -523,7 +543,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.2.0",
     license: "MIT",
     details: "https://github.com/sunnylqm/react-native-alphabetlistview",
-    keywords: ["slider", "slide bar"]
+    keywords: ["slider", "slide bar"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 21,
@@ -547,7 +568,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.2.2",
     license: "MIT",
     details: "https://github.com/kwaak/react-native-android-blurryoverlay",
-    keywords: ["overlay"]
+    keywords: ["overlay"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 22,
@@ -570,7 +592,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.3.0",
     license: "MIT",
     details: "https://github.com/kwaak/react-native-android-circles",
-    keywords: ["circle", "loaders"]
+    keywords: ["circle", "loaders"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 23,
@@ -594,7 +617,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/AppliKeySolutions/RocketButton",
-    keywords: ["button", "animation"]
+    keywords: ["button", "animation"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 24,
@@ -618,7 +642,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.5",
     license: "MIT",
     details: "https://github.com/FuYaoDe/react-native-app-intro",
-    keywords: ["introduction", "animation"]
+    keywords: ["introduction", "animation"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 25,
@@ -642,7 +667,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.8.2",
     license: "MIT",
     details: "https://github.com/larsvinter/react-native-awesome-button",
-    keywords: ["button", "press me"]
+    keywords: ["button", "press me"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 26,
@@ -665,7 +691,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/phuongla/react-native-auto-typing-text",
-    keywords: ["picture"]
+    keywords: ["picture"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 27,
@@ -689,7 +716,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.3.0",
     license: "MIT",
     details: "https://github.com/nulrich/RCTAutoComplete",
-    keywords: ["search", "country"]
+    keywords: ["search", "country"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 28,
@@ -713,7 +741,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.4.0",
     license: "MIT",
     details: "https://github.com/l-urence/react-native-autocomplete-input",
-    keywords: ["search", "filter"]
+    keywords: ["search", "filter"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 29,
@@ -737,7 +766,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.5.1",
     license: "MIT",
     details: "https://github.com/caroaguilar/react-native-bar-collapsible",
-    keywords: ["Clickable", "Collapsible"]
+    keywords: ["Clickable", "Collapsible"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 29,
@@ -761,7 +791,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.4",
     license: "MIT",
     details: "https://github.com/phuochau/react-native-beautiful-image",
-    keywords: ["pictures", "images"]
+    keywords: ["pictures", "images"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 30,
@@ -786,7 +817,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/phuochau/react-native-beautiful-video-recorder",
-    keywords: ["pictures", "images", "vedio"]
+    keywords: ["pictures", "images", "vedio"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 31,
@@ -810,7 +842,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.2.0",
     license: "MIT",
     details: "https://github.com/react-native-community/react-native-blur",
-    keywords: ["view", "blur"]
+    keywords: ["view", "blur"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 32,
@@ -833,7 +866,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.0",
     license: "MIT",
     details: "https://github.com/netbeast/react-native-big-slider",
-    keywords: ["usage", "slider"]
+    keywords: ["usage", "slider"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 33,
@@ -857,7 +891,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.2",
     license: "MIT",
     details: "https://github.com/magus/react-native-fxblurview",
-    keywords: ["view", "blur"]
+    keywords: ["view", "blur"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 34,
@@ -882,7 +917,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior",
-    keywords: ["state", "anchor"]
+    keywords: ["state", "anchor"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 35,
@@ -905,7 +941,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.7.1",
     license: "MIT",
     details: "https://github.com/wix/react-native-calendars",
-    keywords: ["calendar", "date"]
+    keywords: ["calendar", "date"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 36,
@@ -929,7 +966,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.2.2",
     license: "MIT",
     details: "https://github.com/vlad-doru/react-native-calendar-datepicker",
-    keywords: ["calendar", "date"]
+    keywords: ["calendar", "date"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 37,
@@ -952,7 +990,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.10.0",
     license: "MIT",
     details: "https://github.com/Kishanjvaghela/react-native-cardview",
-    keywords: ["cardview"]
+    keywords: ["cardview"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 39,
@@ -976,7 +1015,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "https://github.com/machadogj/react-native-carousel-control",
-    keywords: ["button", "contact"]
+    keywords: ["button", "contact"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 40,
@@ -1000,7 +1040,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.2.1",
     license: "MIT",
     details: "https://github.com/lodev09/react-native-cell-components",
-    keywords: ["panel", "cell"]
+    keywords: ["panel", "cell"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 41,
@@ -1023,7 +1064,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "6.1.0",
     license: "MIT",
     details: "https://github.com/tomauty/react-native-chart",
-    keywords: ["chart", "graph"]
+    keywords: ["chart", "graph"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 42,
@@ -1046,7 +1088,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.0.0",
     license: "MIT",
     details: "https://github.com/PrazAs/react-native-charts",
-    keywords: ["chart", "graph"]
+    keywords: ["chart", "graph"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 43,
@@ -1070,7 +1113,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox",
-    keywords: ["checkbox"]
+    keywords: ["checkbox"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 44,
@@ -1094,7 +1138,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.4.0",
     license: "MIT",
     details: "https://github.com/geremih/react-native-circular-action-menu",
-    keywords: ["button", "circular"]
+    keywords: ["button", "circular"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 45,
@@ -1118,7 +1163,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.8",
     license: "MIT",
     details: "https://github.com/bgryszko/react-native-circular-progress",
-    keywords: ["progress", "loader"]
+    keywords: ["progress", "loader"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 46,
@@ -1141,7 +1187,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.9.0",
     license: "MIT",
     details: "https://github.com/oblador/react-native-collapsible",
-    keywords: ["toggles"]
+    keywords: ["toggles"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 47,
@@ -1166,7 +1213,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/cesardeazevedo/react-native-collapsing-toolbar",
-    keywords: ["toolbar", "flatlist"]
+    keywords: ["toolbar", "flatlist"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 48,
@@ -1189,7 +1237,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.3.0",
     license: "MIT",
     details: "https://github.com/xcarpentier/react-native-country-picker-modal",
-    keywords: ["country", "modal"]
+    keywords: ["country", "modal"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 49,
@@ -1213,7 +1262,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.3.3",
     license: "MIT",
     details: "https://github.com/sbycrosz/react-native-credit-card-input",
-    keywords: ["creditcard", "input"]
+    keywords: ["creditcard", "input"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 49,
@@ -1237,7 +1287,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.15.0",
     license: "MIT",
     details: "https://github.com/guodong000/react-native-custom-actsheet",
-    keywords: ["ActionSheet"]
+    keywords: ["ActionSheet"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 50,
@@ -1261,7 +1312,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.5.0",
     license: "MIT",
     details: "https://github.com/caroaguilar/react-native-custom-checkbox",
-    keywords: ["checkbox"]
+    keywords: ["checkbox"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 50,
@@ -1284,7 +1336,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.1.1",
     license: "MIT",
     details: "https://github.com/chirag04/react-native-dashed-border",
-    keywords: ["border", "dash border"]
+    keywords: ["border", "dash border"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 51,
@@ -1308,7 +1361,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.2",
     license: "MIT",
     details: "https://github.com/milasevicius/react-native-timepicker",
-    keywords: ["timer", "clock"]
+    keywords: ["timer", "clock"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 51,
@@ -1332,7 +1386,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.4",
     license: "MIT",
     details: "https://github.com/kkjdaniel/react-native-device-display",
-    keywords: ["display"]
+    keywords: ["display"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 52,
@@ -1355,7 +1410,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.11",
     license: "MIT",
     details: "https://github.com/netbeast/react-native-dial",
-    keywords: ["dialer", "nobe"]
+    keywords: ["dialer", "nobe"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 53,
@@ -1379,7 +1435,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.20",
     license: "MIT",
     details: "https://github.com/aakashns/react-native-dialogs",
-    keywords: ["dialog"]
+    keywords: ["dialog"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 54,
@@ -1403,7 +1460,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.20",
     license: "MIT",
     details: "https://github.com/llanox/react-native-draggable-drawer",
-    keywords: ["dialog"]
+    keywords: ["dialog"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 55,
@@ -1427,7 +1485,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.5.0",
     license: "MIT",
     details: "https://github.com/root-two/react-native-drawer",
-    keywords: ["drawer"]
+    keywords: ["drawer"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 56,
@@ -1451,7 +1510,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.5.0",
     license: "MIT",
     details: "https://github.com/chymtt/ReactNativeDropdownAndroid",
-    keywords: ["drawer"]
+    keywords: ["drawer"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 57,
@@ -1475,7 +1535,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.2.0",
     license: "MIT",
     details: "https://github.com/react-native-china/react-native-drop-refresh",
-    keywords: ["drop", "slider"]
+    keywords: ["drop", "slider"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 58,
@@ -1498,7 +1559,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.1.2",
     license: "MIT",
     details: "https://github.com/testshallpass/react-native-dropdownalert",
-    keywords: ["dropdown", "alert"]
+    keywords: ["dropdown", "alert"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 59,
@@ -1521,7 +1583,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/Tinysymphony/react-native-drawer-menu",
-    keywords: ["easter egg", "gestures"]
+    keywords: ["easter egg", "gestures"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 60,
@@ -1544,7 +1607,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.2.0",
     license: "MIT",
     details: "https://github.com/jorilallo/react-native-emoji",
-    keywords: ["emoji"]
+    keywords: ["emoji"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 61,
@@ -1568,7 +1632,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.2.2",
     license: "MIT",
     details: "https://github.com/yonahforst/react-native-emoji-picker",
-    keywords: ["emoji"]
+    keywords: ["emoji"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 62,
@@ -1592,7 +1657,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/chagasaway/react-native-fading-slides",
-    keywords: ["slides"]
+    keywords: ["slides"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 63,
@@ -1615,7 +1681,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.5.3",
     license: "MIT",
     details: "https://github.com/huiseoul/react-native-fit-image",
-    keywords: ["fit images", "images"]
+    keywords: ["fit images", "images"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 64,
@@ -1640,7 +1707,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/thegamenicorus/react-native-flexi-radio-button",
-    keywords: ["radio button"]
+    keywords: ["radio button"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 65,
@@ -1664,7 +1732,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.6",
     license: "MIT",
     details: "https://github.com/mayank-patel/react-native-floating-labels",
-    keywords: ["floating labels"]
+    keywords: ["floating labels"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 66,
@@ -1688,7 +1757,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.3",
     license: "MIT",
     details: "https://github.com/c-bata/react-native-focus-scroll",
-    keywords: ["scroll"]
+    keywords: ["scroll"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 67,
@@ -1712,7 +1782,8 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.1",
     license: "MIT",
     details: "https://github.com/jmurzy/react-native-foldview",
-    keywords: ["foldview"]
+    keywords: ["foldview"],
+    contributedBy: "qexon-ankit"
   },
   {
     id: 68,
@@ -1737,6 +1808,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details:
       "https://github.com/johanneslumpe/react-native-gesture-recognizers",
-    keywords: ["pans", "swipes"]
+    keywords: ["pans", "swipes"],
+    contributedBy: "qexon-ankit"
   }
 ];
