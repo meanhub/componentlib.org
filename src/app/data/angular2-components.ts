@@ -306,9 +306,9 @@ export const ANGULAR_COMPONENTS: any[] = [
       "popover",
       "confirm",
       "confirmation"
-    ]
+    ],
+    contributedBy: "andreypelykh"
   },
-
   {
     id: 12,
     name: "ngx-datatable",
