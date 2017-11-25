@@ -7565,6 +7565,7 @@ export const ANGULAR_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'https://github.com/ssuperczynski/ngx-easy-table',
-    keywords: ['easy', 'table']
+    keywords: ['easy', 'table'],
+    contributedBy: 'andreypelykh'
   },
 ];

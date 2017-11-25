@@ -19,7 +19,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ladda-angular/',
-    keywords: ['button', 'submit', 'ladda']
+    keywords: ['button', 'submit', 'ladda'],
+    contributedBy: 'souvikbasu'
   },
   {
     id: 1,
@@ -40,7 +41,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.21',
     license: 'MIT',
     details: 'http://johannesjo.github.io/angular-promise-buttons/',
-    keywords: ['button', 'submit', 'promise']
+    keywords: ['button', 'submit', 'promise'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 2,
@@ -61,7 +63,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.1',
     license: 'MIT',
     details: 'https://github.com/Zizzamia/ng-tasty',
-    keywords: ['ui', 'design']
+    keywords: ['ui', 'design'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 3,
@@ -82,7 +85,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.10.0',
     license: 'MIT',
     details: 'http://tombatossals.github.io/angular-leaflet-directive',
-    keywords: ['leaflet', 'directive']
+    keywords: ['leaflet', 'directive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 4,
@@ -103,7 +107,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.2',
     license: 'MIT',
     details: 'https://github.com/esvit/angular-social',
-    keywords: ['social', 'buttons']
+    keywords: ['social', 'buttons'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 5,
@@ -124,7 +129,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.8',
     license: 'MIT',
     details: 'http://sroze.github.io/ngInfiniteScroll/',
-    keywords: ['scroll', 'repeat','infinite']
+    keywords: ['scroll', 'repeat','infinite'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 6,
@@ -145,7 +151,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.16',
     license: 'MIT',
     details: 'http://textangular.com/',
-    keywords: ['text', 'editor','angular']
+    keywords: ['text', 'editor','angular'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 7,
@@ -166,7 +173,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.1.1',
     license: 'MIT',
     details: 'http://cgross.github.io/angular-busy/demo/',
-    keywords: ['busy', 'loading','indicator']
+    keywords: ['busy', 'loading','indicator'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 8,
@@ -187,7 +195,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.2',
     license: 'MIT',
     details: 'https://github.com/lavinjj/angularjs-gravatardirective',
-    keywords: ['avatar', 'image','tag']
+    keywords: ['avatar', 'image','tag'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 9,
@@ -208,7 +217,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.2',
     license: 'MIT',
     details: 'https://venturocket.github.io/angular-slider/',
-    keywords: ['slider']
+    keywords: ['slider'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 10,
@@ -229,7 +239,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.17.0',
     license: 'MIT',
     details: 'https://passy.github.io/angular-masonry/',
-    keywords: ['masonry']
+    keywords: ['masonry'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 11,
@@ -250,7 +261,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.5',
     license: 'MIT',
     details: 'http://siddii.github.io/angular-timer/',
-    keywords: ['timer','time']
+    keywords: ['timer','time'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 12,
@@ -271,7 +283,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.8',
     license: 'MIT',
     details: 'http://ajoslin.com/angular-scrolly/#/api',
-    keywords: ['scroll','scrolly']
+    keywords: ['scroll','scrolly'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 13,
@@ -292,7 +305,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5',
     license: 'MIT',
     details: 'https://github.com/djds4rce/angular-socialshare',
-    keywords: ['social','share']
+    keywords: ['social','share'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 14,
@@ -313,7 +327,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/fullscale/dangle',
-    keywords: ['visualization','elasticsearch']
+    keywords: ['visualization','elasticsearch'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 15,
@@ -335,7 +350,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.19',
     license: 'MIT',
     details: 'https://www.tinymce.com',
-    keywords: ['tinymce','editor','text']
+    keywords: ['tinymce','editor','text'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 16,
@@ -356,7 +372,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.19',
     license: 'MIT',
     details: 'https://angular-ui.github.io/bootstrap',
-    keywords: ['bootstrap','ui','design','components']
+    keywords: ['bootstrap','ui','design','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 17,
@@ -377,7 +394,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.0',
     license: 'MIT',
     details: 'http://chieffancypants.github.io/angular-hotkeys',
-    keywords: ['keys','hotkeys','angular']
+    keywords: ['keys','hotkeys','angular'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 18,
@@ -398,7 +416,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/marcorinck/angular-growl',
-    keywords: ['growl','notification','alert']
+    keywords: ['growl','notification','alert'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 19,
@@ -419,7 +438,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/urish/angular-spinner',
-    keywords: ['spinner','loader','spin']
+    keywords: ['spinner','loader','spin'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 20,
@@ -440,7 +460,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.13',
     license: 'MIT',
     details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
-    keywords: ['drag','drop','components']
+    keywords: ['drag','drop','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 21,
@@ -461,7 +482,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.6',
     license: 'MIT',
     details: 'http://codef0rmer.github.io/angular-dragdrop/#!/#%2F',
-    keywords: ['csv']
+    keywords: ['csv'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 22,
@@ -482,7 +504,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1-SNAPSHOT',
     license: 'MIT',
     details: 'http://angular-widgets.github.io/angular-jqm/master/docs/#/api',
-    keywords: ['jqm','jquery']
+    keywords: ['jqm','jquery'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 23,
@@ -503,7 +526,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.1',
     license: 'MIT',
     details: 'https://chieffancypants.github.io/angular-loading-bar/#',
-    keywords: ['loader','loading','bar']
+    keywords: ['loader','loading','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 24,
@@ -524,7 +548,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.19.8',
     license: 'MIT',
     details: 'angular-ui.github.io/ui-select',
-    keywords: ['ui','search','select']
+    keywords: ['ui','search','select'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 25,
@@ -545,7 +570,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.6',
     license: 'MIT',
     details: 'http://showdownjs.github.io',
-    keywords: ['showdown','converter','html']
+    keywords: ['showdown','converter','html'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 26,
@@ -566,7 +592,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.3',
     license: 'MIT',
     details: 'https://github.com/yunlzheng/angular-knob',
-    keywords: ['canvas','jpg','png','sprites']
+    keywords: ['canvas','jpg','png','sprites'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 27,
@@ -587,7 +614,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.0',
     license: 'MIT',
     details: 'https://github.com/c0bra/angular-responsive-images',
-    keywords: ['images','jpg','png','responsive']
+    keywords: ['images','jpg','png','responsive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 28,
@@ -608,7 +636,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.17.2',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-sortable/',
-    keywords: ['sortable','connectable','items','ui']
+    keywords: ['sortable','connectable','items','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 29,
@@ -629,7 +658,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.2',
     license: 'MIT',
     details: 'https://github.com/durated/angular-scroll',
-    keywords: ['scroll','sections']
+    keywords: ['scroll','sections'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 30,
@@ -650,7 +680,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.2',
     license: 'MIT',
     details: 'http://nissoh.github.io/angular-tether/',
-    keywords: ['tether','components']
+    keywords: ['tether','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 31,
@@ -671,7 +702,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.2',
     license: 'MIT',
     details: 'http://nissoh.github.io/angular-tether/',
-    keywords: ['tether','components']
+    keywords: ['tether','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 32,
@@ -692,7 +724,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.8.1',
     license: 'MIT',
     details: 'https://unosquare.github.io/tubular/#!/',
-    keywords: ['grid','charts','tabular','tabs']
+    keywords: ['grid','charts','tabular','tabs'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 33,
@@ -713,7 +746,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.0',
     license: 'MIT',
     details: 'http://matowens.github.io/ng-notify/',
-    keywords: ['theme','button','sticky','success','error','warning']
+    keywords: ['theme','button','sticky','success','error','warning'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 34,
@@ -734,7 +768,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.4.0',
     license: 'MIT',
     details: 'http://luckylooke.github.io/dragular/#/home',
-    keywords: ['drag','drop','ui','list']
+    keywords: ['drag','drop','ui','list'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 35,
@@ -755,7 +790,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.1',
     license: 'MIT',
     details: 'http://hrajchert.github.io/angular-screenfull/#/api',
-    keywords: ['screen','fullscreen']
+    keywords: ['screen','fullscreen'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 36,
@@ -776,7 +812,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.2',
     license: 'MIT',
     details: 'http://stevenlambion.github.io/ui-listView/',
-    keywords: ['ui','list','listview']
+    keywords: ['ui','list','listview'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 37,
@@ -797,7 +834,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'http://www.sattvabit.com/angular-material-checkbox/',
-    keywords: ['ui','material','checkbox']
+    keywords: ['ui','material','checkbox'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 38,
@@ -818,7 +856,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.11',
     license: 'MIT',
     details: 'http://tushariscoolster.github.io/ng-sweet-alert/',
-    keywords: ['ui','sweet','alert']
+    keywords: ['ui','sweet','alert'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 39,
@@ -839,7 +878,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.1',
     license: 'MIT',
     details: 'https://github.com/Foxandxss/angular-toastr',
-    keywords: ['ui','toaster','notification']
+    keywords: ['ui','toaster','notification'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 40,
@@ -860,7 +900,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '6.4.0',
     license: 'MIT',
     details: 'http://angular-slider.github.io/angularjs-slider/',
-    keywords: ['ui','slider']
+    keywords: ['ui','slider'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 41,
@@ -881,7 +922,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.1',
     license: 'MIT',
     details: 'http://ngreact.github.io/ngReact/',
-    keywords: ['react']
+    keywords: ['react'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 42,
@@ -902,7 +944,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'http://photoswipe.com/',
-    keywords: ['image','photo','photoswipe']
+    keywords: ['image','photo','photoswipe'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 43,
@@ -924,7 +967,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'https://github.com/benjamincharity/angular-json-calendar',
-    keywords: ['json','calendar']
+    keywords: ['json','calendar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 44,
@@ -946,7 +990,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.3',
     license: 'MIT',
     details: 'https://github.com/kirstein/angular-autodisable',
-    keywords: ['autodisable','disable','auto']
+    keywords: ['autodisable','disable','auto'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 45,
@@ -968,7 +1013,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.4',
     license: 'MIT',
     details: 'https://github.com/benjamincharity/angular-keypad',
-    keywords: ['autodisable','disable','auto','key']
+    keywords: ['autodisable','disable','auto','key'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 46,
@@ -989,7 +1035,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.1',
     license: 'MIT',
     details: 'http://harm-less.github.io/angular-sticky/#!/',
-    keywords: ['sticky','notes']
+    keywords: ['sticky','notes'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 47,
@@ -1010,7 +1057,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://momentjs.com/docs/#/manipulating/end-of/',
-    keywords: ['moment','time','timestamp']
+    keywords: ['moment','time','timestamp'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 48,
@@ -1031,7 +1079,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://momentjs.com/docs/#/manipulating/end-of/',
-    keywords: ['storage','db','localstorage']
+    keywords: ['storage','db','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 49,
@@ -1052,7 +1101,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.11',
     license: 'MIT',
     details: 'http://momentjs.com/docs/#/manipulating/end-of/',
-    keywords: ['storage','db','localstorage']
+    keywords: ['storage','db','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 50,
@@ -1073,7 +1123,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.11',
     license: 'MIT',
     details: 'http://gregpike.net/demos/angular-local-storage/demo/demo.html',
-    keywords: ['storage','db','localstorage']
+    keywords: ['storage','db','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 51,
@@ -1094,7 +1145,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.6.0',
     license: 'MIT',
     details: 'http://www.pseudobry.com/angular-cache/',
-    keywords: ['storage','cache','localstorage']
+    keywords: ['storage','cache','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 52,
@@ -1115,7 +1167,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.2.1',
     license: 'MIT',
     details: 'http://www.pseudobry.com/angular-cache/',
-    keywords: ['storage','cache','localstorage']
+    keywords: ['storage','cache','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 53,
@@ -1136,7 +1189,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.5',
     license: 'MIT',
     details: 'https://www.jsdelivr.com/package/npm/angular-locker',
-    keywords: ['locker','localstorage']
+    keywords: ['locker','localstorage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 54,
@@ -1157,7 +1211,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0-semantic-release',
     license: 'MIT',
     details: 'http://ng-table.com/#/',
-    keywords: ['table','datatable']
+    keywords: ['table','datatable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 55,
@@ -1178,7 +1233,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.4',
     license: 'MIT',
     details: 'http://hueitan.github.io/angular-validation/',
-    keywords: ['validation','validate']
+    keywords: ['validation','validate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 56,
@@ -1199,7 +1255,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.4',
     license: 'MIT',
     details: 'http://hueitan.github.io/angular-validation/',
-    keywords: ['validation','validate']
+    keywords: ['validation','validate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 57,
@@ -1220,7 +1277,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '6.19.0',
     license: 'MIT',
     details: 'http://docs.angular-formly.com/',
-    keywords: ['form','validate']
+    keywords: ['form','validate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 58,
@@ -1241,7 +1299,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.3',
     license: 'MIT',
     details: 'http://kelp404.github.io/angular-validator/',
-    keywords: ['form','validate']
+    keywords: ['form','validate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 59,
@@ -1262,7 +1321,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.13',
     license: 'MIT',
     details: 'http://schemaform.io/',
-    keywords: ['form','validate','schema']
+    keywords: ['form','validate','schema'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 60,
@@ -1283,7 +1343,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.0.7',
     license: 'MIT',
     details: 'http://ui-grid.info/',
-    keywords: ['ui','grid','tabs']
+    keywords: ['ui','grid','tabs'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 61,
@@ -1304,7 +1365,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.0',
     license: 'MIT',
     details: 'https://stripe.com/docs/stripe.js',
-    keywords: ['payments','gateway','stripe']
+    keywords: ['payments','gateway','stripe'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 62,
@@ -1325,7 +1387,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.2',
     license: 'MIT',
     details: 'https://stripe.com/docs/stripe.js',
-    keywords: ['payments','gateway','stripe']
+    keywords: ['payments','gateway','stripe'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 63,
@@ -1346,7 +1409,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.8',
     license: 'MIT',
     details: 'http://lorenzofox3.github.io/smart-table-website/',
-    keywords: ['smart','smart']
+    keywords: ['smart','smart'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 64,
@@ -1368,7 +1432,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.0',
     license: 'MIT',
     details: 'http://vitalets.github.io/angular-xeditable/',
-    keywords: ['smart','grid']
+    keywords: ['smart','grid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 65,
@@ -1389,7 +1454,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.0',
     license: 'MIT',
     details: 'http://moonstorm.github.io/trNgGrid/release/',
-    keywords: ['grid','smart','table']
+    keywords: ['grid','smart','table'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 66,
@@ -1410,7 +1476,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '13.3.1',
     license: 'MIT',
     details: 'https://www.ag-grid.com/',
-    keywords: ['grid','smart','table']
+    keywords: ['grid','smart','table'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 67,
@@ -1431,7 +1498,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '13.3.1',
     license: 'MIT',
     details: 'http://mattiash.github.io/angular-tablesort/',
-    keywords: ['grid','smart','table']
+    keywords: ['grid','smart','table'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 68,
@@ -1452,7 +1520,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://www.protractortest.org/#/',
-    keywords: ['framework','test','browser']
+    keywords: ['framework','test','browser'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 69,
@@ -1474,7 +1543,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://www.protractortest.org/#/',
-    keywords: ['image','lorem','photo']
+    keywords: ['image','lorem','photo'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 70,
@@ -1495,7 +1565,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.2.2',
     license: 'MIT',
     details: 'https://github.com/ajoslin/angular-promise-tracker',
-    keywords: ['promise','tracker']
+    keywords: ['promise','tracker'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 71,
@@ -1516,7 +1587,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.16.0',
     license: 'MIT',
     details: 'http://yeoman.io/',
-    keywords: ['new projects','generator']
+    keywords: ['new projects','generator'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 72,
@@ -1537,7 +1609,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.3',
     license: 'MIT',
     details: 'http://decipherinc.github.io/angular-debaser/',
-    keywords: ['debaser','injection','dependency']
+    keywords: ['debaser','injection','dependency'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 73,
@@ -1558,7 +1631,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.11',
     license: 'MIT',
     details: 'http://outbrain.github.io/Leonardo/',
-    keywords: ['mocking ninja','add-on tool','client side mocking']
+    keywords: ['mocking ninja','add-on tool','client side mocking'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 74,
@@ -1579,7 +1653,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.11',
     license: 'MIT',
     details: 'http://ng-inspector.org/',
-    keywords: ['browser','extension','inspector','chrome','safari']
+    keywords: ['browser','extension','inspector','chrome','safari'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 75,
@@ -1600,7 +1675,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'https://oclazyload.readme.io',
-    keywords: ['lazyloading','lazy','load']
+    keywords: ['lazyloading','lazy','load'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 76,
@@ -1621,7 +1697,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.2.2',
     license: 'MIT',
     details: 'https://angular-fullstack.github.io/',
-    keywords: ['generator','fullstack']
+    keywords: ['generator','fullstack'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 77,
@@ -1642,7 +1719,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.2',
     license: 'MIT',
     details: 'https://material.angularjs.org/latest/',
-    keywords: ['material','components']
+    keywords: ['material','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 78,
@@ -1663,7 +1741,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.3.12',
     license: 'MIT',
     details: 'http://mgcrea.github.io/angular-strap/',
-    keywords: ['strap','components']
+    keywords: ['strap','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 79,
@@ -1684,7 +1763,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.0',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-scroll/demo/',
-    keywords: ['ui','scroll']
+    keywords: ['ui','scroll'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 80,
@@ -1705,7 +1785,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.8',
     license: 'MIT',
     details: 'https://ui-router.github.io/sample-app-angularjs/#!/welcome',
-    keywords: ['ui','router']
+    keywords: ['ui','router'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 81,
@@ -1726,7 +1807,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.7.1',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-calendar/',
-    keywords: ['ui','calendar']
+    keywords: ['ui','calendar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 82,
@@ -1747,7 +1829,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.0.7',
     license: 'MIT',
     details: 'http://ui-grid.info/',
-    keywords: ['ui','grid']
+    keywords: ['ui','grid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 83,
@@ -1768,7 +1851,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.3',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-layout/',
-    keywords: ['ui','layout']
+    keywords: ['ui','layout'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 84,
@@ -1789,7 +1873,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.17.2',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-sortable/',
-    keywords: ['ui','sortable']
+    keywords: ['ui','sortable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 85,
@@ -1810,7 +1895,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-leaflet/#!/',
-    keywords: ['ui','leaflet']
+    keywords: ['ui','leaflet'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 86,
@@ -1831,7 +1917,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.0.4',
     license: 'MIT',
     details: 'http://ui-grid.info/',
-    keywords: ['ui','grid']
+    keywords: ['ui','grid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 87,
@@ -1852,7 +1939,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.1',
     license: 'MIT',
     details: 'https://rawgit.com/angular-ui/ui-uploader/master/demo/index.html',
-    keywords: ['ui','uploader']
+    keywords: ['ui','uploader'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 88,
@@ -1873,7 +1961,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-codemirror/',
-    keywords: ['ui','codemirror']
+    keywords: ['ui','codemirror'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 89,
@@ -1894,7 +1983,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.3',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-ace/',
-    keywords: ['ui','codemirror']
+    keywords: ['ui','codemirror'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 90,
@@ -1915,7 +2005,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.4',
     license: 'MIT',
     details: 'http://angular-ui.github.io/ui-leaflet-draw/',
-    keywords: ['ui','leaflet','draw']
+    keywords: ['ui','leaflet','draw'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 91,
@@ -1936,7 +2027,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://htmlpreview.github.io/?https://github.com/angular-ui/ui-validate/master/demo/index.html',
-    keywords: ['ui','validate']
+    keywords: ['ui','validate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 92,
@@ -1957,7 +2049,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.4.1',
     license: 'MIT',
     details: 'http://angular-ui.github.io/angular-google-maps/#!/',
-    keywords: ['google','maps']
+    keywords: ['google','maps'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 93,
@@ -1978,7 +2071,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.1',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-date',
-    keywords: ['ui','date']
+    keywords: ['ui','date'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 94,
@@ -1999,7 +2093,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.8.7',
     license: 'MIT',
     details: 'https://htmlpreview.github.io/?https://github.com/angular-ui/ui-mask/master/demo/index.html',
-    keywords: ['ui','mask']
+    keywords: ['ui','mask'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 95,
@@ -2020,7 +2115,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.8',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-mention',
-    keywords: ['ui','mention']
+    keywords: ['ui','mention'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 96,
@@ -2041,7 +2137,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-tour',
-    keywords: ['ui','tour']
+    keywords: ['ui','tour'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 97,
@@ -2062,7 +2159,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-slider',
-    keywords: ['ui','slider']
+    keywords: ['ui','slider'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 98,
@@ -2083,7 +2181,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.5',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-map',
-    keywords: ['ui','map']
+    keywords: ['ui','map'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 99,
@@ -2104,7 +2203,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.1',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-scrollpoint',
-    keywords: ['ui','scrollpoint']
+    keywords: ['ui','scrollpoint'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 100,
@@ -2125,7 +2225,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-indeterminate',
-    keywords: ['ui','indeterminate']
+    keywords: ['ui','indeterminate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 101,
@@ -2146,7 +2247,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2',
     license: 'MIT',
     details: 'https://github.com/Augus/ngAnimate',
-    keywords: ['ui','animate','components']
+    keywords: ['ui','animate','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 102,
@@ -2167,7 +2269,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'https://github.com/btford/angular-modal',
-    keywords: ['modal','popup','popover']
+    keywords: ['modal','popup','popover'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 103,
@@ -2188,7 +2291,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.0',
     license: 'MIT',
     details: 'https://socket.io/',
-    keywords: ['socket','io','input output']
+    keywords: ['socket','io','input output'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 104,
@@ -2209,7 +2313,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.2',
     license: 'MIT',
     details: 'https://docs.telerik.com/kendo-ui/AngularJS/introduction',
-    keywords: ['kendo','ui','components']
+    keywords: ['kendo','ui','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 105,
@@ -2230,7 +2335,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.1',
     license: 'MIT',
     details: 'http://angulartics.github.io',
-    keywords: ['page tracking','event tracking','scroll tracking']
+    keywords: ['page tracking','event tracking','scroll tracking'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 106,
@@ -2251,7 +2357,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.3',
     license: 'MIT',
     details: 'https://github.com/Ciul/angular-facebook',
-    keywords: ['facebook']
+    keywords: ['facebook'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 107,
@@ -2272,7 +2379,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.2',
     license: 'MIT',
     details: 'https://github.com/pc035860/angular-easyfb',
-    keywords: ['easyfb']
+    keywords: ['easyfb'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 108,
@@ -2293,7 +2401,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'http://orange-opensource.github.io/angular-swagger-ui/',
-    keywords: ['swagger','ui']
+    keywords: ['swagger','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 109,
@@ -2314,7 +2423,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.15.2',
     license: 'MIT',
     details: 'https://angular-translate.github.io/',
-    keywords: ['translate','ui']
+    keywords: ['translate','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 110,
@@ -2335,7 +2445,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.3.10',
     license: 'MIT',
     details: 'https://angular-gettext.rocketeer.be/',
-    keywords: ['gettext','utilities']
+    keywords: ['gettext','utilities'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 111,
@@ -2356,7 +2467,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.0.0-beta.4',
     license: 'MIT',
     details: 'http://n3-charts.github.io/line-chart/#/home',
-    keywords: ['charts','line','time','area','Interpolation']
+    keywords: ['charts','line','time','area','Interpolation'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 112,
@@ -2377,7 +2489,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0-beta.1',
     license: 'MIT',
     details: 'http://angular-google-chart.github.io/angular-google-chart/',
-    keywords: ['charts','line','time','area','bar']
+    keywords: ['charts','line','time','area','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 113,
@@ -2398,7 +2511,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.9',
     license: 'MIT',
     details: 'http://krispo.github.io/angular-nvd3/#/',
-    keywords: ['charts','line','time','area','bar']
+    keywords: ['charts','line','time','area','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 114,
@@ -2419,7 +2533,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.6.7',
     license: 'MIT',
     details: 'https://github.com/gianarb/awesome-angularjs',
-    keywords: ['charts','line','time','area','bar']
+    keywords: ['charts','line','time','area','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 115,
@@ -2440,7 +2555,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.0',
     license: 'MIT',
     details: 'https://angular-morris.io/',
-    keywords: ['charts','line','time','area','bar','morris']
+    keywords: ['charts','line','time','area','bar','morris'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 116,
@@ -2461,7 +2577,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://jtblin.github.io/angular-chart.js/',
-    keywords: ['charts','line','time','area','bar']
+    keywords: ['charts','line','time','area','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 117,
@@ -2482,7 +2599,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://www.anychart.com/ ',
-    keywords: ['charts','line','time','area','bar','anychart']
+    keywords: ['charts','line','time','area','bar','anychart'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 117,
@@ -2503,7 +2621,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.13',
     license: 'MIT',
     details: 'http://angular-js.in/',
-    keywords: ['restangular']
+    keywords: ['restangular'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 118,
@@ -2524,7 +2643,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://mgechev.github.io/angularjs-in-patterns/',
-    keywords: ['patterns']
+    keywords: ['patterns'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 119,
@@ -2545,7 +2665,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.8',
     license: 'MIT',
     details: 'http://kasperlewau.github.io/angular-bind-notifier/',
-    keywords: ['watch','count','notifier']
+    keywords: ['watch','count','notifier'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 120,
@@ -2566,7 +2687,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/ajoslin/angular-mobile-nav',
-    keywords: ['mobile','nav']
+    keywords: ['mobile','nav'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 121,
@@ -2587,7 +2709,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.3.3',
     license: 'MIT',
     details: 'http://ionicframework.com/',
-    keywords: ['mobile','testing']
+    keywords: ['mobile','testing'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 122,
@@ -2608,7 +2731,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.11',
     license: 'MIT',
     details: 'http://platanus.github.io/angular-restmod/',
-    keywords: ['restmod','Hooks']
+    keywords: ['restmod','Hooks'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 123,
@@ -2629,7 +2753,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.1',
     license: 'MIT',
     details: 'https://aping.readme.io',
-    keywords: ['api','module']
+    keywords: ['api','module'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 124,
@@ -2650,7 +2775,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '12.2.13',
     license: 'MIT',
     details: 'https://github.com/danialfarid/ng-file-upload',
-    keywords: ['file','upload']
+    keywords: ['file','upload'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 125,
@@ -2671,7 +2797,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.5.0',
     license: 'MIT',
     details: 'https://github.com/nervgh/angular-file-upload',
-    keywords: ['file','upload']
+    keywords: ['file','upload'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 126,
@@ -2692,7 +2819,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.7.7',
     license: 'MIT',
     details: 'http://flowjs.github.io/ng-flow/',
-    keywords: ['file','upload','gallery','image']
+    keywords: ['file','upload','gallery','image'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 127,
@@ -2713,7 +2841,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.1',
     license: 'MIT',
     details: 'https://angular-filemanager.zendelsolutions.com/',
-    keywords: ['file','filemanager']
+    keywords: ['file','filemanager'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 128,
@@ -2734,7 +2863,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.1',
     license: 'MIT',
     details: 'https://angular-filemanager.zendelsolutions.com/',
-    keywords: ['file','filemanager']
+    keywords: ['file','filemanager'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 129,
@@ -2755,7 +2885,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'http://rp.js.org/ui-router-tabs/example/index.html',
-    keywords: ['router','tabs','ui']
+    keywords: ['router','tabs','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 130,
@@ -2777,7 +2908,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.17',
     license: 'MIT',
     details: 'https://github.com/a8m/angular-filter',
-    keywords: ['filter']
+    keywords: ['filter'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 131,
@@ -2798,7 +2930,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.8',
     license: 'MIT',
     details: 'https://github.com/a5hik/ng-sortable/',
-    keywords: ['sortable','sorting']
+    keywords: ['sortable','sorting'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 132,
@@ -2819,7 +2952,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.6.1',
     license: 'MIT',
     details: 'https://github.com/mgonto/restangular',
-    keywords: ['restangular','get','post','put','delete']
+    keywords: ['restangular','get','post','put','delete'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 133,
@@ -2840,7 +2974,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.22.5',
     license: 'MIT',
     details: 'http://angular-ui-tree.github.io/angular-ui-tree/#/basic-example',
-    keywords: ['ui','tree','drag','drop','draggable']
+    keywords: ['ui','tree','drag','drop','draggable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 134,
@@ -2861,7 +2996,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://www.cosmocms.org/',
-    keywords: ['cms','single page','app']
+    keywords: ['cms','single page','app'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 135,
@@ -2882,7 +3018,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.12',
     license: 'MIT',
     details: 'https://github.com/fatlinesofcode/ngDraggable',
-    keywords: ['drag','drop','draggable']
+    keywords: ['drag','drop','draggable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 135,
@@ -2903,7 +3040,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.0',
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
-    keywords: ['http','auth']
+    keywords: ['http','auth'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 136,
@@ -2924,7 +3062,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.4',
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
-    keywords: ['autocomplete','auto']
+    keywords: ['autocomplete','auto'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 137,
@@ -2945,7 +3084,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.2.0',
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
-    keywords: ['toaster','notification','message']
+    keywords: ['toaster','notification','message'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 138,
@@ -2966,7 +3106,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.0',
     license: 'MIT',
     details: 'https://github.com/witoldsz/angular-http-auth',
-    keywords: ['dialog','modal','popup']
+    keywords: ['dialog','modal','popup'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 139,
@@ -2987,7 +3128,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.0',
     license: 'MIT',
     details: 'http://likeastore.github.io/ngDialog/#',
-    keywords: ['dialog','modal','popup']
+    keywords: ['dialog','modal','popup'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 140,
@@ -3008,7 +3150,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.2.0',
     license: 'MIT',
     details: 'http://mbenford.github.io/ngTagsInput/',
-    keywords: ['tags','input']
+    keywords: ['tags','input'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 141,
@@ -3029,7 +3172,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://github.com/darylrowland/angucomplete/',
-    keywords: ['autocomplete','dropdown']
+    keywords: ['autocomplete','dropdown'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 142,
@@ -3050,7 +3194,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'http://revolunet.github.io/angular-carousel/',
-    keywords: ['carousel','slider']
+    keywords: ['carousel','slider'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 143,
@@ -3072,7 +3217,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/eu81273/angular.treeview#angular-treeview',
-    keywords: ['treeview','tree']
+    keywords: ['treeview','tree'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 144,
@@ -3094,7 +3240,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.0',
     license: 'MIT',
     details: 'https://github.com/pablojim/highcharts-ng',
-    keywords: ['charts','highcharts']
+    keywords: ['charts','highcharts'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 145,
@@ -3115,7 +3262,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.0.0',
     license: 'MIT',
     details: 'http://ghiden.github.io/angucomplete-alt/',
-    keywords: ['autocomplete','dropdown']
+    keywords: ['autocomplete','dropdown'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 146,
@@ -3137,7 +3285,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.7',
     license: 'MIT',
     details: 'https://github.com/iameugenejo/ngScrollTo',
-    keywords: ['scroll','pagescroll']
+    keywords: ['scroll','pagescroll'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 147,
@@ -3158,7 +3307,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.21',
     license: 'MIT',
     details: 'http://twilson63.github.io/ngUpload/',
-    keywords: ['upload','image','file']
+    keywords: ['upload','image','file'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 148,
@@ -3179,7 +3329,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.2',
     license: 'MIT',
     details: 'http://hackedbychinese.github.io/ng-idle/',
-    keywords: ['idle','timeout','delay']
+    keywords: ['idle','timeout','delay'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 149,
@@ -3200,7 +3351,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '5.3.0',
     license: 'MIT',
     details: 'http://hackedbychinese.github.io/ng-idle/',
-    keywords: ['dialog','popup','notification','service']
+    keywords: ['dialog','popup','notification','service'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 150,
@@ -3221,7 +3373,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.8.0',
     license: 'MIT',
     details: 'http://ionicframework.com/',
-    keywords: ['ionic','mobile','iphone','framework']
+    keywords: ['ionic','mobile','iphone','framework'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 151,
@@ -3243,7 +3396,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.6.0',
     license: 'MIT',
     details: 'https://github.com/TheSharpieOne/angular-validation-match',
-    keywords: ['validation','match']
+    keywords: ['validation','match'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 152,
@@ -3264,7 +3418,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.8',
     license: 'MIT',
     details: 'https://github.com/angularjs-nvd3-directives/angularjs-nvd3-directives',
-    keywords: ['charts','nvd3','line','area']
+    keywords: ['charts','nvd3','line','area'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 153,
@@ -3285,7 +3440,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.1',
     license: 'MIT',
     details: 'https://github.com/dylanfprice/angular-gm',
-    keywords: ['google map','map']
+    keywords: ['google map','map'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 154,
@@ -3306,7 +3462,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.3.6',
     license: 'MIT',
     details: 'https://github.com/goinstant/goangular',
-    keywords: ['goInstant']
+    keywords: ['goInstant'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 155,
@@ -3327,7 +3484,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.28',
     license: 'MIT',
     details: 'http://wix.github.io/angular-tree-control/',
-    keywords: ['tree','strcuture','control']
+    keywords: ['tree','strcuture','control'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 156,
@@ -3348,11 +3506,12 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.7',
     license: 'MIT',
     details: 'https://github.com/vasyabigi/angular-slick',
-    keywords: ['slick','carousel','html']
+    keywords: ['slick','carousel','html'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 157,
-    name: 'angular-truncate',    
+    name: 'angular-truncate',
     install: {
       packager: 'script',
       url: 'https://github.com/sparkalow/angular-truncate/blob/master/src/truncate.js'
@@ -3369,7 +3528,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.2',
     license: 'MIT',
     details: 'https://github.com/sparkalow/angular-truncate',
-    keywords: ['filter','text','strings','truncate']
+    keywords: ['filter','text','strings','truncate'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 158,
@@ -3391,7 +3551,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/sahat/satellizer',
     keywords: ['tocken','authentication']
-  },  
+  },
   {
     id: 159,
     name: 'ng-facebook',
@@ -3412,7 +3572,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/AlmogBaku/ngFacebook',
     keywords: ['facebook','sdk']
-  },  
+  },
   {
     id: 160,
     name: 'angular-elastic',
@@ -3433,7 +3593,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/monospaced/angular-elastic',
     keywords: ['textareas','Elastic','autosize']
-  },  
+  },
   {
     id: 161,
     name: 'angular-multi-select',
@@ -3454,7 +3614,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/isteven/angular-multi-select',
     keywords: ['multi','select','dropdown','selections']
-  },  
+  },
   {
     id: 162,
     name: 'valdr',
@@ -3475,7 +3635,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://netceteragroup.github.io/valdr',
     keywords: ['centric','validation']
-  },  
+  },
   {
     id: 163,
     name: 'angular-gettext',
@@ -3496,7 +3656,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://angular-gettext.rocketeer.be/',
     keywords: ['gettext','translation']
-  },  
+  },
   {
     id: 164,
     name: 'angular-route-segment',
@@ -3517,7 +3677,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://angular-route-segment.com/',
     keywords: ['route','segment','nested views']
-  },  
+  },
   {
     id: 165,
     name: 'angular-datepicker',
@@ -3538,7 +3698,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/g00fy-/angular-datepicker',
     keywords: ['datepicker']
-  },  
+  },
   {
     id: 166,
     name: 'angular-flash',
@@ -3559,7 +3719,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/gtramontina/angular-flash',
     keywords: ['flash','messages']
-  },  
+  },
   {
     id: 167,
     name: 'bindonce',
@@ -3580,7 +3740,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pasvaz/bindonce',
     keywords: ['high performance','bindonce']
-  },  
+  },
   {
     id: 168,
     name: 'acute-select',
@@ -3601,7 +3761,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/gtramontina/angular-flash',
     keywords: ['select','acute']
-  },  
+  },
   {
     id: 169,
     name: 'angular-spinkit',
@@ -3622,7 +3782,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/urigo/angular-spinkit',
     keywords: ['spinkit','spinner','loader']
-  },  
+  },
   {
     id: 170,
     name: 'angular-gantt',
@@ -3643,7 +3803,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://www.angular-gantt.com/',
     keywords: ['gantt','spinner','loader']
-  },  
+  },
   {
     id: 171,
     name: 'nsPopover',
@@ -3664,7 +3824,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/nohros/nsPopover',
     keywords: ['overlays','dependency']
-  },  
+  },
   {
     id: 172,
     name: 'ng-flow',
@@ -3685,7 +3845,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/flowjs/ng-flow',
     keywords: ['flow']
-  },  
+  },
   {
     id: 172,
     name: 'angularjs-mongolab',
@@ -3706,7 +3866,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
     keywords: ['Mongolab','adapter','promises']
-  },  
+  },
   {
     id: 173,
     name: 'ngMask',
@@ -3727,7 +3887,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/pkozlowski-opensource/angularjs-mongolab',
     keywords: ['mask']
-  },  
+  },
   {
     id: 174,
     name: 'ng-currency',
@@ -3748,7 +3908,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://aguirrel.github.io/ng-currency/',
     keywords: ['currency']
-  },  
+  },
   {
     id: 175,
     name: 'angular-foundation',
@@ -3769,7 +3929,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/yalabot/angular-foundation',
     keywords: ['foundation','angularUI']
-  },  
+  },
   {
     id: 176,
     name: 'angular-foundation',
@@ -3790,7 +3950,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/yalabot/angular-foundation',
     keywords: ['foundation','angularUI']
-  }, 
+  },
   {
     id: 177,
     name: 'angular-bootstrap-switch',
@@ -3811,7 +3971,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/frapontillo/angular-bootstrap-switch',
     keywords: ['bootstrap','switch']
-  }, 
+  },
   {
     id: 178,
     name: 'angular-bootstrap-switch',
@@ -3832,7 +3992,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/frapontillo/angular-bootstrap-switch',
     keywords: ['bootstrap','switch']
-  }, 
+  },
   {
     id: 179,
     name: 'stormpath-sdk-angularjs',
@@ -3853,7 +4013,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/stormpath/stormpath-sdk-angularjs',
     keywords: ['sdk','stormpath']
-  }, 
+  },
   {
     id: 180,
     name: 'angular-bootstrap-grid-tree',
@@ -3874,7 +4034,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/khan4019/tree-grid-directive',
     keywords: ['bootstrap','tree','grid']
-  }, 
+  },
   {
     id: 181,
     name: 'w11k-select',
@@ -3895,7 +4055,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://w11k.github.io/w11k-select/',
     keywords: ['select','element']
-  }, 
+  },
   {
     id: 182,
     name: 'Angular paging',
@@ -3916,7 +4076,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://brantwills.github.io/Angular-Paging/',
     keywords: ['paging','datasets']
-  }, 
+  },
   {
     id: 183,
     name: 'ng-simplePagination',
@@ -3938,7 +4098,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/svileng/ng-simplePagination',
     keywords: ['paging','datasets']
-  }, 
+  },
   {
     id: 184,
     name: 'angular-multi-select-tree',
@@ -3959,7 +4119,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/a5hik/angular-multi-select-tree',
     keywords: ['multi select','dropdown','tree']
-  }, 
+  },
   {
     id: 185,
     name: 'angularjs-dropdown-multiselect',
@@ -3980,7 +4140,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://dotansimha.github.io/angularjs-dropdown-multiselect/docs/#/main',
     keywords: ['multi select','dropdown','tree']
-  }, 
+  },
   {
     id: 186,
     name: 'angular-breadcrumb',
@@ -4001,7 +4161,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ncuillery.github.io/angular-breadcrumb/#/home',
     keywords: ['breadcrumb','menu','navigation']
-  }, 
+  },
   {
     id: 187,
     name: 'angular-growl-2',
@@ -4022,7 +4182,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://janstevens.github.io/angular-growl-2/',
     keywords: ['notifications','message','alert']
-  }, 
+  },
   {
     id: 188,
     name: 'angular-img-fallback',
@@ -4043,7 +4203,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/dcohenb/angular-img-fallback',
     keywords: ['fallback','img']
-  }, 
+  },
   {
     id: 189,
     name: 'angular-marked',
@@ -4064,7 +4224,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://hypercubed.github.io/angular-marked/#/api',
     keywords: ['marked','markdown','sanitization']
-  }, 
+  },
   {
     id: 190,
     name: 'ng-pdfviewer',
@@ -4085,7 +4245,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://mozilla.github.io/pdf.js/',
     keywords: ['pdfviewer','pdf']
-  }, 
+  },
   {
     id: 191,
     name: 'angular-chartjs',
@@ -4106,7 +4266,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/petermelias/angular-chartjs',
     keywords: ['chartjs','charts','line','area','pie']
-  }, 
+  },
   {
     id: 192,
     name: 'ngprogress',
@@ -4127,7 +4287,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://victorbjelkholm.github.io/ngProgress/',
     keywords: ['proress','loading status']
-  }, 
+  },
   {
     id: 193,
     name: 'anguloader',
@@ -4148,7 +4308,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://radonyizsolt.github.io/anguloader/',
     keywords: ['loader','spinner']
-  }, 
+  },
   {
     id: 194,
     name: 'angular-google-maps-native',
@@ -4169,7 +4329,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://radonyizsolt.github.io/anguloader/',
     keywords: ['maps','google','native']
-  }, 
+  },
   {
     id: 195,
     name: 'onsenui',
@@ -4190,7 +4350,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://onsen.io/',
     keywords: ['hybrid app']
-  }, 
+  },
   {
     id: 196,
     name: 'angular-ui-notification',
@@ -4211,7 +4371,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/alexcrack/angular-ui-notification',
     keywords: ['notification','message','alert']
-  }, 
+  },
   {
     id: 197,
     name: 'ngmap',
@@ -4232,7 +4392,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://ngmap.github.io/',
     keywords: ['map','google map']
-  }, 
+  },
   {
     id: 198,
     name: 'angular-loading-spinner',
@@ -4253,7 +4413,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://ngmap.github.io/',
     keywords: ['spinner','loader']
-  }, 
+  },
   {
     id: 199,
     name: 'ngWig',
@@ -4274,7 +4434,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'http://ng-wig.js.org/demo/',
     keywords: ['ngWig']
-  }, 
+  },
   {
     id: 200,
     name: 'angular-bootstrap-checkbox',
@@ -4294,7 +4454,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'https://github.com/sebastianha/angular-bootstrap-checkbox/',
-    keywords: ['bootstrap','checkbox']
+    keywords: ['bootstrap','checkbox'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 201,
@@ -4315,7 +4476,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.0.3',
     license: 'MIT',
     details: 'http://srfrnk.github.io/ng-device-detector/',
-    keywords: ['device','detector']
+    keywords: ['device','detector'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 202,
@@ -4336,7 +4498,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'http://akoenig.github.io/angular-deckgrid/#/',
-    keywords: ['deckgrid','grid']
+    keywords: ['deckgrid','grid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 203,
@@ -4357,7 +4520,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://angular-pouchdb.github.io/angular-pouchdb/#/',
-    keywords: ['pouchdb','service','db']
+    keywords: ['pouchdb','service','db'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 204,
@@ -4378,7 +4542,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.6',
     license: 'MIT',
     details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
-    keywords: ['date','daterange','datepicker']
+    keywords: ['date','daterange','datepicker'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 205,
@@ -4399,7 +4564,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://luisfarzati.github.io/ng-bs-daterangepicker/',
-    keywords: ['components','directives']
+    keywords: ['components','directives'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 206,
@@ -4420,7 +4586,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.1',
     license: 'MIT',
     details: 'http://pc035860.github.io/angular-highlightjs/example/#/hljs',
-    keywords: ['highlightjs','highlight','syntax']
+    keywords: ['highlightjs','highlight','syntax'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 207,
@@ -4441,7 +4608,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.6.0',
     license: 'MIT',
     details: 'http://www.pseudobry.com/angular-cache/',
-    keywords: ['cache','memory']
+    keywords: ['cache','memory'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 208,
@@ -4462,7 +4630,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'http://underscorejs.org/',
-    keywords: ['underscore','script','library']
+    keywords: ['underscore','script','library'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 209,
@@ -4483,7 +4652,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.2',
     license: 'MIT',
     details: 'http://oitozero.github.io/ngSweetAlert/#/home',
-    keywords: ['sweetalert','notification','alert','popup']
+    keywords: ['sweetalert','notification','alert','popup'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 210,
@@ -4504,7 +4674,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.19.6',
     license: 'MIT',
     details: 'http://jonsamwell.github.io/angular-auto-validate/',
-    keywords: ['validate','validattion','auto']
+    keywords: ['validate','validattion','auto'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 211,
@@ -4525,7 +4696,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.2.0',
     license: 'MIT',
     details: 'https://github.com/begriffs/angular-paginate-anything',
-    keywords: ['paginate','anything','pagination']
+    keywords: ['paginate','anything','pagination'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 212,
@@ -4546,7 +4718,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.1',
     license: 'MIT',
     details: 'http://mgonto.github.io/angular-wizard/',
-    keywords: ['wizard']
+    keywords: ['wizard'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 213,
@@ -4567,7 +4740,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.13.0-SNAPSHOT',
     license: 'MIT',
     details: 'https://github.com/angular-dashboard-framework/angular-dashboard-framework',
-    keywords: ['dashboard','framework']
+    keywords: ['dashboard','framework'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 214,
@@ -4588,7 +4762,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.2',
     license: 'MIT',
     details: 'https://github.com/restorando/angular-pickadate',
-    keywords: ['pickadate','datepicker','date']
+    keywords: ['pickadate','datepicker','date'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 215,
@@ -4609,7 +4784,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/restorando/angular-pickadate',
-    keywords: ['responsive']
+    keywords: ['responsive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 216,
@@ -4630,7 +4806,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.4',
     license: 'MIT',
     details: 'https://github.com/danielepiccone/ng-pageslide',
-    keywords: ['pageslide','directive']
+    keywords: ['pageslide','directive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 217,
@@ -4651,7 +4828,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.3',
     license: 'MIT',
     details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
-    keywords: ['rtcomm','communication','realtime']
+    keywords: ['rtcomm','communication','realtime'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 218,
@@ -4672,7 +4850,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0-beta',
     license: 'MIT',
     details: 'https://angular-rtcomm.wasdev.developer.ibm.com/',
-    keywords: ['dashboard','seed']
+    keywords: ['dashboard','seed'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 219,
@@ -4694,7 +4873,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://www.zingchart.com/',
-    keywords: ['zingchart','charts','area','pie','line']
+    keywords: ['zingchart','charts','area','pie','line'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 220,
@@ -4715,7 +4895,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.0',
     license: 'MIT',
     details: 'https://github.com/rpocklin/angular-timeline',
-    keywords: ['timeline','profile']
+    keywords: ['timeline','profile'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 221,
@@ -4736,7 +4917,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.2',
     license: 'MIT',
     details: 'https://github.com/nobitagit/ng-material-floating-button',
-    keywords: ['material','floating','button']
+    keywords: ['material','floating','button'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 222,
@@ -4757,7 +4939,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'https://github.com/subarroca/ng-password-strength',
-    keywords: ['password','strength','valid']
+    keywords: ['password','strength','valid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 223,
@@ -4778,7 +4961,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'http://uttesh.com/ngtimeago/',
-    keywords: ['timeago','static data','time']
+    keywords: ['timeago','static data','time'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 224,
@@ -4799,7 +4983,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://mathewbyrne.github.io/angular-progress-arc/',
-    keywords: ['progress','arc']
+    keywords: ['progress','arc'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 225,
@@ -4820,7 +5005,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.27',
     license: 'MIT',
     details: 'http://ngcordova.com/docs/plugins/',
-    keywords: ['cordova','plugin']
+    keywords: ['cordova','plugin'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 226,
@@ -4841,7 +5027,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.2',
     license: 'MIT',
     details: 'http://angular-block-ui.nullest.com/#!/',
-    keywords: ['block','ui']
+    keywords: ['block','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 227,
@@ -4862,7 +5049,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://github.com/joujiahe/ng-color-picker',
-    keywords: ['color','picker']
+    keywords: ['color','picker'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 228,
@@ -4883,7 +5071,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/fabiobiondi/angular-fullscreen',
-    keywords: ['fullscreen']
+    keywords: ['fullscreen'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 229,
@@ -4904,7 +5093,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.11.0',
     license: 'MIT',
     details: 'http://vitalets.github.io/checklist-model/',
-    keywords: ['model','checklist','checkbox']
+    keywords: ['model','checklist','checkbox'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 230,
@@ -4926,7 +5116,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/iameugenejo/angular-centered',
-    keywords: ['centered','text center','div center']
+    keywords: ['centered','text center','div center'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 231,
@@ -4947,7 +5138,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.0',
     license: 'MIT',
     details: 'http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/',
-    keywords: ['tagsinput','bootstrap','input','tag']
+    keywords: ['tagsinput','bootstrap','input','tag'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 232,
@@ -4968,7 +5160,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://pc035860.github.io/ngSelect/example/#/ng-select',
-    keywords: ['select','dropdown','select box']
+    keywords: ['select','dropdown','select box'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 233,
@@ -4990,7 +5183,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://www.highcharts.com/',
-    keywords: ['highcharts','heatmap','stock','charts','area','line','pie','bar']
+    keywords: ['highcharts','heatmap','stock','charts','area','line','pie','bar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 234,
@@ -5011,7 +5205,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1-SNAPSHOT',
     license: 'MIT',
     details: 'http://joshdmiller.github.io/angular-placeholders/',
-    keywords: ['placeholders']
+    keywords: ['placeholders'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 235,
@@ -5032,7 +5227,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.1.0',
     license: 'MIT',
     details: 'https://www.fusioncharts.com/',
-    keywords: ['fusioncharts','charts','fusion','line','3d','pie','area']
+    keywords: ['fusioncharts','charts','fusion','line','3d','pie','area'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 236,
@@ -5053,7 +5249,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.6.0',
     license: 'MIT',
     details: 'http://lukaszwatroba.github.io/v-accordion/',
-    keywords: ['accordion','sections']
+    keywords: ['accordion','sections'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 237,
@@ -5074,7 +5271,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.0',
     license: 'MIT',
     details: 'http://rubaxa.github.io/Sortable/#ng',
-    keywords: ['sorting','sortable']
+    keywords: ['sorting','sortable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 238,
@@ -5095,7 +5293,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.0.0',
     license: 'MIT',
     details: 'http://dnauck.github.io/angular-advanced-searchbox/',
-    keywords: ['searchbox','advanced','search']
+    keywords: ['searchbox','advanced','search'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 239,
@@ -5116,7 +5315,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.5',
     license: 'MIT',
     details: 'http://emmaguo.github.io/angular-poller/',
-    keywords: ['poller']
+    keywords: ['poller'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 240,
@@ -5137,7 +5337,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.30.0',
     license: 'MIT',
     details: 'https://mattlewis92.github.io/angular-bootstrap-calendar/#!?example=kitchen-sink',
-    keywords: ['bootstrap','calender','event','drag','drop']
+    keywords: ['bootstrap','calender','event','drag','drop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 241,
@@ -5158,7 +5359,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.30.0',
     license: 'MIT',
     details: 'https://github.com/xpepermint/angular-ui-switch',
-    keywords: ['switch','ui','radio button']
+    keywords: ['switch','ui','radio button'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 242,
@@ -5179,7 +5381,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'https://gabiaxel.github.io/ng-polymer-elements/',
-    keywords: ['polymer','elements']
+    keywords: ['polymer','elements'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 243,
@@ -5200,7 +5403,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/mfauveau/angular-query-builder',
-    keywords: ['query','builder']
+    keywords: ['query','builder'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 244,
@@ -5221,7 +5425,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'http://tamerayd.in/ngToast/',
-    keywords: ['toast','alert','message','notification']
+    keywords: ['toast','alert','message','notification'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 245,
@@ -5242,7 +5447,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/wix/angular-widget',
-    keywords: ['widget','sections']
+    keywords: ['widget','sections'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 246,
@@ -5263,7 +5469,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'https://github.com/TerryMooreII/angular-wysiwyg',
-    keywords: ['wysiwyg']
+    keywords: ['wysiwyg'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 247,
@@ -5285,7 +5492,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/vitconte/angulartexteditor',
-    keywords: ['text','editor']
+    keywords: ['text','editor'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 248,
@@ -5306,7 +5514,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.8',
     license: 'MIT',
     details: 'https://github.com/voronianski/ngprogress-lite',
-    keywords: ['progress','lite']
+    keywords: ['progress','lite'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 249,
@@ -5327,7 +5536,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.1',
     license: 'MIT',
     details: 'https://github.com/jseppi/angular-dropdowns',
-    keywords: ['dropdowns','select']
+    keywords: ['dropdowns','select'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 250,
@@ -5348,7 +5558,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'https://github.com/shoppinpal/ng-mobile-menu',
-    keywords: ['mobile','menu']
+    keywords: ['mobile','menu'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 251,
@@ -5369,7 +5580,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.1.1',
     license: 'MIT',
     details: 'http://vividcortex.github.io/angular-recaptcha/',
-    keywords: ['recaptcha','captcha']
+    keywords: ['recaptcha','captcha'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 252,
@@ -5390,7 +5602,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.3',
     license: 'MIT',
     details: 'http://ng-pros.github.io/np-autocomplete/index.html',
-    keywords: ['autocomplete','auto','input']
+    keywords: ['autocomplete','auto','input'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 253,
@@ -5411,7 +5624,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.2',
     license: 'MIT',
     details: 'http://angular-cycle-gallery.rademade.com/',
-    keywords: ['gallery','cycle']
+    keywords: ['gallery','cycle'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 254,
@@ -5432,7 +5646,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.6.0',
     license: 'MIT',
     details: 'https://rawgit.com/Gillardo/bootstrap-ui-datetime-picker/master/example/index.html',
-    keywords: ['datetime','picker','ui','datepicker','timepicker','range']
+    keywords: ['datetime','picker','ui','datepicker','timepicker','range'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 255,
@@ -5453,7 +5668,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.3',
     license: 'MIT',
     details: 'https://github.com/GraFiddle/angular-chart',
-    keywords: ['chart','line','area','bar','pie','3d']
+    keywords: ['chart','line','area','bar','pie','3d'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 256,
@@ -5474,7 +5690,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.0',
     license: 'MIT',
     details: 'http://hakib.github.io/MassAutocomplete/',
-    keywords: ['autocomplete','mass']
+    keywords: ['autocomplete','mass'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 257,
@@ -5495,7 +5712,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.20',
     license: 'MIT',
     details: 'http://johannesjo.github.io/ng-fab-form/',
-    keywords: ['form','fab']
+    keywords: ['form','fab'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 258,
@@ -5516,7 +5734,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/maximepvrt/angular-google-gapi',
-    keywords: ['google','gapi']
+    keywords: ['google','gapi'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 259,
@@ -5537,7 +5756,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.5',
     license: 'MIT',
     details: 'https://github.com/kstam/ng-scroll-repeat',
-    keywords: ['scroll','repeat']
+    keywords: ['scroll','repeat'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 260,
@@ -5558,7 +5778,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.4.0',
     license: 'MIT',
     details: 'http://jacek-pulit.github.io/angular-elastic-input/',
-    keywords: ['elastic','input']
+    keywords: ['elastic','input'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 261,
@@ -5579,7 +5800,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.23',
     license: 'MIT',
     details: 'https://github.com/720kb/angular-datepicker',
-    keywords: ['datepicker','date']
+    keywords: ['datepicker','date'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 262,
@@ -5600,7 +5822,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.8.0',
     license: 'MIT',
     details: 'https://github.com/Wildhoney/ngContextMenu',
-    keywords: ['context','menu']
+    keywords: ['context','menu'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 263,
@@ -5621,7 +5844,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.0',
     license: 'MIT',
     details: 'https://github.com/dbtek/angular-aside',
-    keywords: ['aside','menu']
+    keywords: ['aside','menu'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 264,
@@ -5642,7 +5866,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/afklm/ng-lazy-image',
-    keywords: ['lazy','image']
+    keywords: ['lazy','image'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 265,
@@ -5663,7 +5888,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: 'v0.1.23',
     license: 'MIT',
     details: 'https://github.com/adonespitogo/angular-base64-upload',
-    keywords: ['base64','upload','file']
+    keywords: ['base64','upload','file'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 266,
@@ -5684,7 +5910,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.0.31',
     license: 'MIT',
     details: 'https://github.com/buberdds/angular-bootstrap-colorpicker',
-    keywords: ['bootstrap','colorpicker','color']
+    keywords: ['bootstrap','colorpicker','color'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 267,
@@ -5705,7 +5932,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.6.1',
     license: 'MIT',
     details: 'http://adaptv.github.io/adapt-strap/',
-    keywords: ['strap','adapt']
+    keywords: ['strap','adapt'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 268,
@@ -5726,7 +5954,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.3',
     license: 'MIT',
     details: 'https://github.com/jordanburke/angular-help-overlay',
-    keywords: ['overlay','help']
+    keywords: ['overlay','help'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 269,
@@ -5747,7 +5976,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/sjovanovic/xpull',
-    keywords: ['pull']
+    keywords: ['pull'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 270,
@@ -5768,7 +5998,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/vladgurovich/angular-event-aggregator',
-    keywords: ['aggregator','event']
+    keywords: ['aggregator','event'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 271,
@@ -5789,7 +6020,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://gilbox.github.io/kinetic-slider/',
-    keywords: ['slider','kinetic']
+    keywords: ['slider','kinetic'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 272,
@@ -5810,7 +6042,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/tchatel/angular-treeRepeat',
-    keywords: ['tree','repeat']
+    keywords: ['tree','repeat'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 273,
@@ -5831,7 +6064,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.4',
     license: 'MIT',
     details: 'http://danielstern.github.io/ngAudio/#/',
-    keywords: ['audio','play','pause','songs']
+    keywords: ['audio','play','pause','songs'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 274,
@@ -5852,7 +6086,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.12',
     license: 'MIT',
     details: 'https://github.com/ocombe/ocModal',
-    keywords: ['modal','popup','popover']
+    keywords: ['modal','popup','popover'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 275,
@@ -5873,7 +6108,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0-beta.3',
     license: 'MIT',
     details: 'http://www.brentmckendrick.com/code/xtform/',
-    keywords: ['form','html']
+    keywords: ['form','html'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 276,
@@ -5894,7 +6130,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.5',
     license: 'MIT',
     details: 'https://github.com/standup75/cropme',
-    keywords: ['cropme','crop','image','photo']
+    keywords: ['cropme','crop','image','photo'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 277,
@@ -5915,7 +6152,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.8.6',
     license: 'MIT',
     details: 'http://jtrussell.github.io/angular-snap.js/',
-    keywords: ['snap','shelves']
+    keywords: ['snap','shelves'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 278,
@@ -5936,7 +6174,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.9.0',
     license: 'MIT',
     details: 'http://commangular.org/get-started/',
-    keywords: ['comma']
+    keywords: ['comma'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 279,
@@ -5957,7 +6196,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.6',
     license: 'MIT',
     details: 'https://github.com/asafdav/ng-clip',
-    keywords: ['clip','crop']
+    keywords: ['clip','crop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 280,
@@ -5978,7 +6218,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'https://github.com/sarath2/ngEkathuwa',
-    keywords: ['responsive','custom sizes','templates']
+    keywords: ['responsive','custom sizes','templates'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 281,
@@ -5999,7 +6240,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.1',
     license: 'MIT',
     details: 'https://github.com/sparkalow/angular-count-to',
-    keywords: ['count','counter','number']
+    keywords: ['count','counter','number'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 282,
@@ -6020,7 +6262,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.1',
     license: 'MIT',
     details: 'https://github.com/agrublev/angularLocalStorage',
-    keywords: ['localstorage','storage','memory']
+    keywords: ['localstorage','storage','memory'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 283,
@@ -6041,7 +6284,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.8.0',
     license: 'MIT',
     details: 'http://leocaseiro.github.io/angular-chosen/',
-    keywords: ['localytics','chosen','select']
+    keywords: ['localytics','chosen','select'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 284,
@@ -6062,7 +6306,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://jeradbitner.com/angular-directive.g-signin/',
-    keywords: ['directive','signin','google','login']
+    keywords: ['directive','signin','google','login'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 285,
@@ -6083,7 +6328,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.1',
     license: 'MIT',
     details: 'http://4vanger.github.io/angular-l10n/',
-    keywords: ['localization','resources']
+    keywords: ['localization','resources'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 286,
@@ -6104,7 +6350,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.2',
     license: 'MIT',
     details: 'https://github.com/stackfull/angular-virtual-scroll',
-    keywords: ['virtual','scroll']
+    keywords: ['virtual','scroll'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 287,
@@ -6125,7 +6372,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.2',
     license: 'MIT',
     details: 'https://github.com/dtagdev1/json-export-excel',
-    keywords: ['export','json','excel']
+    keywords: ['export','json','excel'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 288,
@@ -6146,7 +6394,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.1',
     license: 'MIT',
     details: 'http://bsalex.github.io/angular-loading-overlay/_site/',
-    keywords: ['loading','loader','overlay']
+    keywords: ['loading','loader','overlay'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 289,
@@ -6167,7 +6416,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://shabeebk.com/blog/lazy-scroll-infinite-scrolling-angularjs-plugin/',
-    keywords: ['scroll','lazy']
+    keywords: ['scroll','lazy'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 290,
@@ -6188,7 +6438,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.3',
     license: 'MIT',
     details: 'http://swimlane.github.io/angular-model-factory/',
-    keywords: ['model','factory']
+    keywords: ['model','factory'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 291,
@@ -6209,7 +6460,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.0',
     license: 'MIT',
     details: 'https://github.com/flatlogic/angular-material-dashboard',
-    keywords: ['material','dashboard','layout']
+    keywords: ['material','dashboard','layout'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 292,
@@ -6230,7 +6482,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://sydev.github.io/sytabs/',
-    keywords: ['tabs','toggle','scroll']
+    keywords: ['tabs','toggle','scroll'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 293,
@@ -6252,7 +6505,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.25',
     license: 'MIT',
     details: 'https://github.com/devnixs/ODataAngularResources',
-    keywords: ['odata','resources']
+    keywords: ['odata','resources'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 294,
@@ -6273,7 +6527,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/devnixs/ODataAngularResources',
-    keywords: ['gallery','images','photo']
+    keywords: ['gallery','images','photo'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 295,
@@ -6294,7 +6549,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.0',
     license: 'MIT',
     details: 'http://nverba.github.io/pikaday-angular/',
-    keywords: ['pikaday','directive']
+    keywords: ['pikaday','directive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 296,
@@ -6315,7 +6571,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.0',
     license: 'MIT',
     details: 'https://github.com/tameraydin/ng-inline-edit',
-    keywords: ['inline','edit','text','input']
+    keywords: ['inline','edit','text','input'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 297,
@@ -6336,7 +6593,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.3',
     license: 'MIT',
     details: 'https://github.com/tushariscoolster/angular-scroll-complete',
-    keywords: ['complete','scroll']
+    keywords: ['complete','scroll'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 298,
@@ -6357,7 +6615,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'http://quantumui.org',
-    keywords: ['quantam','ui']
+    keywords: ['quantam','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 299,
@@ -6378,7 +6637,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/itslenny/angular-slidezilla',
-    keywords: ['slide','zilla','slider']
+    keywords: ['slide','zilla','slider'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 300,
@@ -6399,7 +6659,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.0',
     license: 'MIT',
     details: 'https://angular-morris.io/',
-    keywords: ['morris','chart','line','area','line']
+    keywords: ['morris','chart','line','area','line'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 301,
@@ -6421,7 +6682,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.5.0',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/angular-flash/',
-    keywords: ['flash','alert','message','success','notification']
+    keywords: ['flash','alert','message','success','notification'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 302,
@@ -6442,7 +6704,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: 'v0.1.4-beta',
     license: 'MIT',
     details: 'http://www.jquery-backstretch.com/',
-    keywords: ['backstretch','dynamically','resized','slideshow','background image']
+    keywords: ['backstretch','dynamically','resized','slideshow','background image'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 303,
@@ -6463,7 +6726,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.10',
     license: 'MIT',
     details: 'https://github.com/spongessuck/gm.datepickerMultiSelect',
-    keywords: ['multi','select','datepicker','date']
+    keywords: ['multi','select','datepicker','date'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 304,
@@ -6484,7 +6748,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.3',
     license: 'MIT',
     details: 'https://github.com/betsol/angular-form-validation',
-    keywords: ['validation','valid','form']
+    keywords: ['validation','valid','form'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 305,
@@ -6505,7 +6770,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '3.1.1',
     license: 'MIT',
     details: 'https://github.com/betsol/angular-form-validation',
-    keywords: ['quill','toolbar','keyboard','editor']
+    keywords: ['quill','toolbar','keyboard','editor'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 306,
@@ -6526,7 +6792,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.1.1',
     license: 'MIT',
     details: 'https://github.com/gajus/angular-swing',
-    keywords: ['swing','swipeable','cards','interface']
+    keywords: ['swing','swipeable','cards','interface'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 307,
@@ -6547,7 +6814,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0-semantic-release',
     license: 'MIT',
     details: 'https://dalelotts.github.io/angular-bootstrap-datetimepicker/',
-    keywords: ['datetimepicker','bootstrap','date','time']
+    keywords: ['datetimepicker','bootstrap','date','time'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 308,
@@ -6569,7 +6837,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     license: 'MIT',
     details: 'https://github.com/McNull/angular-inform',
     keywords: ['inform','toaster','message']
-  },  
+  },
   {
     id: 309,
     name: 'ng-drop',
@@ -6589,7 +6857,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/vilyus/ngDrop',
-    keywords: ['drop','drag','dragdrop']
+    keywords: ['drop','drag','dragdrop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 310,
@@ -6610,7 +6879,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://ktstowell.github.io/ng-repeat-while/#/',
-    keywords: ['repeat','while']
+    keywords: ['repeat','while'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 311,
@@ -6631,7 +6901,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.7.1',
     license: 'MIT',
     details: 'https://www.froala.com/wysiwyg-editor',
-    keywords: ['froala','editor']
+    keywords: ['froala','editor'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 312,
@@ -6652,7 +6923,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.4.0',
     license: 'MIT',
     details: 'http://bootboxjs.com/',
-    keywords: ['bootbox','alert','success','message']
+    keywords: ['bootbox','alert','success','message'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 313,
@@ -6673,7 +6945,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.0',
     license: 'MIT',
     details: 'http://oboejs.com/',
-    keywords: ['objects','oboe','json','strings','numbers']
+    keywords: ['objects','oboe','json','strings','numbers'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 314,
@@ -6694,7 +6967,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.1',
     license: 'MIT',
     details: 'https://uploadcare.com/',
-    keywords: ['uploadcare','upload','file','image']
+    keywords: ['uploadcare','upload','file','image'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 315,
@@ -6716,7 +6990,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.10',
     license: 'MIT',
     details: 'http://blitzen.github.io/Angular-Chronicle/',
-    keywords: ['syntax','event','functions','call']
+    keywords: ['syntax','event','functions','call'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 316,
@@ -6738,7 +7013,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.2',
     license: 'MIT',
     details: 'https://github.com/alexk111/ngImgCrop',
-    keywords: ['img','image','photo','crop']
+    keywords: ['img','image','photo','crop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 317,
@@ -6760,7 +7036,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.5',
     license: 'MIT',
     details: 'https://github.com/przno/double-scroll-bars',
-    keywords: ['scroll','scrollable','bars','grid']
+    keywords: ['scroll','scrollable','bars','grid'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 318,
@@ -6781,7 +7058,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.0',
     license: 'MIT',
     details: 'http://ngcart.snapjay.com/',
-    keywords: ['cart','shopping']
+    keywords: ['cart','shopping'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 319,
@@ -6802,7 +7080,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.5.1',
     license: 'MIT',
     details: 'http://doshprompt.github.io/angular-localization/',
-    keywords: ['localization','local']
+    keywords: ['localization','local'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 320,
@@ -6823,7 +7102,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://andyshora.com/angular-image-cropper.html',
-    keywords: ['image','crop']
+    keywords: ['image','crop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 321,
@@ -6844,7 +7124,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.3',
     license: 'MIT',
     details: 'http://angularify.github.io/angular-semantic-ui/templates/overview.html',
-    keywords: ['checkbox','accordion','dimmer','dropdown','modal','popup','rating','wizard','rating']
+    keywords: ['checkbox','accordion','dimmer','dropdown','modal','popup','rating','wizard','rating'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 322,
@@ -6865,7 +7146,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.0',
     license: 'MIT',
     details: 'https://github.com/btford/angular-socket-io',
-    keywords: ['socket','io','chat']
+    keywords: ['socket','io','chat'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 323,
@@ -6887,7 +7169,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/oci-labs/oci.treeview',
-    keywords: ['treeview','tree','structure']
+    keywords: ['treeview','tree','structure'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 324,
@@ -6908,7 +7191,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://tympanus.net/codrops/2013/04/17/slide-and-push-menus/',
-    keywords: ['slide','push','sidebar']
+    keywords: ['slide','push','sidebar'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 325,
@@ -6929,7 +7213,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/joujiahe/ng-tokens-field',
-    keywords: ['field','tokens']
+    keywords: ['field','tokens'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 326,
@@ -6950,7 +7235,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://andyshora.com/wallop-slider-angularjs-css.html',
-    keywords: ['slider','wallop']
+    keywords: ['slider','wallop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 327,
@@ -6971,7 +7257,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://fireuser.firebaseapp.com/#/login',
-    keywords: ['fire','form','user','management']
+    keywords: ['fire','form','user','management'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 328,
@@ -6992,7 +7279,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://ninjatronic.github.io/angular-flipsnap/',
-    keywords: ['flip','snap']
+    keywords: ['flip','snap'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 329,
@@ -7013,7 +7301,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.2',
     license: 'MIT',
     details: 'https://github.com/SparrowJang/ngImageEditor',
-    keywords: ['editor','image','photo','crop','capture']
+    keywords: ['editor','image','photo','crop','capture'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 330,
@@ -7034,7 +7323,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.8',
     license: 'MIT',
     details: 'https://github.com/asafdav/ng-scrollbar',
-    keywords: ['scrollbar','scroll','sections','scrollable']
+    keywords: ['scrollbar','scroll','sections','scrollable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 331,
@@ -7055,7 +7345,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.9',
     license: 'MIT',
     details: 'https://jwt.io/',
-    keywords: ['jwt','debugger','library']
+    keywords: ['jwt','debugger','library'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 332,
@@ -7076,7 +7367,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/lorenzofox3/lrDragNDrop',
-    keywords: ['drag','drop','dragdrop']
+    keywords: ['drag','drop','dragdrop'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 333,
@@ -7097,7 +7389,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '4.2.3',
     license: 'MIT',
     details: 'https://github.com/patrickmarabeas/ng-FitText.js',
-    keywords: ['Fittext','text','input']
+    keywords: ['Fittext','text','input'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 334,
@@ -7118,7 +7411,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.4',
     license: 'MIT',
     details: 'http://monterail.github.io/angular-mighty-datepicker/',
-    keywords: ['mighty','datepicker','date']
+    keywords: ['mighty','datepicker','date'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 335,
@@ -7140,7 +7434,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://masonry.desandro.com/',
-    keywords: ['masonry','directive','layout','events']
+    keywords: ['masonry','directive','layout','events'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 336,
@@ -7161,7 +7456,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.5',
     license: 'MIT',
     details: 'https://github.com/jdewit/ez-table',
-    keywords: ['table','datatable','checkboxes','sorting','filtering']
+    keywords: ['table','datatable','checkboxes','sorting','filtering'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 337,
@@ -7182,7 +7478,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.5',
     license: 'MIT',
     details: 'http://janantala.github.io/angular-qr/demo/',
-    keywords: ['qrcode','code']
+    keywords: ['qrcode','code'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 338,
@@ -7203,7 +7500,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.1',
     license: 'MIT',
     details: 'http://wealthbar.github.io/angular-d3/',
-    keywords: ['d3','charts','line','area','pie','stacked','basic']
+    keywords: ['d3','charts','line','area','pie','stacked','basic'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 339,
@@ -7224,7 +7522,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.1',
     license: 'MIT',
     details: 'http://decipherinc.github.io/angular-tags/',
-    keywords: ['tags','input','tag','text']
+    keywords: ['tags','input','tag','text'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 340,
@@ -7245,7 +7544,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.5',
     license: 'MIT',
     details: 'https://github.com/mgechev/angular-aop',
-    keywords: ['aop','aspect','oriented','programming']
+    keywords: ['aop','aspect','oriented','programming'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 341,
@@ -7266,7 +7566,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.4',
     license: 'MIT',
     details: 'http://igreulich.github.io/angular-truncate/',
-    keywords: ['truncate','filter']
+    keywords: ['truncate','filter'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 342,
@@ -7287,7 +7588,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/angular-ui/ui-chart',
-    keywords: ['chart','charts','line','area','pie','stacked','basic']
+    keywords: ['chart','charts','line','area','pie','stacked','basic'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 343,
@@ -7308,7 +7610,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.0',
     license: 'MIT',
     details: 'http://angular-adaptive.github.io/adaptive-speech/demo/#/',
-    keywords: ['adaptive','speech']
+    keywords: ['adaptive','speech'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 344,
@@ -7329,7 +7632,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://github.com/paulsmith/angular-slugify',
-    keywords: ['slugify','filter','service','directive']
+    keywords: ['slugify','filter','service','directive'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 345,
@@ -7350,7 +7654,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://mpriour.github.io/azimuthjs/#',
-    keywords: ['layers','map','marker','leaflet']
+    keywords: ['layers','map','marker','leaflet'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 346,
@@ -7371,7 +7676,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.1',
     license: 'MIT',
     details: 'http://igreulich.github.io/igTypeahead/',
-    keywords: ['typeahead','text']
+    keywords: ['typeahead','text'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 347,
@@ -7393,7 +7699,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.1',
     license: 'MIT',
     details: 'https://github.com/ibspoof/ng-iScroll',
-    keywords: ['scroll','grid','scrollable']
+    keywords: ['scroll','grid','scrollable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 348,
@@ -7415,7 +7722,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/kalitte/angular-appBusy',
-    keywords: ['app','busy','loading']
+    keywords: ['app','busy','loading'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 349,
@@ -7437,7 +7745,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.3.2',
     license: 'MIT',
     details: 'https://github.com/lmc-eu/ngx-library',
-    keywords: ['library','fancybox']
+    keywords: ['library','fancybox'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 350,
@@ -7459,7 +7768,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/vchatterji/angular-paste',
-    keywords: ['paste']
+    keywords: ['paste'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 351,
@@ -7480,7 +7790,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://cotag.github.io/Condominios/',
-    keywords: ['condo','uploading files','upload','file','cloud','storage']
+    keywords: ['condo','uploading files','upload','file','cloud','storage'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 352,
@@ -7501,7 +7812,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.2',
     license: 'MIT',
     details: 'https://github.com/passenger6/ngx-aside',
-    keywords: ['aside','Sidebar','Panel']
+    keywords: ['aside','Sidebar','Panel'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 353,
@@ -7522,7 +7834,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.10',
     license: 'MIT',
     details: 'https://github.com/amweiss/angular-diff-match-patch',
-    keywords: ['diff','match','patch']
+    keywords: ['diff','match','patch'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 354,
@@ -7543,7 +7856,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://amirkabirdataminers.github.io/ADM-treeView/',
-    keywords: ['treeview','tree']
+    keywords: ['treeview','tree'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 355,
@@ -7564,7 +7878,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.1',
     license: 'MIT',
     details: 'http://tybeck.github.io/pure-angular-advanced-searchbox/',
-    keywords: ['advanced','searchbox','search','input search']
+    keywords: ['advanced','searchbox','search','input search'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 356,
@@ -7585,7 +7900,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.6.1',
     license: 'MIT',
     details: 'http://indrimuska.github.io/angular-selector/',
-    keywords: ['selector','tags','search','input select']
+    keywords: ['selector','tags','search','input select'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 357,
@@ -7606,7 +7922,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.6',
     license: 'MIT',
     details: 'https://github.com/Wapweb/angular-component-router-active',
-    keywords: ['component','router','active']
+    keywords: ['component','router','active'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 358,
@@ -7627,7 +7944,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.7',
     license: 'MIT',
     details: 'http://indrimuska.github.io/angular-switcher/',
-    keywords: ['switcher','switch','radio button']
+    keywords: ['switcher','switch','radio button'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 359,
@@ -7648,7 +7966,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.2',
     license: 'MIT',
     details: 'https://github.com/betsol/ng-intl-tel-input',
-    keywords: ['input','integration','text']
+    keywords: ['input','integration','text'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 360,
@@ -7669,7 +7988,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.7',
     license: 'MIT',
     details: 'https://github.com/ndelvalle/ng-cooltip',
-    keywords: ['cooltip','tooltip']
+    keywords: ['cooltip','tooltip'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 361,
@@ -7690,7 +8010,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.1',
     license: 'MIT',
     details: 'https://github.com/imshaikot/ngToast',
-    keywords: ['toast','message','alert']
+    keywords: ['toast','message','alert'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 362,
@@ -7711,7 +8032,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/dmytroyarmak/angular-flip-clock',
-    keywords: ['flip','clock','time','watch']
+    keywords: ['flip','clock','time','watch'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 363,
@@ -7732,7 +8054,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.2.0',
     license: 'MIT',
     details: 'https://github.com/iamisti/mdDataTable',
-    keywords: ['table','datatable','data']
+    keywords: ['table','datatable','data'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 364,
@@ -7753,7 +8076,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'http://amirkabirdataminers.github.io/ADM-dateTimePicker/',
-    keywords: ['date','time','datetimepicker','datepicker','timepicker']
+    keywords: ['date','time','datetimepicker','datepicker','timepicker'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 365,
@@ -7774,7 +8098,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://deltreey.github.io/angular-simple-focus/',
-    keywords: ['simple','focus','input','textbox']
+    keywords: ['simple','focus','input','textbox'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 366,
@@ -7796,7 +8121,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.4',
     license: 'MIT',
     details: 'https://github.com/Logicify/angular-gmap',
-    keywords: ['gmap','google','map','logicify']
+    keywords: ['gmap','google','map','logicify'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 367,
@@ -7817,7 +8143,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.1.3',
     license: 'MIT',
     details: 'http://sachinchoolur.github.io/ngclipboard/',
-    keywords: ['clipboard','copy','paste','cut']
+    keywords: ['clipboard','copy','paste','cut'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 368,
@@ -7838,7 +8165,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/RatanPaul/Angular-RN-Table',
-    keywords: ['table','datatable','data']
+    keywords: ['table','datatable','data'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 369,
@@ -7859,7 +8187,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.4',
     license: 'MIT',
     details: 'http://tushariscoolster.github.io/angular-imagefit/',
-    keywords: ['imagefit','image','fit']
+    keywords: ['imagefit','image','fit'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 370,
@@ -7880,7 +8209,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://bcabanes.github.io/ng-camera/',
-    keywords: ['camera','webcam']
+    keywords: ['camera','webcam'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 371,
@@ -7901,7 +8231,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.2',
     license: 'MIT',
     details: 'http://materializecss.com/',
-    keywords: ['material','components']
+    keywords: ['material','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 372,
@@ -7923,7 +8254,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.4.2',
     license: 'MIT',
     details: 'https://github.com/connecta-solutions/angular-amchart',
-    keywords: ['amchart','charts','line','time','area','Interpolation']
+    keywords: ['amchart','charts','line','time','area','Interpolation'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 373,
@@ -7944,7 +8276,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.0.1',
     license: 'MIT',
     details: 'http://jbdemonte.github.io/angular-snippets/',
-    keywords: ['snippets','display code']
+    keywords: ['snippets','display code'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 374,
@@ -7966,7 +8299,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.7.11',
     license: 'MIT',
     details: 'https://github.com/ArunMichaelDsouza/ng-youtube-embed',
-    keywords: ['youtube','embed','video','player']
+    keywords: ['youtube','embed','video','player'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 375,
@@ -7987,7 +8321,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.10',
     license: 'MIT',
     details: 'https://github.com/wasilak/angular-c3-simple',
-    keywords: ['c3','simple','video','player']
+    keywords: ['c3','simple','video','player'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 376,
@@ -8008,7 +8343,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/Trustroots/trustpass',
-    keywords: ['password','security','trusty','trustpass']
+    keywords: ['password','security','trusty','trustpass'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 377,
@@ -8029,7 +8365,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/duychinhnguyenvn/angular-animated-modal',
-    keywords: ['animated','modal','popover','popup']
+    keywords: ['animated','modal','popover','popup'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 378,
@@ -8050,7 +8387,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.5.0',
     license: 'MIT',
     details: 'https://github.com/vskosp/vsGoogleAutocomplete',
-    keywords: ['autocomplete','auto','input','select','google']
+    keywords: ['autocomplete','auto','input','select','google'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 379,
@@ -8071,7 +8409,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.4',
     license: 'MIT',
     details: 'https://github.com/souly1/ng-walkthrough',
-    keywords: ['mobile design','design','invitation','explanation','walkthrough']
+    keywords: ['mobile design','design','invitation','explanation','walkthrough'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 380,
@@ -8092,7 +8431,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/ThirdCornerLLC/tc-grid',
-    keywords: ['grid','tabs','ui']
+    keywords: ['grid','tabs','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 381,
@@ -8114,7 +8454,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://github.com/Reklino/angular-resizable',
-    keywords: ['resizable','resize','auto','containers']
+    keywords: ['resizable','resize','auto','containers'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 382,
@@ -8135,7 +8476,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.2.0',
     license: 'MIT',
     details: 'https://github.com/IvoNet/angular-ivonet-markdown',
-    keywords: ['markdown','ivonet','mark','highlighting','configurable']
+    keywords: ['markdown','ivonet','mark','highlighting','configurable'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 383,
@@ -8156,7 +8498,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '2.5.1',
     license: 'MIT',
     details: 'https://github.com/mattlewis92/angular-bootstrap-confirm',
-    keywords: ['bootstrap','confirm','form','alert']
+    keywords: ['bootstrap','confirm','form','alert'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 384,
@@ -8177,7 +8520,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://thienhung1989.github.io/angular-tree-dnd/demo/#/basic',
-    keywords: ['tree','table','datatable','treeview']
+    keywords: ['tree','table','datatable','treeview'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 385,
@@ -8198,7 +8542,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.7.0',
     license: 'MIT',
     details: 'http://jrief.github.io/angular-bootstrap-plus/',
-    keywords: ['plus','processbar','scrollpanel','magnify','select']
+    keywords: ['plus','processbar','scrollpanel','magnify','select'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 386,
@@ -8219,7 +8564,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'http://awesomeui.herokuapp.com/',
-    keywords: ['awesome','ui','components']
+    keywords: ['awesome','ui','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 387,
@@ -8240,7 +8586,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.4',
     license: 'MIT',
     details: 'http://myplanet.github.io/angular-auto-focus/',
-    keywords: ['auto','toggle','focus']
+    keywords: ['auto','toggle','focus'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 388,
@@ -8261,7 +8608,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.10',
     license: 'MIT',
     details: 'http://myplanet.github.io/angular-deep-blur/',
-    keywords: ['deep','blur','toggle']
+    keywords: ['deep','blur','toggle'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 389,
@@ -8282,7 +8630,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.3.5',
     license: 'MIT',
     details: 'http://myplanet.github.io/angular-date-picker/',
-    keywords: ['date','picker','datepicker']
+    keywords: ['date','picker','datepicker'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 390,
@@ -8303,7 +8652,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.2.0',
     license: 'MIT',
     details: 'http://dbtek.github.io/angular-hamburger-toggle/',
-    keywords: ['hamburger','toggle','ui']
+    keywords: ['hamburger','toggle','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 391,
@@ -8324,7 +8674,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.0',
     license: 'MIT',
     details: 'https://github.com/tameraydin/carouselar',
-    keywords: ['carousel','slider','gallery','image']
+    keywords: ['carousel','slider','gallery','image'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 392,
@@ -8345,7 +8696,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.4',
     license: 'MIT',
     details: 'https://github.com/souly1/angular-flip-card',
-    keywords: ['flip','card','html','ui']
+    keywords: ['flip','card','html','ui'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 393,
@@ -8366,7 +8718,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'http://ionicmaterial.com/',
-    keywords: ['material','ionic','mobile']
+    keywords: ['material','ionic','mobile'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 394,
@@ -8387,7 +8740,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '1.0.1',
     license: 'MIT',
     details: 'https://trackduck.com/',
-    keywords: ['morphing','modal','ui','designs']
+    keywords: ['morphing','modal','ui','designs'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 395,
@@ -8409,7 +8763,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/marco64bit/Angular-Transaction-manager',
-    keywords: ['transaction','manager','snapshots','restore snapshot']
+    keywords: ['transaction','manager','snapshots','restore snapshot'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 396,
@@ -8430,7 +8785,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.6.5',
     license: 'MIT',
     details: 'https://github.com/s-yadav/angulargrid',
-    keywords: ['grid','box','image','gallery', 'div']
+    keywords: ['grid','box','image','gallery', 'div'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 397,
@@ -8451,7 +8807,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.4.0',
     license: 'MIT',
     details: 'https://github.com/beevelop/ng-stomp',
-    keywords: ['stomp','destination','end point','start point']
+    keywords: ['stomp','destination','end point','start point'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 398,
@@ -8472,7 +8829,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.2',
     license: 'MIT',
     details: 'https://github.com/Matesign/material-wizard',
-    keywords: ['material','wizard','ui','components']
+    keywords: ['material','wizard','ui','components'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 399,
@@ -8493,7 +8851,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/itslenny/angular-bootstrap-file-field',
-    keywords: ['bootstrap','file','field','classes']
+    keywords: ['bootstrap','file','field','classes'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 400,
@@ -8514,7 +8873,8 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.0.0',
     license: 'MIT',
     details: 'https://github.com/itslenny/angular-pretty-checkable',
-    keywords: ['pretty','checkable','checkbox','radio','button']
+    keywords: ['pretty','checkable','checkbox','radio','button'],
+    contributedBy: 'qexon-ankit'
   },
   {
     id: 401,
@@ -8535,6 +8895,7 @@ export const ANGULARJS_COMPONENTS: any[] = [
     version: '0.1.0',
     license: 'MIT',
     details: 'https://github.com/akveo/angular-progress-button-styles',
-    keywords: ['progress','button','styles','submit']
+    keywords: ['progress','button','styles','submit'],
+    contributedBy: 'qexon-ankit'
   }
 ];
