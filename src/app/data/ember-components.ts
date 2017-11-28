@@ -7834,5 +7834,32 @@ export const EMBER_COMPONENTS: any[] = [
     "ui"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 310,
+    name: "ember-bootstrap-markdown",
+    install: {
+      packager: "ember",
+      url: "ember-bootstrap-markdown"
+    },
+    source: {
+      domain: "github",
+      url: "ChrisHonniball/ember-bootstrap-markdown",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "https://chrishonniball.github.io/ember-bootstrap-markdown/"
+    },
+    framework: "Ember",
+    version: "0.0.8",
+    license: "MIT",
+    details: "https://github.com/ChrisHonniball/ember-bootstrap-markdown",
+    keywords: [
+       "ember-addon",
+    "bootstrap",
+    "markdown"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
