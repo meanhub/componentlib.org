@@ -8005,5 +8005,33 @@ export const EMBER_COMPONENTS: any[] = [
     "datetime picker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 316,
+    name: "ember-frost-date-picker",
+    install: {
+      packager: "ember",
+      url: "ember-frost-date-picker"
+    },
+    source: {
+      domain: "github",
+      url: "ciena-frost/ember-frost-date-picker",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ciena-frost.github.io/ember-frost-date-picker/"
+    },
+    framework: "Ember",
+    version: "8.0.1",
+    license: "MIT",
+    details: "http://ciena-frost.github.io/ember-frost-date-picker/",
+    keywords: [
+       "ember-addon",
+    "date-picker",
+    "frost-date-picker",
+    "frost"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
