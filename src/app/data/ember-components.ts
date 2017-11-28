@@ -7861,5 +7861,35 @@ export const EMBER_COMPONENTS: any[] = [
     "markdown"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 311,
+    name: "ember-idx-tour",
+    install: [{
+      packager: "npm",
+      url: "ember-idx-tour"
+    },{
+      packager: "ember",
+      url: "ember-idx-tour"
+    }],
+    source: {
+      domain: "github",
+      url: "indexiatech/ember-idx-tour",
+      stars: 7
+    },
+    demo: {
+      repl: "custom",
+      src: "http://indexiatech.github.io/ember-idx-tour/#/simple"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "APACHE2",
+    details: "http://indexiatech.github.io/ember-idx-tour",
+    keywords: [
+       "ember-addon",
+    "idx-tour",
+    "tour"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
