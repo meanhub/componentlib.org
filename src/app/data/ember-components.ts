@@ -7977,5 +7977,33 @@ export const EMBER_COMPONENTS: any[] = [
     "datetime picker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 315,
+    name: "ember-date-range-picker",
+    install: {
+      packager: "ember",
+      url: "ember-date-range-picker"
+    },
+    source: {
+      domain: "github",
+      url: "wearemolecule/date-range-picker",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "https://wearemolecule.github.io/date-range-picker/"
+    },
+    framework: "Ember",
+    version: "0.7.4",
+    license: "MIT",
+    details: "https://wearemolecule.github.io/date-range-picker/",
+    keywords: [
+       "ember-addon",
+    "date-range-picker",
+    "date-range",
+    "datetime picker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
