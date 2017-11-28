@@ -7891,5 +7891,35 @@ export const EMBER_COMPONENTS: any[] = [
     "tour"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 312,
+    name: "ember-cli-bootstrap3-carousel",
+    install: {
+      packager: "ember",
+      url: "ember-cli-bootstrap3-carousel"
+    },
+    source: {
+      domain: "github",
+      url: "cybertoothca/ember-cli-bootstrap3-carousel",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-cli-bootstrap3-carousel.cybertooth.io"
+    },
+    framework: "Ember",
+    version: "1.0.0-beta.2",
+    license: "MIT",
+    details: "http://ember-cli-bootstrap3-carousel.cybertooth.io",
+    keywords: [
+       "bootstrap",
+    "bootstrap3",
+    "carousel",
+    "bootstrap-carousel",
+    "cybertooth",
+    "ember-addon"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
