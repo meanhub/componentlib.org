@@ -7607,5 +7607,33 @@ export const EMBER_COMPONENTS: any[] = [
 	  "decorator"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 302,
+    name: "ui-ember-slider",
+    install: {
+      packager: "ember",
+      url: "ui-ember-slider"
+    },
+    source: {
+      domain: "github",
+      url: "lifegadget/ui-slider",
+      stars: 27
+    },
+    demo: {
+      repl: "custom",
+      src: "https://ui-slider.firebaseapp.com"
+    },
+    framework: "Ember",
+    version: "0.5.0",
+    license: "MIT",
+    details: "https://ui-slider.firebaseapp.com",
+    keywords: [
+      "ember-addon",
+	  "slider",
+	  "ticks",
+	  "range slider"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
