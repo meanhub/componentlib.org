@@ -7635,5 +7635,32 @@ export const EMBER_COMPONENTS: any[] = [
 	  "range slider"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 303,
+    name: "ui-button",
+    install: {
+      packager: "ember",
+      url: "ui-button"
+    },
+    source: {
+      domain: "github",
+      url: "lifegadget/ui-button",
+      stars: 6
+    },
+    demo: {
+      repl: "custom",
+      src: "https://ui-button-2.firebaseapp.com/demo-button"
+    },
+    framework: "Ember",
+    version: "2.1.12",
+    license: "MIT",
+    details: "https://ui-button-2.firebaseapp.com",
+    keywords: [
+      "ember-addon",
+    "ui",
+    "button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
