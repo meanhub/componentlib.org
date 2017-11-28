@@ -8065,5 +8065,39 @@ export const EMBER_COMPONENTS: any[] = [
     "datepicker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 318,
+    name: "ember-rl-week-picker",
+    install: [{
+      packager: "npm",
+      url: "ember-rl-week-picker"
+    },{
+      packager: "ember",
+      url: "ember-rl-week-picker"
+    }],
+    source: {
+      domain: "github",
+      url: "rsschermer/ember-rl-week-picker",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "http://rsschermer.github.io/ember-rl-week-picker/"
+    },
+    framework: "Ember",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/rsschermer/ember-rl-week-picker",
+    keywords: [
+       "ember-addon",
+    "ember-component",
+    "week-picker",
+    "week",
+    "picker",
+    "moment",
+    "moment.js"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
