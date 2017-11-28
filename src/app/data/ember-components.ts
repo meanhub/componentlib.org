@@ -7745,5 +7745,35 @@ export const EMBER_COMPONENTS: any[] = [
     "ember-strap"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 307,
+    name: "ember-idx-forms",
+    install: [{
+      packager: "npm",
+      url: "ember-idx-forms"
+    },{
+      packager: "ember",
+      url: "ember-idx-forms"
+    }],
+    source: {
+      domain: "github",
+      url: "indexiatech/ember-forms",
+      stars: 223
+    },
+    demo: {
+      repl: "custom",
+      src: "http://indexiatech.github.io/ember-forms/overview"
+    },
+    framework: "Ember",
+    version: "0.6.0",
+    license: "APACHE2",
+    details: "http://indexiatech.github.io/ember-forms/overview",
+    keywords: [
+       "ember-addon",
+    "idx-forms",
+    "forms"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
