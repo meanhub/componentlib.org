@@ -7804,5 +7804,35 @@ export const EMBER_COMPONENTS: any[] = [
     "bootstrap"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 309,
+    name: "bootstrap-modal",
+    install: {
+      packager: "ember",
+      url: "bootstrap-modal"
+    },
+    source: {
+      domain: "github",
+      url: "knownasilya/bootstrap-modal",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "http://knownasilya.github.io/bootstrap-modal/"
+    },
+    framework: "Ember",
+    version: "2.2.0",
+    license: "MIT",
+    details: "https://github.com/knownasilya/bootstrap-modal",
+    keywords: [
+       "ember-addon",
+    "bootstrap",
+    "modal",
+    "animation",
+    "ember",
+    "ui"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
