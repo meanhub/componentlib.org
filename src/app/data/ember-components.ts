@@ -8131,5 +8131,37 @@ export const EMBER_COMPONENTS: any[] = [
     "picker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 320,
+    name: "ember-rl-month-picker",
+    install: [{
+      packager: "npm",
+      url: "ember-rl-month-picker"
+    },{
+      packager: "ember",
+      url: "ember-rl-month-picker"
+    }],
+    source: {
+      domain: "github",
+      url: "RSSchermer/ember-rl-month-picker",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "http://rsschermer.github.io/ember-rl-month-picker/"
+    },
+    framework: "Ember",
+    version: "0.2.0",
+    license: "MIT",
+    details: "https://github.com/RSSchermer/ember-rl-month-picker",
+    keywords: [
+       "ember-addon",
+    "ember-component",
+    "month-picker",
+    "month",
+    "picker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
