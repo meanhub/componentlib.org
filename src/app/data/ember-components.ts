@@ -7579,5 +7579,33 @@ export const EMBER_COMPONENTS: any[] = [
       "ember-addon"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 301,
+    name: "ember-aupac-control",
+    install: {
+      packager: "ember",
+      url: "ember-aupac-control"
+    },
+    source: {
+      domain: "github",
+      url: "aupac/ember-aupac-control",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "http://aupac.github.io/ember-aupac-control/"
+    },
+    framework: "Ember",
+    version: "1.2.0",
+    license: "MIT",
+    details: "https://github.com/aupac/ember-aupac-control",
+    keywords: [
+      "ember-addon",
+	  "bootstrap",
+	  "component",
+	  "decorator"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
