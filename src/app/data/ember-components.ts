@@ -7692,5 +7692,31 @@ export const EMBER_COMPONENTS: any[] = [
     "autocomplete"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 305,
+    name: "ember-cli-wizard",
+    install: {
+      packager: "ember",
+      url: "ember-cli-wizard"
+    },
+    source: {
+      domain: "github",
+      url: "ritesh83/ember-cli-wizard",
+      stars: 5
+    },
+    demo: {
+      repl: "custom",
+      src: "https://ritesh83.github.io/ember-cli-wizard/#/basic-example"
+    },
+    framework: "Ember",
+    version: "0.1.9",
+    license: "MIT",
+    details: "https://github.com/ritesh83/ember-cli-wizard",
+    keywords: [
+       "ember-addon",
+    "wizard"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
