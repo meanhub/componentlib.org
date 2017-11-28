@@ -7921,5 +7921,33 @@ export const EMBER_COMPONENTS: any[] = [
     "ember-addon"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 313,
+    name: "ember-power-calendar",
+    install: {
+      packager: "ember",
+      url: "ember-power-calendar"
+    },
+    source: {
+      domain: "github",
+      url: "cibernox/ember-power-calendar",
+      stars: 141
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-power-calendar.com/docs/i18n"
+    },
+    framework: "Ember",
+    version: "0.6.2",
+    license: "MIT",
+    details: "http://ember-power-calendar.com/docs",
+    keywords: [
+       "ember-addon",
+    "ember-power",
+    "calendar",
+    "component"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
