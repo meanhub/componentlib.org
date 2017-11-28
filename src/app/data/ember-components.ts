@@ -7763,12 +7763,12 @@ export const EMBER_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "http://indexiatech.github.io/ember-forms/overview"
+      src: "http://indexiatech.github.io/ember-forms"
     },
     framework: "Ember",
     version: "0.6.0",
     license: "APACHE2",
-    details: "http://indexiatech.github.io/ember-forms/overview",
+    details: "http://indexiatech.github.io/ember-forms",
     keywords: [
        "ember-addon",
     "idx-forms",
