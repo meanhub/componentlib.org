@@ -8033,5 +8033,37 @@ export const EMBER_COMPONENTS: any[] = [
     "frost"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 317,
+    name: "ember-date-components",
+    install: {
+      packager: "ember",
+      url: "ember-date-components"
+    },
+    source: {
+      domain: "github",
+      url: "mydea/ember-date-components",
+      stars: 24
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mydea.github.io/ember-date-components/"
+    },
+    framework: "Ember",
+    version: "1.0.6",
+    license: "MIT",
+    details: "http://mydea.github.io/ember-date-components/",
+    keywords: [
+       "ember-addon",
+    "date-picker",
+    "date",
+    "time",
+    "time-picker",
+    "timepicker",
+    "date-range-picker",
+    "datepicker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
