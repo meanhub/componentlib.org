@@ -7488,37 +7488,31 @@ export const EMBER_COMPONENTS: any[] = [
   },
   {
     id: 298,
-    name: "ember-cli-bootstrap-datetimepicker",
+    name: "ember-daypicker",
     install: {
       packager: "ember",
-      url: "ember-cli-bootstrap-datetimepicker"
+      url: "ember-daypicker"
     },
     source: {
       domain: "github",
-      url: "btecu/ember-cli-bootstrap-datetimepicker",
-      stars: 10
+      url: "swastik/ember-daypicker",
+      stars: 3
     },
     demo: {
       repl: "custom",
-      src: "http://eonasdan.github.io/bootstrap-datetimepicker"
+      src: "http://swastik.github.io/ember-daypicker/"
     },
     framework: "Ember",
     version: "0.6.0",
     license: "MIT",
-    details: "http://eonasdan.github.io/bootstrap-datetimepicker",
+    details: "http://swastik.github.io/ember-daypicker/",
     keywords: [
-      "ember-addon",
-      "ember-cli",
-      "ember-datepicker",
-      "ember-timepicker",
-      "ember-datetimepicker",
-      "bootstrap",
-      "bootstrap-datepicker",
-      "bootstrap-timepicker",
-      "bootstrap-datetimepicker",
-      "datepicker",
-      "timepicker",
-      "datetimepicker"
+       "ember-addon",
+    "emberjs",
+    "daypicker",
+    "datepicker",
+    "calendar",
+    "date"
     ],
     contributedBy: "DimaGapfild"
   },
