@@ -7949,5 +7949,33 @@ export const EMBER_COMPONENTS: any[] = [
     "component"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 314,
+    name: "ember-flatpickr",
+    install: {
+      packager: "ember",
+      url: "ember-flatpickr"
+    },
+    source: {
+      domain: "github",
+      url: "shipshapecode/ember-flatpickr",
+      stars: 54
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-flatpickr.shipshape.io"
+    },
+    framework: "Ember",
+    version: "2.1.0",
+    license: "MIT",
+    details: "https://github.com/shipshapecode/ember-flatpickr",
+    keywords: [
+       "ember-addon",
+    "flatpicker",
+    "datepicker",
+    "datetime picker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
