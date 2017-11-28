@@ -7775,5 +7775,34 @@ export const EMBER_COMPONENTS: any[] = [
     "forms"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 308,
+    name: "ember-cli-modal-service",
+    install: {
+      packager: "ember",
+      url: "ember-cli-modal-service"
+    },
+    source: {
+      domain: "github",
+      url: "Arexo/ember-cli-modal-service",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "https://www.arexo.be/ember-cli-modal-service-demo/"
+    },
+    framework: "Ember",
+    version: "0.1.0",
+    license: "MIT",
+    details: "https://github.com/Arexo/ember-cli-modal-service",
+    keywords: [
+       "ember-addon",
+    "modal", 
+    "modal dialog", 
+    "modal component",
+    "bootstrap"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
