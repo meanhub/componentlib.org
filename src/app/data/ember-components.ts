@@ -7718,5 +7718,32 @@ export const EMBER_COMPONENTS: any[] = [
     "wizard"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 306,
+    name: "ember-strap",
+    install: {
+      packager: "ember",
+      url: "ember-strap"
+    },
+    source: {
+      domain: "github",
+      url: "pierrickrouxel/ember-strap",
+      stars: 15
+    },
+    demo: {
+      repl: "custom",
+      src: "http://pierrickrouxel.github.io/ember-strap/"
+    },
+    framework: "Ember",
+    version: "2.3.0",
+    license: "MIT",
+    details: "http://pierrickrouxel.github.io/ember-strap/",
+    keywords: [
+       "ember-addon",
+    "bootstrap",
+    "ember-strap"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
