@@ -8099,5 +8099,37 @@ export const EMBER_COMPONENTS: any[] = [
     "moment.js"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 319,
+    name: "ember-rl-year-picker",
+    install: [{
+      packager: "npm",
+      url: "ember-rl-year-picker"
+    },{
+      packager: "ember",
+      url: "ember-rl-year-picker"
+    }],
+    source: {
+      domain: "github",
+      url: "RSSchermer/ember-rl-year-picker",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "http://rsschermer.github.io/ember-rl-year-picker/"
+    },
+    framework: "Ember",
+    version: "0.2.0",
+    license: "MIT",
+    details: "https://github.com/RSSchermer/ember-rl-year-picker",
+    keywords: [
+       "ember-addon",
+    "ember-component",
+    "year-picker",
+    "year",
+    "picker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
