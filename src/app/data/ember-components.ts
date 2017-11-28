@@ -7662,5 +7662,35 @@ export const EMBER_COMPONENTS: any[] = [
     "button"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 304,
+    name: "ember-cli-bootstrap-tokenfield",
+    install: {
+      packager: "ember",
+      url: "ember-cli-bootstrap-tokenfield"
+    },
+    source: {
+      domain: "github",
+      url: "aethermx/ember-cli-bootstrap-tokenfield",
+      stars: 9
+    },
+    demo: {
+      repl: "custom",
+      src: "http://aethermx.github.io/ember-cli-bootstrap-tokenfield/"
+    },
+    framework: "Ember",
+    version: "2.1.12",
+    license: "MIT",
+    details: "http://aethermx.github.io/ember-cli-bootstrap-tokenfield/",
+    keywords: [
+       "ember-addon",
+    "tokenfield",
+    "tags",
+    "token",
+    "typeahead",
+    "autocomplete"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
