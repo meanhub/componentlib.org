@@ -8779,5 +8779,35 @@ export const EMBER_COMPONENTS: any[] = [
     "jar"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 342,
+    name: "ember-lazy-image",
+    install: [{
+      packager: "npm",
+      url: "ember-lazy-image"
+    },{
+      packager: "ember",
+      url: "ember-lazy-image"
+    }],
+    source: {
+      domain: "github",
+      url: "twokul/ember-lazy-image",
+      stars: 84
+    },
+    demo: {
+      repl: "custom",
+      src: "http://jsbin.com/jowopi/"
+    },
+    framework: "Ember",
+    version: "0.0.14",
+    license: "MIT",
+    details: "https://github.com/twokul/ember-lazy-image/",
+    keywords: [
+        "ember-addon",
+    "image",
+    "lazy load"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
