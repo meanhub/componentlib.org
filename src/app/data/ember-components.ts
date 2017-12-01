@@ -8988,5 +8988,33 @@ export const EMBER_COMPONENTS: any[] = [
     "image"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 349,
+    name: "ember-image-zoom",
+    install: {
+      packager: "ember",
+      url: "ember-image-zoom"
+    },
+    source: {
+      domain: "github",
+      url: "martinmalinda/ember-image-zoom",
+      stars: 3
+    },
+    demo: {
+      repl: "custom",
+      src: "https://martinmalinda.github.io/ember-image-zoom/"
+    },
+    framework: "Ember",
+    version: "0.0.5",
+    license: "MIT",
+    details: "https://github.com/martinmalinda/ember-image-zoom",
+    keywords: [
+        "ember-addon",
+    "image-zoom",
+    "image",
+    "zoom"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
