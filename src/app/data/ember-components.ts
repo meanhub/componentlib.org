@@ -8550,5 +8550,33 @@ export const EMBER_COMPONENTS: any[] = [
     "tile-layer"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 334,
+    name: "ember-google-map",
+    install: {
+      packager: "ember",
+      url: "ember-google-map"
+    },
+    source: {
+      domain: "github",
+      url: "huafu/ember-google-map",
+      stars: 92
+    },
+    demo: {
+      repl: "custom",
+      src: "http://huafu.github.io/ember-google-map/"
+    },
+    framework: "Ember",
+    version: "0.0.26",
+    license: "MIT",
+    details: "http://huafu.github.io/ember-google-map/",
+    keywords: [
+       "ember-addon",
+    "google-map",
+    "component",
+    "ember"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
