@@ -8491,5 +8491,35 @@ export const EMBER_COMPONENTS: any[] = [
     "ember-heatmap"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 332,
+    name: "ember-leaflet-cartodb",
+    install: {
+      packager: "ember",
+      url: "ember-leaflet-cartodb"
+    },
+    source: {
+      domain: "github",
+      url: "knownasilya/ember-leaflet-cartodb",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "http://knownasilya.github.io/ember-leaflet-cartodb/"
+    },
+    framework: "Ember",
+    version: "2.1.0",
+    license: "ISC",
+    details: "https://github.com/knownasilya/ember-leaflet-cartodb",
+    keywords: [
+        "ember-addon",
+    "ember-leaflet",
+    "cartodb.js",
+    "ember-component",
+    "map",
+    "layer"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
