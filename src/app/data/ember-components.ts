@@ -8191,5 +8191,34 @@ export const EMBER_COMPONENTS: any[] = [
     "datepicker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 322,
+    name: "ember-cli-kalendae",
+    install: {
+      packager: "ember",
+      url: "ember-cli-kalendae"
+    },
+    source: {
+      domain: "github",
+      url: "shak/ember-cli-kalendae",
+      stars: 4
+    },
+    demo: {
+      repl: "custom",
+      src: "https://shak.github.io/ember-cli-kalendae/#/examples/single-date-picker"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "https://shak.github.io/ember-cli-kalendae/#/examples/single-date-picker",
+    keywords: [
+       "ember-addon",
+    "kalendae",
+    "datepicker",
+    "ember-cli",
+    "date"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
