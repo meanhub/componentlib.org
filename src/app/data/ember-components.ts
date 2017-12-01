@@ -8751,5 +8751,33 @@ export const EMBER_COMPONENTS: any[] = [
     "helper"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 341,
+    name: "ember-svg-jar",
+    install: {
+      packager: "ember",
+      url: "ember-svg-jar"
+    },
+    source: {
+      domain: "github",
+      url: "ivanvotti/ember-svg-jar",
+      stars: 137
+    },
+    demo: {
+      repl: "custom",
+      src: "https://svgjar-demo.firebaseapp.com"
+    },
+    framework: "Ember",
+    version: "0.11.1",
+    license: "MIT",
+    details: "https://svgjar.firebaseapp.com",
+    keywords: [
+        "ember-addon",
+    "svg-jar",
+    "svg",
+    "jar"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
