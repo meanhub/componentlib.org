@@ -8433,5 +8433,36 @@ export const EMBER_COMPONENTS: any[] = [
     "component"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 330,
+    name: "ember-g-map",
+    install: {
+      packager: "ember",
+      url: "ember-g-map"
+    },
+    source: {
+      domain: "github",
+      url: "asennikov/ember-g-map",
+      stars: 71
+    },
+    demo: {
+      repl: "custom",
+      src: "http://asennikov.github.io/ember-g-map/"
+    },
+    framework: "Ember",
+    version: "0.0.25",
+    license: "MIT",
+    details: "https://github.com/asennikov/ember-g-map",
+    keywords: [
+       "ember-addon",
+    "ember-g-map",
+    "google-map",
+    "google-maps",
+    "google",
+    "map",
+    "maps"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
