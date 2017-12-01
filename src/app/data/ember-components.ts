@@ -8578,5 +8578,32 @@ export const EMBER_COMPONENTS: any[] = [
     "ember"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 335,
+    name: "google-maps-addon",
+    install: {
+      packager: "ember",
+      url: "google-maps-addon"
+    },
+    source: {
+      domain: "github",
+      url: "SamvelRaja/google-maps-addon",
+      stars: 7
+    },
+    demo: {
+      repl: "custom",
+      src: "http://samvelraja.github.io/#/demos/googlemaps"
+    },
+    framework: "Ember",
+    version: "0.1.2",
+    license: "MIT",
+    details: "http://samvelraja.github.io/#/demos/googlemaps",
+    keywords: [
+       "google-maps-wrapper",
+    "google-maps-ember-addon",
+    "ember-addon"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
