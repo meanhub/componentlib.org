@@ -8251,5 +8251,36 @@ export const EMBER_COMPONENTS: any[] = [
     "dropdown"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 324,
+    name: "ember-time-tools",
+    install: {
+      packager: "ember",
+      url: "ember-time-tools"
+    },
+    source: {
+      domain: "github",
+      url: "lozjackson/ember-time-tools",
+      stars: 5
+    },
+    demo: {
+      repl: "custom",
+      src: "http://lozjackson.github.io/ember-time-tools/"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://lozjackson.github.io/ember-time-tools/",
+    keywords: [
+       "ember-addon",
+    "time-tools",
+    "input-date",
+    "input-time",
+    "date-picker",
+    "time-picker",
+    "calendar"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
