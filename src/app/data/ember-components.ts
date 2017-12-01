@@ -8869,5 +8869,38 @@ export const EMBER_COMPONENTS: any[] = [
     "responsive"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 345,
+    name: "ember-svg-shapes",
+    install: {
+      packager: "ember",
+      url: "ember-svg-shapes"
+    },
+    source: {
+      domain: "github",
+      url: "lozjackson/ember-svg-shapes",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "http://lozjackson.github.io/ember-svg-shapes/"
+    },
+    framework: "Ember",
+    version: "1.0.0",
+    license: "MIT",
+    details: "http://lozjackson.github.io/ember-svg-shapes/",
+    keywords: [
+        "ember-addon",
+    "svg",
+    "shapes",
+    "circle",
+    "square",
+    "rectangle",
+    "polygon",
+    "triangle",
+    "star"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
