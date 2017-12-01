@@ -8404,5 +8404,34 @@ export const EMBER_COMPONENTS: any[] = [
     "maps"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 329,
+    name: "ember-cli-g-maps",
+    install: {
+      packager: "ember",
+      url: "ember-cli-g-maps"
+    },
+    source: {
+      domain: "github",
+      url: "Matt-Jensen/ember-cli-g-maps",
+      stars: 53
+    },
+    demo: {
+      repl: "custom",
+      src: "http://matt-jensen.github.io/ember-cli-g-maps/"
+    },
+    framework: "Ember",
+    version: "0.5.14",
+    license: "MIT",
+    details: "http://matt-jensen.github.io/ember-cli-g-maps/",
+    keywords: [
+       "ember-addon",
+    "google",
+    "map",
+    "ember",
+    "component"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
