@@ -8636,5 +8636,32 @@ export const EMBER_COMPONENTS: any[] = [
     "maps"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 337,
+    name: "ember-street-view",
+    install: {
+      packager: "ember",
+      url: "ember-street-view"
+    },
+    source: {
+      domain: "github",
+      url: "ahmadsoe/ember-street-view",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ahmadsoe.github.io/ember-street-view/"
+    },
+    framework: "Ember",
+    version: "0.0.2",
+    license: "MIT",
+    details: "https://github.com/ahmadsoe/ember-street-view",
+    keywords: [
+       "ember-addon",
+    "google street view",
+    "panorama"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
