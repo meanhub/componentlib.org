@@ -8902,5 +8902,35 @@ export const EMBER_COMPONENTS: any[] = [
     "star"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 346,
+    name: "ember-cli-image-cropper",
+    install: {
+      packager: "ember",
+      url: "ember-cli-image-cropper"
+    },
+    source: {
+      domain: "github",
+      url: "mhretab/ember-cli-image-cropper",
+      stars: 36
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mhretab.github.io/ember-cli-image-cropper/"
+    },
+    framework: "Ember",
+    version: "0.0.13",
+    license: "MIT",
+    details: "https://github.com/mhretab/ember-cli-image-cropper",
+    keywords: [
+        "ember-addon",
+    "ember-cli-image-cropper",
+    "ember-cli-cropper",
+    "ember-cropper",
+    "image-cropper",
+    "cropper"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
