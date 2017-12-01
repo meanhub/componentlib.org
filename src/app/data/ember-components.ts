@@ -8663,5 +8663,31 @@ export const EMBER_COMPONENTS: any[] = [
     "panorama"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 338,
+    name: "ember-cli-mapillary",
+    install: {
+      packager: "ember",
+      url: "ember-cli-mapillary"
+    },
+    source: {
+      domain: "github",
+      url: "esridc/ember-cli-mapillary",
+      stars: 1
+    },
+    demo: {
+      repl: "custom",
+      src: "https://esridc.github.io/ember-cli-mapillary/#/simple"
+    },
+    framework: "Ember",
+    version: "0.5.0",
+    license: "MIT",
+    details: "https://github.com/esridc/ember-cli-mapillary",
+    keywords: [
+       "ember-addon",
+    "mapillary"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
