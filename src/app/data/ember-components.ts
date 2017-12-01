@@ -8932,5 +8932,33 @@ export const EMBER_COMPONENTS: any[] = [
     "cropper"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 347,
+    name: "ember-carousel",
+    install: {
+      packager: "ember",
+      url: "ember-carousel"
+    },
+    source: {
+      domain: "github",
+      url: "selvagsz/ember-carousel",
+      stars: 8
+    },
+    demo: {
+      repl: "custom",
+      src: "http://selvagsz.github.io/ember-carousel/"
+    },
+    framework: "Ember",
+    version: "0.0.6",
+    license: "MIT",
+    details: "https://github.com/selvagsz/ember-carousel",
+    keywords: [
+        "ember-addon",
+    "carousel-component",
+    "ember carousel",
+    "carousel"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
