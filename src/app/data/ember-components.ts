@@ -8960,5 +8960,33 @@ export const EMBER_COMPONENTS: any[] = [
     "carousel"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 348,
+    name: "ember-cli-blurred-image",
+    install: {
+      packager: "ember",
+      url: "ember-cli-blurred-image"
+    },
+    source: {
+      domain: "github",
+      url: "Daniel-Xu/ember-cli-blurred-image",
+      stars: 4
+    },
+    demo: {
+      repl: "custom",
+      src: "https://demo-for-blurred-image.pagefrontapp.com"
+    },
+    framework: "Ember",
+    version: "0.1.6",
+    license: "MIT",
+    details: "https://github.com/Daniel-Xu/ember-cli-blurred-image",
+    keywords: [
+        "ember-addon",
+    "blurred-image",
+    "blurred",
+    "image"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
