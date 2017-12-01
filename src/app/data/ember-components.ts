@@ -8374,5 +8374,35 @@ export const EMBER_COMPONENTS: any[] = [
     "maps"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 328,
+    name: "ember-leaflet-google-mutant-layer",
+    install: {
+      packager: "ember",
+      url: "ember-leaflet-google-mutant-layer"
+    },
+    source: {
+      domain: "github",
+      url: "dio-el-claire/ember-leaflet-google-mutant-layer",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "https://dio-el-claire.github.io/ember-leaflet-google-mutant-layer/"
+    },
+    framework: "Ember",
+    version: "0.0.12",
+    license: "MIT",
+    details: "https://github.com/dio-el-claire/ember-leaflet-google-mutant-layer",
+    keywords: [
+       "ember-addon",
+    "leaflet",
+    "leaflet-google",
+    "lgoogle",
+    "mapping",
+    "maps"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
