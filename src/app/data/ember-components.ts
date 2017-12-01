@@ -8464,5 +8464,32 @@ export const EMBER_COMPONENTS: any[] = [
     "maps"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 331,
+    name: "ember-heatmap",
+    install: {
+      packager: "ember",
+      url: "ember-heatmap"
+    },
+    source: {
+      domain: "github",
+      url: "MLHale/ember-heatmap",
+      stars: 2
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mlhale.github.io/ember-heatmap-demo/"
+    },
+    framework: "Ember",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/MLHale/ember-heatmap",
+    keywords: [
+       "ember-addon",
+    "heatmap",
+    "ember-heatmap"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
