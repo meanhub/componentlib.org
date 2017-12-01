@@ -8809,5 +8809,37 @@ export const EMBER_COMPONENTS: any[] = [
     "lazy load"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 343,
+    name: "ember-filter-image",
+    install: {
+      packager: "ember",
+      url: "ember-filter-image"
+    },
+    source: {
+      domain: "github",
+      url: "adfinis-sygroup/ember-filter-image",
+      stars: 6
+    },
+    demo: {
+      repl: "custom",
+      src: "https://adfinis-sygroup.github.io/ember-filter-image/"
+    },
+    framework: "Ember",
+    version: "0.4.3",
+    license: "MIT",
+    details: "https://github.com/adfinis-sygroup/ember-filter-image",
+    keywords: [
+        "ember-addon",
+    "filter-image",
+    "svg-filter",
+    "image-manipulation",
+    "image-effects",
+    "saturation",
+    "contrast",
+    "brightness"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
