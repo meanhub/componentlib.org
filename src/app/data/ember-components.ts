@@ -8282,5 +8282,38 @@ export const EMBER_COMPONENTS: any[] = [
     "calendar"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 325,
+    name: "ember-date-picker",
+    install: [{
+      packager: "bower",
+      url: "ember-date-picker"
+    },{
+      packager: "ember",
+      url: "ember-date-picker"
+    }],
+    source: {
+      domain: "github",
+      url: "billdami/ember-date-picker",
+      stars: 29
+    },
+    demo: {
+      repl: "custom",
+      src: "http://billdami.com/ember-date-picker/"
+    },
+    framework: "Ember",
+    version: "0.0.4",
+    license: "MIT",
+    details: "https://github.com/billdami/ember-date-picker",
+    keywords: [
+       "ember-addon",
+    "date-picker",
+    "date picker ",
+    "date",
+    "picker",
+    "calendar"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
