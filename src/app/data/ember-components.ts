@@ -8220,5 +8220,36 @@ export const EMBER_COMPONENTS: any[] = [
     "date"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 323,
+    name: "ember-power-datepicker",
+    install: {
+      packager: "ember",
+      url: "ember-power-datepicker"
+    },
+    source: {
+      domain: "github",
+      url: "cibernox/ember-power-datepicker",
+      stars: 32
+    },
+    demo: {
+      repl: "custom",
+      src: "https://ember-datepicker.development.pagefrontapp.com"
+    },
+    framework: "Ember",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com/cibernox/ember-power-datepicker",
+    keywords: [
+       "ember-addon",
+    "ember",
+    "component",
+    "power",
+    "datepicker",
+    "calendar",
+    "dropdown"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
