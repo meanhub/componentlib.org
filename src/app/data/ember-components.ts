@@ -9016,5 +9016,38 @@ export const EMBER_COMPONENTS: any[] = [
     "zoom"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 350,
+    name: "ember-blur-up",
+    install: {
+      packager: "ember",
+      url: "ember-blur-up"
+    },
+    source: {
+      domain: "github",
+      url: "Ludu/ember-blur-up",
+      stars: 10
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ludu.github.io/ember-blur-up/"
+    },
+    framework: "Ember",
+    version: "0.1.4",
+    license: "MIT",
+    details: "https://github.com/Ludu/ember-blur-up",
+    keywords: [
+        "ember-addon",
+    "background",
+    "background-image",
+    "progressive",
+    "loading",
+    "load",
+    "blur",
+    "cover",
+    "photo"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
