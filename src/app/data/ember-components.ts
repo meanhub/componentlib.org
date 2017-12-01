@@ -8344,5 +8344,35 @@ export const EMBER_COMPONENTS: any[] = [
     "measure"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 327,
+    name: "ember-leaflet",
+    install: {
+      packager: "ember",
+      url: "ember-leaflet"
+    },
+    source: {
+      domain: "github",
+      url: "miguelcobain/ember-leaflet",
+      stars: 162
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.ember-leaflet.com"
+    },
+    framework: "Ember",
+    version: "3.0.12",
+    license: "MIT",
+    details: "http://www.ember-leaflet.com/docs",
+    keywords: [
+       "ember-addon",
+    "leaflet",
+    "ember",
+    "ember-leaflet",
+    "mapping",
+    "maps"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
