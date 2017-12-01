@@ -8723,5 +8723,33 @@ export const EMBER_COMPONENTS: any[] = [
     "zoom"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 340,
+    name: "ember-emojione",
+    install: {
+      packager: "ember",
+      url: "ember-emojione"
+    },
+    source: {
+      domain: "github",
+      url: "Deveo/ember-emojione",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "https://deveo.github.io/ember-emojione/"
+    },
+    framework: "Ember",
+    version: "3.1.0",
+    license: "MIT",
+    details: "https://github.com/Deveo/ember-emojione",
+    keywords: [
+        "ember-addon",
+    "emoji",
+    "emojione",
+    "helper"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
