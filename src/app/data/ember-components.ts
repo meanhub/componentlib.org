@@ -8689,5 +8689,39 @@ export const EMBER_COMPONENTS: any[] = [
     "mapillary"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 339,
+    name: "ember-photoswipe",
+    install: {
+      packager: "ember",
+      url: "ember-photoswipe"
+    },
+    source: {
+      domain: "github",
+      url: "kaermorchen/ember-photoswipe",
+      stars: 5
+    },
+    demo: {
+      repl: "custom",
+      src: "https://kaermorchen.github.io/ember-photoswipe/"
+    },
+    framework: "Ember",
+    version: "0.3.7",
+    license: "MIT",
+    details: "https://github.com/kaermorchen/ember-photoswipe",
+    keywords: [
+        "ember-addon",
+    "ember-photoswipe",
+    "photoswipe",
+    "gallery",
+    "lightbox",
+    "photo",
+    "image",
+    "touch",
+    "swipe",
+    "zoom"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
