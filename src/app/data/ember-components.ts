@@ -8163,5 +8163,33 @@ export const EMBER_COMPONENTS: any[] = [
     "picker"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 321,
+    name: "ember-semantic-ui-calendar",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui-calendar"
+    },
+    source: {
+      domain: "github",
+      url: "quantosobra/ember-semantic-ui-calendar",
+      stars: 8
+    },
+    demo: {
+      repl: "custom",
+      src: "https://quantosobra.github.io/ember-semantic-ui-calendar/"
+    },
+    framework: "Ember",
+    version: "0.2.0",
+    license: "MIT",
+    details: "https://quantosobra.github.io/ember-semantic-ui-calendar/",
+    keywords: [
+       "ember-addon",
+    "semantic-ui",
+    "calendar",
+    "datepicker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
