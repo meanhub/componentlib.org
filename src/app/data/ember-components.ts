@@ -8521,5 +8521,34 @@ export const EMBER_COMPONENTS: any[] = [
     "layer"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 333,
+    name: "ember-leaflet-tiles-provider",
+    install: {
+      packager: "ember",
+      url: "ember-leaflet-tiles-provider"
+    },
+    source: {
+      domain: "github",
+      url: "devotox/ember-leaflet-tiles-provider",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "https://devotox.github.io/ember-leaflet-tiles-provider/"
+    },
+    framework: "Ember",
+    version: "1.0.5",
+    license: "MIT",
+    details: "https://github.com/devotox/ember-leaflet-tiles-provider",
+    keywords: [
+       "ember-addon",
+    "ember-leaflet",
+    "leaflet",
+    "ember",
+    "tile-layer"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
