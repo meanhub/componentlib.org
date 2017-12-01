@@ -8841,5 +8841,33 @@ export const EMBER_COMPONENTS: any[] = [
     "brightness"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 344,
+    name: "ember-cli-imgix",
+    install: {
+      packager: "ember",
+      url: "ember-cli-imgix"
+    },
+    source: {
+      domain: "github",
+      url: "imgix/ember-cli-imgix",
+      stars: 19
+    },
+    demo: {
+      repl: "custom",
+      src: "https://imgix.github.io/ember-cli-imgix/"
+    },
+    framework: "Ember",
+    version: "0.3.8",
+    license: "MIT",
+    details: "https://github.com/imgix/ember-cli-imgix",
+    keywords: [
+        "ember-addon",
+    "ember",
+    "imgix",
+    "responsive"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
