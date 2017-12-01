@@ -8315,5 +8315,34 @@ export const EMBER_COMPONENTS: any[] = [
     "calendar"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 326,
+    name: "google-maps-markup",
+    install: {
+      packager: "ember",
+      url: "google-maps-markup"
+    },
+    source: {
+      domain: "github",
+      url: "knownasilya/google-maps-markup",
+      stars: 7
+    },
+    demo: {
+      repl: "custom",
+      src: "http://knownasilya.github.io/google-maps-markup/"
+    },
+    framework: "Ember",
+    version: "2.2.5",
+    license: "ISC",
+    details: "https://github.com/knownasilya/google-maps-markup",
+    keywords: [
+       "ember-addon",
+    "google maps",
+    "markup",
+    "draw",
+    "measure"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
