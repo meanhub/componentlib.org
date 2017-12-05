@@ -9425,5 +9425,32 @@ export const EMBER_COMPONENTS: any[] = [
     "contenteditable"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 364,
+    name: "ember-cli-simditor",
+    install: {
+      packager: "ember",
+      url: "ember-cli-simditor"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-cli-simditor",
+      stars: 17
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-cli-simditor/"
+    },
+    framework: "Ember",
+    version: "0.0.8",
+    license: "MIT",
+    details: "http://wecatch.me/ember-cli-simditor/",
+    keywords: [
+          "ember-addon",
+    "editor",
+    "simditor"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
