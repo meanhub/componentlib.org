@@ -9598,5 +9598,34 @@ export const EMBER_COMPONENTS: any[] = [
     "ajax"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 370,
+    name: "ember-cli-completable-input",
+    install: {
+      packager: "ember",
+      url: "ember-cli-completable-input"
+    },
+    source: {
+      domain: "github",
+      url: "bitzik/ember-cli-completable-input",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "http://bitzik.github.io/ember-cli-completable-input/#/debug-demo"
+    },
+    framework: "Ember",
+    version: "0.2.0",
+    license: "MIT",
+    details: "https://github.com/bitzik/ember-cli-completable-input/",
+    keywords: [
+          "ember-addon",
+    "typeahead",
+    "completion",
+    "text",
+    "input"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
