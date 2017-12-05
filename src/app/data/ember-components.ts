@@ -9541,5 +9541,32 @@ export const EMBER_COMPONENTS: any[] = [
     "editor"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 368,
+    name: "ember-cli-mentionable",
+    install: {
+      packager: "ember",
+      url: "ember-cli-mentionable"
+    },
+    source: {
+      domain: "github",
+      url: "yakmada/ember-cli-mentionable",
+      stars: 10
+    },
+    demo: {
+      repl: "custom",
+      src: "https://yakmada.github.io/ember-cli-mentionable/dist/"
+    },
+    framework: "Ember",
+    version: "0.0.10",
+    license: "MIT",
+    details: "https://yakmada.github.io/ember-cli-mentionable/dist/",
+    keywords: [
+          "ember-addon",
+    "mention",
+    "hashtag"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
