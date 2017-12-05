@@ -9568,5 +9568,35 @@ export const EMBER_COMPONENTS: any[] = [
     "hashtag"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 369,
+    name: "ember-aupac-typeahead",
+    install: {
+      packager: "ember",
+      url: "ember-aupac-typeahead"
+    },
+    source: {
+      domain: "github",
+      url: "aupac/ember-aupac-typeahead",
+      stars: 21
+    },
+    demo: {
+      repl: "custom",
+      src: "http://aupac.github.io/ember-aupac-typeahead/"
+    },
+    framework: "Ember",
+    version: "2.3.2",
+    license: "MIT",
+    details: "https://github.com/aupac/ember-aupac-typeahead",
+    keywords: [
+          "ember-addon",
+    "typeahead",
+    "typeahead.js",
+    "corejs-typeahead",
+    "autocomplete",
+    "ajax"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
