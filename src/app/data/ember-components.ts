@@ -10130,5 +10130,33 @@ export const EMBER_COMPONENTS: any[] = [
     "tabs"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 389,
+    name: "ember-material-design-toast",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/toast"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/toast",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "toast"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
