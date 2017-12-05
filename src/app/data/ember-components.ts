@@ -9160,5 +9160,32 @@ export const EMBER_COMPONENTS: any[] = [
     "ember form"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 355,
+    name: "ember-legit-forms",
+    install: {
+      packager: "ember",
+      url: "ember-legit-forms"
+    },
+    source: {
+      domain: "github",
+      url: "jbandura/ember-legit-forms",
+      stars: 32
+    },
+    demo: {
+      repl: "custom",
+      src: "http://jbandura.github.io/ember-legit-forms-docs/"
+    },
+    framework: "Ember",
+    version: "2.1.3",
+    license: "MIT",
+    details: "http://jbandura.github.io/ember-legit-forms-docs/#/docs/v2-1-1/installing",
+    keywords: [
+         "ember-addon",
+    "forms",
+    "validation"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
