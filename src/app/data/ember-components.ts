@@ -9627,5 +9627,32 @@ export const EMBER_COMPONENTS: any[] = [
     "input"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 371,
+    name: "ember-at-js",
+    install: {
+      packager: "ember",
+      url: "ember-at-js"
+    },
+    source: {
+      domain: "github",
+      url: "rinti/ember-at-js",
+      stars: 6
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-at-js.rinti.se"
+    },
+    framework: "Ember",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/rinti/ember-at-js",
+    keywords: [
+          "ember-addon",
+          "at.js",
+          "mention"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
