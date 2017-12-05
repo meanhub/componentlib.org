@@ -9513,5 +9513,33 @@ export const EMBER_COMPONENTS: any[] = [
     "editor"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 367,
+    name: "ember-idx-wysiwyg",
+    install: {
+      packager: "ember",
+      url: "ember-idx-wysiwyg"
+    },
+    source: {
+      domain: "github",
+      url: "indexiatech/ember-idx-wysiwyg",
+      stars: 18
+    },
+    demo: {
+      repl: "custom",
+      src: "http://indexiatech.github.io/ember-idx-wysiwyg/#/simple"
+    },
+    framework: "Ember",
+    version: "0.1.6",
+    license: "MIT",
+    details: "http://indexiatech.github.io/ember-idx-wysiwyg/#/gettingstarted",
+    keywords: [
+          "ember-addon",
+    "idx-wysiwyg",
+    "wysiwyg",
+    "editor"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
