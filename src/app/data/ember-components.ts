@@ -10018,5 +10018,33 @@ export const EMBER_COMPONENTS: any[] = [
     "progress-linear"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 385,
+    name: "ember-material-design-radio-button",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/radio-button"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/radio-button",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "radio-button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
