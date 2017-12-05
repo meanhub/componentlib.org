@@ -9396,5 +9396,34 @@ export const EMBER_COMPONENTS: any[] = [
     "medium"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 363,
+    name: "content-kit-editor",
+    install: {
+      packager: "ember",
+      url: "content-kit-editor"
+    },
+    source: {
+      domain: "github",
+      url: "bustle/mobiledoc-kit",
+      stars: 730
+    },
+    demo: {
+      repl: "custom",
+      src: "https://bustle.github.io/mobiledoc-kit/demo/"
+    },
+    framework: "Ember",
+    version: "0.10.20",
+    license: "MIT",
+    details: "https://bustle.github.io/mobiledoc-kit/demo/",
+    keywords: [
+          "html",
+    "json",
+    "wysiwyg",
+    "editor",
+    "contenteditable"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
