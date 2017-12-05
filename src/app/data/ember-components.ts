@@ -9187,5 +9187,34 @@ export const EMBER_COMPONENTS: any[] = [
     "validation"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 356,
+    name: "ember-cli-dynamic-forms",
+    install: {
+      packager: "ember",
+      url: "ember-cli-dynamic-forms"
+    },
+    source: {
+      domain: "github",
+      url: "toddjordan/ember-cli-dynamic-forms",
+      stars: 33
+    },
+    demo: {
+      repl: "custom",
+      src: "http://toddjordan.github.io/ember-cli-dynamic-forms/#/demos/basic-usage"
+    },
+    framework: "Ember",
+    version: "0.4.0",
+    license: "MIT",
+    details: "http://toddjordan.github.io/ember-cli-dynamic-forms/#/demos/basic-usage",
+    keywords: [
+          "ember-addon",
+    "ember",
+    "alpaca",
+    "forms",
+    "dynamic-forms"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
