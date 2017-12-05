@@ -9076,5 +9076,33 @@ export const EMBER_COMPONENTS: any[] = [
     "image placeholder"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 352,
+    name: "ember-webcam-input",
+    install: {
+      packager: "ember",
+      url: "ember-webcam-input"
+    },
+    source: {
+      domain: "github",
+      url: "foxnewsnetwork/ember-webcam-input",
+      stars: 5
+    },
+    demo: {
+      repl: "custom",
+      src: "https://foxnewsnetwork.github.io/ember-webcam-input"
+    },
+    framework: "Ember",
+    version: "0.1.1",
+    license: "MIT",
+    details: "https://github.com/foxnewsnetwork/ember-webcam-input",
+    keywords: [
+        "ember-addon",
+    "webcam",
+    "input",
+    "camera"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
