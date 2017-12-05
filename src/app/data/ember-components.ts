@@ -9990,5 +9990,33 @@ export const EMBER_COMPONENTS: any[] = [
     "progress-circular"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 384,
+    name: "ember-material-design-progress-linear",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/progress-linear"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/progress-linear",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "progress-linear"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
