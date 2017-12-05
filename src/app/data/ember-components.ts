@@ -10242,5 +10242,33 @@ export const EMBER_COMPONENTS: any[] = [
     "typography"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 393,
+    name: "ember-material-design-whiteframe",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/whiteframe"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/whiteframe",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "whiteframe"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
