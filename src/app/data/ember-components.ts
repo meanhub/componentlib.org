@@ -9330,5 +9330,39 @@ export const EMBER_COMPONENTS: any[] = [
     "wysiwyg editor"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 361,
+    name: "ember-froala-editor",
+    install: {
+      packager: "ember",
+      url: "ember-froala-editor"
+    },
+    source: {
+      domain: "github",
+      url: "froala/ember-froala-editor",
+      stars: 28
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.emberwysiwygeditor.com"
+    },
+    framework: "Ember",
+    version: "2.7.1",
+    license: "MIT",
+    details: "http://www.emberwysiwygeditor.com",
+    keywords: [
+          "ember-addon",
+    "froala",
+    "froala-editor",
+    "froala-wysiwyg",
+    "froala-wysiwyg-editor",
+    "html",
+    "rich",
+    "text",
+    "editor",
+    "wysiwyg"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
