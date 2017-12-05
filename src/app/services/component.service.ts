@@ -5,6 +5,7 @@ import { REACT_COMPONENTS } from '../data/react-components';
 import { VUE_COMPONENTS } from '../data/vue-components';
 import { EMBER_COMPONENTS } from '../data/ember-components';
 import { REACT_NATIVE_COMPONENTS } from '../data/react-native-components';
+import { WEB_COMPONENTS } from '../data/web-components';
 
 @Injectable()
 export class ComponentService {
@@ -13,7 +14,7 @@ export class ComponentService {
   }
 
   getFrameworkFilters(): string[] {
-    return ['AngularJS 1.x', 'Angular 2+', 'React', 'React Native', 'Vue', 'Ember'];
+    return ['AngularJS 1.x', 'Angular 2+', 'React', 'React Native', 'Vue', 'Ember', 'Web Components'];
   }
 
   getAngularJSComponents(searchText?: string): any[] {
@@ -38,6 +39,10 @@ export class ComponentService {
 
   getEmberComponents(searchText?: string): any[] {
     return this.getFilterComponents(EMBER_COMPONENTS, searchText);
+  }
+
+  getWebComponents(searchText?: string): any[] {
+    return this.getFilterComponents(WEB_COMPONENTS, searchText);
   }
 
   private getFilterComponents(components: any[], searchText: string) {
