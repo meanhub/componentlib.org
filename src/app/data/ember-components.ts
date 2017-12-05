@@ -9049,5 +9049,32 @@ export const EMBER_COMPONENTS: any[] = [
     "photo"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 351,
+    name: "ember-cli-holderjs",
+    install: {
+      packager: "ember",
+      url: "ember-cli-holderjs"
+    },
+    source: {
+      domain: "github",
+      url: "anilmaurya/ember-cli-holderjs",
+      stars: 1
+    },
+    demo: {
+      repl: "custom",
+      src: "http://anilmaurya.github.io/ember-cli-holderjs/"
+    },
+    framework: "Ember",
+    version: "0.0.5",
+    license: "MIT",
+    details: "https://github.com/anilmaurya/ember-cli-holderjs",
+    keywords: [
+        "ember-addon",
+    "holderjs",
+    "image placeholder"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
