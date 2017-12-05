@@ -9934,5 +9934,33 @@ export const EMBER_COMPONENTS: any[] = [
     "list"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 382,
+    name: "ember-material-design-menu",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/menu"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/menu",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "menu"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
