@@ -9132,5 +9132,33 @@ export const EMBER_COMPONENTS: any[] = [
     "validation messages"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 354,
+    name: "ember-form-for",
+    install: {
+      packager: "ember",
+      url: "ember-form-for"
+    },
+    source: {
+      domain: "github",
+      url: "martndemus/ember-form-for",
+      stars: 113
+    },
+    demo: {
+      repl: "custom",
+      src: "http://martndemus.github.io/ember-form-for/"
+    },
+    framework: "Ember",
+    version: "2.0.0-alpha.17",
+    license: "MIT",
+    details: "https://github.com/martndemus/ember-form-for",
+    keywords: [
+        "ember-addon",
+    "forms",
+    "form",
+    "ember form"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
