@@ -9766,5 +9766,33 @@ export const EMBER_COMPONENTS: any[] = [
     "content"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 376,
+    name: "ember-material-design-divider",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/divider"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/divider",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "divider"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
