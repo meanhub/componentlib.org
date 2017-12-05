@@ -9299,5 +9299,36 @@ export const EMBER_COMPONENTS: any[] = [
     "chloroform"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 360,
+    name: "ember-cli-summernote",
+    install: [{
+      packager: "npm",
+      url: "ember-cli-summernote"
+    },{
+      packager: "ember",
+      url: "ember-cli-summernote"
+    }],
+    source: {
+      domain: "github",
+      url: "vsymguysung/ember-cli-summernote",
+      stars: 27
+    },
+    demo: {
+      repl: "custom",
+      src: "http://vsymguysung.github.io/ember-cli-summernote/"
+    },
+    framework: "Ember",
+    version: "1.5.0",
+    license: "MIT",
+    details: "http://vsymguysung.github.io/ember-cli-summernote/",
+    keywords: [
+          "ember-addon",
+    "note",
+    "summernote",
+    "wysiwyg editor"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
