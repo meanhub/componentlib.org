@@ -9878,5 +9878,33 @@ export const EMBER_COMPONENTS: any[] = [
     "icon"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 380,
+    name: "ember-material-design-input",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/input"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/input",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "input"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
