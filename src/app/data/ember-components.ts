@@ -10102,5 +10102,33 @@ export const EMBER_COMPONENTS: any[] = [
     "slider"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 388,
+    name: "ember-material-design-tabs",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/tabs"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/tabs",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "tabs"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
