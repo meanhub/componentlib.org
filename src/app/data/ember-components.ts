@@ -9483,5 +9483,35 @@ export const EMBER_COMPONENTS: any[] = [
     "text"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 366,
+    name: "ember-trix-editor",
+    install: {
+      packager: "ember",
+      url: "ember-trix-editor"
+    },
+    source: {
+      domain: "github",
+      url: "lynnetye/ember-trix-editor",
+      stars: 34
+    },
+    demo: {
+      repl: "custom",
+      src: "http://lynnetye.com/ember-trix-editor/"
+    },
+    framework: "Ember",
+    version: "1.0.5",
+    license: "MIT",
+    details: "http://lynnetye.com/ember-trix-editor/",
+    keywords: [
+          "ember-addon",
+    "ember-trix-editor",
+    "trix",
+    "rich",
+    "text",
+    "editor"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
