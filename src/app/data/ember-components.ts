@@ -9104,5 +9104,33 @@ export const EMBER_COMPONENTS: any[] = [
     "camera"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 353,
+    name: "ember-validated-form",
+    install: {
+      packager: "ember",
+      url: "ember-validated-form"
+    },
+    source: {
+      domain: "github",
+      url: "adfinis-sygroup/ember-validated-form",
+      stars: 19
+    },
+    demo: {
+      repl: "custom",
+      src: "https://adfinis-sygroup.github.io/ember-validated-form/"
+    },
+    framework: "Ember",
+    version: "0.6.0",
+    license: "MIT",
+    details: "https://github.com/adfinis-sygroup/ember-validated-form",
+    keywords: [
+        "ember-addon",
+    "forms",
+    "form validation",
+    "validation messages"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
