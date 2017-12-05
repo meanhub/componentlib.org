@@ -34,6 +34,8 @@ export class ComponentListComponent implements OnInit {
       this.components = this.componentService.getVueComponents(searchCriteria.searchText);
     } else if (searchCriteria.framework === 'Ember') {
       this.components = this.componentService.getEmberComponents(searchCriteria.searchText);
+    } else if (searchCriteria.framework === 'Web Components') {
+      this.components = this.componentService.getWebComponents(searchCriteria.searchText);
     } else {
       this.components = [];
     }

@@ -116,7 +116,7 @@ Please make sure that a thumbnail is added to the component page in http://local
 Commit message should have format:
 ```
   component(<framework/library>): <component name>
-  framework/library: react, react-native, angular, angularjs, vue, ember
+  framework/library: react, react-native, angular, angularjs, vue, ember, web-component
   
   e.g. component(react): react-dates
 ```
