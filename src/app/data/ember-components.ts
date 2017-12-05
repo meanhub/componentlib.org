@@ -9216,5 +9216,34 @@ export const EMBER_COMPONENTS: any[] = [
     "dynamic-forms"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 357,
+    name: "ember-data-bootstrap3-forms",
+    install: {
+      packager: "ember",
+      url: "ember-data-bootstrap3-forms"
+    },
+    source: {
+      domain: "github",
+      url: "cybertoothca/ember-data-bootstrap3-forms",
+      stars: 0
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-data-bootstrap3-forms.cybertooth.io"
+    },
+    framework: "Ember",
+    version: "1.0.0-rc.1",
+    license: "MIT",
+    details: "http://ember-data-bootstrap3-forms.cybertooth.io",
+    keywords: [
+          "ember-addon",
+    "ember",
+    "bootstrap",
+    "forms",
+    "bootstrap3-forms"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
