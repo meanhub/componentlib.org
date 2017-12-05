@@ -9364,5 +9364,37 @@ export const EMBER_COMPONENTS: any[] = [
     "wysiwyg"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 362,
+    name: "ember-pell",
+    install: {
+      packager: "ember",
+      url: "ember-pell"
+    },
+    source: {
+      domain: "github",
+      url: "poslinskinet/ember-pell",
+      stars: 15
+    },
+    demo: {
+      repl: "custom",
+      src: "https://ember-twiddle.com/3b21c63730594b39d2b9cbfa8f963803?fileTreeShown=false&numColumns=0"
+    },
+    framework: "Ember",
+    version: "1.1.0",
+    license: "MIT",
+    details: "https://github.com/poslinskinet/ember-pell",
+    keywords: [
+          "ember-addon",
+    "pell",
+    "wysiwyg",
+    "editor",
+    "texteditor",
+    "textarea",
+    "summernote",
+    "medium"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
