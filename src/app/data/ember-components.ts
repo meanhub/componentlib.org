@@ -10186,5 +10186,33 @@ export const EMBER_COMPONENTS: any[] = [
     "toolbar"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 391,
+    name: "ember-material-design-tooltip",
+    install: {
+      packager: "ember",
+      url: "ember-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "mike1o1/ember-material-design",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mike1234.com/ember-material-design/#/tooltip"
+    },
+    framework: "Ember",
+    version: "0.8.3",
+    license: "MIT",
+    details: "http://mike1234.com/ember-material-design/#/tooltip",
+    keywords: [
+          "material-design",
+    "material",
+    "ember-addon",
+    "tooltip"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
