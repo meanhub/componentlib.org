@@ -9245,5 +9245,32 @@ export const EMBER_COMPONENTS: any[] = [
     "bootstrap3-forms"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 358,
+    name: "ember-form-tool",
+    install: {
+      packager: "ember",
+      url: "ember-form-tool"
+    },
+    source: {
+      domain: "github",
+      url: "foxnewsnetwork/ember-form-tool",
+      stars: 7
+    },
+    demo: {
+      repl: "custom",
+      src: "https://foxnewsnetwork.github.io/ember-form-tool/"
+    },
+    framework: "Ember",
+    version: "0.2.12",
+    license: "MIT",
+    details: "https://foxnewsnetwork.github.io/ember-form-tool/",
+    keywords: [
+          "ember-addon",
+    "form",
+    "input"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
