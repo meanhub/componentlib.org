@@ -9452,5 +9452,36 @@ export const EMBER_COMPONENTS: any[] = [
     "simditor"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 365,
+    name: "ember-cli-tinymce",
+    install: {
+      packager: "ember",
+      url: "ember-cli-tinymce"
+    },
+    source: {
+      domain: "github",
+      url: "marucjmar/ember-cli-tinymce",
+      stars: 32
+    },
+    demo: {
+      repl: "custom",
+      src: "http://marucjmar.github.io/ember-cli-tinymce/"
+    },
+    framework: "Ember",
+    version: "0.3.2",
+    license: "MIT",
+    details: "https://github.com/marucjmar/ember-cli-tinymce",
+    keywords: [
+          "ember-addon",
+    "ember",
+    "cli",
+    "wysiwyg",
+    "editor",
+    "emberjs",
+    "text"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
