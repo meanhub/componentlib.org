@@ -9272,5 +9272,32 @@ export const EMBER_COMPONENTS: any[] = [
     "input"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 359,
+    name: "ember-chloroform",
+    install: {
+      packager: "ember",
+      url: "ember-chloroform"
+    },
+    source: {
+      domain: "github",
+      url: "opinioapp/ember-chloroform",
+      stars: 1
+    },
+    demo: {
+      repl: "custom",
+      src: "https://opinioapp.github.io/ember-chloroform/"
+    },
+    framework: "Ember",
+    version: "0.1.2",
+    license: "MIT",
+    details: "https://github.com/opinioapp/ember-chloroform",
+    keywords: [
+          "ember-addon",
+    "form",
+    "chloroform"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
