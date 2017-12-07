@@ -11429,5 +11429,34 @@ export const EMBER_COMPONENTS: any[] = [
     "forms"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 433,
+    name: "ember-cli-materialize-loader",
+    install: {
+      packager: "ember",
+      url: "ember-cli-materialize"
+    },
+    source: {
+      domain: "github",
+      url: "mike-north/ember-cli-materialize",
+      stars: 306
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-materialize.mike.works/#/loader"
+    },
+    framework: "Ember",
+    version: "0.22.0-beta.0",
+    license: "MIT",
+    details: "http://ember-materialize.mike.works/#/loader",
+    keywords: [
+          "materialize",
+    "materialize-css",
+    "material-design",
+    "ember-addon",
+    "loader"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
