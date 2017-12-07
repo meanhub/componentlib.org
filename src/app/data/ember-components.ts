@@ -11966,5 +11966,32 @@ export const EMBER_COMPONENTS: any[] = [
     "autocomplete"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 452,
+    name: "ember-cli-jquery-ui-button",
+    install: {
+      packager: "ember",
+      url: "ember-cli-jquery-ui"
+    },
+    source: {
+      domain: "github",
+      url: "gaurav0/ember-cli-jquery-ui",
+      stars: 20
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-cli-jquery-ui-example.herokuapp.com/button"
+    },
+    framework: "Ember",
+    version: "0.0.20",
+    license: "MIT",
+    details: "http://ember-cli-jquery-ui-example.herokuapp.com/button",
+    keywords: [
+          "jquery-ui",
+    "ember-addon",
+    "button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
