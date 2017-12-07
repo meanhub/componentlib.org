@@ -10360,5 +10360,35 @@ export const EMBER_COMPONENTS: any[] = [
     "layout"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 397,
+    name: "ember-semantic-ui-button",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-button"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiButton.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
