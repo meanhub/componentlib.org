@@ -10420,5 +10420,35 @@ export const EMBER_COMPONENTS: any[] = [
     "animated-button"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 399,
+    name: "ember-semantic-ui-labeled-button",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-labeled-button"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiLabeledButton.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "labeled-button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
