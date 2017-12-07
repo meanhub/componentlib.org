@@ -11080,5 +11080,35 @@ export const EMBER_COMPONENTS: any[] = [
     "progress"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 421,
+    name: "ember-semantic-ui-message",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-message"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiMessage.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "message"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
