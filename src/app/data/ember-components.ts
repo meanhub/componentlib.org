@@ -10330,5 +10330,35 @@ export const EMBER_COMPONENTS: any[] = [
     "ui-text-container"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 396,
+    name: "ember-semantic-ui-layout",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/layout"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/demo/#/layout",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "layout"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
