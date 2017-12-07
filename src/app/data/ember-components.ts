@@ -11800,5 +11800,33 @@ export const EMBER_COMPONENTS: any[] = [
     "shape"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 446,
+    name: "ember-cli-semantic-ui-dropdown",
+    install: {
+      packager: "ember",
+      url: "ember-cli-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "mfeckie/ember-cli-semantic-ui",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mfeckie.github.io/ember-cli-semantic-ui/#/dropdown"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://mfeckie.github.io/ember-cli-semantic-ui/#/dropdown",
+    keywords: [
+          "semantic",
+    "cli-semantic",
+    "ember-addon",
+    "dropdown"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
