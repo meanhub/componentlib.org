@@ -10660,5 +10660,35 @@ export const EMBER_COMPONENTS: any[] = [
     "input"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 407,
+    name: "ember-semantic-ui-date-input",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-date-input"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiDateInput.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "date-input"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
