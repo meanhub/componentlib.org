@@ -9471,5 +9471,41 @@ export const VUE_COMPONENTS: any[] = [
       "segment"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 356,
+    name: "OnsenUI-speed-dial-item",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-speed-dial-item.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-speed-dial-item.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "speed-dial-item"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
