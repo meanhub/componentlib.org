@@ -11772,5 +11772,33 @@ export const EMBER_COMPONENTS: any[] = [
     "dimmer"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 445,
+    name: "ember-cli-semantic-ui-shape",
+    install: {
+      packager: "ember",
+      url: "ember-cli-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "mfeckie/ember-cli-semantic-ui",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mfeckie.github.io/ember-cli-semantic-ui/#/shape"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://mfeckie.github.io/ember-cli-semantic-ui/#/shape",
+    keywords: [
+          "semantic",
+    "cli-semantic",
+    "ember-addon",
+    "shape"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
