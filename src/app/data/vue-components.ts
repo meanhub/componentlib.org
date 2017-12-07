@@ -5294,7 +5294,7 @@ export const VUE_COMPONENTS: any[] = [
   },
   {
     id: 192,
-    name: "OnsenUI",
+    name: "OnsenUI-carousel-item",
     install: {
       packager: "npm",
       url: "vue-onsenui"
@@ -5302,16 +5302,17 @@ export const VUE_COMPONENTS: any[] = [
     source: {
       domain: "github",
       url: "OnsenUI/OnsenUI",
-      stars: 5377
+      stars: 5705
     },
     demo: {
       repl: "custom",
-      src: "https://onsenui.github.io/vue-onsenui-kitchensink/"
+      src: "https://onsen.io/v2/api/vue/v-ons-carousel-item.html"
     },
     framework: "Vue",
-    version: "2.6.1",
+    frameworkVersion: "2",
+    version: "2.8.2",
     license: "Apache-2.0",
-    details: "https://onsen.io",
+    details: "https://onsen.io/v2/api/vue/v-ons-carousel-item.html",
     keywords: [
       "phonegap",
       "cordova",
@@ -5322,7 +5323,8 @@ export const VUE_COMPONENTS: any[] = [
       "ui",
       "mobile",
       "onsen",
-      "onsenui"
+      "onsenui",
+      "carousel-item"
     ],
     contributedBy: "DimaGapfild"
   },
