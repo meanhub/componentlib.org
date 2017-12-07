@@ -10810,5 +10810,35 @@ export const EMBER_COMPONENTS: any[] = [
     "checkbox"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 412,
+    name: "ember-semantic-ui-checkbox-group",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-checkbox-group"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiCheckboxGroup.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "checkbox-group"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
