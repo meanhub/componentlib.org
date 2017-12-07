@@ -10270,5 +10270,35 @@ export const EMBER_COMPONENTS: any[] = [
     "whiteframe"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 394,
+    name: "ember-semantic-ui-container",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-container"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiContainer.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "container"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
