@@ -11660,5 +11660,33 @@ export const EMBER_COMPONENTS: any[] = [
     "checkbox"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 441,
+    name: "ember-cli-semantic-ui-radio",
+    install: {
+      packager: "ember",
+      url: "ember-cli-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "mfeckie/ember-cli-semantic-ui",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mfeckie.github.io/ember-cli-semantic-ui/#/radio"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://mfeckie.github.io/ember-cli-semantic-ui/#/radio",
+    keywords: [
+          "semantic",
+    "cli-semantic",
+    "ember-addon",
+    "radio"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
