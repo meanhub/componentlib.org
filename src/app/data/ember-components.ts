@@ -11545,5 +11545,34 @@ export const EMBER_COMPONENTS: any[] = [
     "pagination"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 437,
+    name: "ember-cli-materialize-parallax",
+    install: {
+      packager: "ember",
+      url: "ember-cli-materialize"
+    },
+    source: {
+      domain: "github",
+      url: "mike-north/ember-cli-materialize",
+      stars: 306
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-materialize.mike.works/#/parallax"
+    },
+    framework: "Ember",
+    version: "0.22.0-beta.0",
+    license: "MIT",
+    details: "http://ember-materialize.mike.works/#/parallax",
+    keywords: [
+          "materialize",
+    "materialize-css",
+    "material-design",
+    "ember-addon",
+    "parallax"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
