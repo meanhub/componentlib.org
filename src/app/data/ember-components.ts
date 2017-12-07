@@ -11688,5 +11688,33 @@ export const EMBER_COMPONENTS: any[] = [
     "radio"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 442,
+    name: "ember-cli-semantic-ui-accordion",
+    install: {
+      packager: "ember",
+      url: "ember-cli-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "mfeckie/ember-cli-semantic-ui",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mfeckie.github.io/ember-cli-semantic-ui/#/accordion"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://mfeckie.github.io/ember-cli-semantic-ui/#/accordion",
+    keywords: [
+          "semantic",
+    "cli-semantic",
+    "ember-addon",
+    "accordion"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
