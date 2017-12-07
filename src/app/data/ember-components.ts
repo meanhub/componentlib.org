@@ -12128,5 +12128,32 @@ export const EMBER_COMPONENTS: any[] = [
     "tabs"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 458,
+    name: "ember-cli-jquery-ui-spinner",
+    install: {
+      packager: "ember",
+      url: "ember-cli-jquery-ui"
+    },
+    source: {
+      domain: "github",
+      url: "gaurav0/ember-cli-jquery-ui",
+      stars: 20
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-cli-jquery-ui-example.herokuapp.com/spinner"
+    },
+    framework: "Ember",
+    version: "0.0.20",
+    license: "MIT",
+    details: "http://ember-cli-jquery-ui-example.herokuapp.com/spinner",
+    keywords: [
+          "jquery-ui",
+    "ember-addon",
+    "spinner"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
