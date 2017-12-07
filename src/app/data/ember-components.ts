@@ -11020,5 +11020,35 @@ export const EMBER_COMPONENTS: any[] = [
     "modal"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 419,
+    name: "ember-semantic-ui-popup",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-popup"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiPopup.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "popup"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
