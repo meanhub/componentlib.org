@@ -11716,5 +11716,33 @@ export const EMBER_COMPONENTS: any[] = [
     "accordion"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 443,
+    name: "ember-cli-semantic-ui-popup",
+    install: {
+      packager: "ember",
+      url: "ember-cli-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "mfeckie/ember-cli-semantic-ui",
+      stars: 14
+    },
+    demo: {
+      repl: "custom",
+      src: "http://mfeckie.github.io/ember-cli-semantic-ui/#/popup"
+    },
+    framework: "Ember",
+    version: "0.8.1",
+    license: "MIT",
+    details: "http://mfeckie.github.io/ember-cli-semantic-ui/#/popup",
+    keywords: [
+          "semantic",
+    "cli-semantic",
+    "ember-addon",
+    "popup"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
