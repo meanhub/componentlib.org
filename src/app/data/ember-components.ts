@@ -10990,5 +10990,35 @@ export const EMBER_COMPONENTS: any[] = [
     "form-input"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 418,
+    name: "ember-semantic-ui-modal",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-modal"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiModal.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "modal"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
