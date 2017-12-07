@@ -11170,5 +11170,32 @@ export const EMBER_COMPONENTS: any[] = [
     "uploader"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 424,
+    name: "ember-material-lite",
+    install: {
+      packager: "ember",
+      url: "ember-material-lite"
+    },
+    source: {
+      domain: "github",
+      url: "mike-north/ember-material-lite",
+      stars: 148
+    },
+    demo: {
+      repl: "custom",
+      src: "https://mikeworks-ui.herokuapp.com/oss/ember-material-lite"
+    },
+    framework: "Ember",
+    version: "0.2.6",
+    license: "MIT",
+    details: "https://mikeworks-ui.herokuapp.com/oss/ember-material-lite",
+    keywords: [
+          "ember-addon",
+    "components",
+    "material-lite"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
