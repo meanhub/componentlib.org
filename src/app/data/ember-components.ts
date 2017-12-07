@@ -10840,5 +10840,35 @@ export const EMBER_COMPONENTS: any[] = [
     "checkbox-group"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 413,
+    name: "ember-semantic-ui-radio-group",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-radio-group"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiRadioGroup.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "radio-group"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
