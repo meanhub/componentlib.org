@@ -9543,5 +9543,41 @@ export const VUE_COMPONENTS: any[] = [
       "speed-dial"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 358,
+    name: "OnsenUI-action-sheet-button",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-action-sheet-button.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-action-sheet-button.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "action-sheet-button"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
