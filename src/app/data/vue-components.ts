@@ -9795,5 +9795,41 @@ export const VUE_COMPONENTS: any[] = [
       "toast"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 365,
+    name: "OnsenUI-$ons.notification",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/$ons.notification.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/$ons.notification.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "$ons.notification"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
