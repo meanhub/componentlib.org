@@ -12047,5 +12047,32 @@ export const EMBER_COMPONENTS: any[] = [
     "menu"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 455,
+    name: "ember-cli-jquery-ui-progressBar",
+    install: {
+      packager: "ember",
+      url: "ember-cli-jquery-ui"
+    },
+    source: {
+      domain: "github",
+      url: "gaurav0/ember-cli-jquery-ui",
+      stars: 20
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-cli-jquery-ui-example.herokuapp.com/progressBar"
+    },
+    framework: "Ember",
+    version: "0.0.20",
+    license: "MIT",
+    details: "http://ember-cli-jquery-ui-example.herokuapp.com/progressBar",
+    keywords: [
+          "jquery-ui",
+    "ember-addon",
+    "progressbar"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
