@@ -10930,5 +10930,35 @@ export const EMBER_COMPONENTS: any[] = [
     "pointing-label"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 416,
+    name: "ember-semantic-ui-form",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-form"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiForm.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "form"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
