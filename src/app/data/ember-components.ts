@@ -11993,5 +11993,32 @@ export const EMBER_COMPONENTS: any[] = [
     "button"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 453,
+    name: "ember-cli-jquery-ui-datepicker",
+    install: {
+      packager: "ember",
+      url: "ember-cli-jquery-ui"
+    },
+    source: {
+      domain: "github",
+      url: "gaurav0/ember-cli-jquery-ui",
+      stars: 20
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-cli-jquery-ui-example.herokuapp.com/datepicker"
+    },
+    framework: "Ember",
+    version: "0.0.20",
+    license: "MIT",
+    details: "http://ember-cli-jquery-ui-example.herokuapp.com/datepicker",
+    keywords: [
+          "jquery-ui",
+    "ember-addon",
+    "datepicker"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
