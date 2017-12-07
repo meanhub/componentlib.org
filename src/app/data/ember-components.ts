@@ -10510,5 +10510,35 @@ export const EMBER_COMPONENTS: any[] = [
     "menu"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 402,
+    name: "ember-semantic-ui-vertical-menu",
+    install: {
+      packager: "ember",
+      url: "ember-semantic-ui"
+    },
+    source: {
+      domain: "github",
+      url: "wecatch/ember-semantic-ui",
+      stars: 121
+    },
+    demo: {
+      repl: "custom",
+      src: "http://wecatch.me/ember-semantic-ui/demo/#/ui-vertical-menu"
+    },
+    framework: "Ember",
+    version: "0.1.3",
+    license: "MIT",
+    details: "http://wecatch.me/ember-semantic-ui/docs/classes/components.UiVerticalMenu.html",
+    keywords: [
+          "ember-addon",
+    "components",
+    "semantic-ui",
+    "ui",
+    "wecatch",
+    "vertical-menu"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
