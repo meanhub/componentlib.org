@@ -11255,5 +11255,34 @@ export const EMBER_COMPONENTS: any[] = [
     "buttons"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 427,
+    name: "ember-cli-materialize-cards",
+    install: {
+      packager: "ember",
+      url: "ember-cli-materialize"
+    },
+    source: {
+      domain: "github",
+      url: "mike-north/ember-cli-materialize",
+      stars: 306
+    },
+    demo: {
+      repl: "custom",
+      src: "http://ember-materialize.mike.works/#/cards"
+    },
+    framework: "Ember",
+    version: "0.22.0-beta.0",
+    license: "MIT",
+    details: "http://ember-materialize.mike.works/#/cards",
+    keywords: [
+          "materialize",
+    "materialize-css",
+    "material-design",
+    "ember-addon",
+    "cards"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
