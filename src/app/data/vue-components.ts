@@ -10484,5 +10484,41 @@ export const VUE_COMPONENTS: any[] = [
       "progress-bar"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 384,
+    name: "OnsenUI-ripple",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-ripple.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-ripple.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "ripple"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
