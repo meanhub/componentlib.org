@@ -10376,5 +10376,41 @@ export const VUE_COMPONENTS: any[] = [
       "tab"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 381,
+    name: "OnsenUI-card",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-card.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-card.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "card"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
