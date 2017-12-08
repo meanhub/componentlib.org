@@ -10119,5 +10119,41 @@ export const VUE_COMPONENTS: any[] = [
       "select"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 374,
+    name: "OnsenUI-switch",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-switch.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-switch.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "switch"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
