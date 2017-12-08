@@ -10083,5 +10083,41 @@ export const VUE_COMPONENTS: any[] = [
       "search-input"
     ],
     contributedBy: "DimaGapfild"
+  },
+  {
+    id: 373,
+    name: "OnsenUI-select",
+    install: {
+      packager: "npm",
+      url: "vue-onsenui"
+    },
+    source: {
+      domain: "github",
+      url: "OnsenUI/OnsenUI",
+      stars: 5705
+    },
+    demo: {
+      repl: "custom",
+      src: "https://onsen.io/v2/api/vue/v-ons-select.html"
+    },
+    framework: "Vue",
+    frameworkVersion: "2",
+    version: "2.8.2",
+    license: "Apache-2.0",
+    details: "https://onsen.io/v2/api/vue/v-ons-select.html",
+    keywords: [
+      "phonegap",
+      "cordova",
+      "vue.js",
+      "components",
+      "hybrid",
+      "app",
+      "ui",
+      "mobile",
+      "onsen",
+      "onsenui",
+      "select"
+    ],
+    contributedBy: "DimaGapfild"
   }
 ];
