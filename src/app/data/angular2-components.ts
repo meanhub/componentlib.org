@@ -9174,5 +9174,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/emailinput",
     keywords: ["amexio", "angular", "extensions", "emailinput"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 345,
+    name: "amexio passwordinput",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/passwordinput"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/passwordinput",
+    keywords: ["amexio", "angular", "extensions", "passwordinput"],
+    contributedBy: "andreypelykh"
   }
 ];
