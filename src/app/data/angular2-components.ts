@@ -9846,5 +9846,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/notify",
     keywords: ["amexio", "angular", "extensions", "notify"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 373,
+    name: "amexio image",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/image"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/image",
+    keywords: ["amexio", "angular", "extensions", "image"],
+    contributedBy: "andreypelykh"
   }
 ];
