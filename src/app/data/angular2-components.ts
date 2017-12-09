@@ -10494,5 +10494,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/timeline-chart-demo",
     keywords: ["amexio", "angular", "extensions", "timeline", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 400,
+    name: "amexio gauge-chart",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/gauge-chart-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/gauge-chart-demo",
+    keywords: ["amexio", "angular", "extensions", "gauge", "chart"],
+    contributedBy: "andreypelykh"
   }
 ];
