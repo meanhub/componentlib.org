@@ -9894,5 +9894,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/file-upload-demo",
     keywords: ["amexio", "angular", "extensions", "file", "upload"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 375,
+    name: "amexio video-player",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/video-player"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/video-player",
+    keywords: ["amexio", "angular", "extensions", "video", "player"],
+    contributedBy: "andreypelykh"
   }
 ];
