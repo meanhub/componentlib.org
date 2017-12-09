@@ -9678,5 +9678,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/drpdwnsplitbtn",
     keywords: ["amexio", "angular", "extensions", "drpdwnsplitbtn", "button", "split", "dropdown"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 366,
+    name: "amexio rating",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/rating"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/rating",
+    keywords: ["amexio", "angular", "extensions", "rating"],
+    contributedBy: "andreypelykh"
   }
 ];
