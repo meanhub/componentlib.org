@@ -10326,5 +10326,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/column-chart-demo",
     keywords: ["amexio", "angular", "extensions", "column", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 393,
+    name: "amexio combo-chart",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/combo-chart-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/combo-chart-demo",
+    keywords: ["amexio", "angular", "extensions", "combo", "chart"],
+    contributedBy: "andreypelykh"
   }
 ];
