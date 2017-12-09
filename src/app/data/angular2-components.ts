@@ -10614,5 +10614,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/media-content-demo",
     keywords: ["amexio", "angular", "extensions", "media", "content"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 405,
+    name: "amexio youtubeplayer",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/youtubeplayer-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/youtubeplayer-demo",
+    keywords: ["amexio", "angular", "extensions", "youtube", "player"],
+    contributedBy: "andreypelykh"
   }
 ];
