@@ -10302,5 +10302,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/candlestickwaterfall-chart-demo",
     keywords: ["amexio", "angular", "extensions", "candle", "stick", "waterfall", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 392,
+    name: "amexio column-chart",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/column-chart-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/column-chart-demo",
+    keywords: ["amexio", "angular", "extensions", "column", "chart"],
+    contributedBy: "andreypelykh"
   }
 ];
