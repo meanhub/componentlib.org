@@ -10110,5 +10110,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/basicwindow",
     keywords: ["amexio", "angular", "extensions", "window-pane"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 384,
+    name: "amexio card-pane",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/imagecard"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/imagecard",
+    keywords: ["amexio", "angular", "extensions", "card-pane"],
+    contributedBy: "andreypelykh"
   }
 ];
