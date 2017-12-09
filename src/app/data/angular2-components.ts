@@ -9534,5 +9534,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/datagrid",
     keywords: ["amexio", "angular", "extensions", "datagrid"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 360,
+    name: "amexio simpletree",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/simpletree"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/simpletree",
+    keywords: ["amexio", "angular", "extensions", "simpletree"],
+    contributedBy: "andreypelykh"
   }
 ];
