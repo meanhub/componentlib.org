@@ -10518,5 +10518,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/gauge-chart-demo",
     keywords: ["amexio", "angular", "extensions", "gauge", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 401,
+    name: "amexio datapoint",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/datapoint"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/datapoint",
+    keywords: ["amexio", "angular", "extensions", "datapoint"],
+    contributedBy: "andreypelykh"
   }
 ];
