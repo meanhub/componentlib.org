@@ -9294,5 +9294,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/singlecheck",
     keywords: ["amexio", "angular", "extensions", "singlecheck"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 350,
+    name: "amexio radiogroup",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/radiogroup"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/radiogroup",
+    keywords: ["amexio", "angular", "extensions", "radiogroup"],
+    contributedBy: "andreypelykh"
   }
 ];
