@@ -9462,5 +9462,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/dropdownbasic",
     keywords: ["amexio", "angular", "extensions", "dropdownbasic"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 357,
+    name: "amexio dropdwnsearch",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/dropdwnsearch"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/dropdwnsearch",
+    keywords: ["amexio", "angular", "extensions", "dropdwnsearch"],
+    contributedBy: "andreypelykh"
   }
 ];
