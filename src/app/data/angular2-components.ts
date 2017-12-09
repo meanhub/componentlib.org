@@ -9342,5 +9342,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/toggle",
     keywords: ["amexio", "angular", "extensions", "toggle"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 352,
+    name: "amexio slider",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/slider"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/slider",
+    keywords: ["amexio", "angular", "extensions", "slider"],
+    contributedBy: "andreypelykh"
   }
 ];
