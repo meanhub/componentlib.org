@@ -10038,5 +10038,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/accordion",
     keywords: ["amexio", "angular", "extensions", "accordion"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 381,
+    name: "amexio menubar",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/menubar"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/menubar",
+    keywords: ["amexio", "angular", "extensions", "menubar"],
+    contributedBy: "andreypelykh"
   }
 ];
