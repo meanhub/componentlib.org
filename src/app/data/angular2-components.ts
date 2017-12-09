@@ -9126,5 +9126,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "https://github.com/ssuperczynski/ngx-easy-table",
     keywords: ["easy", "table"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 343,
+    name: "amexio textinput",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/textinput"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/textinput",
+    keywords: ["amexio", "angular", "extensions", "textinput"],
+    contributedBy: "andreypelykh"
   }
 ];
