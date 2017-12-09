@@ -10638,5 +10638,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/youtubeplayer-demo",
     keywords: ["amexio", "angular", "extensions", "youtube", "player"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 406,
+    name: "amexio multi carousel",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/multiCarousel-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/multiCarousel-demo",
+    keywords: ["amexio", "angular", "extensions", "multi", "carousel"],
+    contributedBy: "andreypelykh"
   }
 ];
