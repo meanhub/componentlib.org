@@ -9390,5 +9390,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/typeahead",
     keywords: ["amexio", "angular", "extensions", "typeahead"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 354,
+    name: "amexio listbox",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/listbox"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/listbox",
+    keywords: ["amexio", "angular", "extensions", "listbox"],
+    contributedBy: "andreypelykh"
   }
 ];
