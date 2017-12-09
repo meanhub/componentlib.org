@@ -9630,5 +9630,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/buttongroup",
     keywords: ["amexio", "angular", "extensions", "buttongroup"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 364,
+    name: "amexio buttondropdown",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/buttondropdown"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/buttondropdown",
+    keywords: ["amexio", "angular", "extensions", "buttondropdown"],
+    contributedBy: "andreypelykh"
   }
 ];
