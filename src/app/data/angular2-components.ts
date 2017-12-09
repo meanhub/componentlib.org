@@ -9702,5 +9702,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/rating",
     keywords: ["amexio", "angular", "extensions", "rating"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 367,
+    name: "amexio progress",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/progress"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/progress",
+    keywords: ["amexio", "angular", "extensions", "progress"],
+    contributedBy: "andreypelykh"
   }
 ];
