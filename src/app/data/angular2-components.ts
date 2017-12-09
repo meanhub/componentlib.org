@@ -9750,5 +9750,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/itemselector",
     keywords: ["amexio", "angular", "extensions", "itemselector"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 369,
+    name: "amexio fieldset",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/fieldset"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/fieldset",
+    keywords: ["amexio", "angular", "extensions", "fieldset"],
+    contributedBy: "andreypelykh"
   }
 ];
