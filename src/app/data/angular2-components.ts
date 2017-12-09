@@ -9798,5 +9798,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/datetime",
     keywords: ["amexio", "angular", "extensions", "datetime"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 371,
+    name: "amexio paginator",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/paginator"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/paginator",
+    keywords: ["amexio", "angular", "extensions", "paginator"],
+    contributedBy: "andreypelykh"
   }
 ];
