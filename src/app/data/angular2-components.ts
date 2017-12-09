@@ -10590,5 +10590,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/treemap-map-demo",
     keywords: ["amexio", "angular", "extensions", "treemap", "map"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 404,
+    name: "amexio media-content",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/media-content-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/media-content-demo",
+    keywords: ["amexio", "angular", "extensions", "media", "content"],
+    contributedBy: "andreypelykh"
   }
 ];
