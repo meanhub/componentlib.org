@@ -10230,5 +10230,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/bar-chart-demo",
     keywords: ["amexio", "angular", "extensions", "bar", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 389,
+    name: "amexio bubble-chart",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/bubble-chart-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/bubble-chart-demo",
+    keywords: ["amexio", "angular", "extensions", "bubble", "chart"],
+    contributedBy: "andreypelykh"
   }
 ];
