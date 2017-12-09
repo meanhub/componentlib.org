@@ -10374,5 +10374,29 @@ export const ANGULAR_COMPONENTS: any[] = [
     details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/donut-chart-demo",
     keywords: ["amexio", "angular", "extensions", "donut", "chart"],
     contributedBy: "andreypelykh"
+  },
+  {
+    id: 395,
+    name: "amexio histogram-chart",
+    install: [
+      {
+        packager: "npm",
+        url: "amexio-ng-extensions"
+      }
+    ],
+    source: {
+      domain: "github",
+      url: "meta-magic/amexio.github.io"
+    },
+    demo: {
+      repl: "custom",
+      src: "http://www.amexio.org/showcaseapp/v3.2/index.html#/histogram-chart-demo"
+    },
+    framework: "Angular 2+",
+    version: "3.2.0",
+    license: "MIT",
+    details: "http://www.amexio.org/showcaseapp/v3.2/index.html#/histogram-chart-demo",
+    keywords: ["amexio", "angular", "extensions", "histogram", "chart"],
+    contributedBy: "andreypelykh"
   }
 ];
