@@ -2110,4 +2110,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["permissions", "Privacy"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 82,
+    name: "react-native-splash-screen",
+    install: {
+      packager: "npm",
+      url: "react-native-splash-screen"
+    },
+    source: {
+      domain: "github",
+      url: "crazycodeboy/react-native-splash-screen"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/crazycodeboy/react-native-splash-screen#examples",
+      imgUrl: "https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-Android.gif"
+    },
+    framework: "React Native",
+    version: "3.0.6",
+    license: "MIT",
+    details: "https://github.com/crazycodeboy/react-native-splash-screen",
+    keywords: ["splash", "screen","hide and show"],
+    contributedBy: "qexon-ankit",
+  },
 ];
