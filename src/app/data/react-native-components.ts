@@ -2018,4 +2018,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["maps", "google"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 78,
+    name: "react-native-share",
+    install: {
+      packager: "npm",
+      url: "react-native-share"
+    },
+    source: {
+      domain: "github",
+      url: "EstebanFuentealba/react-native-share"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/EstebanFuentealba/react-native-share#how-it-looks",
+      imgUrl: "https://github.com/EstebanFuentealba/react-native-share/raw/master/assets/android-component-250x.gif"
+    },
+    framework: "React Native",
+    version: "1.0.23",
+    license: "MIT",
+    details: "https://github.com/EstebanFuentealba/react-native-share",
+    keywords: ["share", "social","sending"],
+    contributedBy: "qexon-ankit",
+  },
 ];
