@@ -2179,4 +2179,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["linkedin", "login"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 85,
+    name: "react-native-multiple-select",
+    install: {
+      packager: "npm",
+      url: "react-native-multiple-select"
+    },
+    source: {
+      domain: "github",
+      url: "toystars/react-native-multiple-select"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/toystars/react-native-multiple-select#react-native-multiple-select",
+      imgUrl: "https://user-images.githubusercontent.com/16062709/30819847-0907dd1e-a218-11e7-9980-e70b2d8e7953.gif"
+    },
+    framework: "React Native",
+    version: "0.3.3",
+    license: "MIT",
+    details: "https://github.com/toystars/react-native-multiple-select",
+    keywords: ["multiple", "select","multiselect"],
+    contributedBy: "qexon-ankit",
+  },
 ];
