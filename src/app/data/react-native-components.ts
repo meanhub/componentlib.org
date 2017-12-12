@@ -2225,4 +2225,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["contacts", "permissions"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 87,
+    name: "react-native-popup-menu",
+    install: {
+      packager: "npm",
+      url: "react-native-popup-menu"
+    },
+    source: {
+      domain: "github",
+      url: "instea/react-native-popup-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/instea/react-native-popup-menu#react-native-popup-menu",
+      imgUrl: "https://github.com/instea/react-native-popup-menu/raw/master/android.demo-popover.gif"
+    },
+    framework: "React Native",
+    version: "0.11.0",
+    license: "MIT",
+    details: "https://github.com/instea/react-native-popup-menu",
+    keywords: ["popup", "menu","modal","dialog"],
+    contributedBy: "qexon-ankit",
+  },
 ];
