@@ -1904,26 +1904,49 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     contributedBy: "qexon-ankit"
   },
   {
-  id: 73,
-  name: "react-native-simple-dialogs",
-  install: {
-    packager: "npm",
-    url: "react-native-simple-dialogs"
+    id: 73,
+    name: "react-native-simple-dialogs",
+    install: {
+      packager: "npm",
+      url: "react-native-simple-dialogs"
+    },
+    source: {
+      domain: "github",
+      url: "douglasjunior/react-native-simple-dialogs"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/douglasjunior/react-native-simple-dialogs#screenshots",
+      imgUrl: "https://raw.githubusercontent.com/douglasjunior/react-native-simple-dialogs/master/screenshots/android-dialog.png"
+    },
+    framework: "React Native",
+    version: "0.3.1",
+    license: "MIT",
+    details: "https://github.com/douglasjunior/react-native-simple-dialogs",
+    keywords: ["dialogs", "simple",'dialog-box'],
+    contributedBy: "qexon-ankit",
   },
-  source: {
-    domain: "github",
-    url: "douglasjunior/react-native-simple-dialogs"
+  {
+    id: 74,
+    name: "react-native-elements",
+    install: {
+      packager: "npm",
+      url: "react-native-elements"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-training/react-native-elements"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-training/react-native-elements",
+      imgUrl: "https://camo.githubusercontent.com/c8ed2a89d1e3f2c28dc46bc1b918b9b874ca18c3/687474703a2f2f692e696d6775722e636f6d2f555872475465472e706e67"
+    },
+    framework: "React Native",
+    version: "0.18.5",
+    license: "MIT",
+    details: "https://github.com/react-native-training/react-native-elements",
+    keywords: ["dialogs", "elements",'native','checkbox','list'],
+    contributedBy: "qexon-ankit",
   },
-  demo: {
-    repl: "img",
-    url: "https://github.com/douglasjunior/react-native-simple-dialogs#screenshots",
-    imgUrl: "https://raw.githubusercontent.com/douglasjunior/react-native-simple-dialogs/master/screenshots/android-dialog.png"
-  },
-  framework: "React Native",
-  version: "0.3.1",
-  license: "MIT",
-  details: "https://github.com/douglasjunior/react-native-simple-dialogs",
-  keywords: ["dialogs", "simple",'dialog-box'],
-  contributedBy: "qexon-ankit",
-},
 ];
