@@ -2156,4 +2156,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["document", "scanner","scan"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 84,
+    name: "react-native-linkedin",
+    install: {
+      packager: "npm",
+      url: "react-native-linkedin"
+    },
+    source: {
+      domain: "github",
+      url: "xcarpentier/react-native-linkedin"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/xcarpentier/react-native-linkedin#demo",
+      imgUrl: "https://camo.githubusercontent.com/6a679c85eda112c126e148cfa4ab8ea6b352f1fe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34464743475074426e396d65493750612f67697068792e676966"
+    },
+    framework: "React Native",
+    version: "1.3.0",
+    license: "MIT",
+    details: "https://github.com/xcarpentier/react-native-linkedin",
+    keywords: ["linkedin", "login"],
+    contributedBy: "qexon-ankit",
+  },
 ];
