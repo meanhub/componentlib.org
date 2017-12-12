@@ -2248,4 +2248,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["popup", "menu","modal","dialog"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 88,
+    name: "react-native-parallax-scroll-view",
+    install: {
+      packager: "npm",
+      url: "react-native-parallax-scroll-view"
+    },
+    source: {
+      domain: "github",
+      url: "i6mi6/react-native-parallax-scroll-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/i6mi6/react-native-parallax-scroll-view#demo",
+      imgUrl: "https://github.com/i6mi6/react-native-parallax-scroll-view/raw/master/demo.ios.0.17.2.gif"
+    },
+    framework: "React Native",
+    version: "0.17.2",
+    license: "MIT",
+    details: "https://github.com/i6mi6/react-native-parallax-scroll-view",
+    keywords: ["parallax", "scroll","view"],
+    contributedBy: "qexon-ankit",
+  },
 ];
