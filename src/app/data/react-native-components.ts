@@ -2294,4 +2294,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["parallax", "scroll","view"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 90,
+    name: "react-native-modal-paper",
+    install: {
+      packager: "npm",
+      url: "react-native-modal-paper"
+    },
+    source: {
+      domain: "github",
+      url: "callstack/react-native-paper"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://expo.io/@satya164/react-native-paper-example",
+      qrCode: "react-native-modal-paper"
+    },
+    framework: "React Native",
+    version: "0.0.8",
+    license: "MIT",
+    details: "https://callstack.github.io/react-native-paper/",
+    keywords: ["modal", "popup","paper"],
+    contributedBy: "qexon-ankit",
+  },
 ];
