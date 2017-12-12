@@ -1879,5 +1879,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/skv-headless/react-native-scrollable-tab-view",
     keywords: ["scrollable", "native","tab","view"],
     contributedBy: "qexon-ankit"
+  },
+  {
+    id: 72,
+    name: "react-native-keyboard-manager",
+    install: {
+      packager: "npm",
+      url: "react-native-keyboard-manager"
+    },
+    source: {
+      domain: "github",
+      url: "douglasjunior/react-native-keyboard-manager"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/douglasjunior/react-native-keyboard-manager#screenshots",
+      imgUrl : "https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/v3.3.0/Screenshot/IQKeyboardManager.gif"
+    },
+    frcamework: "React Native",
+    version: "4.0.13-4",
+    license: "MIT",
+    details: "https://github.com/douglasjunior/react-native-keyboard-manager",
+    keywords: ["keyboard", "native","manager"],
+    contributedBy: "qexon-ankit"
   }
 ];
