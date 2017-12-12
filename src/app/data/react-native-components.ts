@@ -1834,4 +1834,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["navigation", "swipes"],
     contributedBy: "qexon-ankit"
   }
+  {
+    id: 70,
+    name: "tipsi-stripe",
+    install: {
+      packager: "npm",
+      url: "tipsi-stripe"
+    },
+    source: {
+      domain: "github",
+      url: "tipsi/tipsi-stripe"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/tipsi/tipsi-stripe#running-apple-pay-in-a-real-device",
+      imgUrl : "https://user-images.githubusercontent.com/24738825/28348524-4bbd78e6-6bf2-11e7-97ed-b6e4b4ee0f0e.png"
+    },
+    frcamework: "React Native",
+    version: "4.5.1",
+    license: "MIT",
+    details: "https://github.com/tipsi/tipsi-stripe",
+    keywords: ["stripe", "tipsi","payment","gateway"],
+    contributedBy: "qexon-ankit"
+  }
 ];
