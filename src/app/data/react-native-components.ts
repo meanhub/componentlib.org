@@ -2339,5 +2339,5 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jfilter/react-native-onboarding-swiper",
     keywords: ["onboarding", "swiper","tab"],
     contributedBy: "qexon-ankit",
-  },
+  }
 ];
