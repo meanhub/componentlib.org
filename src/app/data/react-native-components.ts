@@ -1949,4 +1949,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["dialogs", "elements",'native','checkbox','list'],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 75,
+    name: "react-native-navigation",
+    install: {
+      packager: "npm",
+      url: "react-native-navigation"
+    },
+    source: {
+      domain: "github",
+      url: "wix/react-native-navigation"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-navigation#real-world-examples",
+      imgUrl: "https://github.com/wix/react-native/raw/master/src/videos/rnn-example-demo.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "1.1.85",
+    license: "MIT",
+    details: "https://wix.github.io/react-native-navigation/#/",
+    keywords: ["navigation", "nav bar"],
+    contributedBy: "qexon-ankit",
+  },
 ];
