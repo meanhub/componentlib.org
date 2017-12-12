@@ -2202,4 +2202,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["multiple", "select","multiselect"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 86,
+    name: "react-native-contacts",
+    install: {
+      packager: "npm",
+      url: "react-native-contacts"
+    },
+    source: {
+      domain: "github",
+      url: "rt2zz/react-native-contacts"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/rt2zz/react-native-contacts#ios-permissions",
+      imgUrl: "https://cloud.githubusercontent.com/assets/5707542/18704973/3cde3b44-7ffd-11e6-918b-63888e33f983.png"
+    },
+    framework: "React Native",
+    version: "2.0.0",
+    license: "MIT",
+    details: "https://github.com/rt2zz/react-native-contacts",
+    keywords: ["contacts", "permissions"],
+    contributedBy: "qexon-ankit",
+  },
 ];
