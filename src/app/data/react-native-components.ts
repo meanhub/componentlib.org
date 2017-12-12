@@ -1810,5 +1810,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
       "https://github.com/johanneslumpe/react-native-gesture-recognizers",
     keywords: ["pans", "swipes"],
     contributedBy: "qexon-ankit"
+  },
+  {
+    id: 69,
+    name: "react-navigation",
+    install: {
+      packager: "npm",
+      url: "react-navigation"
+    },
+    source: {
+      domain: "github",
+      url: "react-community/react-navigation"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://expo.io/@react-navigation/NavigationPlayground",
+      qrCode : "react-navigation"
+    },
+    frcamework: "React Native",
+    version: "1.0.0-beta.21",
+    license: "MIT",
+    details: "https://reactnavigation.org/",
+    keywords: ["navigation", "swipes"],
+    contributedBy: "qexon-ankit"
   }
 ];
