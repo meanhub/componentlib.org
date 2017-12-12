@@ -1902,5 +1902,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/douglasjunior/react-native-keyboard-manager",
     keywords: ["keyboard", "native","manager"],
     contributedBy: "qexon-ankit"
-  }
+  },
+  {
+  id: 73,
+  name: "react-native-simple-dialogs",
+  install: {
+    packager: "npm",
+    url: "react-native-simple-dialogs"
+  },
+  source: {
+    domain: "github",
+    url: "douglasjunior/react-native-simple-dialogs"
+  },
+  demo: {
+    repl: "img",
+    url: "https://github.com/douglasjunior/react-native-simple-dialogs#screenshots",
+    imgUrl: "https://raw.githubusercontent.com/douglasjunior/react-native-simple-dialogs/master/screenshots/android-dialog.png"
+  },
+  framework: "React Native",
+  version: "0.3.1",
+  license: "MIT",
+  details: "https://github.com/douglasjunior/react-native-simple-dialogs",
+  keywords: ["dialogs", "simple",'dialog-box'],
+  contributedBy: "qexon-ankit",
+},
 ];
