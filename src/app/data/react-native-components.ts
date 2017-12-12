@@ -2064,4 +2064,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["image", "photo","picker"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 80,
+    name: "react-native-tab-view",
+    install: {
+      packager: "npm",
+      url: "react-native-tab-view"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-tab-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-tab-view#demo",
+      imgUrl: "https://raw.githubusercontent.com/satya164/react-native-tab-view/master/demo/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.72",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-tab-view",
+    keywords: ["tab", "view","slide"],
+    contributedBy: "qexon-ankit",
+  },
 ];
