@@ -1833,7 +1833,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://reactnavigation.org/",
     keywords: ["navigation", "swipes"],
     contributedBy: "qexon-ankit"
-  }
+  },
   {
     id: 70,
     name: "tipsi-stripe",
@@ -1855,6 +1855,29 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     license: "MIT",
     details: "https://github.com/tipsi/tipsi-stripe",
     keywords: ["stripe", "tipsi","payment","gateway"],
+    contributedBy: "qexon-ankit"
+  },
+  {
+    id: 71,
+    name: "react-native-scrollable-tab-view",
+    install: {
+      packager: "npm",
+      url: "react-native-scrollable-tab-view"
+    },
+    source: {
+      domain: "github",
+      url: "skv-headless/react-native-scrollable-tab-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/skv-headless/react-native-scrollable-tab-view#demo",
+      imgUrl : "https://appetize.io/embed/6qfv7eydjtm34mhn6qwj2nt3xm?embed=true&screenOnly=false&xdocMsg=true&debug=true&scale=100&deviceColor=black&orientation=portrait&device=iphone6s&osVersion=9.3&deviceId=RGV2aWNlOjU2Y2FjNTExZWQwOTM2MTEwMGRhYTNlNg&platform=ios&width=375&height=668&phoneWidth=416&phoneHeight=870&screenOffsetLeft=21&screenOffsetTop=100&params=%7B%7D"
+    },
+    frcamework: "React Native",
+    version: "0.8.0",
+    license: "MIT",
+    details: "https://github.com/skv-headless/react-native-scrollable-tab-view",
+    keywords: ["scrollable", "native","tab","view"],
     contributedBy: "qexon-ankit"
   }
 ];
