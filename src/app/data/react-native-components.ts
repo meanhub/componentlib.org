@@ -2317,4 +2317,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["modal", "popup","paper"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 91,
+    name: "react-native-onboarding-swiper",
+    install: {
+      packager: "npm",
+      url: "react-native-onboarding-swiper"
+    },
+    source: {
+      domain: "github",
+      url: "jfilter/react-native-onboarding-swiper"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jfilter/react-native-onboarding-swiper#onboarding-",
+      imgUrl: "https://github.com/jfilter/react-native-onboarding-swiper/raw/master/demo/simple1.png"
+    },
+    framework: "React Native",
+    version: "0.3.1",
+    license: "MIT",
+    details: "https://github.com/jfilter/react-native-onboarding-swiper",
+    keywords: ["onboarding", "swiper","tab"],
+    contributedBy: "qexon-ankit",
+  },
 ];
