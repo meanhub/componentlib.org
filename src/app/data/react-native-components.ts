@@ -2087,4 +2087,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["tab", "view","slide"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 81,
+    name: "react-native-permissions",
+    install: {
+      packager: "npm",
+      url: "react-native-permissions"
+    },
+    source: {
+      domain: "github",
+      url: "yonahforst/react-native-permissions"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/yonahforst/react-native-permissions",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1440796/18713019/271be540-8011-11e6-87fb-c3828c172dfc.png"
+    },
+    framework: "React Native",
+    version: "1.0.4",
+    license: "MIT",
+    details: "https://github.com/yonahforst/react-native-permissions",
+    keywords: ["permissions", "Privacy"],
+    contributedBy: "qexon-ankit",
+  },
 ];
