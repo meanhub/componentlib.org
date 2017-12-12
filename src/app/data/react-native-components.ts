@@ -2271,4 +2271,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["parallax", "scroll","view"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 89,
+    name: "react-native-modal-datetime-picker",
+    install: {
+      packager: "npm",
+      url: "react-native-modal-datetime-picker"
+    },
+    source: {
+      domain: "github",
+      url: "mmazzarolo/react-native-modal-datetime-picker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mmazzarolo/react-native-modal-datetime-picker#demo",
+      imgUrl: "https://raw.githubusercontent.com/mmazzarolo/react-native-modal-datetime-picker/master/extras/datetimepicker-android.gif"
+    },
+    framework: "React Native",
+    version: "0.17.2",
+    license: "MIT",
+    details: "https://github.com/mmazzarolo/react-native-modal-datetime-picker",
+    keywords: ["parallax", "scroll","view"],
+    contributedBy: "qexon-ankit",
+  },
 ];
