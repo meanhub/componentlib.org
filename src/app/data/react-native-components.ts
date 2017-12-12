@@ -2041,4 +2041,27 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["share", "social","sending"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 79,
+    name: "react-native-image-picker",
+    install: {
+      packager: "npm",
+      url: "react-native-image-picker"
+    },
+    source: {
+      domain: "github",
+      url: "react-community/react-native-image-picker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-community/react-native-image-picker#react-native-image-picker-----",
+      imgUrl: "https://github.com/marcshilling/react-native-image-picker/raw/master/images/android-image.png"
+    },
+    framework: "React Native",
+    version: "0.26.7",
+    license: "MIT",
+    details: "https://github.com/react-community/react-native-image-picker",
+    keywords: ["image", "photo","picker"],
+    contributedBy: "qexon-ankit",
+  },
 ];
