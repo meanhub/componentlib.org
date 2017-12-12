@@ -1972,4 +1972,50 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     keywords: ["navigation", "nav bar"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 76,
+    name: "react-native-material-ui",
+    install: {
+      packager: "npm",
+      url: "react-native-material-ui"
+    },
+    source: {
+      domain: "github",
+      url: "xotahal/react-native-material-ui"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/xotahal/react-native-material-ui#animations-are-included",
+      imgUrl: "https://raw.githubusercontent.com/xotahal/react-native-material-ui-demo-app/master/resources/action-button-labels.gif"
+    },
+    framework: "React Native",
+    version: "1.18.0",
+    license: "MIT",
+    details: "https://github.com/xotahal/react-native-material-ui",
+    keywords: ["material", "ui","view","designs"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 77,
+    name: "react-native-maps",
+    install: {
+      packager: "npm",
+      url: "react-native-maps"
+    },
+    source: {
+      domain: "github",
+      url: "react-community/react-native-maps"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-community/react-native-maps#examples",
+      imgUrl: "https://camo.githubusercontent.com/bcb60887b83b8b8b84aeacfdf8e2f20ce33bdba5/687474703a2f2f692e67697068792e636f6d2f336f365542706e63595141537532575457382e676966"
+    },
+    framework: "React Native",
+    version: "0.18.3",
+    license: "MIT",
+    details: "https://github.com/react-community/react-native-maps",
+    keywords: ["maps", "google"],
+    contributedBy: "qexon-ankit",
+  },
 ];
