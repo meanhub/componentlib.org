@@ -2661,5 +2661,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jeanregisser/react-native-slider",
     keywords: ["slider","slide","image"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 106,
+    name: "react-native-action-button",
+    install: {
+      packager: "npm",
+      url: "react-native-action-button"
+    },
+    source: {
+      domain: "github",
+      url: "mastermoo/react-native-action-button"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mastermoo/react-native-action-button#react-native-action-button",
+      imgUrl: "https://camo.githubusercontent.com/0d71fda546fc0aabd5b9e6fa0ea0934dace2c085/687474703a2f2f692e67697068792e636f6d2f3236426b4d69723949634168716534454d2e676966"
+    },
+    framework: "React Native",
+    version: "2.8.3",
+    license: "MIT",
+    details: "https://github.com/mastermoo/react-native-action-button",
+    keywords: ["button","action","style"],
+    contributedBy: "qexon-ankit",
   }
 ];
