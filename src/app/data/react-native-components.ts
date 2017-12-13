@@ -2822,5 +2822,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "http://www.devio.org/",
     keywords: ["router","flux","architecture"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 113,
+    name: "react-native-onesignal",
+    install: {
+      packager: "npm",
+      url: "react-native-onesignal"
+    },
+    source: {
+      domain: "github",
+      url: "geektimecoil/react-native-onesignal"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/geektimecoil/react-native-onesignal#add-required-capabilities",
+      imgUrl: "https://camo.githubusercontent.com/b8a2fc028f78dec44ffc018304a747635fc2bd35/68747470733a2f2f66696c65732e726561646d652e696f2f56666c54474f507a52447532596d6869526769565f58636f64652532306361706162696c69746965732e706e67"
+    },
+    framework: "React Native",
+    version: "3.0.7",
+    license: "MIT",
+    details: "https://documentation.onesignal.com/docs/generate-an-ios-push-certificate",
+    keywords: ["onesignal","notifications","push"],
+    contributedBy: "qexon-ankit",
   }
 ];
