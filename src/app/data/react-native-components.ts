@@ -2799,5 +2799,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "http://www.devio.org/",
     keywords: ["easy","toast","notification","message"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 112,
+    name: "react-native-router-flux",
+    install: {
+      packager: "npm",
+      url: "react-native-router-flux"
+    },
+    source: {
+      domain: "github",
+      url: "aksonov/react-native-router-flux"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/aksonov/react-native-router-flux#try-the-example-app",
+      imgUrl: "https://user-images.githubusercontent.com/3681859/27937441-ef61d932-626b-11e7-885f-1db7dc74b32e.gif"
+    },
+    framework: "React Native",
+    version: "4.0.0-beta.24",
+    license: "MIT",
+    details: "http://www.devio.org/",
+    keywords: ["router","flux","architecture"],
+    contributedBy: "qexon-ankit",
   }
 ];
