@@ -2753,5 +2753,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/capitalone/react-native-pathjs-charts",
     keywords: ["pathjs","charts","svg"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 110,
+    name: "react-native-material-kit",
+    install: {
+      packager: "npm",
+      url: "react-native-material-kit"
+    },
+    source: {
+      domain: "github",
+      url: "xinthink/react-native-material-kit"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/xinthink/react-native-material-kit#buttons",
+      imgUrl: "https://cloud.githubusercontent.com/assets/390805/8888853/69f8d9f8-32f2-11e5-9823-c235ab8c0dd2.gif"
+    },
+    framework: "React Native",
+    version: "0.5.1",
+    license: "MIT",
+    details: "http://xinthink.github.io/react-native-material-kit/",
+    keywords: ["material","ui","kit"],
+    contributedBy: "qexon-ankit",
   }
 ];
