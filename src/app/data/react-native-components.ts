@@ -2937,5 +2937,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/wix/react-native-autogrow-textinput",
     keywords: ["dropdown","backdrop","menu"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 118,
+    name: "rn-viewpager",
+    install: {
+      packager: "npm",
+      url: "rn-viewpager"
+    },
+    source: {
+      domain: "github",
+      url: "zbtang/React-Native-ViewPager"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/zbtang/React-Native-ViewPager#preview",
+      imgUrl: "https://github.com/zbtang/React-Native-ViewPager/raw/master/imgs/dotIndicator.gif"
+    },
+    framework: "React Native",
+    version: "1.2.8",
+    license: "MIT",
+    details: "https://github.com/zbtang/React-Native-ViewPager",
+    keywords: ["viewpager","view","page"],
+    contributedBy: "qexon-ankit",
   }
 ];
