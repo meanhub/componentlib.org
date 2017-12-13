@@ -2339,5 +2339,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jfilter/react-native-onboarding-swiper",
     keywords: ["onboarding", "swiper","tab"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 92,
+    name: "react-native-responsive-grid",
+    install: {
+      packager: "npm",
+      url: "react-native-responsive-grid"
+    },
+    source: {
+      domain: "github",
+      url: "idibidiart/react-native-responsive-grid"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/idibidiart/react-native-responsive-grid#example-1-universal-responsive-pinterest-layout",
+      imgUrl: "https://camo.githubusercontent.com/2a83772e80b482a0f2c2c98c98b41d6ec725ddc5/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f517949526f4b696e794c552f302e6a7067"
+    },
+    framework: "React Native",
+    version: "0.35.0",
+    license: "MIT",
+    details: "https://github.com/idibidiart/react-native-responsive-grid",
+    keywords: ["responsive", "grid","tab"],
+    contributedBy: "qexon-ankit",
   }
 ];
