@@ -2569,5 +2569,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Sunhat/react-native-extra-dimensions-android",
     keywords: ["dimensions","extra","android"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 102,
+    name: "react-native-search-bar",
+    install: {
+      packager: "npm",
+      url: "react-native-search-bar"
+    },
+    source: {
+      domain: "github",
+      url: "umhan35/react-native-search-bar"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/umhan35/react-native-search-bar#react-native-search-bar",
+      imgUrl: "https://github.com/umhan35/react-native-search-bar/raw/master/SearchBar.png"
+    },
+    framework: "React Native",
+    version: "3.0.2",
+    license: "MIT",
+    details: "https://github.com/Sunhat/react-native-extra-dimensions-android",
+    keywords: ["search","bar"],
+    contributedBy: "qexon-ankit",
   }
 ];
