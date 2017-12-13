@@ -2914,5 +2914,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/gs-akhan/react-native-chooser",
     keywords: ["dropdown","backdrop","menu"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 117,
+    name: "react-native-autogrow-textinput",
+    install: {
+      packager: "npm",
+      url: "react-native-autogrow-textinput"
+    },
+    source: {
+      domain: "github",
+      url: "wix/react-native-autogrow-textinput"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-autogrow-textinput#react-native-autogrow-textinput",
+      imgUrl: "https://camo.githubusercontent.com/3722efe2eafc5259e682434c511f75b11cd80105/687474703a2f2f692e696d6775722e636f6d2f5a56685a3772352e676966"
+    },
+    framework: "React Native",
+    version: "4.1.3",
+    license: "MIT",
+    details: "https://github.com/wix/react-native-autogrow-textinput",
+    keywords: ["dropdown","backdrop","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
