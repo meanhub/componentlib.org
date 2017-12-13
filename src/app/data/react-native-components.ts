@@ -2385,5 +2385,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/leecade/react-native-swiper",
     keywords: ["swiper", "grid","tab"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 94,
+    name: "react-native-awesome-card-io",
+    install: {
+      packager: "npm",
+      url: "react-native-awesome-card-io"
+    },
+    source: {
+      domain: "github",
+      url: "Kerumen/react-native-awesome-card-io"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/Kerumen/react-native-awesome-card-io#react-native-awesome-card-io",
+      imgUrl: "https://www.card.io/static/images/2/slideshow/c3.jpg"
+    },
+    framework: "React Native",
+    version: "0.7.0",
+    license: "MIT",
+    details: "https://kerumen.github.io/react-native-awesome-card-io/",
+    keywords: ["awesome", "card","io"],
+    contributedBy: "qexon-ankit",
   }
 ];
