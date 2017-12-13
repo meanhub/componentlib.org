@@ -2546,5 +2546,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/awesomejerry/react-native-qrcode-svg",
     keywords: ["svg","qrcode","code"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 101,
+    name: "react-native-extra-dimensions-android",
+    install: {
+      packager: "npm",
+      url: "react-native-extra-dimensions-android"
+    },
+    source: {
+      domain: "github",
+      url: "Sunhat/react-native-extra-dimensions-android"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/awesomejerry/react-native-qrcode-svg#features",
+      imgUrl: "https://raw.githubusercontent.com/awesomejerry/react-native-qrcode-svg/master/screenshot/android.png"
+    },
+    framework: "React Native",
+    version: "0.21.0",
+    license: "MIT",
+    details: "https://github.com/Sunhat/react-native-extra-dimensions-android",
+    keywords: ["dimensions","extra","android"],
+    contributedBy: "qexon-ankit",
   }
 ];
