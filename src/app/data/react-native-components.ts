@@ -2730,5 +2730,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/aakashns/react-native-dialogs",
     keywords: ["dialogs","popup","andriod","modal"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 109,
+    name: "react-native-pathjs-charts",
+    install: {
+      packager: "npm",
+      url: "react-native-pathjs-charts"
+    },
+    source: {
+      domain: "github",
+      url: "capitalone/react-native-pathjs-charts"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/capitalone/react-native-pathjs-charts#react-native-pathjs-charts",
+      imgUrl: "https://github.com/capitalone/react-native-pathjs-charts/wiki/images/chart-screenshots.png"
+    },
+    framework: "React Native",
+    version: "0.0.33",
+    license: "MIT",
+    details: "https://github.com/capitalone/react-native-pathjs-charts",
+    keywords: ["pathjs","charts","svg"],
+    contributedBy: "qexon-ankit",
   }
 ];
