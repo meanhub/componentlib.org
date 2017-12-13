@@ -2983,5 +2983,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/tuantle/react-native-search-header",
     keywords: ["search","design","header","material","patterns"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 120,
+    name: "react-native-svg-uri",
+    install: {
+      packager: "npm",
+      url: "react-native-svg-uri"
+    },
+    source: {
+      domain: "github",
+      url: "vault-development/react-native-svg-uri"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/vault-development/react-native-svg-uri#usage",
+      imgUrl: "https://github.com/vault-development/react-native-svg-uri/raw/master/screenshoots/sample.png"
+    },
+    framework: "React Native",
+    version: "1.2.3",
+    license: "MIT",
+    details: "https://github.com/vault-development/react-native-svg-uri",
+    keywords: ["svg","images"],
+    contributedBy: "qexon-ankit",
   }
 ];
