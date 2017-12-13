@@ -2408,5 +2408,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://kerumen.github.io/react-native-awesome-card-io/",
     keywords: ["awesome", "card","io"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 95,
+    name: "react-native-extended-stylesheet",
+    install: {
+      packager: "npm",
+      url: "react-native-extended-stylesheet"
+    },
+    source: {
+      domain: "github",
+      url: "vitalets/react-native-extended-stylesheet"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/vitalets/react-native-extended-stylesheet#react-native-extended-stylesheet",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1473072/26778748/49c190be-49eb-11e7-83a1-b06372df8d85.png"
+    },
+    framework: "React Native",
+    version: "0.8.0",
+    license: "MIT",
+    details: "https://github.com/vitalets/react-native-extended-stylesheet",
+    keywords: ["extended", "extended","css"],
+    contributedBy: "qexon-ankit",
   }
 ];
