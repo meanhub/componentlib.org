@@ -2615,5 +2615,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://expo.io/@jacklam718/popup-dialog-example",
     keywords: ["popup","dialog"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 104,
+    name: "react-native-keychain",
+    install: {
+      packager: "npm",
+      url: "react-native-keychain"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-keychain"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-keychain#-enable-keychain-sharing-entitlement-for-ios-10",
+      imgUrl: "https://cloud.githubusercontent.com/assets/512692/18597833/15316342-7c50-11e6-92e7-781651e61563.png"
+    },
+    framework: "React Native",
+    version: "2.0.0-rc",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-keychain",
+    keywords: ["keychain","sharing",'entitlement','ios'],
+    contributedBy: "qexon-ankit",
   }
 ];
