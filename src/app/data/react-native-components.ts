@@ -2636,7 +2636,30 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-rc",
     license: "MIT",
     details: "https://github.com/oblador/react-native-keychain",
-    keywords: ["keychain","sharing",'entitlement','ios'],
+    keywords: ["keychain","sharing","entitlement","ios"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 105,
+    name: "react-native-slider",
+    install: {
+      packager: "npm",
+      url: "react-native-slider"
+    },
+    source: {
+      domain: "github",
+      url: "jeanregisser/react-native-slider"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jeanregisser/react-native-slider#react-native-slider",
+      imgUrl: "https://raw.githubusercontent.com/jeanregisser/react-native-slider/master/Screenshots/basic@2x.png"
+    },
+    framework: "React Native",
+    version: "0.11.0",
+    license: "MIT",
+    details: "https://github.com/jeanregisser/react-native-slider",
+    keywords: ["slider","slide","image"],
     contributedBy: "qexon-ankit",
   }
 ];
