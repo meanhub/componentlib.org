@@ -2362,5 +2362,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/idibidiart/react-native-responsive-grid",
     keywords: ["responsive", "grid","tab"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 93,
+    name: "react-native-swiper",
+    install: {
+      packager: "npm",
+      url: "react-native-swiper"
+    },
+    source: {
+      domain: "github",
+      url: "leecade/react-native-swiper"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/leecade/react-native-swiper#examplescomponentsbasic",
+      imgUrl: "https://camo.githubusercontent.com/67811c9b23719e308968ea425514edf85a0d36af/687474703a2f2f692e696d6775722e636f6d2f7a7273617a41472e6769663d33303078"
+    },
+    framework: "React Native",
+    version: "1.5.6",
+    license: "MIT",
+    details: "https://github.com/leecade/react-native-swiper",
+    keywords: ["swiper", "grid","tab"],
+    contributedBy: "qexon-ankit",
   }
 ];
