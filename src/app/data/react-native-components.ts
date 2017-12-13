@@ -2684,5 +2684,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/mastermoo/react-native-action-button",
     keywords: ["button","action","style"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 107,
+    name: "react-native-calendars",
+    install: {
+      packager: "npm",
+      url: "react-native-calendars"
+    },
+    source: {
+      domain: "github",
+      url: "wix/react-native-calendars"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-calendars#calendar",
+      imgUrl: "https://github.com/wix-private/wix-react-native-calendar/raw/master/demo/calendar.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "1.15.0",
+    license: "MIT",
+    details: "https://github.com/wix/react-native-calendars",
+    keywords: ["calendars","date","datepicker"],
+    contributedBy: "qexon-ankit",
   }
 ];
