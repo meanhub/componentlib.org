@@ -2477,5 +2477,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/bgryszko/react-native-circular-progress",
     keywords: ["circular", "progress","success"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 98,
+    name: "react-native-mixpanel",
+    install: {
+      packager: "npm",
+      url: "react-native-mixpanel"
+    },
+    source: {
+      domain: "github",
+      url: "davodesign84/react-native-mixpanel"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/davodesign84/react-native-mixpanel#manual-installation",
+      imgUrl: "https://cdn4.mxpnl.com/static/asset-cache/da199e917a043500302adfb66c127e85/images/help/automatic_event_tracking_link.png"
+    },
+    framework: "React Native",
+    version: "0.0.16",
+    license: "MIT",
+    details: "https://mixpanel.com/help/reference/ios",
+    keywords: ["mixpanel", "notifications","analysis ","surveys"],
+    contributedBy: "qexon-ankit",
   }
 ];
