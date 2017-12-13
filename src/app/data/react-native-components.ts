@@ -2521,7 +2521,30 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.7.0",
     license: "MIT",
     details: "https://github.com/cooperka/react-native-immutable-list-view",
-    keywords: ["immutable", "list","list ","ui"],
+    keywords: ["immutable", "list","view ","ui"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 100,
+    name: "react-native-root-siblings",
+    install: {
+      packager: "npm",
+      url: "react-native-root-siblings"
+    },
+    source: {
+      domain: "github",
+      url: "magicismight/react-native-root-siblings"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/magicismight/react-native-root-siblings#example",
+      imgUrl: "https://github.com/magicismight/react-native-root-siblings/raw/master/Examples/screen-shoot.gif"
+    },
+    framework: "React Native",
+    version: "2.2.0",
+    license: "MIT",
+    details: "https://github.com/magicismight/react-native-root-siblings",
+    keywords: ["root","siblings"],
     contributedBy: "qexon-ankit",
   }
 ];
