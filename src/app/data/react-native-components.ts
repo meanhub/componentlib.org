@@ -2454,5 +2454,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/naoufal/react-native-safari-view",
     keywords: ["safari", "view","wrapper"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 97,
+    name: "react-native-circular-progress",
+    install: {
+      packager: "npm",
+      url: "react-native-circular-progress"
+    },
+    source: {
+      domain: "github",
+      url: "bgryszko/react-native-circular-progress"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/bgryszko/react-native-circular-progress#example-app",
+      imgUrl: "https://github.com/bgryszko/react-native-circular-progress/raw/master/screenshot.gif"
+    },
+    framework: "React Native",
+    version: "0.1.0",
+    license: "MIT",
+    details: "https://github.com/bgryszko/react-native-circular-progress",
+    keywords: ["circular", "progress","success"],
+    contributedBy: "qexon-ankit",
   }
 ];
