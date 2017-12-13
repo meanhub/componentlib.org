@@ -2592,5 +2592,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Sunhat/react-native-extra-dimensions-android",
     keywords: ["search","bar"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 103,
+    name: "react-native-popup-dialog",
+    install: {
+      packager: "npm",
+      url: "react-native-popup-dialog"
+    },
+    source: {
+      domain: "github",
+      url: "jacklam718/react-native-popup-dialog"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://expo.io/@jacklam718/popup-dialog-example",
+      qrCode: "react-native-popup-dialog"
+    },
+    framework: "React Native",
+    version: "0.10.44",
+    license: "MIT",
+    details: "https://expo.io/@jacklam718/popup-dialog-example",
+    keywords: ["popup","dialog"],
+    contributedBy: "qexon-ankit",
   }
 ];
