@@ -2891,5 +2891,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Spikef/react-native-gesture-password",
     keywords: ["gesture","password","security"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 116,
+    name: "react-native-chooser",
+    install: {
+      packager: "npm",
+      url: "react-native-chooser"
+    },
+    source: {
+      domain: "github",
+      url: "gs-akhan/react-native-chooser"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gs-akhan/react-native-chooser#ios-and-android",
+      imgUrl: "https://raw.githubusercontent.com/gs-akhan/react-native-select/master/dropdown-both.gif"
+    },
+    framework: "React Native",
+    version: "1.7.0",
+    license: "MIT",
+    details: "https://github.com/gs-akhan/react-native-chooser",
+    keywords: ["dropdown","backdrop","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
