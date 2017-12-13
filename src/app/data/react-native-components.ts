@@ -2526,25 +2526,25 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
   },
   {
     id: 100,
-    name: "react-native-root-siblings",
+    name: "react-native-qrcode-svg",
     install: {
       packager: "npm",
-      url: "react-native-root-siblings"
+      url: "react-native-qrcode-svg"
     },
     source: {
       domain: "github",
-      url: "magicismight/react-native-root-siblings"
+      url: "awesomejerry/react-native-qrcode-svg"
     },
     demo: {
       repl: "img",
-      url: "https://github.com/magicismight/react-native-root-siblings#example",
-      imgUrl: "https://github.com/magicismight/react-native-root-siblings/raw/master/Examples/screen-shoot.gif"
+      url: "https://github.com/awesomejerry/react-native-qrcode-svg#features",
+      imgUrl: "https://raw.githubusercontent.com/awesomejerry/react-native-qrcode-svg/master/screenshot/android.png"
     },
     framework: "React Native",
-    version: "2.2.0",
+    version: "2.0.0",
     license: "MIT",
-    details: "https://github.com/magicismight/react-native-root-siblings",
-    keywords: ["root","siblings"],
+    details: "https://github.com/awesomejerry/react-native-qrcode-svg",
+    keywords: ["svg","qrcode","code"],
     contributedBy: "qexon-ankit",
   }
 ];
