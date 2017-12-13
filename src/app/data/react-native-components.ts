@@ -2845,5 +2845,51 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://documentation.onesignal.com/docs/generate-an-ios-push-certificate",
     keywords: ["onesignal","notifications","push"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 114,
+    name: "react-native-onesignal",
+    install: {
+      packager: "npm",
+      url: "react-native-onesignal"
+    },
+    source: {
+      domain: "github",
+      url: "geektimecoil/react-native-onesignal"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/geektimecoil/react-native-onesignal#add-required-capabilities",
+      imgUrl: "https://camo.githubusercontent.com/b8a2fc028f78dec44ffc018304a747635fc2bd35/68747470733a2f2f66696c65732e726561646d652e696f2f56666c54474f507a52447532596d6869526769565f58636f64652532306361706162696c69746965732e706e67"
+    },
+    framework: "React Native",
+    version: "3.0.7",
+    license: "MIT",
+    details: "https://documentation.onesignal.com/docs/generate-an-ios-push-certificate",
+    keywords: ["onesignal","notifications","push"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 115,
+    name: "react-native-gesture-password",
+    install: {
+      packager: "npm",
+      url: "react-native-gesture-password"
+    },
+    source: {
+      domain: "github",
+      url: "Spikef/react-native-gesture-password"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/Spikef/react-native-gesture-password#react-native-gesture-password",
+      imgUrl: "https://github.com/Spikef/react-native-gesture-password/raw/master/screenshot.gif"
+    },
+    framework: "React Native",
+    version: "0.2.1",
+    license: "MIT",
+    details: "https://github.com/Spikef/react-native-gesture-password",
+    keywords: ["gesture","password","security"],
+    contributedBy: "qexon-ankit",
   }
 ];
