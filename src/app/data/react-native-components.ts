@@ -2960,5 +2960,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/zbtang/React-Native-ViewPager",
     keywords: ["viewpager","view","page"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 119,
+    name: "react-native-search-header",
+    install: {
+      packager: "npm",
+      url: "react-native-search-header"
+    },
+    source: {
+      domain: "github",
+      url: "tuantle/react-native-search-header"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/tuantle/react-native-search-header#react-native-seach-header",
+      imgUrl: "https://github.com/tuantle/react-native-search-header/raw/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.2.3",
+    license: "MIT",
+    details: "https://github.com/tuantle/react-native-search-header",
+    keywords: ["search","design","header","material","patterns"],
+    contributedBy: "qexon-ankit",
   }
 ];
