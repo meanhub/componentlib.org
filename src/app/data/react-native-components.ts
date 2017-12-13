@@ -2431,5 +2431,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/vitalets/react-native-extended-stylesheet",
     keywords: ["extended", "extended","css"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 96,
+    name: "react-native-safari-view",
+    install: {
+      packager: "npm",
+      url: "react-native-safari-view"
+    },
+    source: {
+      domain: "github",
+      url: "naoufal/react-native-safari-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/naoufal/react-native-safari-view#react-native-safari-view",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1627824/8345135/ed5f7fc4-1ab8-11e5-814a-a3e9df0ede06.gif"
+    },
+    framework: "React Native",
+    version: "2.1.0",
+    license: "MIT",
+    details: "https://github.com/naoufal/react-native-safari-view",
+    keywords: ["safari", "view","wrapper"],
+    contributedBy: "qexon-ankit",
   }
 ];
