@@ -2707,5 +2707,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/wix/react-native-calendars",
     keywords: ["calendars","date","datepicker"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 108,
+    name: "react-native-dialogs",
+    install: {
+      packager: "npm",
+      url: "react-native-dialogs"
+    },
+    source: {
+      domain: "github",
+      url: "aakashns/react-native-dialogs"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/aakashns/react-native-dialogs#react-native-dialogs",
+      imgUrl: "https://camo.githubusercontent.com/4aef3aacdbe5e7fba835f5d4711439fa34266424/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43537777356c6855414141453438372e706e67"
+    },
+    framework: "React Native",
+    version: "0.0.21",
+    license: "MIT",
+    details: "https://github.com/aakashns/react-native-dialogs",
+    keywords: ["dialogs","popup","andriod","modal"],
+    contributedBy: "qexon-ankit",
   }
 ];
