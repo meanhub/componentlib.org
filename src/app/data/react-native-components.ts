@@ -3029,5 +3029,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/bramus/react-native-maps-directions",
     keywords: ["maps","directions","google","location"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 122,
+    name: "react-native-video",
+    install: {
+      packager: "npm",
+      url: "react-native-video"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-video"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-video#react-native-video",
+      imgUrl: "https://github.com/react-native-community/react-native-video/raw/master/docs/tvOS-step-2.jpg"
+    },
+    framework: "React Native",
+    version: "2.0.0",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-video",
+    keywords: ["video","element"],
+    contributedBy: "qexon-ankit",
   }
 ];
