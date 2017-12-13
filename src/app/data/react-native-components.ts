@@ -2776,5 +2776,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "http://xinthink.github.io/react-native-material-kit/",
     keywords: ["material","ui","kit"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 111,
+    name: "react-native-easy-toast",
+    install: {
+      packager: "npm",
+      url: "react-native-easy-toast"
+    },
+    source: {
+      domain: "github",
+      url: "crazycodeboy/react-native-easy-toast"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/crazycodeboy/react-native-easy-toast#demo",
+      imgUrl: "https://raw.githubusercontent.com/crazycodeboy/react-native-easy-toast/master/examples/Screenshots/react-native-easy-toast-screenshots.gif"
+    },
+    framework: "React Native",
+    version: "1.0.9",
+    license: "MIT",
+    details: "http://www.devio.org/",
+    keywords: ["easy","toast","notification","message"],
+    contributedBy: "qexon-ankit",
   }
 ];
