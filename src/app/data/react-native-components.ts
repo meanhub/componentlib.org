@@ -3006,5 +3006,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/vault-development/react-native-svg-uri",
     keywords: ["svg","images"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 121,
+    name: "react-native-maps-directions",
+    install: {
+      packager: "npm",
+      url: "react-native-maps-directions"
+    },
+    source: {
+      domain: "github",
+      url: "bramus/react-native-maps-directions"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/bramus/react-native-maps-directions#react-native-maps-directions-",
+      imgUrl: "https://user-images.githubusercontent.com/213073/33188062-efc86e24-d096-11e7-87eb-6925291bc809.png"
+    },
+    framework: "React Native",
+    version: "1.2.0",
+    license: "MIT",
+    details: "https://github.com/bramus/react-native-maps-directions",
+    keywords: ["maps","directions","google","location"],
+    contributedBy: "qexon-ankit",
   }
 ];
