@@ -3121,5 +3121,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/stephy/CalendarPicker",
     keywords: ["calendar","picker","date","datepicker"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 126,
+    name: "react-native-gifted-chat",
+    install: {
+      packager: "npm",
+      url: "react-native-gifted-chat"
+    },
+    source: {
+      domain: "github",
+      url: "FaridSafi/react-native-gifted-chat"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/FaridSafi/react-native-gifted-chat#gifted-chat",
+      imgUrl: "https://raw.githubusercontent.com/FaridSafi/react-native-gifted-chat/master/screenshots/gifted-chat-1.png"
+    },
+    framework: "React Native",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/FaridSafi/react-native-gifted-chat",
+    keywords: ["gifted","chat","ui","messenger"],
+    contributedBy: "qexon-ankit",
   }
 ];
