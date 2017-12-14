@@ -3052,5 +3052,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-community/react-native-video",
     keywords: ["video","element"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 123,
+    name: "react-native-smart-badge",
+    install: {
+      packager: "npm",
+      url: "react-native-smart-badge"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-component/react-native-smart-badge"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-component/react-native-smart-badge#preview",
+      imgUrl: "https://camo.githubusercontent.com/cca5e21ea7b57e5490f92747a41f0b257e2ea15d/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d62616467652d707265766965772d696f732d76312e302e372e676966"
+    },
+    framework: "React Native",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/react-native-component/react-native-smart-badge",
+    keywords: ["smart","badge"],
+    contributedBy: "qexon-ankit",
   }
 ];
