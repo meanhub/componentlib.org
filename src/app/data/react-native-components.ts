@@ -3190,5 +3190,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/RepairShopr/react-native-signature-capture",
     keywords: ["signature","capture","sign"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 129,
+    name: "react-native-modal-dropdown",
+    install: {
+      packager: "npm",
+      url: "react-native-modal-dropdown"
+    },
+    source: {
+      domain: "github",
+      url: "sohobloo/react-native-modal-dropdown"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sohobloo/react-native-modal-dropdown#demo",
+      imgUrl: "https://github.com/sohobloo/react-native-modal-dropdown/raw/master/docs/demo_1.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "0.5.0",
+    license: "MIT",
+    details: "https://github.com/sohobloo/react-native-modal-dropdown",
+    keywords: ["modal","dropdown","dialog","popup","select"],
+    contributedBy: "qexon-ankit",
   }
 ];
