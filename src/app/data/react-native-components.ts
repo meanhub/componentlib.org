@@ -3308,25 +3308,25 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
   },
   {
     id: 133,
-    name: "react-native-material-textfield",
+    name: "react-native-pages",
     install: {
       packager: "npm",
-      url: "react-native-material-textfield"
+      url: "react-native-pages"
     },
     source: {
       domain: "github",
-      url: "n4kz/react-native-material-textfield"
+      url: "n4kz/react-native-pages"
     },
     demo: {
       repl: "img",
-      url: "https://github.com/n4kz/react-native-material-textfield#react-native-material-textfield",
-      imgUrl: "https://cloud.githubusercontent.com/assets/2055622/24325711/eaa4ff08-11af-11e7-8550-2504c1580979.gif"
+      url: "https://github.com/n4kz/react-native-pages#react-native-pages",
+      imgUrl: "https://cloud.githubusercontent.com/assets/2055622/25063699/68d6914e-21f4-11e7-81fe-b72d8e003530.gif"
     },
     framework: "React Native",
-    version: "0.11.0",
+    version: "0.6.1",
     license: "MIT",
-    details: "https://github.com/n4kz/react-native-material-textfield",
-    keywords: ["textfield","material","text","input"],
+    details: "https://github.com/n4kz/react-native-pages",
+    keywords: ["pages","view"],
     contributedBy: "qexon-ankit",
   }
 ];
