@@ -3719,5 +3719,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/deanmcpherson/react-native-sortable-listview",
     keywords: ["sortable","listview","list","view","sort"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 151,
+    name: "react-native-gifted-form",
+    install: {
+      packager: "npm",
+      url: "react-native-gifted-form"
+    },
+    source: {
+      domain: "github",
+      url: "FaridSafi/react-native-gifted-form"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/FaridSafi/react-native-gifted-form#gifted-form",
+      imgUrl: "https://raw.githubusercontent.com/FaridSafi/react-native-gifted-form/master/capture/signup.gif"
+    },
+    framework: "React Native",
+    version: "0.1.1",
+    license: "MIT",
+    details: "https://github.com/FaridSafi/react-native-gifted-form",
+    keywords: ["gifted","form"],
+    contributedBy: "qexon-ankit",
   }
 ];
