@@ -3512,5 +3512,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/meteor-factory/react-native-tinder-swipe-cards",
     keywords: ["tinder","swipe","cards"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 142,
+    name: "material-native",
+    install: {
+      packager: "npm",
+      url: "material-native"
+    },
+    source: {
+      domain: "github",
+      url: "material-native/material-native"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/material-native/material-native#material-native",
+      imgUrl: "https://github.com/material-native/material-explorer/raw/master/screenshots/Colors.png"
+    },
+    framework: "React Native",
+    version: "0.0.0-alpha.16",
+    license: "MIT",
+    details: "https://github.com/material-native/material-native",
+    keywords: ["material","ui","design"],
+    contributedBy: "qexon-ankit",
   }
 ];
