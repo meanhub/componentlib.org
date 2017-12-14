@@ -3573,13 +3573,36 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     demo: {
       repl: "img",
       url: "https://expo.io/@notbrent/read-more-text-example",
-      qrCode: "https://camo.githubusercontent.com/3ee614461a41c41b54b89f56431149817f62d3bc/68747470733a2f2f696d67342e686f7374696e67706963732e6e65742f706963732f323231383539616e64726f69642e676966"
+      qrCode: "react-native-read-more-text"
     },
     framework: "React Native",
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/expo/react-native-read-more-text",
     keywords: ["read","text"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 145,
+    name: "react-native-sortable-list",
+    install: {
+      packager: "npm",
+      url: "react-native-sortable-list"
+    },
+    source: {
+      domain: "github",
+      url: "gitim/react-native-sortable-list"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gitim/react-native-sortable-list#demo",
+      imgUrl: "https://raw.githubusercontent.com/gitim/react-native-sortable-list/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.19",
+    license: "MIT",
+    details: "https://github.com/gitim/react-native-sortable-list",
+    keywords: ["sortable","list","sort"],
     contributedBy: "qexon-ankit",
   }
 ];
