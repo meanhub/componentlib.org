@@ -3489,5 +3489,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/evetstech/react-native-settings-list",
     keywords: ["settings","list"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 141,
+    name: "react-native-tinder-swipe-cards",
+    install: {
+      packager: "npm",
+      url: "react-native-tinder-swipe-cards"
+    },
+    source: {
+      domain: "github",
+      url: "meteor-factory/react-native-tinder-swipe-cards"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/meteor-factory/react-native-tinder-swipe-cards#swipe-cards-for-react-native",
+      imgUrl: "https://github.com/meteor-factory/react-native-tinder-swipe-cards/raw/master/screenshots/swiper-cards.gif"
+    },
+    framework: "React Native",
+    version: "0.1.1",
+    license: "MIT",
+    details: "https://github.com/meteor-factory/react-native-tinder-swipe-cards",
+    keywords: ["tinder","swipe","cards"],
+    contributedBy: "qexon-ankit",
   }
 ];
