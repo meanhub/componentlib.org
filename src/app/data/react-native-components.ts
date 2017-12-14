@@ -3650,5 +3650,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-community/react-native-modal",
     keywords: ["modal","popup","dialog"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 148,
+    name: "react-native-social-share",
+    install: {
+      packager: "npm",
+      url: "react-native-social-share"
+    },
+    source: {
+      domain: "github",
+      url: "doefler/react-native-social-share"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/doefler/react-native-social-share#react-native-social-share",
+      imgUrl: "https://raw.githubusercontent.com/doefler/react-native-social-share/master/animation-looping.gif"
+    },
+    framework: "React Native",
+    version: "1.4.0",
+    license: "MIT",
+    details: "https://github.com/doefler/react-native-social-share",
+    keywords: ["social","share","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
