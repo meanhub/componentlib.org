@@ -3282,5 +3282,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-component/react-native-smart-splash-screen",
     keywords: ["smart","splash","screen"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 132,
+    name: "lottie-react-native",
+    install: {
+      packager: "npm",
+      url: "lottie-react-native"
+    },
+    source: {
+      domain: "github",
+      url: "airbnb/lottie-react-native"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/airbnb/lottie-react-native#view-documentation-faq-help-examples-and-more-at-airbnbiolottie",
+      imgUrl: "https://github.com/airbnb/lottie-react-native/raw/master/docs/gifs/Example1.gif"
+    },
+    framework: "React Native",
+    version: "2.3.1",
+    license: "MIT",
+    details: "https://github.com/airbnb/lottie-react-native",
+    keywords: ["smart","splash","screen"],
+    contributedBy: "qexon-ankit",
   }
 ];
