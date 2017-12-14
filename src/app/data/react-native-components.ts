@@ -3558,5 +3558,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/mfrachet/rn-placeholder",
     keywords: ["placeholder","input"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 144,
+    name: "react-native-read-more-text",
+    install: {
+      packager: "npm",
+      url: "react-native-read-more-text"
+    },
+    source: {
+      domain: "github",
+      url: "expo/react-native-read-more-text"
+    },
+    demo: {
+      repl: "img",
+      url: "https://expo.io/@notbrent/read-more-text-example",
+      qrCode: "https://camo.githubusercontent.com/3ee614461a41c41b54b89f56431149817f62d3bc/68747470733a2f2f696d67342e686f7374696e67706963732e6e65742f706963732f323231383539616e64726f69642e676966"
+    },
+    framework: "React Native",
+    version: "1.0.0",
+    license: "MIT",
+    details: "https://github.com/expo/react-native-read-more-text",
+    keywords: ["read","text"],
+    contributedBy: "qexon-ankit",
   }
 ];
