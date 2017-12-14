@@ -3696,5 +3696,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/gre/react-native-view-shot",
     keywords: ["image","shot","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 150,
+    name: "react-native-sortable-listview",
+    install: {
+      packager: "npm",
+      url: "react-native-sortable-listview"
+    },
+    source: {
+      domain: "github",
+      url: "deanmcpherson/react-native-sortable-listview"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/deanmcpherson/react-native-sortable-listview#react-native-sortable-listview",
+      imgUrl: "https://raw.githubusercontent.com/deanmcpherson/react-native-sortable-listview/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.2.6",
+    license: "MIT",
+    details: "https://github.com/deanmcpherson/react-native-sortable-listview",
+    keywords: ["sortable","listview","list","view","sort"],
+    contributedBy: "qexon-ankit",
   }
 ];
