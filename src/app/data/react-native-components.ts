@@ -3259,5 +3259,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-parallax",
     keywords: ["parallax","image","scroll","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 132,
+    name: "react-native-smart-splash-screen",
+    install: {
+      packager: "npm",
+      url: "react-native-smart-splash-screen"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-component/react-native-smart-splash-screen"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-component/react-native-smart-splash-screen#preview",
+      imgUrl: "https://camo.githubusercontent.com/303f2aee2a7848223cd2c80a28821c7bd04b4ad5/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d73706c6173682d73637265656e2d707265766965772d696f732d76322e332e302e676966"
+    },
+    framework: "React Native",
+    version: "2.3.5",
+    license: "MIT",
+    details: "https://github.com/react-native-component/react-native-smart-splash-screen",
+    keywords: ["smart","splash","screen"],
+    contributedBy: "qexon-ankit",
   }
 ];
