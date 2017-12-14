@@ -3328,5 +3328,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/n4kz/react-native-pages",
     keywords: ["pages","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 134,
+    name: "react-native-intercom",
+    install: {
+      packager: "npm",
+      url: "react-native-intercom"
+    },
+    source: {
+      domain: "github",
+      url: "tinycreative/react-native-intercom"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/tinycreative/react-native-intercom#react-native-intercom",
+      imgUrl: "https://raw.githubusercontent.com/koenbok/Framer/master/extras/DeviceResources/iphone-6-silver.png"
+    },
+    framework: "React Native",
+    version: "9.0.0",
+    license: "MIT",
+    details: "https://facebook.github.io/tinycreative/react-native-intercom",
+    keywords: ["intercom","link"],
+    contributedBy: "qexon-ankit",
   }
 ];
