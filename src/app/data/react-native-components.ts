@@ -3351,5 +3351,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://facebook.github.io/tinycreative/react-native-intercom",
     keywords: ["intercom","link"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 135,
+    name: "react-native-check-box",
+    install: {
+      packager: "npm",
+      url: "react-native-check-box"
+    },
+    source: {
+      domain: "github",
+      url: "crazycodeboy/react-native-check-box"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/crazycodeboy/react-native-check-box#demo",
+      imgUrl: "https://raw.githubusercontent.com/crazycodeboy/react-native-check-box/master/examples/Screenshots/react-native-check-box-screenshots.gif"
+    },
+    framework: "React Native",
+    version: "1.0.0",
+    license: "MIT",
+    details: "https://facebook.github.io/crazycodeboy/react-native-check-box",
+    keywords: ["check","box","checkbox"],
+    contributedBy: "qexon-ankit",
   }
 ];
