@@ -3098,5 +3098,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/fullstackreact/react-native-oauth",
     keywords: ["oauth","auth","twitter","facebook","google","github","slack"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 125,
+    name: "react-native-calendar-picker",
+    install: {
+      packager: "npm",
+      url: "react-native-calendar-picker"
+    },
+    source: {
+      domain: "github",
+      url: "stephy/CalendarPicker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/stephy/CalendarPicker#react-native-calendar-picker",
+      imgUrl: "https://raw.githubusercontent.com/stephy/CalendarPicker/master/assets/basic-react-native-calendar-picker.gif"
+    },
+    framework: "React Native",
+    version: "5.11.0",
+    license: "MIT",
+    details: "https://github.com/stephy/CalendarPicker",
+    keywords: ["calendar","picker","date","datepicker"],
+    contributedBy: "qexon-ankit",
   }
 ];
