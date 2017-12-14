@@ -3457,14 +3457,37 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     },
     demo: {
       repl: "img",
-      url: "https://github.com/wix/react-native-keyboard-input#react-native-keyboard-input",
-      imgUrl: "https://github.com/wix/react-native-keyboard-input/raw/master/Supplementals/example2.gif"
+      url: "https://github.com/AlexanderZaytsev/react-native-i18n#manual-setup",
+      imgUrl: "https://github.com/AlexanderZaytsev/react-native-i18n/raw/master/docs/adding-locales.png?raw=true"
     },
     framework: "React Native",
     version: "2.0.9",
     license: "MIT",
     details: "https://github.com/AlexanderZaytsev/react-native-i18n",
     keywords: ["locale","i18n"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 140,
+    name: "react-native-settings-list",
+    install: {
+      packager: "npm",
+      url: "react-native-settings-list"
+    },
+    source: {
+      domain: "github",
+      url: "evetstech/react-native-settings-list"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/evetstech/react-native-settings-list#new-changesadditions",
+      imgUrl: "https://github.com/evetstech/react-native-settings-list/raw/master/documentation/auth.gif"
+    },
+    framework: "React Native",
+    version: "1.8.0",
+    license: "MIT",
+    details: "https://github.com/evetstech/react-native-settings-list",
+    keywords: ["settings","list"],
     contributedBy: "qexon-ankit",
   }
 ];
