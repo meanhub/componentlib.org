@@ -3303,7 +3303,30 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.3.1",
     license: "MIT",
     details: "https://github.com/airbnb/lottie-react-native",
-    keywords: ["smart","splash","screen"],
+    keywords: ["lottie"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 133,
+    name: "react-native-material-textfield",
+    install: {
+      packager: "npm",
+      url: "react-native-material-textfield"
+    },
+    source: {
+      domain: "github",
+      url: "n4kz/react-native-material-textfield"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/n4kz/react-native-material-textfield#react-native-material-textfield",
+      imgUrl: "https://cloud.githubusercontent.com/assets/2055622/24325711/eaa4ff08-11af-11e7-8550-2504c1580979.gif"
+    },
+    framework: "React Native",
+    version: "0.11.0",
+    license: "MIT",
+    details: "https://github.com/n4kz/react-native-material-textfield",
+    keywords: ["textfield","material","text","input"],
     contributedBy: "qexon-ankit",
   }
 ];
