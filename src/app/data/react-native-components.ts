@@ -3213,5 +3213,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/sohobloo/react-native-modal-dropdown",
     keywords: ["modal","dropdown","dialog","popup","select"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 130,
+    name: "react-native-menu",
+    install: {
+      packager: "npm",
+      url: "react-native-menu"
+    },
+    source: {
+      domain: "github",
+      url: "jaysoo/react-native-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jaysoo/react-native-menu#demo",
+      imgUrl: "https://github.com/jaysoo/react-native-menu#demo"
+    },
+    framework: "React Native",
+    version: "1.0.0",
+    license: "MIT",
+    details: "https://github.com/jaysoo/react-native-menu",
+    keywords: ["menu","dropdown","android","iOS","spinner"],
+    contributedBy: "qexon-ankit",
   }
 ];
