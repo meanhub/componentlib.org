@@ -3075,5 +3075,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-component/react-native-smart-badge",
     keywords: ["smart","badge"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 124,
+    name: "react-native-oauth",
+    install: {
+      packager: "npm",
+      url: "react-native-oauth"
+    },
+    source: {
+      domain: "github",
+      url: "fullstackreact/react-native-oauth"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/fullstackreact/react-native-oauth#ios-setup",
+      imgUrl: "https://github.com/fullstackreact/react-native-oauth/raw/master/resources/header-search-paths.png"
+    },
+    framework: "React Native",
+    version: "2.1.15",
+    license: "MIT",
+    details: "https://github.com/fullstackreact/react-native-oauth",
+    keywords: ["oauth","auth","twitter","facebook","google","github","slack"],
+    contributedBy: "qexon-ankit",
   }
 ];
