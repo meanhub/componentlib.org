@@ -3236,5 +3236,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jaysoo/react-native-menu",
     keywords: ["menu","dropdown","android","iOS","spinner"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 131,
+    name: "react-native-parallax",
+    install: {
+      packager: "npm",
+      url: "react-native-parallax"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-parallax"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-parallax#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/8894786/81b493f8-33c3-11e5-9a5a-8695642c6ee7.gif"
+    },
+    framework: "React Native",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-parallax",
+    keywords: ["parallax","image","scroll","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
