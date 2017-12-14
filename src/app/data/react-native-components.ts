@@ -3627,5 +3627,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/ronak301/react-native-submit-button",
     keywords: ["submit","button"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 147,
+    name: "react-native-modal",
+    install: {
+      packager: "npm",
+      url: "react-native-modal"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-modal"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-modal#demo",
+      imgUrl: "https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif"
+    },
+    framework: "React Native",
+    version: "4.1.1",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-modal",
+    keywords: ["modal","popup","dialog"],
+    contributedBy: "qexon-ankit",
   }
 ];
