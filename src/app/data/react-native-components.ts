@@ -3167,5 +3167,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/terrillo/rn-apple-healthkit",
     keywords: ["healthkit","health","kit"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 128,
+    name: "react-native-signature-capture",
+    install: {
+      packager: "npm",
+      url: "react-native-signature-capture"
+    },
+    source: {
+      domain: "github",
+      url: "RepairShopr/react-native-signature-capture"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/RepairShopr/react-native-signature-capture#ios",
+      imgUrl: "https://camo.githubusercontent.com/9dcc8bbc2cc2ffa7bdf0ce2ca9af8783edd251c6/687474703a2f2f692e67697068792e636f6d2f336f456475497957623438577333625375632e676966"
+    },
+    framework: "React Native",
+    version: "0.4.9",
+    license: "MIT",
+    details: "https://github.com/RepairShopr/react-native-signature-capture",
+    keywords: ["signature","capture","sign"],
+    contributedBy: "qexon-ankit",
   }
 ];
