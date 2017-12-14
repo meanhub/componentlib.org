@@ -3604,5 +3604,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/gitim/react-native-sortable-list",
     keywords: ["sortable","list","sort"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 146,
+    name: "react-native-submit-button",
+    install: {
+      packager: "npm",
+      url: "react-native-submit-button"
+    },
+    source: {
+      domain: "github",
+      url: "ronak301/react-native-submit-button"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/ronak301/react-native-submit-button#react-native-submit-button",
+      imgUrl: "https://github.com/ronak301/react-native-submit-button/raw/master/example/images/out.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "1.1.0",
+    license: "MIT",
+    details: "https://github.com/ronak301/react-native-submit-button",
+    keywords: ["submit","button"],
+    contributedBy: "qexon-ankit",
   }
 ];
