@@ -3397,5 +3397,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/FuYaoDe/react-native-app-intro",
     keywords: ["app","intro","parallax","effect","sheet","drive"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 137,
+    name: "react-native-segmented-control-tab",
+    install: {
+      packager: "npm",
+      url: "react-native-segmented-control-tab"
+    },
+    source: {
+      domain: "github",
+      url: "kirankalyan5/react-native-segmented-control-tab"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/kirankalyan5/react-native-segmented-control-tab#screenshots",
+      imgUrl: "https://camo.githubusercontent.com/97cff09e6e3a409b6a507b50a1c132f8edf40058/687474703a2f2f7331332e706f7374696d672e6f72672f6864386235337264332f73637265656e312e706e67"
+    },
+    framework: "React Native",
+    version: "3.2.1",
+    license: "MIT",
+    details: "https://github.com/kirankalyan5/react-native-segmented-control-tab",
+    keywords: ["control","segmented","tab"],
+    contributedBy: "qexon-ankit",
   }
 ];
