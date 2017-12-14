@@ -3673,5 +3673,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/doefler/react-native-social-share",
     keywords: ["social","share","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 149,
+    name: "react-native-view-shot",
+    install: {
+      packager: "npm",
+      url: "react-native-view-shot"
+    },
+    source: {
+      domain: "github",
+      url: "gre/react-native-view-shot"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gre/react-native-view-shot#react-native-view-shot--",
+      imgUrl: "https://github.com/gre/react-native-view-shot/raw/master/example/docs/recursive.gif"
+    },
+    framework: "React Native",
+    version: "2.2.0",
+    license: "MIT",
+    details: "https://github.com/gre/react-native-view-shot",
+    keywords: ["image","shot","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
