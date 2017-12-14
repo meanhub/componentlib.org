@@ -3420,5 +3420,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/kirankalyan5/react-native-segmented-control-tab",
     keywords: ["control","segmented","tab"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 138,
+    name: "react-native-keyboard-input",
+    install: {
+      packager: "npm",
+      url: "react-native-keyboard-input"
+    },
+    source: {
+      domain: "github",
+      url: "wix/react-native-keyboard-input"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-keyboard-input#react-native-keyboard-input",
+      imgUrl: "https://github.com/wix/react-native-keyboard-input/raw/master/Supplementals/example2.gif"
+    },
+    framework: "React Native",
+    version: "4.0.0",
+    license: "MIT",
+    details: "https://github.com/wix/react-native-keyboard-input",
+    keywords: ["keyboard","input","text"],
+    contributedBy: "qexon-ankit",
   }
 ];
