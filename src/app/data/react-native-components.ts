@@ -3144,5 +3144,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/FaridSafi/react-native-gifted-chat",
     keywords: ["gifted","chat","ui","messenger"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 127,
+    name: "rn-apple-healthkit",
+    install: {
+      packager: "npm",
+      url: "rn-apple-healthkit"
+    },
+    source: {
+      domain: "github",
+      url: "terrillo/rn-apple-healthkit"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/terrillo/rn-apple-healthkit#manual-installation",
+      imgUrl: "https://camo.githubusercontent.com/1cb56a7e2755ae610d10e2e97340cb3fbb2d9a5e/68747470733a2f2f692e696d6775722e636f6d2f654f43434379762e706e67"
+    },
+    framework: "React Native",
+    version: "0.6.1",
+    license: "MIT",
+    details: "https://github.com/terrillo/rn-apple-healthkit",
+    keywords: ["healthkit","health","kit"],
+    contributedBy: "qexon-ankit",
   }
 ];
