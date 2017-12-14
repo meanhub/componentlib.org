@@ -3443,5 +3443,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/wix/react-native-keyboard-input",
     keywords: ["keyboard","input","text"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 139,
+    name: "react-native-i18n",
+    install: {
+      packager: "npm",
+      url: "react-native-i18n"
+    },
+    source: {
+      domain: "github",
+      url: "AlexanderZaytsev/react-native-i18n"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-keyboard-input#react-native-keyboard-input",
+      imgUrl: "https://github.com/wix/react-native-keyboard-input/raw/master/Supplementals/example2.gif"
+    },
+    framework: "React Native",
+    version: "2.0.9",
+    license: "MIT",
+    details: "https://github.com/AlexanderZaytsev/react-native-i18n",
+    keywords: ["locale","i18n"],
+    contributedBy: "qexon-ankit",
   }
 ];
