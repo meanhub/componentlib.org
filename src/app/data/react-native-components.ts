@@ -3765,5 +3765,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/lelandrichardson/react-native-parallax-view",
     keywords: ["parallax","view","scrollview","vertical"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 153,
+    name: "react-native-collapsible",
+    install: {
+      packager: "npm",
+      url: "react-native-collapsible"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-collapsible"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-collapsible#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/8047315/0237ca2c-0e44-11e5-9a16-1da052406eb0.gif"
+    },
+    framework: "React Native",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-collapsible",
+    keywords: ["collapsible","collapsed","toggling","arrows"],
+    contributedBy: "qexon-ankit",
   }
 ];
