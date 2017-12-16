@@ -3788,5 +3788,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-collapsible",
     keywords: ["collapsible","collapsed","toggling","arrows"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 154,
+    name: "tcomb-form-native",
+    install: {
+      packager: "npm",
+      url: "tcomb-form-native"
+    },
+    source: {
+      domain: "github",
+      url: "gcanti/tcomb-form-native"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gcanti/tcomb-form-native#example",
+      imgUrl: "https://github.com/gcanti/tcomb-form-native/raw/master/docs/images/result.png"
+    },
+    framework: "React Native",
+    version: "0.6.11",
+    license: "MIT",
+    details: "https://github.com/gcanti/tcomb-form-native",
+    keywords: ["tcomb","form"],
+    contributedBy: "qexon-ankit",
   }
 ];
