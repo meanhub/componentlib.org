@@ -3811,5 +3811,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/gcanti/tcomb-form-native",
     keywords: ["tcomb","form"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 155,
+    name: "react-native-privacy-snapshot",
+    install: {
+      packager: "npm",
+      url: "react-native-privacy-snapshot"
+    },
+    source: {
+      domain: "github",
+      url: "kayla-tech/react-native-privacy-snapshot"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/kayla-tech/react-native-privacy-snapshot#privacysnapshotenabledfalse",
+      imgUrl: "https://github.com/kayla-tech/react-native-privacy-snapshot/raw/develop/screenshot1.png"
+    },
+    framework: "React Native",
+    version: "0.0.0",
+    license: "MIT",
+    details: "https://github.com/kayla-tech/react-native-privacy-snapshot",
+    keywords: ["privacy","snapshot","snap","security"],
+    contributedBy: "qexon-ankit",
   }
 ];
