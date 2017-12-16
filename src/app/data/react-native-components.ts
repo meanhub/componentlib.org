@@ -3926,5 +3926,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/halilb/react-native-photo-browser",
     keywords: ["browser","photo","image"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 160,
+    name: "react-native-cell-components",
+    install: {
+      packager: "npm",
+      url: "react-native-cell-components"
+    },
+    source: {
+      domain: "github",
+      url: "lodev09/react-native-cell-components"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/lodev09/react-native-cell-components#rn-cell-components",
+      imgUrl: "https://raw.githubusercontent.com/lodev09/react-native-cell-components/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.4.1",
+    license: "MIT",
+    details: "https://github.com/lodev09/react-native-cell-components",
+    keywords: ["cell","components","taginput"],
+    contributedBy: "qexon-ankit",
   }
 ];
