@@ -3880,5 +3880,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/halilb/react-native-textinput-effects",
     keywords: ["textinput","text","input","effects"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 158,
+    name: "react-native-bottom-sheet-behavior",
+    install: {
+      packager: "npm",
+      url: "react-native-bottom-sheet-behavior"
+    },
+    source: {
+      domain: "github",
+      url: "cesardeazevedo/react-native-bottom-sheet-behavior"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior#demo-v100-beta-anchor-state-support",
+      imgUrl: "https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif"
+    },
+    framework: "React Native",
+    version: "1.0.0-beta.7",
+    license: "MIT",
+    details: "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior",
+    keywords: ["bottom","sheet","behavior"],
+    contributedBy: "qexon-ankit",
   }
 ];
