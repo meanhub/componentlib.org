@@ -3857,5 +3857,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/expo/react-native-fade-in-image",
     keywords: ["fade","fadein","image","style"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 157,
+    name: "react-native-textinput-effects",
+    install: {
+      packager: "npm",
+      url: "react-native-textinput-effects"
+    },
+    source: {
+      domain: "github",
+      url: "halilb/react-native-textinput-effects"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/halilb/react-native-textinput-effects#react-native-textinput-effects",
+      imgUrl: "https://github.com/halilb/react-native-textinput-effects/raw/master/screenshots/full.gif"
+    },
+    framework: "React Native",
+    version: "0.4.2",
+    license: "MIT",
+    details: "https://github.com/halilb/react-native-textinput-effects",
+    keywords: ["textinput","text","input","effects"],
+    contributedBy: "qexon-ankit",
   }
 ];
