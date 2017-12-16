@@ -3742,5 +3742,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/FaridSafi/react-native-gifted-form",
     keywords: ["gifted","form"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 152,
+    name: "react-native-parallax-view",
+    install: {
+      packager: "npm",
+      url: "react-native-parallax-view"
+    },
+    source: {
+      domain: "github",
+      url: "lelandrichardson/react-native-parallax-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/lelandrichardson/react-native-parallax-view#demo",
+      imgUrl: "https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966"
+    },
+    framework: "React Native",
+    version: "2.0.5",
+    license: "MIT",
+    details: "https://github.com/lelandrichardson/react-native-parallax-view",
+    keywords: ["parallax","view","scrollview","vertical"],
+    contributedBy: "qexon-ankit",
   }
 ];
