@@ -3834,5 +3834,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/kayla-tech/react-native-privacy-snapshot",
     keywords: ["privacy","snapshot","snap","security"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 156,
+    name: "react-native-fade-in-image",
+    install: {
+      packager: "npm",
+      url: "react-native-fade-in-image"
+    },
+    source: {
+      domain: "github",
+      url: "expo/react-native-fade-in-image"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://expo.io/@community/fade-in-image-example",
+      qrCode: "react-native-fade-in-image"
+    },
+    framework: "React Native",
+    version: "1.3.0",
+    license: "MIT",
+    details: "https://github.com/expo/react-native-fade-in-image",
+    keywords: ["fade","fadein","image","style"],
+    contributedBy: "qexon-ankit",
   }
 ];
