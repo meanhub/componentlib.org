@@ -3903,5 +3903,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior",
     keywords: ["bottom","sheet","behavior"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 159,
+    name: "react-native-photo-browser",
+    install: {
+      packager: "npm",
+      url: "react-native-photo-browser"
+    },
+    source: {
+      domain: "github",
+      url: "halilb/react-native-photo-browser"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/halilb/react-native-photo-browser#react-native-photo-browser",
+      imgUrl: "https://github.com/halilb/react-native-photo-browser/raw/master/screenshots/photo-browser.gif"
+    },
+    framework: "React Native",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com/halilb/react-native-photo-browser",
+    keywords: ["browser","photo","image"],
+    contributedBy: "qexon-ankit",
   }
 ];
