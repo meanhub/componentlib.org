@@ -4754,5 +4754,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/eyaleizenberg/react-native-floating-label-text-input",
     keywords: ["floating","label","text","input"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 196,
+    name: "react-native-material-bottom-navigation",
+    install: {
+      packager: "npm",
+      url: "react-native-material-bottom-navigation"
+    },
+    source: {
+      domain: "github",
+      url: "timomeh/react-native-material-bottom-navigation"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/timomeh/react-native-material-bottom-navigation#material-design-bottom-navigation-for-react-native",
+      imgUrl: "https://github.com/timomeh/react-native-material-bottom-navigation/raw/master/.github/white-4-tab.gif"
+    },
+    framework: "React Native",
+    version: "0.7.0",
+    license: "MIT",
+    details: "https://github.com/timomeh/react-native-material-bottom-navigation",
+    keywords: ["material","bottom","navigation"],
+    contributedBy: "qexon-ankit",
   }
 ];
