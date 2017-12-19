@@ -4455,5 +4455,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/zeljkoX/react-native-loading-placeholder",
     keywords: ["placeholder","loading","input"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 183,
+    name: "react-native-mentions",
+    install: {
+      packager: "npm",
+      url: "react-native-mentions"
+    },
+    source: {
+      domain: "github",
+      url: "harshq/react-native-mentions"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/harshq/react-native-mentions#demo",
+      imgUrl: "https://github.com/harshq/react-native-mentions/raw/master/screens/screen1.gif"
+    },
+    framework: "React Native",
+    version: "1.1.3",
+    license: "MIT",
+    details: "https://github.com/harshq/react-native-mentions",
+    keywords: ["textbox","mentions","suggest"],
+    contributedBy: "qexon-ankit",
   }
 ];
