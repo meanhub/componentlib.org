@@ -4087,5 +4087,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/sbycrosz/react-native-credit-card-input",
     keywords: ["credit","card","input"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 167,
+    name: "react-native-linear-gradient",
+    install: {
+      packager: "npm",
+      url: "react-native-linear-gradient"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-linear-gradient"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-linear-gradient#simple",
+      imgUrl: "https://raw.githubusercontent.com/react-native-community/react-native-linear-gradient/master/images/example.png"
+    },
+    framework: "React Native",
+    version: "2.3.0",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-linear-gradient",
+    keywords: ["iOS","linear","gradient"],
+    contributedBy: "qexon-ankit",
   }
 ];
