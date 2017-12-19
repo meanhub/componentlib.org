@@ -4363,5 +4363,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/MichaelCereda/react-native-form-generator",
     keywords: ["generator","form"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 179,
+    name: "react-native-photo-upload",
+    install: {
+      packager: "npm",
+      url: "react-native-photo-upload"
+    },
+    source: {
+      domain: "github",
+      url: "malsapp/react-native-photo-upload"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/malsapp/react-native-photo-upload#react-native-photo-upload",
+      imgUrl: "https://camo.githubusercontent.com/b0340f27e0a6314e818d595a4455df844bac2b64/687474703a2f2f672e7265636f726469742e636f2f65677a6d366c4c39366c2e676966"
+    },
+    framework: "React Native",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/malsapp/react-native-photo-upload",
+    keywords: ["photo","upload","image"],
+    contributedBy: "qexon-ankit",
   }
 ];
