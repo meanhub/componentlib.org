@@ -4294,5 +4294,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/root-two/react-native-drawer",
     keywords: ["drawer","animated","side menu","menu"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 176,
+    name: "react-native-viewpager",
+    install: {
+      packager: "npm",
+      url: "react-native-viewpager"
+    },
+    source: {
+      domain: "github",
+      url: "race604/react-native-viewpager"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/race604/react-native-viewpager#demo",
+      imgUrl: "https://github.com/race604/react-native-viewpager/raw/master/art/demo.jpg"
+    },
+    framework: "React Native",
+    version: "0.2.13",
+    license: "MIT",
+    details: "https://github.com/race604/react-native-viewpager",
+    keywords: ["viewpager","view","pager","page"],
+    contributedBy: "qexon-ankit",
   }
 ];
