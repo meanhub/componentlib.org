@@ -4478,5 +4478,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/harshq/react-native-mentions",
     keywords: ["textbox","mentions","suggest"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 184,
+    name: "rn-render-perfs",
+    install: {
+      packager: "npm",
+      url: "rn-render-perfs"
+    },
+    source: {
+      domain: "github",
+      url: "mfrachet/rn-render-perfs"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mfrachet/rn-render-perfs#installation",
+      imgUrl: "https://camo.githubusercontent.com/9e81d51db02d60ae1f2c0261b8540cc84d68490f/68747470733a2f2f696d67342e686f7374696e67706963732e6e65742f706963732f35343935333562616470657266732e676966"
+    },
+    framework: "React Native",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/mfrachet/rn-render-perfs",
+    keywords: ["lifecycles","controls","component"],
+    contributedBy: "qexon-ankit",
   }
 ];
