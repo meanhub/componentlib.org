@@ -4593,5 +4593,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-community/react-native-drawer-layout",
     keywords: ["drawer","layout","image","photo"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 189,
+    name: "react-native-viewpager-carousel",
+    install: {
+      packager: "npm",
+      url: "react-native-viewpager-carousel"
+    },
+    source: {
+      domain: "github",
+      url: "meinto/react-native-viewpager-carousel"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/meinto/react-native-viewpager-carousel#preview",
+      imgUrl: "https://camo.githubusercontent.com/869823c288168588656a82fdf1785dd0b034a40f/687474703a2f2f692e696d6775722e636f6d2f7572434a3658522e676966"
+    },
+    framework: "React Native",
+    version: "0.2.10",
+    license: "MIT",
+    details: "https://github.com/meinto/react-native-viewpager-carousel",
+    keywords: ["viewpager","pager","carousel","photo"],
+    contributedBy: "qexon-ankit",
   }
 ];
