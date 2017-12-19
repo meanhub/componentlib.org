@@ -4386,5 +4386,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/malsapp/react-native-photo-upload",
     keywords: ["photo","upload","image"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 180,
+    name: "react-native-carousel-control",
+    install: {
+      packager: "npm",
+      url: "react-native-carousel-control"
+    },
+    source: {
+      domain: "github",
+      url: "machadogj/react-native-carousel-control"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/machadogj/react-native-carousel-control#react-native-carousel-control",
+      imgUrl: "https://cloud.githubusercontent.com/assets/671212/13221426/1cc2d1fc-d95a-11e5-88d2-3c4d738814e9.gif"
+    },
+    framework: "React Native",
+    version: "2.0.1",
+    license: "MIT",
+    details: "https://github.com/machadogj/react-native-carousel-control",
+    keywords: ["carousel","control","slider","image","slide","photo"],
+    contributedBy: "qexon-ankit",
   }
 ];
