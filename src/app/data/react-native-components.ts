@@ -4501,5 +4501,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/mfrachet/rn-render-perfs",
     keywords: ["lifecycles","controls","component"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 185,
+    name: "react-native-hyperlink",
+    install: {
+      packager: "npm",
+      url: "react-native-hyperlink"
+    },
+    source: {
+      domain: "github",
+      url: "obipawan/react-native-hyperlink"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/obipawan/react-native-hyperlink#react-native-hyperlink",
+      imgUrl: "https://camo.githubusercontent.com/abea3c1c64ff3214c2e1cec3c04dab593d46fbe1/68747470733a2f2f63646e2e7261776769742e636f6d2f6f6269706177616e2f68797065726c696e6b2f6d61737465722f61737365742f73637265656e2e676966"
+    },
+    framework: "React Native",
+    version: "0.0.11",
+    license: "MIT",
+    details: "https://github.com/obipawan/react-native-hyperlink",
+    keywords: ["hyperlink","urls","fuzzy links","emails"],
+    contributedBy: "qexon-ankit",
   }
 ];
