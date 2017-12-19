@@ -4800,5 +4800,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/l-urence/react-native-autocomplete-input",
     keywords: ["autocomplete","input","text"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 198,
+    name: "react-native-md-textinput",
+    install: {
+      packager: "npm",
+      url: "react-native-md-textinput"
+    },
+    source: {
+      domain: "github",
+      url: "evblurbs/react-native-md-textinput"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/evblurbs/react-native-md-textinput#react-native-material-design-textinput",
+      imgUrl: "https://github.com/evblurbs/react-native-md-textinput/raw/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "2.0.4",
+    license: "MIT",
+    details: "https://github.com/evblurbs/react-native-md-textinput",
+    keywords: ["textinput","input","text"],
+    contributedBy: "qexon-ankit",
   }
 ];
