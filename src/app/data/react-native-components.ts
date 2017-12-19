@@ -4636,8 +4636,31 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     framework: "React Native",
     version: "1.6.0",
     license: "MIT",
-    details: "https://github.com/meinto/xgfe/react-native-datepicker",
+    details: "https://github.com/xgfe/react-native-datepicker",
     keywords: ["datepicker","date"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 191,
+    name: "react-native-root-modal",
+    install: {
+      packager: "npm",
+      url: "react-native-root-modal"
+    },
+    source: {
+      domain: "github",
+      url: "magicismight/react-native-root-modal"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/magicismight/react-native-root-modal#example",
+      imgUrl: "https://github.com/magicismight/react-native-root-modal/raw/master/Example/screenShoot.ios.gif"
+    },
+    framework: "React Native",
+    version: "2.2.0",
+    license: "MIT",
+    details: "https://github.com/magicismight/react-native-root-modal",
+    keywords: ["modal","root","dialog"],
     contributedBy: "qexon-ankit",
   }
 ];
