@@ -3949,5 +3949,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/lodev09/react-native-cell-components",
     keywords: ["cell","components","taginput"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 161,
+    name: "react-native-step-indicator",
+    install: {
+      packager: "npm",
+      url: "react-native-step-indicator"
+    },
+    source: {
+      domain: "github",
+      url: "24ark/react-native-step-indicator"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/24ark/react-native-step-indicator#react-native-step-indicator",
+      imgUrl: "https://github.com/24ark/react-native-step-indicator/raw/master/art/HorizontalStepIndicator.gif"
+    },
+    framework: "React Native",
+    version: "0.0.7",
+    license: "MIT",
+    details: "https://github.com/24ark/react-native-step-indicator",
+    keywords: ["step","slide","indicator"],
+    contributedBy: "qexon-ankit",
   }
 ];
