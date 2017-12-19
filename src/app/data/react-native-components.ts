@@ -4340,5 +4340,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/rgovindji/react-native-atoz-list",
     keywords: ["atoz","list","scroll","large lists"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 178,
+    name: "react-native-form-generator",
+    install: {
+      packager: "npm",
+      url: "react-native-form-generator"
+    },
+    source: {
+      domain: "github",
+      url: "MichaelCereda/react-native-form-generator"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/MichaelCereda/react-native-form-generator#react-native-form-generator",
+      imgUrl: "https://cloud.githubusercontent.com/assets/107390/16767512/1dfbf33c-4840-11e6-8085-1521b6d0c3ce.gif"
+    },
+    framework: "React Native",
+    version: "0.0.0",
+    license: "MIT",
+    details: "https://github.com/MichaelCereda/react-native-form-generator",
+    keywords: ["generator","form"],
+    contributedBy: "qexon-ankit",
   }
 ];
