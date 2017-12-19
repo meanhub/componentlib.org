@@ -4524,5 +4524,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/obipawan/react-native-hyperlink",
     keywords: ["hyperlink","urls","fuzzy links","emails"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 186,
+    name: "react-native-progress",
+    install: {
+      packager: "npm",
+      url: "react-native-progress"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-progress"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-progress#react-native-progress",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/11212043/64fb1420-8d01-11e5-9ec0-5e175a837c62.gif"
+    },
+    framework: "React Native",
+    version: "3.4.0",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-progress",
+    keywords: ["progress","bar","indicators","spinners"],
+    contributedBy: "qexon-ankit",
   }
 ];
