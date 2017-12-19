@@ -4041,5 +4041,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/callstack/react-native-fbads",
     keywords: ["facebook","ads","fb"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 165,
+    name: "react-native-mail",
+    install: {
+      packager: "npm",
+      url: "react-native-mail"
+    },
+    source: {
+      domain: "github",
+      url: "chirag04/react-native-mail"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/chirag04/react-native-mail#here-is-how-it-looks",
+      imgUrl: "https://github.com/chirag04/react-native-mail/raw/master/screenshot.png"
+    },
+    framework: "React Native",
+    version: "3.0.5",
+    license: "MIT",
+    details: "https://github.com/chirag04/react-native-mail",
+    keywords: ["mail","iOS","email"],
+    contributedBy: "qexon-ankit",
   }
 ];
