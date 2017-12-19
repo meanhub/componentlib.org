@@ -4018,5 +4018,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/alexbrillant/react-native-deck-swiper",
     keywords: ["swiper","deck","swipe"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 164,
+    name: "react-native-fbads",
+    install: {
+      packager: "npm",
+      url: "react-native-dfbads"
+    },
+    source: {
+      domain: "github",
+      url: "callstack/react-native-fbads"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/callstack/react-native-fbads#interstitial-ads",
+      imgUrl: "https://cloud.githubusercontent.com/assets/2464966/19014517/3cea1da2-87ef-11e6-9f5a-6f3dbccc18a2.png"
+    },
+    framework: "React Native",
+    version: "4.2.2",
+    license: "MIT",
+    details: "https://github.com/callstack/react-native-fbads",
+    keywords: ["facebook","ads","fb"],
+    contributedBy: "qexon-ankit",
   }
 ];
