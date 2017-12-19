@@ -4110,5 +4110,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-native-community/react-native-linear-gradient",
     keywords: ["iOS","linear","gradient"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 168,
+    name: "react-native-wordpress-editor",
+    install: {
+      packager: "npm",
+      url: "react-native-wordpress-editor"
+    },
+    source: {
+      domain: "github",
+      url: "wix/react-native-wordpress-editor"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/wix/react-native-wordpress-editor#react-native-wordpress-rich-text-editor",
+      imgUrl: "https://camo.githubusercontent.com/cc1ad95a33b088b03cb57d370acb5d73e1c2052e/687474703a2f2f692e696d6775722e636f6d2f6e46446a4b4f352e706e67"
+    },
+    framework: "React Native",
+    version: "2.0.1",
+    license: "MIT",
+    details: "https://github.com/wix/react-native-wordpress-editor",
+    keywords: ["wordpress","editor","plugin"],
+    contributedBy: "qexon-ankit",
   }
 ];
