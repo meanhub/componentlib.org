@@ -4777,5 +4777,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/timomeh/react-native-material-bottom-navigation",
     keywords: ["material","bottom","navigation"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 197,
+    name: "react-native-autocomplete-input",
+    install: {
+      packager: "npm",
+      url: "react-native-autocomplete-input"
+    },
+    source: {
+      domain: "github",
+      url: "l-urence/react-native-autocomplete-input"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/l-urence/react-native-autocomplete-input#react-native-autocomplete-input",
+      imgUrl: "https://raw.githubusercontent.com/l-urence/react-native-autocomplete-input/master/example.gif"
+    },
+    framework: "React Native",
+    version: "3.4.0",
+    license: "MIT",
+    details: "https://github.com/l-urence/react-native-autocomplete-input",
+    keywords: ["autocomplete","input","text"],
+    contributedBy: "qexon-ankit",
   }
 ];
