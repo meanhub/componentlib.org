@@ -4616,5 +4616,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/meinto/react-native-viewpager-carousel",
     keywords: ["viewpager","pager","carousel","photo"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 190,
+    name: "react-native-datepicker",
+    install: {
+      packager: "npm",
+      url: "react-native-datepicker"
+    },
+    source: {
+      domain: "github",
+      url: "xgfe/react-native-datepicker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/xgfe/react-native-datepicker#example",
+      imgUrl: "https://camo.githubusercontent.com/43bda9d273d7b56eda34e07902bf2d3ae0bb3bbd/687474703a2f2f786766652e6769746875622e696f2f72656163742d6e61746976652d646174657069636b65722f696d672f72656163742d6e61746976652d646174657069636b65722d616e64726f69642e676966"
+    },
+    framework: "React Native",
+    version: "1.6.0",
+    license: "MIT",
+    details: "https://github.com/meinto/xgfe/react-native-datepicker",
+    keywords: ["datepicker","date"],
+    contributedBy: "qexon-ankit",
   }
 ];
