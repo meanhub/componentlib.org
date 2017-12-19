@@ -4570,5 +4570,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/phil-r/react-native-looped-carousel",
     keywords: ["carousel","slider","image","photo"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 188,
+    name: "react-native-drawer-layout",
+    install: {
+      packager: "npm",
+      url: "react-native-drawer-layout"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-drawer-layout"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-drawer-layout#demo",
+      imgUrl: "https://raw.githubusercontent.com/react-native-community/react-native-drawer-layout/master/example.gif"
+    },
+    framework: "React Native",
+    version: "2.0.0",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-drawer-layout",
+    keywords: ["drawer","layout","image","photo"],
+    contributedBy: "qexon-ankit",
   }
 ];
