@@ -4133,5 +4133,51 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/wix/react-native-wordpress-editor",
     keywords: ["wordpress","editor","plugin"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 169,
+    name: "react-native-emoji-picker",
+    install: {
+      packager: "npm",
+      url: "react-native-emoji-picker"
+    },
+    source: {
+      domain: "github",
+      url: "yonahforst/react-native-emoji-picker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/yonahforst/react-native-emoji-picker#emoji-picker-for-react-native",
+      imgUrl: "https://github.com/yonahforst/react-native-emoji-picker/raw/master/animated-example.gif"
+    },
+    framework: "React Native",
+    version: "0.2.2",
+    license: "MIT",
+    details: "https://github.com/yonahforst/react-native-emoji-picker",
+    keywords: ["emoji","picker"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 170,
+    name: "react-native-photo-view",
+    install: {
+      packager: "npm",
+      url: "react-native-photo-view"
+    },
+    source: {
+      domain: "github",
+      url: "alwx/react-native-photo-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mwaterfall/MWPhotoBrowser#a-simple-ios-photo-and-video-browser-with-optional-grid-view-captions-and-selections",
+      imgUrl: "https://camo.githubusercontent.com/2f47c5ac3865bf4b09d3c77e2d325d5d5abf09fe/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657231742e706e67"
+    },
+    framework: "React Native",
+    version: "1.5.2",
+    license: "MIT",
+    details: "https://github.com/alwx/react-native-photo-view",
+    keywords: ["photo","view","image"],
+    contributedBy: "qexon-ankit",
   }
 ];
