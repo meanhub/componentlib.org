@@ -4662,5 +4662,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/magicismight/react-native-root-modal",
     keywords: ["modal","root","dialog"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 192,
+    name: "react-native-device-display",
+    install: {
+      packager: "npm",
+      url: "react-native-device-display"
+    },
+    source: {
+      domain: "github",
+      url: "kkjdaniel/react-native-device-display"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/kkjdaniel/react-native-device-display#-react-native-device-display",
+      imgUrl: "https://camo.githubusercontent.com/512307cc2141910f383dc5ac16a414f6977f44f4/687474703a2f2f692e696d6775722e636f6d2f524b595a6633692e676966"
+    },
+    framework: "React Native",
+    version: "1.0.4",
+    license: "MIT",
+    details: "https://github.com/kkjdaniel/react-native-device-display",
+    keywords: ["device","display","views"],
+    contributedBy: "qexon-ankit",
   }
 ];
