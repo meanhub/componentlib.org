@@ -4711,25 +4711,25 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
   },
   {
     id: 194,
-    name: "react-native-side-menu",
+    name: "react-native-webgl",
     install: {
       packager: "npm",
-      url: "react-native-side-menu"
+      url: "react-native-webgl"
     },
     source: {
       domain: "github",
-      url: "react-native-community/react-native-side-menu"
+      url: "react-community/react-native-webgl"
     },
     demo: {
       repl: "img",
       url: "https://github.com/react-native-community/react-native-side-menu#customizable-side-menu-for-react-native",
-      imgUrl: "https://camo.githubusercontent.com/aa4203d407bc63d3b04a08a2bcbc3b706397984a/687474703a2f2f6f6936312e74696e797069632e636f6d2f326e396c32647a2e6a7067"
+      imgUrl: "https://cloud.githubusercontent.com/assets/211411/9813786/eacfcc24-5888-11e5-8f9b-5a907a2cbb21.png"
     },
     framework: "React Native",
-    version: "1.1.3",
+    version: "0.8.0",
     license: "MIT",
-    details: "https://github.com/react-native-community/react-native-side-menu",
-    keywords: ["side","menu"],
+    details: "https://github.com/react-community/react-native-webgl",
+    keywords: ["webgl"],
     contributedBy: "qexon-ankit",
   }
 ];
