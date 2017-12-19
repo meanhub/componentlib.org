@@ -4409,5 +4409,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/machadogj/react-native-carousel-control",
     keywords: ["carousel","control","slider","image","slide","photo"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 181,
+    name: "react-native-gesture-recognizers",
+    install: {
+      packager: "npm",
+      url: "react-native-gesture-recognizers"
+    },
+    source: {
+      domain: "github",
+      url: "johanneslumpe/react-native-gesture-recognizers"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/johanneslumpe/react-native-gesture-recognizers#usage",
+      imgUrl: "https://camo.githubusercontent.com/b819f79724731abd59988bc5eb91272e682e5eb5/687474703a2f2f6c756d2e70652f72656163742d6e61746976652d676573747572652d7265636f676e697a6572732d70616e6e696e672e676966"
+    },
+    framework: "React Native",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/johanneslumpe/react-native-gesture-recognizers",
+    keywords: ["gesture","recognizers"],
+    contributedBy: "qexon-ankit",
   }
 ];
