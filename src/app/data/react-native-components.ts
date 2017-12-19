@@ -4248,5 +4248,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/archriss/react-native-snap-carousel",
     keywords: ["snap","carousel","slider"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 174,
+    name: "react-native-camera-roll-picker",
+    install: {
+      packager: "npm",
+      url: "react-native-camera-roll-picker"
+    },
+    source: {
+      domain: "github",
+      url: "jeanpan/react-native-camera-roll-picker"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jeanpan/react-native-camera-roll-picker#react-native-camera-roll-picker",
+      imgUrl: "https://raw.githubusercontent.com/jeanpan/react-native-camera-roll-picker/master/demo/demo.gif"
+    },
+    framework: "React Native",
+    version: "1.2.3",
+    license: "MIT",
+    details: "https://github.com/jeanpan/react-native-camera-roll-picker",
+    keywords: ["camera","roll","picker","image"],
+    contributedBy: "qexon-ankit",
   }
 ];
