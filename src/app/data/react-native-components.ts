@@ -4202,5 +4202,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-animatable",
     keywords: ["animatable","animate","table"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 172,
+    name: "react-native-button",
+    install: {
+      packager: "npm",
+      url: "react-native-button"
+    },
+    source: {
+      domain: "github",
+      url: "APSL/react-native-button"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/APSL/react-native-button#apsl-react-native-button",
+      imgUrl: "https://raw.githubusercontent.com/wiki/APSL/react-native-button/button.png"
+    },
+    framework: "React Native",
+    version: "3.1.0",
+    license: "MIT",
+    details: "https://github.com/APSL/react-native-button",
+    keywords: ["button","input","style"],
+    contributedBy: "qexon-ankit",
   }
 ];
