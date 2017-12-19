@@ -4432,5 +4432,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/johanneslumpe/react-native-gesture-recognizers",
     keywords: ["gesture","recognizers"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 182,
+    name: "react-native-loading-placeholder",
+    install: {
+      packager: "npm",
+      url: "react-native-loading-placeholder"
+    },
+    source: {
+      domain: "github",
+      url: "zeljkoX/react-native-loading-placeholder"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/zeljkoX/react-native-loading-placeholder#demo",
+      imgUrl: "https://github.com/zeljkoX/react-native-loading-placeholder/raw/master/demo/react-native-loading-placeholder.gif"
+    },
+    framework: "React Native",
+    version: "0.0.5",
+    license: "MIT",
+    details: "https://github.com/zeljkoX/react-native-loading-placeholder",
+    keywords: ["placeholder","loading","input"],
+    contributedBy: "qexon-ankit",
   }
 ];
