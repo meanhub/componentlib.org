@@ -4708,5 +4708,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-vector-icons",
     keywords: ["vector","icons","buttons","logos","nav","tab","bar"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 194,
+    name: "react-native-side-menu",
+    install: {
+      packager: "npm",
+      url: "react-native-side-menu"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-community/react-native-side-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-community/react-native-side-menu#customizable-side-menu-for-react-native",
+      imgUrl: "https://camo.githubusercontent.com/aa4203d407bc63d3b04a08a2bcbc3b706397984a/687474703a2f2f6f6936312e74696e797069632e636f6d2f326e396c32647a2e6a7067"
+    },
+    framework: "React Native",
+    version: "1.1.3",
+    license: "MIT",
+    details: "https://github.com/react-native-community/react-native-side-menu",
+    keywords: ["side","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
