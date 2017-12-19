@@ -4064,5 +4064,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/chirag04/react-native-mail",
     keywords: ["mail","iOS","email"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 166,
+    name: "react-native-credit-card-input",
+    install: {
+      packager: "npm",
+      url: "react-native-credit-card-input"
+    },
+    source: {
+      domain: "github",
+      url: "sbycrosz/react-native-credit-card-input"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sbycrosz/react-native-credit-card-input#react-native-credit-card-input",
+      imgUrl: "https://github.com/sbycrosz/react-native-credit-card-input/raw/master/preview-ios.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "0.3.3",
+    license: "MIT",
+    details: "https://github.com/sbycrosz/react-native-credit-card-input",
+    keywords: ["credit","card","input"],
+    contributedBy: "qexon-ankit",
   }
 ];
