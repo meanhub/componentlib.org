@@ -4731,5 +4731,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/react-community/react-native-webgl",
     keywords: ["webgl"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 195,
+    name: "react-native-floating-label-text-input",
+    install: {
+      packager: "npm",
+      url: "react-native-floating-label-text-input"
+    },
+    source: {
+      domain: "github",
+      url: "eyaleizenberg/react-native-floating-label-text-input"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/eyaleizenberg/react-native-floating-label-text-input#react-native-floating-label-text-input",
+      imgUrl: "https://camo.githubusercontent.com/c6e6cc357ddace4568caa73feb83ccb24ec34990/687474703a2f2f692e696d6775722e636f6d2f356464644e69782e676966"
+    },
+    framework: "React Native",
+    version: "0.1.5",
+    license: "MIT",
+    details: "https://github.com/eyaleizenberg/react-native-floating-label-text-input",
+    keywords: ["floating","label","text","input"],
+    contributedBy: "qexon-ankit",
   }
 ];
