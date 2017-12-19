@@ -4823,5 +4823,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/evblurbs/react-native-md-textinput",
     keywords: ["textinput","input","text"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 199,
+    name: "react-native-google-places-autocomplete",
+    install: {
+      packager: "npm",
+      url: "react-native-google-places-autocomplete"
+    },
+    source: {
+      domain: "github",
+      url: "FaridSafi/react-native-google-places-autocomplete"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/FaridSafi/react-native-google-places-autocomplete#react-native-google-places-autocomplete",
+      imgUrl: "https://raw.githubusercontent.com/FaridSafi/react-native-google-places-autocomplete/master/Assets/screenshot.png"
+    },
+    framework: "React Native",
+    version: "1.3.6",
+    license: "MIT",
+    details: "https://github.com/FaridSafi/react-native-google-places-autocomplete",
+    keywords: ["google","places","autocomplete"],
+    contributedBy: "qexon-ankit",
   }
 ];
