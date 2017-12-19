@@ -4179,5 +4179,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/alwx/react-native-photo-view",
     keywords: ["photo","view","image"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 171,
+    name: "react-native-animatable",
+    install: {
+      packager: "npm",
+      url: "react-native-animatable"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-animatable"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-animatable#attention-seekers",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/10590307/ef73b1ba-767d-11e5-8fb9-9779d3a53a50.gif"
+    },
+    framework: "React Native",
+    version: "1.2.4",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-animatable",
+    keywords: ["animatable","animate","table"],
+    contributedBy: "qexon-ankit",
   }
 ];
