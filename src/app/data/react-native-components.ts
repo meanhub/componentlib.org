@@ -4547,5 +4547,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-progress",
     keywords: ["progress","bar","indicators","spinners"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 187,
+    name: "react-native-looped-carousel",
+    install: {
+      packager: "npm",
+      url: "react-native-looped-carousel"
+    },
+    source: {
+      domain: "github",
+      url: "phil-r/react-native-looped-carousel"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/phil-r/react-native-looped-carousel#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/577316/18456263/d6b977e2-794f-11e6-878f-5737355111ac.gif"
+    },
+    framework: "React Native",
+    version: "0.1.7",
+    license: "MIT",
+    details: "https://github.com/phil-r/react-native-looped-carousel",
+    keywords: ["carousel","slider","image","photo"],
+    contributedBy: "qexon-ankit",
   }
 ];
