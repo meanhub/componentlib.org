@@ -4685,5 +4685,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/kkjdaniel/react-native-device-display",
     keywords: ["device","display","views"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 193,
+    name: "react-native-vector-icons",
+    install: {
+      packager: "npm",
+      url: "react-native-vector-icons"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-vector-icons"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-vector-icons#examples",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/8903470/a9fe6b46-3458-11e5-901f-98b7b676d0d3.png"
+    },
+    framework: "React Native",
+    version: "4.4.2",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-vector-icons",
+    keywords: ["vector","icons","buttons","logos","nav","tab","bar"],
+    contributedBy: "qexon-ankit",
   }
 ];
