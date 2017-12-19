@@ -4225,5 +4225,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/APSL/react-native-button",
     keywords: ["button","input","style"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 173,
+    name: "react-native-snap-carousel",
+    install: {
+      packager: "npm",
+      url: "react-native-snap-carousel"
+    },
+    source: {
+      domain: "github",
+      url: "archriss/react-native-snap-carousel"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/archriss/react-native-snap-carousel#parallaximage-component",
+      imgUrl: "https://camo.githubusercontent.com/0b53afce7b3e1962a1d09cc02f875a19eed40e53/687474703a2f2f692e696d6775722e636f6d2f366949623453522e676966"
+    },
+    framework: "React Native",
+    version: "3.4.0",
+    license: "MIT",
+    details: "https://github.com/archriss/react-native-snap-carousel",
+    keywords: ["snap","carousel","slider"],
+    contributedBy: "qexon-ankit",
   }
 ];
