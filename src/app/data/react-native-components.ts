@@ -4271,5 +4271,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jeanpan/react-native-camera-roll-picker",
     keywords: ["camera","roll","picker","image"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 175,
+    name: "react-native-drawer",
+    install: {
+      packager: "npm",
+      url: "react-native-drawer"
+    },
+    source: {
+      domain: "github",
+      url: "root-two/react-native-drawer"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/root-two/react-native-drawer#react-native-drawer",
+      imgUrl: "https://raw.githubusercontent.com/rt2zz/react-native-drawer/master/examples/rn-drawer.gif"
+    },
+    framework: "React Native",
+    version: "2.5.0",
+    license: "MIT",
+    details: "https://github.com/root-two/react-native-drawer",
+    keywords: ["drawer","animated","side menu","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
