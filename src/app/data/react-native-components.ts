@@ -4846,5 +4846,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/FaridSafi/react-native-google-places-autocomplete",
     keywords: ["google","places","autocomplete"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 200,
+    name: "react-native-percentage-circle",
+    install: {
+      packager: "npm",
+      url: "react-native-percentage-circle"
+    },
+    source: {
+      domain: "github",
+      url: "JackPu/react-native-percentage-circle"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/FaridSafi/react-native-google-places-autocomplete#react-native-google-places-autocomplete",
+      imgUrl: "https://raw.githubusercontent.com/FaridSafi/react-native-google-places-autocomplete/master/Assets/screenshot.png"
+    },
+    framework: "React Native",
+    version: "1.0.6",
+    license: "MIT",
+    details: "https://github.com/JackPu/react-native-percentage-circle",
+    keywords: ["percentage","circle","draw"],
+    contributedBy: "qexon-ankit",
   }
 ];
