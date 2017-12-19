@@ -4317,5 +4317,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/race604/react-native-viewpager",
     keywords: ["viewpager","view","pager","page"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 177,
+    name: "react-native-atoz-list",
+    install: {
+      packager: "npm",
+      url: "react-native-atoz-list"
+    },
+    source: {
+      domain: "github",
+      url: "rgovindji/react-native-atoz-list"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/rgovindji/react-native-atoz-list",
+      imgUrl: "https://camo.githubusercontent.com/899e5ae6d856f017c66d03c6e33240ee522f58de/687474703a2f2f692e696d6775722e636f6d2f384a50556e74352e676966"
+    },
+    framework: "React Native",
+    version: "1.0.2",
+    license: "MIT",
+    details: "https://github.com/rgovindji/react-native-atoz-list",
+    keywords: ["atoz","list","scroll","large lists"],
+    contributedBy: "qexon-ankit",
   }
 ];
