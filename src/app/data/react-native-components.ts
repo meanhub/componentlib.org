@@ -3995,5 +3995,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/dancormier/react-native-swipeout",
     keywords: ["swipeout","slide","swipe"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 163,
+    name: "react-native-deck-swiper",
+    install: {
+      packager: "npm",
+      url: "react-native-deck-swiper"
+    },
+    source: {
+      domain: "github",
+      url: "alexbrillant/react-native-deck-swiper"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/alexbrillant/react-native-deck-swiper#preview",
+      imgUrl: "https://github.com/alexbrillant/react-native-deck-swiper/raw/master/animation.gif"
+    },
+    framework: "React Native",
+    version: "1.4.5",
+    license: "MIT",
+    details: "https://github.com/alexbrillant/react-native-deck-swiper",
+    keywords: ["swiper","deck","swipe"],
+    contributedBy: "qexon-ankit",
   }
 ];
