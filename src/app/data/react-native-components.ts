@@ -3972,5 +3972,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/24ark/react-native-step-indicator",
     keywords: ["step","slide","indicator"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 162,
+    name: "react-native-swipeout",
+    install: {
+      packager: "npm",
+      url: "react-native-swipeout"
+    },
+    source: {
+      domain: "github",
+      url: "dancormier/react-native-swipeout"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/dancormier/react-native-swipeout#react-native-swipeout",
+      imgUrl: "https://camo.githubusercontent.com/b48b5dfb4a8ca88cb1408a9a0ff5aecd8f92ff4b/687474703a2f2f692e696d6775722e636f6d2f6f43514c4e46432e676966"
+    },
+    framework: "React Native",
+    version: "2.2.2",
+    license: "MIT",
+    details: "https://github.com/dancormier/react-native-swipeout",
+    keywords: ["swipeout","slide","swipe"],
+    contributedBy: "qexon-ankit",
   }
 ];
