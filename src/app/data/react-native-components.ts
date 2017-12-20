@@ -4869,5 +4869,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/JackPu/react-native-percentage-circle",
     keywords: ["percentage","circle","draw"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 201,
+    name: "react-native-foldview",
+    install: {
+      packager: "npm",
+      url: "react-native-foldview"
+    },
+    source: {
+      domain: "github",
+      url: "jmurzy/react-native-foldview"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jmurzy/react-native-foldview#react-native-foldview----",
+      imgUrl: "https://raw.githubusercontent.com/jmurzy/react-native-foldview/master/.github/screenshot.gif"
+    },
+    framework: "React Native",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/jmurzy/react-native-foldview",
+    keywords: ["foldview","view","list"],
+    contributedBy: "qexon-ankit",
   }
 ];
