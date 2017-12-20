@@ -5076,5 +5076,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/meinto/react-native-mirror",
     keywords: ["mirror"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 210,
+    name: "pouchdb-react-native",
+    install: {
+      packager: "npm",
+      url: "pouchdb-react-native"
+    },
+    source: {
+      domain: "github",
+      url: "stockulus/pouchdb-react-native"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/stockulus/pouchdb-react-native#pouchdb-react-native",
+      imgUrl: "https://raw.githubusercontent.com/stockulus/pouchdb-react-native/master/static/pouchdb-react-native.png"
+    },
+    framework: "React Native",
+    version: "6.3.4",
+    license: "MIT",
+    details: "https://pouchdb.com/",
+    keywords: ["pouchdb","db"],
+    contributedBy: "qexon-ankit",
   }
 ];
