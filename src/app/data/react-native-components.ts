@@ -4892,5 +4892,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jmurzy/react-native-foldview",
     keywords: ["foldview","view","list"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 202,
+    name: "react-native-page-control",
+    install: {
+      packager: "npm",
+      url: "react-native-page-control"
+    },
+    source: {
+      domain: "github",
+      url: "silentcloud/react-native-page-control"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/silentcloud/react-native-page-control#demo",
+      imgUrl: "https://camo.githubusercontent.com/3d89134f96846bca0feef1531948fdc3a531fcc8/687474703a2f2f73696c656e74636c6f75642e6769746875622e696f2f75706c6f61642f70616765636f6e74726f6c2e676966"
+    },
+    framework: "React Native",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/silentcloud/react-native-page-control",
+    keywords: ["page","control","ui"],
+    contributedBy: "qexon-ankit",
   }
 ];
