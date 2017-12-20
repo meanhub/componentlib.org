@@ -4938,5 +4938,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/bamlab/react-native-image-header-scroll-view",
     keywords: ["image","header","scroll","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 204,
+    name: "react-native-circular-action-menu",
+    install: {
+      packager: "npm",
+      url: "react-native-circular-action-menu"
+    },
+    source: {
+      domain: "github",
+      url: "/geremih/react-native-circular-action-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/geremih/react-native-circular-action-menu#react-native-circular-action-menu",
+      imgUrl: "https://camo.githubusercontent.com/cfcf06aedd8f8ede4830a06e3809d0f9d39677b5/687474703a2f2f692e67697068792e636f6d2f336f365a7436684e484f64336b56783461592e676966"
+    },
+    framework: "React Native",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com//geremih/react-native-circular-action-menu",
+    keywords: ["circular","action","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
