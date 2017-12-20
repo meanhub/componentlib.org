@@ -4948,7 +4948,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     },
     source: {
       domain: "github",
-      url: "/geremih/react-native-circular-action-menu"
+      url: "geremih/react-native-circular-action-menu"
     },
     demo: {
       repl: "img",
@@ -4958,8 +4958,31 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     framework: "React Native",
     version: "0.4.0",
     license: "MIT",
-    details: "https://github.com//geremih/react-native-circular-action-menu",
+    details: "https://github.com/geremih/react-native-circular-action-menu",
     keywords: ["circular","action","menu"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 205,
+    name: "react-native-modalbox",
+    install: {
+      packager: "npm",
+      url: "react-native-modalbox"
+    },
+    source: {
+      domain: "github",
+      url: "maxs15/react-native-modalbox"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/maxs15/react-native-modalbox#react-native-modalbox",
+      imgUrl: "https://camo.githubusercontent.com/5531ee3c2ffe93a2d07b1cbbfe61c59dfa066462/68747470733a2f2f692e696d6775722e636f6d2f515441596838312e676966"
+    },
+    framework: "React Native",
+    version: "1.4.2",
+    license: "MIT",
+    details: "https://github.com/maxs15/react-native-modalbox",
+    keywords: ["component","customizable","swipe","modal","box","modalbox"],
     contributedBy: "qexon-ankit",
   }
 ];
