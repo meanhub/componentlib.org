@@ -5053,5 +5053,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jodybrewster/react-native-linkedin-login",
     keywords: ["linkedin","login","social","auth"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 209,
+    name: "react-native-mirror",
+    install: {
+      packager: "npm",
+      url: "react-native-mirror"
+    },
+    source: {
+      domain: "github",
+      url: "meinto/react-native-mirror"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/meinto/react-native-mirror#react-native-mirror",
+      imgUrl: "https://camo.githubusercontent.com/f433d5deef7b49b43f4971f946548efebc111d8c/687474703a2f2f692e696d6775722e636f6d2f5837326e6434512e676966"
+    },
+    framework: "React Native",
+    version: "0.0.21",
+    license: "MIT",
+    details: "https://github.com/meinto/react-native-mirror",
+    keywords: ["mirror"],
+    contributedBy: "qexon-ankit",
   }
 ];
