@@ -5007,5 +5007,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/philipshurpik/react-native-animated-tabs",
     keywords: ["animated","tabs","swipe"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 207,
+    name: "react-native-micro-animated-button",
+    install: {
+      packager: "npm",
+      url: "react-native-micro-animated-button"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-micro-animated-button"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-micro-animated-button#react-native-micro-animated-button",
+      imgUrl: "https://raw.githubusercontent.com/sonaye/react-native-micro-animated-button/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.14",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-micro-animated-button",
+    keywords: ["animated","tabs","micro","button"],
+    contributedBy: "qexon-ankit",
   }
 ];
