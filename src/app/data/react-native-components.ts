@@ -4915,5 +4915,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/silentcloud/react-native-page-control",
     keywords: ["page","control","ui"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 203,
+    name: "react-native-image-header-scroll-view",
+    install: {
+      packager: "npm",
+      url: "react-native-image-header-scroll-view"
+    },
+    source: {
+      domain: "github",
+      url: "bamlab/react-native-image-header-scroll-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/bamlab/react-native-image-header-scroll-view#demo",
+      imgUrl: "https://github.com/bamlab/react-native-image-header-scroll-view/raw/master/readmeAssets/demoAndroid.gif"
+    },
+    framework: "React Native",
+    version: "0.6.2",
+    license: "MIT",
+    details: "https://github.com/bamlab/react-native-image-header-scroll-view",
+    keywords: ["image","header","scroll","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
