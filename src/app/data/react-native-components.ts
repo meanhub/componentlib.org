@@ -4984,5 +4984,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/maxs15/react-native-modalbox",
     keywords: ["component","customizable","swipe","modal","box","modalbox"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 206,
+    name: "react-native-animated-tabs",
+    install: {
+      packager: "npm",
+      url: "react-native-animated-tabs"
+    },
+    source: {
+      domain: "github",
+      url: "philipshurpik/react-native-animated-tabs"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/philipshurpik/react-native-animated-tabs#react-native-animated-tabs",
+      imgUrl: "https://github.com/philipshurpik/react-native-animated-tabs/raw/master/tabs.gif"
+    },
+    framework: "React Native",
+    version: "1.3.1",
+    license: "MIT",
+    details: "https://github.com/philipshurpik/react-native-animated-tabs",
+    keywords: ["animated","tabs","swipe"],
+    contributedBy: "qexon-ankit",
   }
 ];
