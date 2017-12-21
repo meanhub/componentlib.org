@@ -5582,5 +5582,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/naoufal/react-native-progress-hud",
     keywords: ["progress","hud","loader","spinner"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 232,
+    name: "react-native-statusbar-alert",
+    install: {
+      packager: "npm",
+      url: "react-native-statusbar-alert"
+    },
+    source: {
+      domain: "github",
+      url: "nestor/react-native-statusbar-alert"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gnestor/react-native-statusbar-alert#react-native-statusbar-alert",
+      imgUrl: "https://github.com/gnestor/react-native-statusbar-alert/raw/master/screenshots/react-native-statusbar-alert.mov.gif"
+    },
+    framework: "React Native",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com/nestor/react-native-statusbar-alert",
+    keywords: ["statusbar","alert","bar","notification"],
+    contributedBy: "qexon-ankit",
   }
 ];
