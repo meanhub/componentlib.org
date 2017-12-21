@@ -5375,5 +5375,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/sonaye/react-native-animated-swiper",
     keywords: ["animated","swiper","swipe"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 223,
+    name: "react-native-circular-slider",
+    install: {
+      packager: "npm",
+      url: "react-native-circular-slider"
+    },
+    source: {
+      domain: "github",
+      url: "bgryszko/react-native-circular-slider"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/bgryszko/react-native-circular-slider#react-native-circular-slider-radio_button",
+      imgUrl: "https://github.com/bgryszko/react-native-circular-slider/raw/master/screenshot.gif"
+    },
+    framework: "React Native",
+    version: "1.0.1",
+    license: "MIT",
+    details: "https://github.com/bgryszko/react-native-circular-slider",
+    keywords: ["circular","slider","slide"],
+    contributedBy: "qexon-ankit",
   }
 ];
