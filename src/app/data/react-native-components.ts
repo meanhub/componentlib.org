@@ -5122,5 +5122,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/chrisfisher/react-native-directed-scrollview",
     keywords: ["directed","scrollview","scroll","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 212,
+    name: "react-native-lightbox",
+    install: {
+      packager: "npm",
+      url: "react-native-lightbox"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-lightbox"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-lightbox#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/9074360/16eac5d6-3b09-11e5-90af-a69980e9f4be.gif"
+    },
+    framework: "React Native",
+    version: "0.7.0",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-lightbox",
+    keywords: ["lightbox","light","box"],
+    contributedBy: "qexon-ankit",
   }
 ];
