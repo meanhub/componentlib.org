@@ -5812,5 +5812,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/joinspontaneous/react-native-loading-spinner-overlay",
     keywords: ["loading","spinner","progress","overlay"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 242,
+    name: "react-native-gallery",
+    install: {
+      packager: "npm",
+      url: "react-native-gallery"
+    },
+    source: {
+      domain: "github",
+      url: "ldn0x7dc/react-native-gallery"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/ldn0x7dc/react-native-gallery#react-native-gallery",
+      imgUrl: "https://github.com/ldn0x7dc/react-native-gallery/raw/master/Demo/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.17",
+    license: "MIT",
+    details: "https://github.com/ldn0x7dc/react-native-gallery",
+    keywords: ["gallery","images","photos","gestures"],
+    contributedBy: "qexon-ankit",
   }
 ];
