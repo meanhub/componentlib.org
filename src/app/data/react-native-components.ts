@@ -5329,5 +5329,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/beefe/react-native-actionsheet",
     keywords: ["actionsheet","action","sheet"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 221,
+    name: "react-native-loader",
+    install: {
+      packager: "npm",
+      url: "react-native-loader"
+    },
+    source: {
+      domain: "github",
+      url: "mohebifar/react-native-loader"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mohebifar/react-native-loader#react-native-loader",
+      imgUrl: "https://camo.githubusercontent.com/4a7153d5b183714800eae556e585fc887b7b6a00/687474703a2f2f662e636c2e6c792f6974656d732f32573073334c3173334832573169326c337131342f72656163742d6e61746976652d6c6f616465722e676966"
+    },
+    framework: "React Native",
+    version: "1.2.1",
+    license: "MIT",
+    details: "https://github.com/mohebifar/react-native-loader",
+    keywords: ["loader","spinner","progress"],
+    contributedBy: "qexon-ankit",
   }
 ];
