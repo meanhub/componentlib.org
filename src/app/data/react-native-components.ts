@@ -5858,5 +5858,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/SoftZen/react-native-bouncy-drawer",
     keywords: ["drawer","images","photos","bouncy","effects"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 244,
+    name: "react-native-tableview-simple",
+    install: {
+      packager: "npm",
+      url: "react-native-tableview-simple"
+    },
+    source: {
+      domain: "github",
+      url: "Purii/react-native-tableview-simple"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/Purii/react-native-tableview-simple#react-native-tableview-simple",
+      imgUrl: "https://camo.githubusercontent.com/53aa84dc5f30baede3cc45e1edee9afcc98d0935/68747470733a2f2f7261772e6769746875622e636f6d2f50757269692f72656163742d6e61746976652d7461626c65766965772d73696d706c652f6d61737465722f73637265656e73686f7441626f757453637265656e2e706e67"
+    },
+    framework: "React Native",
+    version: "0.17.1",
+    license: "MIT",
+    details: "https://github.com/Purii/react-native-tableview-simple",
+    keywords: ["tableview","table","view","simple"],
+    contributedBy: "qexon-ankit",
   }
 ];
