@@ -5766,5 +5766,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/chirag04/react-native-tooltip",
     keywords: ["tooltip","ui","menu"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 240,
+    name: "gl-react",
+    install: {
+      packager: "npm",
+      url: "gl-react"
+    },
+    source: {
+      domain: "github",
+      url: "gre/gl-react"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/gre/gl-react#-gl-react-v3-alpha",
+      imgUrl: "https://cloud.githubusercontent.com/assets/211411/9386550/432492c6-475c-11e5-9328-f3d5187298c1.jpg"
+    },
+    framework: "React Native",
+    version: "0.0.0",
+    license: "MIT",
+    details: "https://gl-react-cookbook.surge.sh/",
+    keywords: ["webgl","shaders","effects","dom"],
+    contributedBy: "qexon-ankit",
   }
 ];
