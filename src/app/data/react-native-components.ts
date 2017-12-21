@@ -5283,5 +5283,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/williambout/react-native-proximity",
     keywords: ["proximity","proxy","sensor"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 219,
+    name: "react-native-actually-usable-prompt",
+    install: {
+      packager: "npm",
+      url: "react-native-actually-usable-prompt"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-actually-usable-prompt"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-actually-usable-prompt#react-native-actually-usable-prompt",
+      imgUrl: "https://github.com/sonaye/react-native-actually-usable-prompt/raw/master/example/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.10",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-actually-usable-prompt",
+    keywords: ["actually","usable","prompt"],
+    contributedBy: "qexon-ankit",
   }
 ];
