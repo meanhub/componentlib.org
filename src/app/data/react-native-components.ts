@@ -5789,5 +5789,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://gl-react-cookbook.surge.sh/",
     keywords: ["webgl","shaders","effects","dom"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 241,
+    name: "react-native-loading-spinner-overlay",
+    install: {
+      packager: "npm",
+      url: "react-native-loading-spinner-overlay"
+    },
+    source: {
+      domain: "github",
+      url: "joinspontaneous/react-native-loading-spinner-overlay"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/joinspontaneous/react-native-loading-spinner-overlay#react-native-loading-spinner-overlay",
+      imgUrl: "https://camo.githubusercontent.com/8d5f6085477bef4cfee5ea16effcb9dd92b84b47/68747470733a2f2f63646e2e7261776769742e636f6d2f6e696674796c6574747563652f72656163742d6e61746976652d6c6f6164696e672d7370696e6e65722d6f7665726c61792f6d61737465722f6d656469612f64656d6f2e676966"
+    },
+    framework: "React Native",
+    version: "0.5.2",
+    license: "MIT",
+    details: "https://github.com/joinspontaneous/react-native-loading-spinner-overlay",
+    keywords: ["loading","spinner","progress","overlay"],
+    contributedBy: "qexon-ankit",
   }
 ];
