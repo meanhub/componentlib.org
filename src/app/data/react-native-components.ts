@@ -5398,5 +5398,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/bgryszko/react-native-circular-slider",
     keywords: ["circular","slider","slide"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 224,
+    name: "react-native-clean-form",
+    install: {
+      packager: "npm",
+      url: "react-native-clean-form"
+    },
+    source: {
+      domain: "github",
+      url: "esbenp/react-native-clean-form"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/esbenp/react-native-clean-form#react-native-clean-form",
+      imgUrl: "https://github.com/esbenp/react-native-clean-form/raw/master/docs/normal.jpg"
+    },
+    framework: "React Native",
+    version: "0.4.4",
+    license: "MIT",
+    details: "https://github.com/esbenp/react-native-clean-form",
+    keywords: ["clean","form","immutablejs"],
+    contributedBy: "qexon-ankit",
   }
 ];
