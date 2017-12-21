@@ -5513,5 +5513,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/aksonov/react-native-tabs",
     keywords: ["tabs","view"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 229,
+    name: "react-native-searchbar",
+    install: {
+      packager: "npm",
+      url: "react-native-searchbar"
+    },
+    source: {
+      domain: "github",
+      url: "localz/react-native-searchbar"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/localz/react-native-searchbar#react-native-searchbar",
+      imgUrl: "https://github.com/localz/react-native-searchbar#react-native-searchbar"
+    },
+    framework: "React Native",
+    version: "1.13.0",
+    license: "MIT",
+    details: "https://github.com/localz/react-native-searchbar",
+    keywords: ["searchbar","search"],
+    contributedBy: "qexon-ankit",
   }
 ];
