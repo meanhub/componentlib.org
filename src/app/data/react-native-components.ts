@@ -5352,5 +5352,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/mohebifar/react-native-loader",
     keywords: ["loader","spinner","progress"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 222,
+    name: "react-native-animated-swiper",
+    install: {
+      packager: "npm",
+      url: "react-native-animated-swiper"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-animated-swiper"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-animated-swiper#react-native-animated-swiper",
+      imgUrl: "https://raw.githubusercontent.com/sonaye/react-native-animated-swiper/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.11",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-animated-swiper",
+    keywords: ["animated","swiper","swipe"],
+    contributedBy: "qexon-ankit",
   }
 ];
