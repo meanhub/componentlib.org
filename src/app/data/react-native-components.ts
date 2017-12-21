@@ -5720,5 +5720,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/BugiDev/react-native-calendar-strip",
     keywords: ["calendar","datepicker","date"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 238,
+    name: "react-native-ios-drag-drop",
+    install: {
+      packager: "npm",
+      url: "react-native-ios-drag-drop"
+    },
+    source: {
+      domain: "github",
+      url: "matt-oakes/react-native-ios-drag-drop"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/matt-oakes/react-native-ios-drag-drop#react-native-ios-drag-drop",
+      imgUrl: "https://camo.githubusercontent.com/e696d8aa351cf8e7ca1242d7290df055e2edabb4/68747470733a2f2f7261772e6769746875622e636f6d2f6d6174742d6f616b65732f72656163742d6e61746976652d696f732d647261672d64726f702f6d61737465722f696d616765732f647261676761626c652d73696e676c652d6974656d2e676966"
+    },
+    framework: "React Native",
+    version: "0.1.2",
+    license: "MIT",
+    details: "https://github.com/matt-oakes/react-native-ios-drag-drop",
+    keywords: ["drag","drop","dragview"],
+    contributedBy: "qexon-ankit",
   }
 ];
