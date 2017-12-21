@@ -5191,5 +5191,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/expo/react-native-action-sheet",
     keywords: ["action","sheet","ui"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 215,
+    name: "react-native-keyboard-spacer",
+    install: {
+      packager: "npm",
+      url: "react-native-keyboard-spacer"
+    },
+    source: {
+      domain: "github",
+      url: "Andr3wHur5t/react-native-keyboard-spacer"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://github.com/Andr3wHur5t/react-native-keyboard-spacer#react-native-keyboard-spacer",
+      imgUrl: "https://camo.githubusercontent.com/ef132cecc200ab3a5eec2b24021f5c02c44c4de4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a484a774c7959673775705479596f2f67697068792e676966"
+    },
+    framework: "React Native",
+    version: "0.4.1",
+    license: "MIT",
+    details: "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
+    keywords: ["keyboard","spacer","key"],
+    contributedBy: "qexon-ankit",
   }
 ];
