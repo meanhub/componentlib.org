@@ -5628,5 +5628,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/moschan/react-native-flip-card",
     keywords: ["flip","card","motion"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 234,
+    name: "react-native-falling-drawer",
+    install: {
+      packager: "npm",
+      url: "react-native-falling-drawer"
+    },
+    source: {
+      domain: "github",
+      url: "SoftZen/react-native-falling-drawer"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/SoftZen/react-native-falling-drawer#react-native-falling-drawer",
+      imgUrl: "https://raw.githubusercontent.com/SoftZen/react-native-falling-drawer/master/Example/falling_drawer.gif"
+    },
+    framework: "React Native",
+    version: "1.0.2",
+    license: "MIT",
+    details: "https://github.com/SoftZen/react-native-falling-drawer",
+    keywords: ["falling","drawer","ui"],
+    contributedBy: "qexon-ankit",
   }
 ];
