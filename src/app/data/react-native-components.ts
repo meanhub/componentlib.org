@@ -5444,5 +5444,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jorilallo/react-native-emoji",
     keywords: ["emoji"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 226,
+    name: "react-native-accordion",
+    install: {
+      packager: "npm",
+      url: "react-native-accordion"
+    },
+    source: {
+      domain: "github",
+      url: "naoufal/react-native-accordion"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/naoufal/react-native-accordion#react-native-accordion",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1627824/7762243/801c1e46-ffff-11e4-9a36-2183704b6ec6.gif"
+    },
+    framework: "React Native",
+    version: "1.0.1",
+    license: "MIT",
+    details: "https://github.com/naoufal/react-native-accordion",
+    keywords: ["accordion","tabs","slide"],
+    contributedBy: "qexon-ankit",
   }
 ];
