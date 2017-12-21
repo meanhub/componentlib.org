@@ -5651,5 +5651,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/SoftZen/react-native-falling-drawer",
     keywords: ["falling","drawer","ui"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 235,
+    name: "react-native-popover",
+    install: {
+      packager: "npm",
+      url: "react-native-popover"
+    },
+    source: {
+      domain: "github",
+      url: "jeanregisser/react-native-popover"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jeanregisser/react-native-popover#react-native-popover",
+      imgUrl: "https://raw.githubusercontent.com/jeanregisser/react-native-popover/master/Screenshots/animated.gif"
+    },
+    framework: "React Native",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/jeanregisser/react-native-popover",
+    keywords: ["popover","dialog","modal"],
+    contributedBy: "qexon-ankit",
   }
 ];
