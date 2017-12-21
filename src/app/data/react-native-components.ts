@@ -5214,5 +5214,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
     keywords: ["keyboard","spacer","key"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 216,
+    name: "react-native-material-design",
+    install: {
+      packager: "npm",
+      url: "react-native-material-design"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-material-design/react-native-material-design"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-material-design/react-native-material-design#examples",
+      imgUrl: "https://raw.githubusercontent.com/react-native-material-design/demo-app/master/resources/examples-1.jpg"
+    },
+    framework: "React Native",
+    version: "0.3.8",
+    license: "MIT",
+    details: "https://github.com/react-native-material-design/react-native-material-design",
+    keywords: ["material","design","ui"],
+    contributedBy: "qexon-ankit",
   }
 ];
