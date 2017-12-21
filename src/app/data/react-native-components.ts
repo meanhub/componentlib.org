@@ -5835,5 +5835,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/ldn0x7dc/react-native-gallery",
     keywords: ["gallery","images","photos","gestures"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 243,
+    name: "react-native-bouncy-drawer",
+    install: {
+      packager: "npm",
+      url: "react-native-bouncy-drawer"
+    },
+    source: {
+      domain: "github",
+      url: "SoftZen/react-native-bouncy-drawer"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/SoftZen/react-native-bouncy-drawer#react-native-bouncy-drawer",
+      imgUrl: "https://github.com/SoftZen/react-native-bouncy-drawer/raw/master/resources/example.gif"
+    },
+    framework: "React Native",
+    version: "1.0.0",
+    license: "MIT",
+    details: "https://github.com/SoftZen/react-native-bouncy-drawer",
+    keywords: ["drawer","images","photos","bouncy","effects"],
+    contributedBy: "qexon-ankit",
   }
 ];
