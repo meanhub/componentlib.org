@@ -5697,5 +5697,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://possiblemobile.com/2013/09/ios-7-background-fetch/",
     keywords: ["background","fetch","ios"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 237,
+    name: "react-native-calendar-strip",
+    install: {
+      packager: "npm",
+      url: "react-native-calendar-strip"
+    },
+    source: {
+      domain: "github",
+      url: "BugiDev/react-native-calendar-strip"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/BugiDev/react-native-calendar-strip#-react-native-calendar-strip-",
+      imgUrl: "https://raw.githubusercontent.com/BugiDev/react-native-calendar-strip/master/example/gifs/blank.gif"
+    },
+    framework: "React Native",
+    version: "1.2.4",
+    license: "MIT",
+    details: "https://github.com/BugiDev/react-native-calendar-strip",
+    keywords: ["calendar","datepicker","date"],
+    contributedBy: "qexon-ankit",
   }
 ];
