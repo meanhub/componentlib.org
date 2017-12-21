@@ -5099,5 +5099,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://pouchdb.com/",
     keywords: ["pouchdb","db"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 211,
+    name: "react-native-directed-scrollview",
+    install: {
+      packager: "npm",
+      url: "react-native-directed-scrollview"
+    },
+    source: {
+      domain: "github",
+      url: "chrisfisher/react-native-directed-scrollview"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/chrisfisher/react-native-directed-scrollview#react-native-directed-scrollview",
+      imgUrl: "https://github.com/chrisfisher/react-native-directed-scrollview/raw/master/example/rnds-demo.gif"
+    },
+    framework: "React Native",
+    version: "1.3.1",
+    license: "MIT",
+    details: "https://github.com/chrisfisher/react-native-directed-scrollview",
+    keywords: ["directed","scrollview","scroll","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
