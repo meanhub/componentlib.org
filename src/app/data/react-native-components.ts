@@ -5559,5 +5559,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/knowbody/react-native-text",
     keywords: ["text","font size","width","device"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 231,
+    name: "react-native-progress-hud",
+    install: {
+      packager: "npm",
+      url: "react-native-progress-hud"
+    },
+    source: {
+      domain: "github",
+      url: "naoufal/react-native-progress-hud"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/naoufal/react-native-progress-hud#react-native-progress-hud",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1627824/7716549/94f15754-fe61-11e4-9a59-358d460197f2.gif"
+    },
+    framework: "React Native",
+    version: "1.0.4",
+    license: "MIT",
+    details: "https://github.com/naoufal/react-native-progress-hud",
+    keywords: ["progress","hud","loader","spinner"],
+    contributedBy: "qexon-ankit",
   }
 ];
