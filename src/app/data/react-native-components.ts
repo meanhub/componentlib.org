@@ -5306,5 +5306,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/sonaye/react-native-actually-usable-prompt",
     keywords: ["actually","usable","prompt"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 220,
+    name: "react-native-actionsheet",
+    install: {
+      packager: "npm",
+      url: "react-native-actionsheet"
+    },
+    source: {
+      domain: "github",
+      url: "beefe/react-native-actionsheet"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/beefe/react-native-actionsheet#react-native-actionsheet",
+      imgUrl: "https://github.com/beefe/react-native-actionsheet/raw/master/doc/ios.png"
+    },
+    framework: "React Native",
+    version: "2.3.0",
+    license: "MIT",
+    details: "https://github.com/beefe/react-native-actionsheet",
+    keywords: ["actionsheet","action","sheet"],
+    contributedBy: "qexon-ankit",
   }
 ];
