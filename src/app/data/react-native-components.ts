@@ -5674,5 +5674,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/jeanregisser/react-native-popover",
     keywords: ["popover","dialog","modal"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 236,
+    name: "react-native-background-fetch",
+    install: {
+      packager: "npm",
+      url: "react-native-background-fetch"
+    },
+    source: {
+      domain: "github",
+      url: "transistorsoft/react-native-background-fetch"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/transistorsoft/react-native-background-fetch#react-native-background-fetch",
+      imgUrl: "https://possiblemobile.com/wp-content/uploads/2013/09/Background-Fetch-Updates.png"
+    },
+    framework: "React Native",
+    version: "2.2.1",
+    license: "MIT",
+    details: "https://possiblemobile.com/2013/09/ios-7-background-fetch/",
+    keywords: ["background","fetch","ios"],
+    contributedBy: "qexon-ankit",
   }
 ];
