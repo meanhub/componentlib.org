@@ -5904,5 +5904,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper",
     keywords: ["perspective","image","cropper","crop"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 246,
+    name: "react-native-fence-html",
+    install: {
+      packager: "npm",
+      url: "react-native-fence-html"
+    },
+    source: {
+      domain: "github",
+      url: "Thomas101/react-native-fence-html"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/Thomas101/react-native-fence-html#react-native-fence-html",
+      imgUrl: "https://raw.githubusercontent.com/Thomas101/react-native-fence-html/master/gh-images/preview.jpg"
+    },
+    framework: "React Native",
+    version: "1.0.6",
+    license: "MIT",
+    details: "https://github.com/Thomas101/react-native-fence-html",
+    keywords: ["fence","html","views"],
+    contributedBy: "qexon-ankit",
   }
 ];
