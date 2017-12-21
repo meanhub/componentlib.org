@@ -5421,5 +5421,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/esbenp/react-native-clean-form",
     keywords: ["clean","form","immutablejs"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 225,
+    name: "react-native-emoji",
+    install: {
+      packager: "npm",
+      url: "react-native-emoji"
+    },
+    source: {
+      domain: "github",
+      url: "jorilallo/react-native-emoji"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jorilallo/react-native-emoji#react-native-emoji",
+      imgUrl: "https://camo.githubusercontent.com/7a9f73e4668eac613676bf3be291e5da7efd889b/687474703a2f2f6935392e74696e797069632e636f6d2f666533726c792e706e67"
+    },
+    framework: "React Native",
+    version: "1.2.0",
+    license: "MIT",
+    details: "https://github.com/jorilallo/react-native-emoji",
+    keywords: ["emoji"],
+    contributedBy: "qexon-ankit",
   }
 ];
