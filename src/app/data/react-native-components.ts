@@ -5260,5 +5260,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-image-progress",
     keywords: ["image","progress","spinner"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 218,
+    name: "react-native-proximity",
+    install: {
+      packager: "npm",
+      url: "react-native-proximity"
+    },
+    source: {
+      domain: "github",
+      url: "williambout/react-native-proximity"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/williambout/react-native-proximity#react-native-proximity",
+      imgUrl: "https://github.com/williambout/react-native-proximity/raw/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "3.0.0",
+    license: "MIT",
+    details: "https://github.com/williambout/react-native-proximity",
+    keywords: ["proximity","proxy","sensor"],
+    contributedBy: "qexon-ankit",
   }
 ];
