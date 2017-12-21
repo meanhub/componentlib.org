@@ -5927,5 +5927,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Thomas101/react-native-fence-html",
     keywords: ["fence","html","views"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 247,
+    name: "react-native-gifted-listview",
+    install: {
+      packager: "npm",
+      url: "react-native-gifted-listview"
+    },
+    source: {
+      domain: "github",
+      url: "FaridSafi/react-native-gifted-listview"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/FaridSafi/react-native-gifted-listview#gifted-listview",
+      imgUrl: "https://raw.githubusercontent.com/FaridSafi/react-native-gifted-listview/master/Captures/ios_refresh_page_demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.16",
+    license: "MIT",
+    details: "https://github.com/FaridSafi/react-native-gifted-listview",
+    keywords: ["gifted","listview","views","list"],
+    contributedBy: "qexon-ankit",
   }
 ];
