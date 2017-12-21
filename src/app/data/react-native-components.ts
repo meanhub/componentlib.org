@@ -5743,5 +5743,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/matt-oakes/react-native-ios-drag-drop",
     keywords: ["drag","drop","dragview"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 239,
+    name: "react-native-tooltip",
+    install: {
+      packager: "npm",
+      url: "react-native-tooltip"
+    },
+    source: {
+      domain: "github",
+      url: "chirag04/react-native-tooltip"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/chirag04/react-native-tooltip#here-is-how-it-looks",
+      imgUrl: "https://github.com/chirag04/react-native-tooltip/raw/master/screenshot.png"
+    },
+    framework: "React Native",
+    version: "5.0.0",
+    license: "MIT",
+    details: "https://github.com/chirag04/react-native-tooltip",
+    keywords: ["tooltip","ui","menu"],
+    contributedBy: "qexon-ankit",
   }
 ];
