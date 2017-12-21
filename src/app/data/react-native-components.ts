@@ -5884,25 +5884,25 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
   },
   {
     id: 245,
-    name: "react-native-easy-grid",
+    name: "react-native-perspective-image-cropper",
     install: {
       packager: "npm",
-      url: "react-native-easy-grid"
+      url: "react-native-perspective-image-cropper"
     },
     source: {
       domain: "github",
-      url: "GeekyAnts/react-native-easy-grid"
+      url: "Michaelvilleneuve/react-native-perspective-image-cropper"
     },
     demo: {
       repl: "img",
-      url: "https://github.com/GeekyAnts/react-native-easy-grid#react-native-easy-grid-",
-      imgUrl: "https://github.com/GeekyAnts/react-native-easy-grid/raw/master/Examples/col-50-50.png"
+      url: "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper#react-native-perspective-image-cropper-",
+      imgUrl: "https://camo.githubusercontent.com/0ac887deaa7263172a5fd2759dba3d692e98585a/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f6d69636861656c76696c6c656e657576652f64656d6f2d63726f702e676966"
     },
     framework: "React Native",
-    version: "0.1.15",
+    version: "0.1.2",
     license: "MIT",
-    details: "https://github.com/GeekyAnts/react-native-easy-grid",
-    keywords: ["easy","grid","layout","flexbox"],
+    details: "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper",
+    keywords: ["perspective","image","cropper","crop"],
     contributedBy: "qexon-ankit",
   }
 ];
