@@ -5145,5 +5145,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/oblador/react-native-lightbox",
     keywords: ["lightbox","light","box"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 213,
+    name: "react-native-dropdownalert",
+    install: {
+      packager: "npm",
+      url: "react-native-dropdownalert"
+    },
+    source: {
+      domain: "github",
+      url: "testshallpass/react-native-dropdownalert"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-lightbox#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/9074360/16eac5d6-3b09-11e5-90af-a69980e9f4be.gif"
+    },
+    framework: "React Native",
+    version: "3.1.2",
+    license: "MIT",
+    details: "https://github.com/testshallpass/react-native-dropdownalert",
+    keywords: ["dropdownalert","dropdown","alert"],
+    contributedBy: "qexon-ankit",
   }
 ];
