@@ -5881,5 +5881,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/Purii/react-native-tableview-simple",
     keywords: ["tableview","table","view","simple"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 245,
+    name: "react-native-easy-grid",
+    install: {
+      packager: "npm",
+      url: "react-native-easy-grid"
+    },
+    source: {
+      domain: "github",
+      url: "GeekyAnts/react-native-easy-grid"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/GeekyAnts/react-native-easy-grid#react-native-easy-grid-",
+      imgUrl: "https://github.com/GeekyAnts/react-native-easy-grid/raw/master/Examples/col-50-50.png"
+    },
+    framework: "React Native",
+    version: "0.1.15",
+    license: "MIT",
+    details: "https://github.com/GeekyAnts/react-native-easy-grid",
+    keywords: ["easy","grid","layout","flexbox"],
+    contributedBy: "qexon-ankit",
   }
 ];
