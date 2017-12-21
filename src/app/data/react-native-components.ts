@@ -5950,5 +5950,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/FaridSafi/react-native-gifted-listview",
     keywords: ["gifted","listview","views","list"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 248,
+    name: "react-native-awesome-button",
+    install: {
+      packager: "npm",
+      url: "react-native-awesome-button"
+    },
+    source: {
+      domain: "github",
+      url: "larsvinter/react-native-awesome-button"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/larsvinter/react-native-awesome-button#react-native-awesome-button",
+      imgUrl: "https://raw.githubusercontent.com/larsvinter/react-native-awesome-button/master/docs/simple.png
+    },
+    framework: "React Native",
+    version: "1.7.0",
+    license: "MIT",
+    details: "https://github.com/larsvinter/react-native-awesome-button",
+    keywords: ["awesome","button"],
+    contributedBy: "qexon-ankit",
   }
 ];
