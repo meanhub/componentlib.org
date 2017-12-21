@@ -5467,5 +5467,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/naoufal/react-native-accordion",
     keywords: ["accordion","tabs","slide"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 227,
+    name: "react-native-material-ripple",
+    install: {
+      packager: "npm",
+      url: "react-native-material-ripple"
+    },
+    source: {
+      domain: "github",
+      url: "n4kz/react-native-material-ripple"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/n4kz/react-native-material-ripple#react-native-material-ripple",
+      imgUrl: "https://cloud.githubusercontent.com/assets/2055622/24832328/459afaf0-1cb6-11e7-975d-accedb67a716.gif"
+    },
+    framework: "React Native",
+    version: "0.7.5",
+    license: "MIT",
+    details: "https://github.com/n4kz/react-native-material-ripple",
+    keywords: ["material","ripple","ui"],
+    contributedBy: "qexon-ankit",
   }
 ];
