@@ -5159,14 +5159,37 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     },
     demo: {
       repl: "img",
-      url: "https://github.com/oblador/react-native-lightbox#demo",
-      imgUrl: "https://cloud.githubusercontent.com/assets/378279/9074360/16eac5d6-3b09-11e5-90af-a69980e9f4be.gif"
+      url: "https://github.com/testshallpass/react-native-dropdownalert#demo",
+      imgUrl: "https://camo.githubusercontent.com/2a5dcd1d344b51d58ac8a1c7294b4e9dcb0d8ed9/68747470733a2f2f7261772e6769746875622e636f6d2f746573747368616c6c706173732f72656163742d6e61746976652d64726f70646f776e616c6572742f6d61737465722f73637265656e73686f74732f64656d6f2e676966"
     },
     framework: "React Native",
     version: "3.1.2",
     license: "MIT",
     details: "https://github.com/testshallpass/react-native-dropdownalert",
     keywords: ["dropdownalert","dropdown","alert"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 214,
+    name: "react-native-action-sheet",
+    install: {
+      packager: "npm",
+      url: "react-native-action-sheet"
+    },
+    source: {
+      domain: "github",
+      url: "expo/react-native-action-sheet"
+    },
+    demo: {
+      repl: "expo",
+      url: "https://expo.io/@community/react-native-action-sheet-example",
+      qrCode: "react-native-action-sheet"
+    },
+    framework: "React Native",
+    version: "1.0.1",
+    license: "MIT",
+    details: "https://github.com/expo/react-native-action-sheet",
+    keywords: ["action","sheet","ui"],
     contributedBy: "qexon-ankit",
   }
 ];
