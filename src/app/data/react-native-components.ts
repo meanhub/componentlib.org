@@ -5965,13 +5965,36 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     demo: {
       repl: "img",
       url: "https://github.com/larsvinter/react-native-awesome-button#react-native-awesome-button",
-      imgUrl: "https://raw.githubusercontent.com/larsvinter/react-native-awesome-button/master/docs/simple.png
+      imgUrl: "https://raw.githubusercontent.com/larsvinter/react-native-awesome-button/master/docs/simple.png"
     },
     framework: "React Native",
     version: "1.7.0",
     license: "MIT",
     details: "https://github.com/larsvinter/react-native-awesome-button",
     keywords: ["awesome","button"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 249,
+    name: "react-native-message-bar",
+    install: {
+      packager: "npm",
+      url: "react-native-message-bar"
+    },
+    source: {
+      domain: "github",
+      url: "KBLNY/react-native-message-bar"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/KBLNY/react-native-message-bar#react-native-message-bar",
+      imgUrl: "https://camo.githubusercontent.com/fca60200a77c86b804e6a8786caaa15d8cd10433/687474703a2f2f7333312e706f7374696d672e6f72672f6378713678357372662f556e7469746c65642e676966"
+    },
+    framework: "React Native",
+    version: "1.6.0",
+    license: "MIT",
+    details: "https://github.com/KBLNY/react-native-message-bar",
+    keywords: ["awesome","message","bar"],
     contributedBy: "qexon-ankit",
   }
 ];
