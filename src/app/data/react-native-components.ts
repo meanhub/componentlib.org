@@ -5536,5 +5536,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/localz/react-native-searchbar",
     keywords: ["searchbar","search"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 230,
+    name: "react-native-text",
+    install: {
+      packager: "npm",
+      url: "react-native-text"
+    },
+    source: {
+      domain: "github",
+      url: "knowbody/react-native-text"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/knowbody/react-native-text#react-native-text",
+      imgUrl: "https://cloud.githubusercontent.com/assets/3802023/17853378/08e0c0f6-6864-11e6-80ac-161b5735c2f3.png"
+    },
+    framework: "React Native",
+    version: "0.0.5",
+    license: "MIT",
+    details: "https://github.com/knowbody/react-native-text",
+    keywords: ["text","font size","width","device"],
+    contributedBy: "qexon-ankit",
   }
 ];
