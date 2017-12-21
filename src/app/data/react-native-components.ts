@@ -5234,8 +5234,31 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     framework: "React Native",
     version: "0.3.8",
     license: "MIT",
-    details: "https://github.com/react-native-material-design/react-native-material-design",
+    details: "http://react-native-material-design.github.io/",
     keywords: ["material","design","ui"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 217,
+    name: "react-native-image-progress",
+    install: {
+      packager: "npm",
+      url: "react-native-image-progress"
+    },
+    source: {
+      domain: "github",
+      url: "oblador/react-native-image-progress"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/oblador/react-native-image-progress#demo",
+      imgUrl: "https://cloud.githubusercontent.com/assets/378279/10882718/0f33e7b4-813b-11e5-9f6c-90df8b9050b8.gif"
+    },
+    framework: "React Native",
+    version: "1.0.1",
+    license: "MIT",
+    details: "https://github.com/oblador/react-native-image-progress",
+    keywords: ["image","progress","spinner"],
     contributedBy: "qexon-ankit",
   }
 ];
