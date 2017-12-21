@@ -5605,5 +5605,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/nestor/react-native-statusbar-alert",
     keywords: ["statusbar","alert","bar","notification"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 233,
+    name: "react-native-flip-card",
+    install: {
+      packager: "npm",
+      url: "react-native-flip-card"
+    },
+    source: {
+      domain: "github",
+      url: "moschan/react-native-flip-card"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/moschan/react-native-flip-card#react-native-flip-card",
+      imgUrl: "https://github.com/moschan/react-native-flip-card/raw/master/doc/ver3_android_demo.gif"
+    },
+    framework: "React Native",
+    version: "3.5.2",
+    license: "MIT",
+    details: "https://github.com/moschan/react-native-flip-card",
+    keywords: ["flip","card","motion"],
+    contributedBy: "qexon-ankit",
   }
 ];
