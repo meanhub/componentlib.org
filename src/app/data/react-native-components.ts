@@ -5490,5 +5490,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/n4kz/react-native-material-ripple",
     keywords: ["material","ripple","ui"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 228,
+    name: "react-native-tabs",
+    install: {
+      packager: "npm",
+      url: "react-native-tabs"
+    },
+    source: {
+      domain: "github",
+      url: "aksonov/react-native-tabs"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/aksonov/react-native-tabs#react-native-tabs",
+      imgUrl: "https://cloud.githubusercontent.com/assets/1321329/10188030/adf5532c-675c-11e5-8447-227ec38fa24f.gif"
+    },
+    framework: "React Native",
+    version: "1.0.9",
+    license: "MIT",
+    details: "https://github.com/aksonov/react-native-tabs",
+    keywords: ["tabs","view"],
+    contributedBy: "qexon-ankit",
   }
 ];
