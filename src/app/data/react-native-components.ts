@@ -5996,5 +5996,28 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/KBLNY/react-native-message-bar",
     keywords: ["awesome","message","bar"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 250,
+    name: "react-native-tilt",
+    install: {
+      packager: "npm",
+      url: "react-native-tilt"
+    },
+    source: {
+      domain: "github",
+      url: "joao-alberto/react-native-tilt"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/joao-alberto/react-native-tilt#react-native-tilt",
+      imgUrl: "https://raw.githubusercontent.com/psicotropicos/react-native-tilt/master/gif/react-native-til.gif"
+    },
+    framework: "React Native",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/joao-alberto/react-native-tilt",
+    keywords: ["tilt","flip","effects"],
+    contributedBy: "qexon-ankit",
   }
 ];
