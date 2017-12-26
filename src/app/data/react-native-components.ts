@@ -6019,5 +6019,695 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/joao-alberto/react-native-tilt",
     keywords: ["tilt","flip","effects"],
     contributedBy: "qexon-ankit",
+  },
+  {
+    id: 251,
+    name: "react-native-simple-modal",
+    install: {
+      packager: "npm",
+      url: "react-native-simple-modal"
+    },
+    source: {
+      domain: "github",
+      url: "bodyflex/react-native-simple-modal"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/bodyflex/react-native-simple-modal#react-native-simple-modal",
+      imgUrl: "https://camo.githubusercontent.com/74d6ba2d3fbe8bd75d03931683b32de3b8e48387/68747470733a2f2f692e696d6775722e636f6d2f4569776b43576e2e676966"
+    },
+    framework: "React Native",
+    version: "7.0.0",
+    license: "MIT",
+    details: "https://github.com/bodyflex/react-native-simple-modal",
+    keywords: ["simple","modal","dialog"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 252,
+    name: "react-native-lottie-rating",
+    install: {
+      packager: "npm",
+      url: "react-native-lottie-rating"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-lottie-rating"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-lottie-rating",
+      imgUrl: "https://www.lottiefiles.com/138-star"
+    },
+    framework: "React Native",
+    version: "0.0.7",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-lottie-rating",
+    keywords: ["lottie","rating","star","svg","animation"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 253,
+    name: "react-native-material-palette",
+    install: {
+      packager: "npm",
+      url: "react-native-material-palette"
+    },
+    source: {
+      domain: "github",
+      url: "callstack/react-native-material-palette"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/callstack/react-native-material-palette#example-app",
+      imgUrl: "https://user-images.githubusercontent.com/4982414/29513573-0f5acf5a-8666-11e7-989e-30409a50cb8c.png"
+    },
+    framework: "React Native",
+    version: "0.1.0",
+    license: "MIT",
+    details: "https://github.com/callstack/react-native-material-palette",
+    keywords: ["palette","material","api","svg","color"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 254,
+    name: "react-native-button-component",
+    install: {
+      packager: "npm",
+      url: "react-native-button-component"
+    },
+    source: {
+      domain: "github",
+      url: "jacklam718/react-native-button-component"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jacklam718/react-native-button-component#react-native-button-component",
+      imgUrl: "https://camo.githubusercontent.com/41a54bf308b22c7ef19573223320e2033f7c7cfa/68747470733a2f2f6a61636b6c616d3731382e6769746875622e696f2f72656163742d6e61746976652d627574746f6e2d636f6d706f6e656e742f6275696c642f766964656f2f636972636c652d627574746f6e2d64656d6f2e676966"
+    },
+    framework: "React Native",
+    version: "0.1.25",
+    license: "MIT",
+    details: "https://github.com/jacklam718/react-native-button-component",
+    keywords: ["button","component","customizable","beautiful"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 255,
+    name: "react-native-shake-event",
+    install: {
+      packager: "npm",
+      url: "react-native-shake-event"
+    },
+    source: {
+      domain: "github",
+      url: "jadsonlourenco/react-native-shake-event"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jadsonlourenco/react-native-shake-event#demo",
+      imgUrl: "https://camo.githubusercontent.com/9c152b2f02665070c9d9675fe7527b2ed1368a0c/68747470733a2f2f63646e2e7261776769742e636f6d2f6a6164736f6e6c6f7572656e636f2f72656163742d6e61746976652d7368616b652d6576656e742f6d61737465722f6d656469612f64656d6f2e676966"
+    },
+    framework: "React Native",
+    version: "4.0.1",
+    license: "MIT",
+    details: "https://github.com/jadsonlourenco/react-native-shake-event",
+    keywords: ["shake","event"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 256,
+    name: "react-native-nav",
+    install: {
+      packager: "npm",
+      url: "react-native-nav"
+    },
+    source: {
+      domain: "github",
+      url: "jineshshah36/react-native-nav"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jineshshah36/react-native-nav#a-cross-platform-ios--android-fully-customizable-react-native-navigation-bar-component",
+      imgUrl: "https://github.com/jineshshah36/react-native-nav/raw/master/examples/assets/react-native-nav_preview_new.png"
+    },
+    framework: "React Native",
+    version: "2.0.2",
+    license: "MIT",
+    details: "https://github.com/jineshshah36/react-native-nav",
+    keywords: ["nav","navbars","status bar"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 257,
+    name: "react-native-htmltext",
+    install: {
+      packager: "npm",
+      url: "react-native-htmltext"
+    },
+    source: {
+      domain: "github",
+      url: "siuying/react-native-htmltext"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/siuying/react-native-htmltext#react-native-htmltext",
+      imgUrl: "https://raw.githubusercontent.com/siuying/react-native-htmltext/master/example2.png"
+    },
+    framework: "React Native",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/siuying/react-native-htmltext",
+    keywords: ["html","text","markup","stylized"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 258,
+    name: "react-native-activity-indicator",
+    install: {
+      packager: "npm",
+      url: "react-native-activity-indicator"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-activity-indicator"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-activity-indicator#react-native-activity-indicator",
+      imgUrl: "https://raw.githubusercontent.com/sonaye/react-native-activity-indicator/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.0.4",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-activity-indicator",
+    keywords: ["activity","indicator","progress","loader","spinner"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 259,
+    name: "react-native-behavior",
+    install: {
+      packager: "npm",
+      url: "react-native-behavior"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-behavior"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-behavior#react-native-behavior",
+      imgUrl: "https://raw.githubusercontent.com/sonaye/react-native-behavior/master/examples/demos/demo1.gif"
+    },
+    framework: "React Native",
+    version: "0.0.18",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-behavior",
+    keywords: ["behavior","stateful","animations"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 260,
+    name: "react-native-location",
+    install: {
+      packager: "npm",
+      url: "react-native-location"
+    },
+    source: {
+      domain: "github",
+      url: "timfpark/react-native-location"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/timfpark/react-native-location#example-application",
+      imgUrl: "https://github.com/timfpark/react-native-location/raw/master/screenshots/example.gif"
+    },
+    framework: "React Native",
+    version: "0.14.3",
+    license: "MIT",
+    details: "https://github.com/timfpark/react-native-location",
+    keywords: ["location","gps","google map"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 261,
+    name: "react-native-chart",
+    install: {
+      packager: "npm",
+      url: "react-native-chart"
+    },
+    source: {
+      domain: "github",
+      url: "tomauty/react-native-chart"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/tomauty/react-native-chart#react-native-chart",
+      imgUrl: "https://raw.githubusercontent.com/tomauty/react-native-chart/master/screenshots/README.png"
+    },
+    framework: "React Native",
+    version: "1.0.8-beta",
+    license: "MIT",
+    details: "https://github.com/tomauty/react-native-chart",
+    keywords: ["chart","area","bar","line","stack","pie"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 262,
+    name: "react-native-stripe",
+    install: {
+      packager: "npm",
+      url: "react-native-stripe"
+    },
+    source: {
+      domain: "github",
+      url: "lrettig/react-native-stripe"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/lrettig/react-native-stripe#react-native--stripe-sdk",
+      imgUrl: "https://dashboard.stripe.com/register"
+    },
+    framework: "React Native",
+    version: "0.0.0",
+    license: "MIT",
+    details: "https://github.com/lrettig/react-native-stripe",
+    keywords: ["stripe","payment","bank","account"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 263,
+    name: "mrn",
+    install: {
+      packager: "npm",
+      url: "mrn"
+    },
+    source: {
+      domain: "github",
+      url: "binggg/mrn"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/binggg/mrn#screenshots",
+      imgUrl: "https://camo.githubusercontent.com/d2e4ac853874d304a6c399d0ea9e28edb6252563/687474703a2f2f6d726e2e6a732e6f72672f757365722f696d6167652f46656174757265312e706e67"
+    },
+    framework: "React Native",
+    version: "0.1.7",
+    license: "MIT",
+    details: "https://github.com/binggg/mrn",
+    keywords: ["material","button","style","component","ui","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 263,
+    name: "MaterialReactNative",
+    install: {
+      packager: "npm",
+      url: "MaterialReactNative"
+    },
+    source: {
+      domain: "github",
+      url: "binggg/MaterialReactNative"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/binggg/MaterialReactNative#screenshots",
+      imgUrl: "https://camo.githubusercontent.com/d2e4ac853874d304a6c399d0ea9e28edb6252563/687474703a2f2f6d726e2e6a732e6f72672f757365722f696d6167652f46656174757265312e706e67"
+    },
+    framework: "React Native",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/binggg/MaterialReactNative",
+    keywords: ["material","button","style","component","ui","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 264,
+    name: "react-native-collapsible-header",
+    install: {
+      packager: "npm",
+      url: "react-native-collapsible-header"
+    },
+    source: {
+      domain: "github",
+      url: "sonaye/react-native-collapsible-header"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/sonaye/react-native-collapsible-header#react-native-collapsible-header",
+      imgUrl: "https://raw.githubusercontent.com/sonaye/react-native-collapsible-header/master/demo1.gif"
+    },
+    framework: "React Native",
+    version: "0.0.11",
+    license: "MIT",
+    details: "https://github.com/sonaye/react-native-collapsible-header",
+    keywords: ["collapsible","header","accordion","collapse","slides"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 265,
+    name: "react-native-conductor",
+    install: {
+      packager: "npm",
+      url: "react-native-conductor"
+    },
+    source: {
+      domain: "github",
+      url: "mosesoak/react-native-conductor"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/mosesoak/react-native-conductor#conductor",
+      imgUrl: "https://github.com/mosesoak/react-native-conductor/raw/master/conductor-diagram.png"
+    },
+    framework: "React Native",
+    version: "1.0.11",
+    license: "MIT",
+    details: "https://github.com/mosesoak/react-native-conductor",
+    keywords: ["conductor","animations","wrapper","styles"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 266,
+    name: "react-native-slowlog",
+    install: {
+      packager: "npm",
+      url: "react-native-slowlog"
+    },
+    source: {
+      domain: "github",
+      url: "jondot/react-native-slowlog"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/jondot/react-native-slowlog#slowlog",
+      imgUrl: "https://github.com/jondot/react-native-slowlog/raw/master/shot.png"
+    },
+    framework: "React Native",
+    version: "1.0.2",
+    license: "MIT",
+    details: "https://github.com/jondot/react-native-slowlog",
+    keywords: ["timer","performance","system trace","perftools"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 267,
+    name: "react-native-animated-ptr",
+    install: {
+      packager: "npm",
+      url: "react-native-animated-ptr"
+    },
+    source: {
+      domain: "github",
+      url: "evetstech/react-native-animated-ptr"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/evetstech/react-native-animated-ptr#react-native-animated-ptr",
+      imgUrl: "https://github.com/evetstech/react-native-animated-ptr/raw/master/doc/android_ptr.gif"
+    },
+    framework: "React Native",
+    version: "1.1.1",
+    license: "MIT",
+    details: "https://github.com/evetstech/react-native-animated-ptr",
+    keywords: ["animated","animation","styles","pull","refresh"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 268,
+    name: "react-native-simple-router",
+    install: {
+      packager: "npm",
+      url: "react-native-simple-router"
+    },
+    source: {
+      domain: "github",
+      url: "react-native-simple-router-community/react-native-simple-router"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/react-native-simple-router-community/react-native-simple-router#react-native-simple-router",
+      imgUrl: "https://camo.githubusercontent.com/02fb8625e109ba9b58b4d9bbbb89abc40aed46f5/687474703a2f2f692e696d6775722e636f6d2f68356a554443382e706e67"
+    },
+    framework: "React Native",
+    version: "0.12.0",
+    license: "MIT",
+    details: "https://github.com/evetstech/react-native-simple-router",
+    keywords: ["router","simple","navigation","awesome"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 269,
+    name: "react-native-android-tablayout",
+    install: {
+      packager: "npm",
+      url: "react-native-android-tablayout"
+    },
+    source: {
+      domain: "github",
+      url: "AlbertBrand/react-native-android-tablayout"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/AlbertBrand/react-native-android-tablayout#react-native-android-tablayout-native-component",
+      imgUrl: "https://camo.githubusercontent.com/86d18a50d672934e0c3076c51a962c9e38821e5f/68747470733a2f2f692e696d6775722e636f6d2f6e4b46566e75342e676966"
+    },
+    framework: "React Native",
+    version: "0.3.0",
+    license: "MIT",
+    details: "https://github.com/AlbertBrand/react-native-android-tablayout",
+    keywords: ["android","tab","layout","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 270,
+    name: "react-native-console-panel",
+    install: {
+      packager: "npm",
+      url: "react-native-console-panel"
+    },
+    source: {
+      domain: "github",
+      url: "NativeSH/react-native-console-panel"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/NativeSH/react-native-console-panel#yellowbox",
+      imgUrl: "https://github.com/sospartan/react-native-console-panel/raw/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.1.0",
+    license: "MIT",
+    details: "https://github.com/NativeSH/react-native-console-panel",
+    keywords: ["console","panel","layout","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 271,
+    name: "react-native-effects-view",
+    install: {
+      packager: "npm",
+      url: "react-native-effects-view"
+    },
+    source: {
+      domain: "github",
+      url: "voronianski/react-native-effects-view"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/voronianski/react-native-effects-view#reactnativeeffectsview",
+      imgUrl: "https://raw.githubusercontent.com/voronianski/react-native-effects-view/master/example/UIVisualEffects.png"
+    },
+    framework: "React Native",
+    version: "0.4.0",
+    license: "MIT",
+    details: "https://github.com/voronianski/react-native-effects-view",
+    keywords: ["effects","view","layout","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 272,
+    name: "react-native-webbrowser",
+    install: {
+      packager: "npm",
+      url: "react-native-webbrowser"
+    },
+    source: {
+      domain: "github",
+      url: "d-a-n/react-native-webbrowser"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/d-a-n/react-native-webbrowser#screenshots",
+      imgUrl: "https://raw.githubusercontent.com/d-a-n/react-native-webbrowser/master/assets/images/screenshot.png"
+    },
+    framework: "React Native",
+    version: "0.0.6",
+    license: "MIT",
+    details: "https://github.com/d-a-n/react-native-webbrowser",
+    keywords: ["webbrowser","web","browser"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 273,
+    name: "react-native-custom-action-sheet",
+    install: {
+      packager: "npm",
+      url: "react-native-custom-action-sheet"
+    },
+    source: {
+      domain: "github",
+      url: "eyaleizenberg/react-native-custom-action-sheet"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/eyaleizenberg/react-native-custom-action-sheet#react-native-custom-action-sheet",
+      imgUrl: "https://camo.githubusercontent.com/ad16108cec54b01e3bdd8b75850dd42963b93eb6/687474703a2f2f692e696d6775722e636f6d2f497136595a476a2e676966"
+    },
+    framework: "React Native",
+    version: "0.0.11",
+    license: "MIT",
+    details: "https://github.com/eyaleizenberg/react-native-custom-action-sheet",
+    keywords: ["custom","action","sheet"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 274,
+    name: "react-native-card-io",
+    install: {
+      packager: "npm",
+      url: "react-native-card-io"
+    },
+    source: {
+      domain: "github",
+      url: "kayla-tech/react-native-card-io"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/kayla-tech/react-native-card-io#cardio-component-for-react-native",
+      imgUrl: "https://github.com/kayla-tech/react-native-card-io/raw/develop/screenshot.png"
+    },
+    framework: "React Native",
+    version: "1.0.5",
+    license: "MIT",
+    details: "https://github.com/kayla-tech/react-native-card-io",
+    keywords: ["card","ios","android"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 275,
+    name: "react-native-thesidebar",
+    install: {
+      packager: "npm",
+      url: "react-native-thesidebar"
+    },
+    source: {
+      domain: "github",
+      url: "dzannotti/react-native-thesidebar"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/dzannotti/react-native-thesidebar#airbnb-style",
+      imgUrl: "https://raw.githubusercontent.com/dzannotti/react-native-thesidebar/master/example/airbnb-style.gif"
+    },
+    framework: "React Native",
+    version: "0.0.1",
+    license: "MIT",
+    details: "https://github.com/dzannotti/react-native-thesidebar",
+    keywords: ["sidebar","airbnb","style","layout","design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 276,
+    name: "react-native-navigation-drawer",
+    install: {
+      packager: "npm",
+      url: "react-native-navigation-drawer"
+    },
+    source: {
+      domain: "github",
+      url: "ilansas/react-native-navigation-drawer"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/ilansas/react-native-navigation-drawer#react-native-slide-menu-navigation-drawer",
+      imgUrl: "https://camo.githubusercontent.com/61efef9f1b37be084618705222291cb95ee3dd1b/687474703a2f2f696d6731312e686f7374696e67706963732e6e65742f706963732f3238323336346769662e676966"
+    },
+    framework: "React Native",
+    version: "1.2.2",
+    license: "MIT",
+    details: "https://github.com/ilansas/react-native-navigation-drawer",
+    keywords: ["navigation","drawer","nav","navbar","slide menu"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 277,
+    name: "react-native-custom-navigation",
+    install: {
+      packager: "npm",
+      url: "react-native-custom-navigation"
+    },
+    source: {
+      domain: "github",
+      url: "SuperDami/react-native-custom-navigation"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/SuperDami/react-native-custom-navigation#react-native-custom-navigation",
+      imgUrl: "https://camo.githubusercontent.com/03de8749c1b8f892f8f9f24b057308a5bd3b58fa/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f696b36693378366d326267697268352f64656d6f322e6769663f646c3d31"
+    },
+    framework: "React Native",
+    version: "0.2.2",
+    license: "MIT",
+    details: "https://github.com/SuperDami/react-native-custom-navigation",
+    keywords: ["navigation","custom","nav","swipe","slide menu"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 278,
+    name: "react-native-switcher",
+    install: {
+      packager: "npm",
+      url: "react-native-switcher"
+    },
+    source: {
+      domain: "github",
+      url: "olivierlesnicki/react-native-switcher"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/olivierlesnicki/react-native-switcher#react-native-switcher",
+      imgUrl: "https://raw.githubusercontent.com/olivierlesnicki/react-native-switcher/master/demo.gif"
+    },
+    framework: "React Native",
+    version: "0.1.0",
+    license: "MIT",
+    details: "https://github.com/olivierlesnicki/react-native-switcher",
+    keywords: ["switcher","switch","toggle","swipe","slide menu"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 279,
+    name: "react-native-tab-menu",
+    install: {
+      packager: "npm",
+      url: "react-native-tab-menu"
+    },
+    source: {
+      domain: "github",
+      url: "vczero/react-native-tab-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/vczero/react-native-tab-menu#react-native-tab",
+      imgUrl: "https://github.com/vczero/react-native-tab-menu/raw/master/img/1.png"
+    },
+    framework: "React Native",
+    version: "0.0.0",
+    license: "MIT",
+    details: "https://github.com/vczero/react-native-tab-menu",
+    keywords: ["tab","menu","design"],
+    contributedBy: "qexon-ankit",
   }
 ];
