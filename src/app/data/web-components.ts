@@ -22,7 +22,7 @@ export const WEB_COMPONENTS: any[] = [
     contributedBy: "souvikbasu"
   },
   {
-    id: 280,
+    id: 1,
     name: "csak-tree",
     install: {
       packager: "npm",
@@ -42,5 +42,51 @@ export const WEB_COMPONENTS: any[] = [
     details: "https://github.com/csakaszamok/csak-tree",
     keywords: ["tab", "menu", "design"],
     contributedBy: "qexon-ankit",
-  }
+  },
+  {
+    id: 2,
+    name: "vaadin-dropdown-menu",
+    install: {
+      packager: "npm",
+      url: "vaadin-dropdown-menu"
+    },
+    source: {
+      domain: "github",
+      url: "vaadin/vaadin-dropdown-menu"
+    },
+    demo: {
+      repl: "img",
+      url: "https://github.com/vaadin/vaadin-dropdown-menu#vaadin-dropdown-menu",
+      imgUrl: "https://raw.githubusercontent.com/vaadin/vaadin-dropdown-menu/master/screenshot.gif"
+    },
+    framework: "React Native",
+    version: "1.0.0-alpha6",
+    license: "MIT",
+    details: "https://github.com/vaadin/vaadin-dropdown-menu",
+    keywords: ["tab", "dropdown", "design"],
+    contributedBy: "qexon-ankit",
+  },
+  {
+    id: 3,
+    name: "vaadin-list-box",
+    install: {
+      packager: "npm",
+      url: "vaadin-list-box"
+    },
+    source: {
+      domain: "github",
+      url: "vaadin/vaadin-list-box"
+    },
+    demo: {
+      repl: "custom",
+      url: "https://github.com/vaadin/vaadin-list-box#vaadin-list-box",
+      src: "https://raw.githubusercontent.com/vaadin/vaadin-list-box/master/screenshot.png"
+    },
+    framework: "React Native",
+    version: "1.0.0-alpha7",
+    license: "MIT",
+    details: "https://github.com/vaadin/vaadin-list-box",
+    keywords: ["tab", "listbox", "design"],
+    contributedBy: "qexon-ankit",
+  },
 ];
