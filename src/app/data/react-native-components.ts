@@ -6683,7 +6683,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     framework: "React Native",
     version: "0.1.0",
     license: "MIT",
-    details: "https://github.com/olivierlesnicki/react-native-switcher,
+    details: "https://github.com/olivierlesnicki/react-native-switcher",
     keywords: ["switcher","switch","toggle","swipe","slide menu"],
     contributedBy: "qexon-ankit",
   },
@@ -6709,7 +6709,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/vczero/react-native-tab-menu",
     keywords: ["tab","menu","design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 280,
     name: "csak-tree",
@@ -6732,7 +6732,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     details: "https://github.com/csakaszamok/csak-tree",
     keywords: ["tab","menu","design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 281,
     name: "vaadin-dropdown-menu",
@@ -6753,10 +6753,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha6",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-dropdown-menu",
-    keywords: ["tab","dropdown","design"],
+    keywords: ["tab", "dropdown", "design"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 282,
     name: "vaadin-list-box",
     install: {
@@ -6776,10 +6776,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha7",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-list-box",
-    keywords: ["tab","listbox","design"],
+    keywords: ["tab", "listbox", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 283,
     name: "vaadin-item",
     install: {
@@ -6799,9 +6799,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha3",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-item",
-    keywords: ["search","item","design"],
+    keywords: ["search", "item", "design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 284,
     name: "placeholder-loading",
@@ -6822,10 +6822,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/zalog/placeholder-loading",
-    keywords: ["placeholder","data","design"],
+    keywords: ["placeholder", "data", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 285,
     name: "vaadin-ordered-layout",
     install: {
@@ -6845,10 +6845,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha6",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-ordered-layout",
-    keywords: ["layout","data","design"],
+    keywords: ["layout", "data", "design"],
     contributedBy: "qexon-ankit",
-  }
-     {
+  },
+  {
     id: 286,
     name: "vaadin-notification",
     install: {
@@ -6868,10 +6868,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha5",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-notification",
-    keywords: ["notification","popup","success-message"],
+    keywords: ["notification", "popup", "success-message"],
     contributedBy: "qexon-ankit",
-  }
-      {
+  },
+  {
     id: 287,
     name: "canvas-datagrid",
     install: {
@@ -6891,10 +6891,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.18.30",
     license: "MIT",
     details: "https://github.com/TonyGermaneri/canvas-datagrid",
-    keywords: ["datagrid","data","design"],
+    keywords: ["datagrid", "data", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 288,
     name: "juicy-popover",
     install: {
@@ -6914,9 +6914,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/Juicy/juicy-popover",
-    keywords: ["dropdowns","comboboxes","tooltips"],
+    keywords: ["dropdowns", "comboboxes", "tooltips"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 289,
     name: "paypal-express-checkout",
@@ -6937,10 +6937,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/morbidick/paypal-express-checkout",
-    keywords: ["paypal","button","shadowDOM"],
+    keywords: ["paypal", "button", "shadowDOM"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 290,
     name: "tsante-dropdown",
     install: {
@@ -6960,10 +6960,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/telecomsante/tsante-dropdown",
-    keywords: ["dropdown","button","menu"],
+    keywords: ["dropdown", "button", "menu"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 291,
     name: "vaadin-grid",
     install: {
@@ -6983,10 +6983,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "5.0.0-alpha4",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-grid",
-    keywords: ["data","grid","datatable"],
+    keywords: ["data", "grid", "datatable"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 292,
     name: "metaui",
     install: {
@@ -7006,9 +7006,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/isuwang/metaui",
-    keywords: ["metadata","data","datasearch"],
+    keywords: ["metadata", "data", "datasearch"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 293,
     name: "prendus-question-elements",
@@ -7029,9 +7029,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/Prendus/prendus-question-elements",
-    keywords: ["data","question","editor"],
+    keywords: ["data", "question", "editor"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 294,
     name: "vaadin-progress-bar",
@@ -7052,9 +7052,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha10",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-progress-bar",
-    keywords: ["loader","progress-bar","design"],
+    keywords: ["loader", "progress-bar", "design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 295,
     name: "obvi",
@@ -7075,9 +7075,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0-alpha10",
     license: "MIT",
     details: "https://github.com/googlecreativelab/obvi",
-    keywords: ["button","voice-input","speech-recognition"],
+    keywords: ["button", "voice-input", "speech-recognition"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 296,
     name: "ag-grid-polymer",
@@ -7098,9 +7098,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "15.0.0",
     license: "MIT",
     details: "https://github.com/ag-grid/ag-grid-polymer",
-    keywords: ["grid","polymer","search"],
+    keywords: ["grid", "polymer", "search"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 297,
     name: "l2t-paper-slide",
@@ -7121,9 +7121,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.3",
     license: "MIT",
     details: "https://github.com/Link2Twenty/l2t-paper-slider",
-    keywords: ["slider","paper-slider","tab"],
+    keywords: ["slider", "paper-slider", "tab"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 298,
     name: "vaadin-button",
@@ -7144,9 +7144,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha4",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-button",
-    keywords: ["button","slider","tab"],
+    keywords: ["button", "slider", "tab"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 299,
     name: "button",
@@ -7167,10 +7167,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/BrightspaceUI/button",
-    keywords: ["button","floating","scroll"],
+    keywords: ["button", "floating", "scroll"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 300,
     name: "strand",
     install: {
@@ -7190,9 +7190,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "4.5.0",
     license: "MIT",
     details: "https://github.com/MediaMath/strand",
-    keywords: ["strand","modular","web-content"],
+    keywords: ["strand", "modular", "web-content"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 301,
     name: "l2t-paper-color",
@@ -7213,9 +7213,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.2",
     license: "MIT",
     details: "https://github.com/Link2Twenty/l2t-paper-color",
-    keywords: ["dialog-box","color","design"],
+    keywords: ["dialog-box", "color", "design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 302,
     name: "bwt-datatable",
@@ -7236,10 +7236,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.4",
     license: "MIT",
     details: "https://github.com/bluewatertracks/bwt-datatable",
-    keywords: ["datatable","data","design"],
+    keywords: ["datatable", "data", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 303,
     name: "elfy-bullets",
     install: {
@@ -7259,10 +7259,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/ElfyCares/elfy-bullets",
-    keywords: ["bullets","data","items"],
+    keywords: ["bullets", "data", "items"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 304,
     name: "elfy-address-input",
     install: {
@@ -7282,10 +7282,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/ElfyCares/elfy-address-input",
-    keywords: ["autocomplete","input-data","data"],
+    keywords: ["autocomplete", "input-data", "data"],
     contributedBy: "qexon-ankit",
-  }
-     {
+  },
+  {
     id: 305,
     name: "paper-datatable-api",
     install: {
@@ -7305,9 +7305,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.11",
     license: "MIT",
     details: "https://github.com/RoXuS/paper-datatable-api",
-    keywords: ["datatable","sortable","pagination"],
+    keywords: ["datatable", "sortable", "pagination"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 306,
     name: "read-time",
@@ -7328,9 +7328,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/matthewp/read-time",
-    keywords: ["calculator","timer","data"],
+    keywords: ["calculator", "timer", "data"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 307,
     name: "paper-dropdown-menu-aligned",
@@ -7351,10 +7351,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/danleyb2/paper-dropdown-menu-aligned",
-    keywords: ["trigger","dropdown","menu"],
+    keywords: ["trigger", "dropdown", "menu"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 308,
     name: "titanium-grid",
     install: {
@@ -7374,10 +7374,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/m-mansoor-ali/titanium-grid",
-    keywords: ["grid","datatable","material-design"],
+    keywords: ["grid", "datatable", "material-design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 309,
     name: "vaadin-upload",
     install: {
@@ -7397,10 +7397,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "4.0.0-alpha2",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-upload",
-    keywords: ["element","upload","bundle"],
+    keywords: ["element", "upload", "bundle"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 310,
     name: "vaadin-combo-box",
     install: {
@@ -7420,9 +7420,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "4.0.0-alpha4",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-combo-box",
-    keywords: ["dropdown","filter","data"],
+    keywords: ["dropdown", "filter", "data"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 311,
     name: "vaadin-checkbox",
@@ -7443,10 +7443,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha5",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-checkbox",
-    keywords: ["checkbox","design","data"],
+    keywords: ["checkbox", "design", "data"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 312,
     name: "paper-date-picker",
     install: {
@@ -7466,10 +7466,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/David-Mulder/paper-date-picker",
-    keywords: ["calendar","date-picker","date"],
+    keywords: ["calendar", "date-picker", "date"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 313,
     name: "paper-color-picker",
     install: {
@@ -7489,10 +7489,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.4",
     license: "MIT",
     details: "https://github.com/David-Mulder/paper-color-picker",
-    keywords: ["Material-Design","color-picker","design"],
+    keywords: ["Material-Design", "color-picker", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 314,
     name: "vaadin-dialog",
     install: {
@@ -7512,9 +7512,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha2",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-dialog",
-    keywords: ["dialog-box","data","modal"],
+    keywords: ["dialog-box", "data", "modal"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 315,
     name: "good-vibrations",
@@ -7535,9 +7535,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/kcmr/good-vibrations",
-    keywords: ["singleton","vibration","design"],
+    keywords: ["singleton", "vibration", "design"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 316,
     name: "vaadin-date-picker",
@@ -7558,9 +7558,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.0.0-alpha4",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-date-picker",
-    keywords: ["caledar","date-picker","date"],
+    keywords: ["caledar", "date-picker", "date"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 317,
     name: "consentua-component",
@@ -7581,10 +7581,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/mrsideshowjack/consentua-component",
-    keywords: ["Consentua","user-consents","date"],
+    keywords: ["Consentua", "user-consents", "date"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 318,
     name: "ab-animated-banner",
     install: {
@@ -7604,9 +7604,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/JamesRArroyo/ab-animated-banner",
-    keywords: ["array-string","banner","element"],
+    keywords: ["array-string", "banner", "element"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 319,
     name: "paper-countries",
@@ -7627,9 +7627,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.5",
     license: "MIT",
     details: "https://github.com/bluewatertracks/paper-countries",
-    keywords: ["typehead-component","select","list"],
+    keywords: ["typehead-component", "select", "list"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 320,
     name: "paper-timezone",
@@ -7650,9 +7650,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/bluewatertracks/paper-timezone",
-    keywords: ["timezone","map","local-time"],
+    keywords: ["timezone", "map", "local-time"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 321,
     name: "lang-picker",
@@ -7673,10 +7673,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/mrsideshowjack/lang-picker",
-    keywords: ["paper-dropdown-menu","short-language-code","Language-picker"],
+    keywords: ["paper-dropdown-menu", "short-language-code", "Language-picker"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 322,
     name: "vaadin-text-field",
     install: {
@@ -7696,9 +7696,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha6",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-text-field",
-    keywords: ["data","design","input-control"],
+    keywords: ["data", "design", "input-control"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 323,
     name: "salte-search-box",
@@ -7719,9 +7719,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/salte-io/salte-search-box",
-    keywords: ["data","search","material-search"],
+    keywords: ["data", "search", "material-search"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 324,
     name: "ability-chart",
@@ -7742,9 +7742,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/yuanfux/ability-chart",
-    keywords: ["chart","design","ability-chart"],
+    keywords: ["chart", "design", "ability-chart"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 325,
     name: "vaadin-form-layout",
@@ -7765,10 +7765,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0-alpha2",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-form-layout",
-    keywords: ["form","layout","responsive"],
+    keywords: ["form", "layout", "responsive"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 326,
     name: "myscript-math-web",
     install: {
@@ -7788,9 +7788,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.2",
     license: "MIT",
     details: "https://github.com/MyScript/myscript-math-web",
-    keywords: ["expressions","handwriting-recognition","handwriting-conversion"],
+    keywords: ["expressions", "handwriting-recognition", "handwriting-conversion"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 327,
     name: "myscript-text-web",
@@ -7811,10 +7811,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/MyScript/myscript-text-web",
-    keywords: ["Signal-capture","handwriting-recognition","handwriting-conversion"],
+    keywords: ["Signal-capture", "handwriting-recognition", "handwriting-conversion"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 328,
     name: "vaadin-split-layout",
     install: {
@@ -7834,9 +7834,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "4.0.0-alpha3",
     license: "MIT",
     details: "https://github.com/vaadin/vaadin-split-layout",
-    keywords: ["splitter","element","layout"],
+    keywords: ["splitter", "element", "layout"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 329,
     name: "nvd3-elements",
@@ -7857,9 +7857,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.21.0",
     license: "MIT",
     details: "https://github.com/saeidzebardast/nvd3-elements",
-    keywords: ["charts","data","bar"],
+    keywords: ["charts", "data", "bar"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 330,
     name: "text-input",
@@ -7880,10 +7880,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/BrightspaceUI/text-input",
-    keywords: ["D2L","text","input"],
+    keywords: ["D2L", "text", "input"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 331,
     name: "table-of-data",
     install: {
@@ -7903,9 +7903,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.2.1",
     license: "MIT",
     details: "https://github.com/zvakanaka/table-of-data",
-    keywords: ["data","datatable","table"],
+    keywords: ["data", "datatable", "table"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 332,
     name: "transburger-icon",
@@ -7926,9 +7926,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "3.0.3",
     license: "MIT",
     details: "https://github.com/kcmr/transburger-icon",
-    keywords: ["toggleIcon","icon","hamburger-icon"],
+    keywords: ["toggleIcon", "icon", "hamburger-icon"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 333,
     name: "checkbox",
@@ -7949,10 +7949,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/BrightspaceUI/checkbox",
-    keywords: ["checkbox","icon","box"],
+    keywords: ["checkbox", "icon", "box"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 334,
     name: "iron-swiper",
     install: {
@@ -7972,9 +7972,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/safetychanger/iron-swiper",
-    keywords: ["import","data","input"],
+    keywords: ["import", "data", "input"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 335,
     name: "demo-iconset",
@@ -7995,10 +7995,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.4",
     license: "MIT",
     details: "https://github.com/kcmr/demo-iconset",
-    keywords: ["iconset","data","icon"],
+    keywords: ["iconset", "data", "icon"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 336,
     name: "digital-clock",
     install: {
@@ -8018,10 +8018,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/telecomsante/digital-clock",
-    keywords: ["clock","date","time"],
+    keywords: ["clock", "date", "time"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 337,
     name: "toggle-icon",
     install: {
@@ -8041,10 +8041,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.2.1",
     license: "MIT",
     details: "https://github.com/fxedel/toggle-icon",
-    keywords: ["toggle-icon","paper-icon-button","icon"],
+    keywords: ["toggle-icon", "paper-icon-button", "icon"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 338,
     name: "app-datepicker",
     install: {
@@ -8064,10 +8064,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.11.2",
     license: "MIT",
     details: "https://github.com/motss/app-datepicker",
-    keywords: ["datepicker","date","material-design"],
+    keywords: ["datepicker", "date", "material-design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 339,
     name: "bing-maps-element",
     install: {
@@ -8087,10 +8087,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.1.1",
     license: "MIT",
     details: "https://github.com/brenopolanski/bing-maps-element",
-    keywords: ["maps","google-map","design"],
+    keywords: ["maps", "google-map", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 340,
     name: "game-card",
     install: {
@@ -8110,10 +8110,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.6",
     license: "MIT",
     details: "https://github.com/vpusher/game-card",
-    keywords: ["cards","symbol","rank"],
+    keywords: ["cards", "symbol", "rank"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 341,
     name: "the-grid",
     install: {
@@ -8133,10 +8133,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.4.0",
     license: "MIT",
     details: "https://github.com/vpusher/the-grid",
-    keywords: ["grid","Draggable-tiles","Resizable-tiles"],
+    keywords: ["grid", "Draggable-tiles", "Resizable-tiles"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 342,
     name: "file-uploader",
     install: {
@@ -8156,9 +8156,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/BrightspaceUI/file-uploader",
-    keywords: ["upload-file","drag-drop","import"],
+    keywords: ["upload-file", "drag-drop", "import"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 343,
     name: "paper-dropdown-input",
@@ -8179,9 +8179,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/Juravenator/paper-dropdown-input",
-    keywords: ["dropdown","data","input"],
+    keywords: ["dropdown", "data", "input"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 344,
     name: "ascii-image",
@@ -8202,10 +8202,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/uncompiled/ascii-image",
-    keywords: ["ascii","image","design"],
+    keywords: ["ascii", "image", "design"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 345,
     name: "mp-calendar",
     install: {
@@ -8225,10 +8225,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/mpachnis/mp-calendar",
-    keywords: ["calendar","date-picker","date"],
+    keywords: ["calendar", "date-picker", "date"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 346,
     name: "profile-vcard",
     install: {
@@ -8248,9 +8248,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/oscarmcm/profile-vcard",
-    keywords: ["profile-pic","vcard","card"],
+    keywords: ["profile-pic", "vcard", "card"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 347,
     name: "paper-avatar",
@@ -8271,10 +8271,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/Abe90/paper-avatar",
-    keywords: ["color","Avator","background-color"],
+    keywords: ["color", "Avator", "background-color"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 348,
     name: "chemical-element-visualisation",
     install: {
@@ -8294,9 +8294,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.3",
     license: "MIT",
     details: "https://github.com/FlorianFe/chemical-element-visualisation",
-    keywords: ["web-component","element","chemical-element"],
+    keywords: ["web-component", "element", "chemical-element"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 349,
     name: "io-value",
@@ -8317,10 +8317,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "https://github.com/arodic/io-value",
-    keywords: ["editor","data-types","number"],
+    keywords: ["editor", "data-types", "number"],
     contributedBy: "qexon-ankit",
-  }
-    {
+  },
+  {
     id: 350,
     name: "paper-tags",
     install: {
@@ -8340,9 +8340,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "https://github.com/PolymerEl/paper-tags",
-    keywords: ["tags","paper-tags","elements"],
+    keywords: ["tags", "paper-tags", "elements"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 351,
     name: "emoji-rain",
@@ -8363,9 +8363,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.4",
     license: "MIT",
     details: "https://github.com/notwaldorf/emoji-rain",
-    keywords: ["emoji","rain-emoji","drops"],
+    keywords: ["emoji", "rain-emoji", "drops"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 352,
     name: "juicy-markdown-editor",
@@ -8386,10 +8386,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.1",
     license: "MIT",
     details: "https://github.com/Juicy/juicy-markdown-editor",
-    keywords: ["editor","drop-paste","editor"],
+    keywords: ["editor", "drop-paste", "editor"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 353,
     name: "sortable-list",
     install: {
@@ -8409,9 +8409,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.0.0",
     license: "MIT",
     details: "https://github.com/sharedlabs/sortable-list",
-    keywords: ["editor","drop-paste","editor"],
+    keywords: ["editor", "drop-paste", "editor"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 354,
     name: "image-action",
@@ -8432,9 +8432,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/BrightspaceUI/image-action",
-    keywords: ["buttons","links","D2L-image"],
+    keywords: ["buttons", "links", "D2L-image"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 355,
     name: "polymer-tilt",
@@ -8455,9 +8455,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/YingshanDeng/polymer-tilt",
-    keywords: ["parallax","hover-effect","effect"],
+    keywords: ["parallax", "hover-effect", "effect"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 356,
     name: "i18n-element",
@@ -8478,9 +8478,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/t2ym/i18n-element",
-    keywords: ["workflow","design","data"],
+    keywords: ["workflow", "design", "data"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 357,
     name: "iron-cropper",
@@ -8501,9 +8501,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.0.0",
     license: "MIT",
     details: "https://github.com/safetychanger/iron-cropper",
-    keywords: ["iron","cropper","polymer"],
+    keywords: ["iron", "cropper", "polymer"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 358,
     name: "simple-carousel",
@@ -8524,9 +8524,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.3.0",
     license: "MIT",
     details: "https://github.com/fjsc/simple-carousel",
-    keywords: ["carousel","slides","polymer"],
+    keywords: ["carousel", "slides", "polymer"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 359,
     name: "meme-maker",
@@ -8547,9 +8547,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/ireade/meme-maker",
-    keywords: ["meme","image","polymer"],
+    keywords: ["meme", "image", "polymer"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 360,
     name: "multi-chart",
@@ -8570,10 +8570,10 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "0.7.3",
     license: "MIT",
     details: "https://github.com/PolymerEl/multi-chart",
-    keywords: ["chart","reusable","polymer"],
+    keywords: ["chart", "reusable", "polymer"],
     contributedBy: "qexon-ankit",
-  }
-   {
+  },
+  {
     id: 361,
     name: "io-object",
     install: {
@@ -8593,9 +8593,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.1.0",
     license: "MIT",
     details: "https://github.com/arodic/io-object",
-    keywords: ["editor","object","string"],
+    keywords: ["editor", "object", "string"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 362,
     name: "i18n-number",
@@ -8616,9 +8616,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.2",
     license: "MIT",
     details: "https://github.com/t2ym/i18n-number",
-    keywords: ["number","wrapper ","format"],
+    keywords: ["number", "wrapper ", "format"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 363,
     name: "live-localizer",
@@ -8639,9 +8639,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.1",
     license: "MIT",
     details: "https://github.com/t2ym/live-localizer",
-    keywords: ["localizer","widget ","polymer"],
+    keywords: ["localizer", "widget ", "polymer"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 364,
     name: "i18n-format",
@@ -8662,9 +8662,9 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "2.0.0",
     license: "MIT",
     details: "https://github.com/t2ym/i18n-format",
-    keywords: ["Text","formatter","unicode"],
+    keywords: ["Text", "formatter", "unicode"],
     contributedBy: "qexon-ankit",
-  }
+  },
   {
     id: 365,
     name: "material-input",
@@ -8685,7 +8685,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     version: "1.1.6",
     license: "MIT",
     details: "https://github.com/nuclei/material-input",
-    keywords: ["material","design","vanilla],
+    keywords: ["material", "design", "vanilla"],
     contributedBy: "qexon-ankit",
   }
 ];

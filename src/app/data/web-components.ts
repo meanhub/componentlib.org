@@ -20,5 +20,27 @@ export const WEB_COMPONENTS: any[] = [
     details: "https://www.webcomponents.org/element/Collaborne/paper-collapse-item",
     keywords: ["polymer", "paper", "expand", "collapse", "accordion"],
     contributedBy: "souvikbasu"
+  },
+  {
+    id: 280,
+    name: "csak-tree",
+    install: {
+      packager: "npm",
+      url: "csak-tree"
+    },
+    source: {
+      domain: "github",
+      url: "csakaszamok/csak-tree"
+    },
+    demo: {
+      repl: "custom",
+      src: "https://github.com/csakaszamok/csak-tree/raw/master/csaktree_menutree.gif?raw=true"
+    },
+    framework: "React Native",
+    version: "0.4.15",
+    license: "MIT",
+    details: "https://github.com/csakaszamok/csak-tree",
+    keywords: ["tab", "menu", "design"],
+    contributedBy: "qexon-ankit",
   }
 ];
