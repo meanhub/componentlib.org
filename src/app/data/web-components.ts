@@ -89,4 +89,26 @@ export const WEB_COMPONENTS: any[] = [
     keywords: ["tab", "listbox", "design"],
     contributedBy: "qexon-ankit",
   },
+  {
+    id: 4,
+    name: "vaadin-item",
+    install: {
+      packager: "npm",
+      url: "vaadin-item"
+    },
+    source: {
+      domain: "github",
+      url: "vaadin/vaadin-item"
+    },
+    demo: {
+      repl: "custom",
+      src: "https://raw.githubusercontent.com/vaadin/vaadin-item/master/screenshot.png"
+    },
+    framework: "React Native",
+    version: "2.0.0-alpha3",
+    license: "MIT",
+    details: "https://github.com/vaadin/vaadin-item",
+    keywords: ["search", "item", "design"],
+    contributedBy: "qexon-ankit",
+  },
 ];
