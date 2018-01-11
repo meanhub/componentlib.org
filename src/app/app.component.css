@@ -37,3 +37,9 @@
   display: inline-flex;
   margin-left: 12px;
 }
+
+@media only screen and (max-width: 500px) {
+    .header-title{
+        line-height: 130px !important;
+    }
+}

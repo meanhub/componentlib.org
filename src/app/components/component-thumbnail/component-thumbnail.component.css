@@ -86,3 +86,13 @@
   overflow: auto;
   text-align: center;
 }
+@media only screen and (max-width: 500px) {
+    .image{
+        width: 100% !important;
+    }
+    .demo-message{
+      width: 100%  !important;
+      word-wrap: break-word  !important;
+      font-size: 13px  !important;
+    }
+}
