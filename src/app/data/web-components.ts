@@ -34,7 +34,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/csakaszamok/csak-tree/raw/master/csaktree_menutree.gif?raw=true"
+      src: "https://csakaszamok.github.io/csak-tree/demo/demo_events.html"
     },
     framework: "React Native",
     version: "0.4.15",
@@ -56,7 +56,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-dropdown-menu/master/screenshot.gif"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-dropdown-menu/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0-alpha6",
@@ -78,7 +78,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-list-box/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-list-box/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0-alpha7",
@@ -100,7 +100,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-item/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-item"
     },
     framework: "React Native",
     version: "2.0.0-alpha3",
@@ -122,7 +122,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/zalog/placeholder-loading/raw/master/docs/imgs/placeholder-loading-demo-1.gif"
+      src: "https://zalog.github.io/placeholder-loading/"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -144,7 +144,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-ordered-layout/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-ordered-layout/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0-alpha6",
@@ -166,7 +166,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-notification/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-notification/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0-alpha5",
@@ -188,7 +188,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-notification/master/screenshot.png"
+      src: "https://tonygermaneri.github.io/canvas-datagrid/tutorials/demo.html"
     },
     framework: "React Native",
     version: "0.18.30",
@@ -210,7 +210,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/Juicy/juicy-popover/raw/master/docs/demo.gif"
+      src: "http://juicy.github.io/juicy-popover"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -232,7 +232,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/morbidick/paypal-express-checkout/raw/master/demo/flow.gif"
+      src: "https://www.webcomponents.org/element/morbidick/paypal-express-checkout/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -254,7 +254,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/telecomsante/tsante-dropdown/raw/master/hero.gif"
+      src: "https://www.webcomponents.org/element/telecomsante/tsante-dropdown/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.1.1",
@@ -276,7 +276,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-grid/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-grid/demo/demo/index.html"
     },
     framework: "React Native",
     version: "5.0.0-alpha4",
@@ -298,7 +298,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/a13fef2d58e513b0a6927def582ae58c6fe05e82/68747470733a2f2f7773342e73696e61696d672e636e2f6c617267652f303036744e633739677931666966776738303369736a33306d7730646f337a732e6a7067"
+      src: "https://www.webcomponents.org/element/isuwang/metaui"
     },
     framework: "React Native",
     version: "0.1.1",
@@ -320,7 +320,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/prendus/prendus-question-elements/raw/master/readme-demo.gif"
+      src: "https://github.com/Prendus/prendus-question-elements#demo"
     },
     framework: "React Native",
     version: "0.1.1",
@@ -342,7 +342,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-progress-bar/master/screenshot.gif"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-progress-bar/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0-alpha10",
@@ -364,7 +364,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/4be2981e58bbb27bbf7bb060072d81e8284efd0b/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f726561646d652d6173736574732f766f6963652d627574746f6e2e676966"
+      src: "https://www.webcomponents.org/element/googlecreativelab/obvi"
     },
     framework: "React Native",
     version: "1.0.0-alpha10",
@@ -386,7 +386,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/ceolter/ag-grid-polymer-example/raw/master/docs/simple.png?raw=true"
+      src: "https://www.webcomponents.org/element/ag-grid/ag-grid-polymer"
     },
     framework: "React Native",
     version: "15.0.0",
@@ -408,7 +408,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/ef05af48a0bb64dc1972fcb89c0ff64bb1f4c46f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f373246683866385677735472765347412f67697068792e676966"
+      src: "https://www.webcomponents.org/element/Link2Twenty/l2t-paper-slider/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.3",
@@ -430,7 +430,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-button/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-button/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0-alpha4",
@@ -452,7 +452,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/BrightspaceUI/button/raw/master/screenshots/floating-buttons.gif?raw=true"
+      src: "https://www.webcomponents.org/element/BrightspaceUI/button"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -474,7 +474,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/39568205f8c206495fa5cc247d022cb9edd71562/687474703a2f2f6d656469616d6174682e6769746875622e696f2f737472616e642f696d616765732f737472616e642d6c6f676f2e737667"
+      src: "https://www.webcomponents.org/element/MediaMath/strand"
     },
     framework: "React Native",
     version: "4.5.0",
@@ -496,7 +496,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/098a2353ebe46a9033b12d82faa43841dc1646eb/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d5077446b376d4d6e5669452f5754486732595646435a492f41414141414141416477342f56384344426f77303974634a4d6f67683345594751734d51724d444c7878746b51434c30422f683239362f323031372d30362d30322e676966"
+      src: "https://www.webcomponents.org/element/Link2Twenty/l2t-paper-color/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.2",
@@ -518,7 +518,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/94d49f75c87e21ece3ef130c4fed3d1b69041797/687474703a2f2f64617669642d6d756c6465722e6769746875622e696f2f70617065722d646174617461626c652f636f6d706f6e656e74732f70617065722d646174617461626c652f646f63732f73637265656e73686f742e706e67"
+      src: "https://www.webcomponents.org/element/bluewatertracks/bwt-datatable"
     },
     framework: "React Native",
     version: "2.0.4",
@@ -540,7 +540,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/ElfyCares/elfy-bullets/master/demo/demo.png"
+      src: "https://www.webcomponents.org/element/ElfyCares/elfy-bullets/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -562,7 +562,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/ElfyCares/elfy-address-input/master/demo/demo1.png"
+      src: "https://www.webcomponents.org/element/ElfyCares/elfy-address-input/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -584,7 +584,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/RoXuS/paper-datatable-api/master/images/advanced-mode.png"
+      src: "https://www.webcomponents.org/element/RoXuS/paper-datatable-api"
     },
     framework: "React Native",
     version: "2.0.11",
@@ -606,7 +606,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/1603eb4e9c784b97cb3cc0ce6525ace05bfa107e/687474703a2f2f692e696d6775722e636f6d2f5543334f756d6b2e706e67"
+      src: "https://www.webcomponents.org/element/matthewp/read-time"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -628,7 +628,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/9bd12e8c56a3783d0564f161311d23156aef90ed/68747470733a2f2f692e696d6775722e636f6d2f39384c4b3478442e706e67"
+      src: "https://www.webcomponents.org/element/danleyb2/paper-dropdown-menu-aligned/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -650,7 +650,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/M-Mansoor-Ali/titanium-grid/master/griddemo.gif"
+      src: "https://www.webcomponents.org/element/m-mansoor-ali/titanium-grid/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -672,7 +672,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-upload/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-upload/demo/demo/index.html"
     },
     framework: "React Native",
     version: "4.0.0-alpha2",
@@ -694,7 +694,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-combo-box/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-combo-box/demo/demo/index.html"
     },
     framework: "React Native",
     version: "4.0.0-alpha4",
@@ -716,7 +716,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-checkbox/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-checkbox/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0-alpha5",
@@ -738,7 +738,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/46602/5097819/2a8c8864-6f7f-11e4-9a72-0ca9c0ddedf1.png"
+      src: "https://www.webcomponents.org/element/David-Mulder/paper-date-picker"
     },
     framework: "React Native",
     version: "0.1.4",
@@ -760,7 +760,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/46602/11616912/36579ee6-9c87-11e5-9067-6a64922d6636.png"
+      src: "https://www.webcomponents.org/element/David-Mulder/paper-color-picker"
     },
     framework: "React Native",
     version: "0.1.4",
@@ -782,7 +782,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-dialog/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-dialog/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0-alpha2",
@@ -804,7 +804,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/kcmr/good-vibrations/master/good-vibrations.png"
+      src: "https://www.webcomponents.org/element/kcmr/good-vibrations/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.3",
@@ -826,7 +826,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-date-picker/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-date-picker/demo/demo/index.html"
     },
     framework: "React Native",
     version: "3.0.0-alpha4",
@@ -848,7 +848,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/3f644ea98c8ba4908c331976bab545ce1c01e511/68747470733a2f2f636c2e6c792f314e3236326f3352316c30482f496d616765253230323031372d31302d3237253230617425323031322e31382e3338253230504d2e706e67"
+      src: "https://www.webcomponents.org/element/mrsideshowjack/consentua-component/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -870,7 +870,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://user-images.githubusercontent.com/11878947/32638046-7787664e-c57a-11e7-8321-01bd177e79db.gif"
+      src: "https://www.webcomponents.org/element/JamesRArroyo/ab-animated-banner"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -892,7 +892,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/bluewatertracks/paper-countries/raw/master/paper-countries.gif"
+      src: "https://www.webcomponents.org/element/bluewatertracks/paper-countries/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.5",
@@ -914,7 +914,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/bluewatertracks/paper-timezone/raw/master/images/timezone.gif"
+      src: "https://www.webcomponents.org/element/bluewatertracks/paper-timezone/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -936,7 +936,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/a34078cdab7087091e647b7e9e9915af4bc3f18e/68747470733a2f2f636c2e6c792f3257306f324c3433317a30362f53637265656e2532307265636f7264696e67253230323031372d31312d3033253230617425323031312e34352e3336253230414d2e676966"
+      src: "https://www.webcomponents.org/element/mrsideshowjack/lang-picker/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -958,7 +958,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-text-field/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-text-field/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0-alpha6",
@@ -980,7 +980,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/9692284/19503364/b1ff87c6-9578-11e6-80d1-87497c5f7cd8.PNG"
+      src: "https://www.webcomponents.org/element/salte-io/salte-search-box/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -1002,7 +1002,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/yuanfux/ability-chart/raw/master/demoImg/demo1.png"
+      src: "https://www.webcomponents.org/element/yuanfux/ability-chart/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1024,7 +1024,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-form-layout/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-form-layout/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0-alpha2",
@@ -1046,7 +1046,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/MyScript/myscript-math-web/raw/master/preview.gif"
+      src: "https://www.webcomponents.org/element/MyScript/myscript-math-web"
     },
     framework: "React Native",
     version: "2.0.2",
@@ -1068,7 +1068,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/MyScript/myscript-text-web/raw/master/preview.gif"
+      src: "https://www.webcomponents.org/element/MyScript/myscript-text-web"
     },
     framework: "React Native",
     version: "2.0.1",
@@ -1090,7 +1090,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/vaadin/vaadin-split-layout/master/screenshot.png"
+      src: "https://www.webcomponents.org/element/vaadin/vaadin-split-layout/demo/demo/index.html"
     },
     framework: "React Native",
     version: "4.0.0-alpha3",
@@ -1112,7 +1112,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/saeidzebardast/nvd3-elements/master/nvd3-elements.png"
+      src: "https://www.webcomponents.org/element/saeidzebardast/nvd3-elements"
     },
     framework: "React Native",
     version: "0.21.0",
@@ -1134,7 +1134,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/BrightspaceUI/text-input/raw/master/text-input.gif?raw=true"
+      src: "https://www.webcomponents.org/element/BrightspaceUI/text-input/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -1156,7 +1156,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/50aab62eba21cc4f2161e4d0929a7ee6f3fd7748/687474703a2f2f692e696d6775722e636f6d2f57693962324a792e706e67"
+      src: "https://www.webcomponents.org/element/zvakanaka/table-of-data"
     },
     framework: "React Native",
     version: "1.2.1",
@@ -1178,7 +1178,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/kcmr/transburger-icon/master/transburger-icon-demos.gif"
+      src: "https://www.webcomponents.org/element/kcmr/transburger-icon/demo/demo/index.html"
     },
     framework: "React Native",
     version: "3.0.3",
@@ -1200,7 +1200,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/BrightspaceUI/checkbox/raw/master/checkbox.gif?raw=true"
+      src: "http://ui.developers.brightspace.com/style/color/"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -1222,7 +1222,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/021ae5480bc1145056a4a5cb47ccdc89986b4897/68747470733a2f2f6772617068732e776166666c652e696f2f7361666574796368616e6765722f69726f6e2d7377697065722f7468726f7567687075742e737667"
+      src: "https://www.webcomponents.org/element/safetychanger/iron-swiper/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -1244,7 +1244,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/kcmr/demo-iconset/raw/master/demo-iconset-screenshot.png"
+      src: "https://www.webcomponents.org/element/kcmr/demo-iconset/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.1.4",
@@ -1266,7 +1266,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/telecomsante/digital-clock/raw/master/digital-clock.png"
+      src: "https://www.webcomponents.org/element/telecomsante/digital-clock/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1288,7 +1288,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/7782229/9784398/2e81c9f6-57ab-11e5-92ee-b13603c8c585.gif"
+      src: "https://www.webcomponents.org/element/fxedel/toggle-icon/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.2.1",
@@ -1310,7 +1310,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/10607759/26274668/48b75cce-3d81-11e7-81aa-b79ab9b90d36.png"
+      src: "https://www.webcomponents.org/element/motss/app-datepicker/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.11.2",
@@ -1332,7 +1332,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/msp-brazil/bing-maps-element/master/bing-maps.png"
+      src: "https://www.webcomponents.org/element/brenopolanski/bing-maps-element"
     },
     framework: "React Native",
     version: "0.1.1",
@@ -1354,7 +1354,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/vpusher/game-card/raw/master/images/screenshot.png"
+      src: "https://www.webcomponents.org/element/vpusher/game-card/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.6",
@@ -1376,7 +1376,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/vpusher/the-grid/raw/master/screenshot.gif"
+      src: "https://www.webcomponents.org/element/vpusher/the-grid/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.4.0",
@@ -1398,7 +1398,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/BrightspaceUI/file-uploader/raw/master/screenshots/file-uploader.gif"
+      src: "https://www.webcomponents.org/element/BrightspaceUI/file-uploader/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -1420,7 +1420,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/Juravenator/paper-dropdown-input/raw/master/demo/screenie1.png"
+      src: "https://www.webcomponents.org/element/Juravenator/paper-dropdown-input/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -1442,7 +1442,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://user-images.githubusercontent.com/408989/30008294-119952d8-90ec-11e7-91ab-69f4b133c128.png"
+      src: "https://www.webcomponents.org/element/uncompiled/ascii-image"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -1464,7 +1464,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/mpachnis/mp-calendar/raw/master/demo/dark-theme.png"
+      src: "https://www.webcomponents.org/element/mpachnis/mp-calendar/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.1",
@@ -1486,7 +1486,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/oscarmcm/profile-vcard/master/profile-vcard-demo.png"
+      src: "https://www.webcomponents.org/element/oscarmcm/profile-vcard"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1508,7 +1508,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/Abe90/paper-avatar/raw/master/demo/colors-min.png"
+      src: "https://www.webcomponents.org/element/Abe90/paper-avatar/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.3",
@@ -1530,7 +1530,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/9dc91ef688ef5bac837fc4f1e38fddc4daa0abde/68747470733a2f2f666c6f7269616e66652e6769746875622e696f2f73637265656e73686f74732f6368656d6963616c2d656c656d656e742d76697375616c69736174696f6e2f73637265656e73686f742d312e706e67"
+      src: "https://www.webcomponents.org/element/FlorianFe/chemical-element-visualisation/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.3",
@@ -1552,7 +1552,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/arodic/io-value/master/preview.png"
+      src: "https://www.webcomponents.org/element/arodic/io-value/demo/demo"
     },
     framework: "React Native",
     version: "2.1.0",
@@ -1574,7 +1574,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/PolymerEl/paper-tags/master/images/paper-tags.png"
+      src: "https://www.webcomponents.org/element/PolymerEl/paper-tags/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.1.0",
@@ -1596,7 +1596,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/1369170/9401459/86c67a76-4784-11e5-8716-3300c96a7e20.gif"
+      src: "https://www.webcomponents.org/element/notwaldorf/emoji-rain/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.4",
@@ -1618,8 +1618,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      url: "https://github.com/Juicy/juicy-markdown-editor#demo",
-      src: "https://cloud.githubusercontent.com/assets/1369170/9401459/86c67a76-4784-11e5-8716-3300c96a7e20.gif"
+      src: "https://www.webcomponents.org/element/Juicy/juicy-markdown-editor"
     },
     framework: "React Native",
     version: "1.0.1",
@@ -1640,7 +1639,8 @@ export const WEB_COMPONENTS: any[] = [
       url: "sharedlabs/sortable-list"
     },
     demo: {
-      src: "https://camo.githubusercontent.com/fe520396f4b80c351bc58239776bddda1d5c5816/68747470733a2f2f7a697070792e6766796361742e636f6d2f496e6372656469626c6542726f6e7a654b696c6c65727768616c652e676966"
+		repl: "custom",
+    	src: "https://www.webcomponents.org/element/sharedlabs/sortable-list/demo/demo/index.html"
     },
     framework: "React Native",
     version: "0.0.0",
@@ -1662,7 +1662,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://github.com/BrightspaceUI/image-action/raw/master/screenshot.gif"
+      src: "https://www.webcomponents.org/element/BrightspaceUI/image-action/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -1684,7 +1684,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/ad5538d9e31d652de2e9badd1027e9915cfdba09/687474703a2f2f3776696b686c2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f706f6c796d65722d74696c742e676966"
+      src: "https://www.webcomponents.org/element/YingshanDeng/polymer-tilt/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1706,7 +1706,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/wiki/t2ym/i18n-behavior/PolymerI18nFlow.gif"
+      src: "https://www.webcomponents.org/element/t2ym/i18n-element/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1728,7 +1728,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/50fcfc877d56d5a456a79f32a7562d7ed8872bae/68747470733a2f2f6772617068732e776166666c652e696f2f7361666574796368616e6765722f69726f6e2d63726f707065722f7468726f7567687075742e737667"
+      src: "https://www.webcomponents.org/element/safetychanger/iron-cropper/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.0.0",
@@ -1750,7 +1750,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://camo.githubusercontent.com/d06d27ab3f9ba0a94810bd15ae75ae31f78e0e93/687474703a2f2f7777772e62756775692e6f72672f496d616765732f6361726f7573656c2e706e67"
+      src: "https://www.webcomponents.org/element/fjsc/simple-carousel/demo/demo/index.html"
     },
     framework: "React Native",
     version: "1.3.0",
@@ -1772,7 +1772,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://user-images.githubusercontent.com/8677283/27186368-0b5bbdde-51e0-11e7-8d7b-e171a006600e.png"
+      src: "https://www.webcomponents.org/element/ireade/meme-maker/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1794,7 +1794,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/PolymerEl/multi-chart/master/images/chart-pie.png"
+      src: "https://www.webcomponents.org/element/PolymerEl/multi-chart"
     },
     framework: "React Native",
     version: "0.7.3",
@@ -1816,7 +1816,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/arodic/io-object/master/preview.png"
+      src: "https://www.webcomponents.org/element/arodic/io-object"
     },
     framework: "React Native",
     version: "2.1.0",
@@ -1838,7 +1838,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/wiki/t2ym/i18n-number/i18n-number-demo.gif"
+      src: "https://www.webcomponents.org/element/t2ym/i18n-number/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.2",
@@ -1860,7 +1860,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/wiki/t2ym/live-localizer/live-localizer.gif"
+      src: "https://www.webcomponents.org/element/t2ym/live-localizer/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.1",
@@ -1882,7 +1882,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://raw.githubusercontent.com/wiki/t2ym/i18n-format/i18n-format.gif"
+      src: "https://www.webcomponents.org/element/t2ym/i18n-format/demo/demo/index.html"
     },
     framework: "React Native",
     version: "2.0.0",
@@ -1904,7 +1904,7 @@ export const WEB_COMPONENTS: any[] = [
     },
     demo: {
       repl: "custom",
-      src: "https://cloud.githubusercontent.com/assets/813754/19432757/350079e4-945e-11e6-9593-e2174285c435.png"
+      src: "https://www.webcomponents.org/element/nuclei/material-input"
     },
     framework: "React Native",
     version: "1.1.6",
