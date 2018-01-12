@@ -47,3 +47,20 @@
 .close-button:hover {
   background-color: antiquewhite;
 }
+@media only screen and (max-width: 500px) {
+    .search{
+        margin: 0px;
+    }
+    .search-box{
+        width : 65%;
+        margin-right: 0px;
+        margin-top: 5px;
+    }
+    .close-button{
+        left: 170px;
+        top: 10px;
+    }
+    .filter-tag{
+      float: left;
+    }
+}

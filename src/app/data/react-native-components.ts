@@ -6683,7 +6683,7 @@ export const REACT_NATIVE_COMPONENTS: any[] = [
     framework: "React Native",
     version: "0.1.0",
     license: "MIT",
-    details: "https://github.com/olivierlesnicki/react-native-switcher,
+    details: "https://github.com/olivierlesnicki/react-native-switcher",
     keywords: ["switcher","switch","toggle","swipe","slide menu"],
     contributedBy: "qexon-ankit",
   },
