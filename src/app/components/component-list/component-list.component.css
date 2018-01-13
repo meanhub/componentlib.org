@@ -1,0 +1,9 @@
+.component-list-box{
+    text-align: center;
+}
+@media only screen and (max-width: 500px) {
+    cl-component-thumbnail{
+        width: 100%;
+        margin: 0px;
+    }
+}
