@@ -50,6 +50,8 @@
 @media only screen and (max-width: 500px) {
     .search{
         margin: 0px;
+        margin-top: 5px;
+        margin-bottom: 5px;
     }
     .search-box{
         width : 65%;
