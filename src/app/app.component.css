@@ -39,6 +39,17 @@
 }
 @media only screen and (max-width: 500px) {
     .header-title{
-        line-height: 130px;
+        line-height: 60px;
+    }
+    .add-component{
+      border: none;
+      background: transparent;
+    }
+    .round-button{
+      position: absolute;
+      right: 0;
+    }
+    .add-component span{
+      display: none;
     }
 }
