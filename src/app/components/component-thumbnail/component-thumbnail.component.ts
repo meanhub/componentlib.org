@@ -1,8 +1,23 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnInit, ElementRef, HostBinding, HostListener} from '@angular/core';
+import { trigger, state, style, transition, animate, keyframes } from '@angular/animations';
 
 @Component({
   selector: 'cl-component-thumbnail',
   templateUrl: './component-thumbnail.component.html',
+  animations: [
+    trigger('expand', [
+        state('small', style({
+            height: '520px',
+            width: '500px',
+        })),
+        state('large', style({
+            height: '95vh',
+            width: '95vw',
+        })),
+        transition('small => large', animate('500ms ease-in')),
+        transition('large => small', animate('500ms ease-in')),
+    ]),
+  ],
   styleUrls: ['./component-thumbnail.component.css']
 })
 export class ComponentThumbnailComponent implements OnInit {
@@ -14,12 +29,18 @@ export class ComponentThumbnailComponent implements OnInit {
   public isExpo: boolean;
   public isImg: boolean;
   public isCustom: boolean;
+  public isExpanded: boolean;
+  public elref: ElementRef;
+  public e: any;
+  public imgSrc = '../../../assets/images/maximize.png';
 
 
   @Input()
   component: any;
 
-  constructor() {
+  @HostBinding('@expand') state: any;
+
+  constructor(elref: ElementRef) {
     this.showDemo = false;
     this.isCodePen = false;
     this.isJsFiddle = false;
@@ -27,11 +48,16 @@ export class ComponentThumbnailComponent implements OnInit {
     this.isExpo = false;
     this.isImg = false;
     this.isCustom = false;
+    this.elref = elref;
+    this.isExpanded = false;
+    this.state = 'small';
 
     this.bowerMouseEnter = this.bowerMouseEnter.bind(this);
     this.bowerMouseLeave = this.bowerMouseLeave.bind(this);
     this.npmMouseEnter = this.npmMouseEnter.bind(this);
     this.npmMouseLeave = this.npmMouseLeave.bind(this);
+    this.expandMouseEnter = this.expandMouseEnter.bind(this);
+    this.expandMouseLeave = this.expandMouseLeave.bind(this);
   }
 
   ngOnInit() {
@@ -78,4 +104,23 @@ export class ComponentThumbnailComponent implements OnInit {
   detailsMouseLeave() {
     this.component.info = '';
   }
+
+  @HostListener('@expand.done', ['$event'])
+  animationDone(event: any) {
+    this.elref.nativeElement.scrollIntoView();
+  }
+
+  expandMouseEnter() {
+    this.imgSrc = this.isExpanded ? '../../../assets/images/minimize-dark.png' : '../../../assets/images/maximize-dark.png' ;
+  }
+
+  expandMouseLeave() {
+    this.imgSrc = this.isExpanded ? '../../../assets/images/minimize.png' : '../../../assets/images/maximize.png' ;
+  }
+
+  onExpand(value: boolean) {
+    this.isExpanded = !this.isExpanded;
+    this.state = (this.state === 'small' ? 'large' : 'small');
+    this.imgSrc = this.isExpanded ? '../../../assets/images/minimize.png' : '../../../assets/images/maximize.png' ;
+    }
 }
