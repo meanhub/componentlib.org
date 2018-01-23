@@ -1,7 +1,7 @@
 <div class="title">
   {{component.name}}<span class="version">{{component.version}}</span>
   <img class="expand-button" [class.selected]=isExpanded (click)="onExpand(true)" [src]=imgSrc
-  (mouseenter)="expandMouseEnter($this)" (mouseleave)="expandMouseLeave($this)" />
+  (mouseenter)="expandMouseEnter()" (mouseleave)="expandMouseLeave()" />
 </div>
 <div class="image">
   <div class="demo-message" *ngIf="!showDemo" (mouseenter)="showDemo = true;">

@@ -1,5 +1,5 @@
 import {Component, Input, OnInit, ElementRef, HostBinding, HostListener} from '@angular/core';
-import { trigger, state, style, transition, animate, keyframes } from '@angular/animations';
+import {trigger, state, style, transition, animate, keyframes, AnimationEvent} from '@angular/animations';
 
 @Component({
   selector: 'cl-component-thumbnail',
@@ -106,8 +106,11 @@ export class ComponentThumbnailComponent implements OnInit {
   }
 
   @HostListener('@expand.done', ['$event'])
-  animationDone(event: any) {
-    this.elref.nativeElement.scrollIntoView();
+  animationDone(event: AnimationEvent) {
+    if (event.fromState !== 'void') {
+      this.elref.nativeElement.scrollIntoView();
+    }
+    console.log(event);
   }
 
   expandMouseEnter() {
